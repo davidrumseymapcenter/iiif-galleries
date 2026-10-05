@@ -43,6 +43,4 @@ layout: default
 <li><a href="https://davidrumseymapcenter.github.io/set-builder/presentation.html?file=https://raw.githubusercontent.com/davidrumseymapcenter/iiif-galleries/main/galleries/Wild T0 compass theodolite-gallery.json" target="_blank">Wild T0 compass theodolite</a></li>
 <li><a href="https://davidrumseymapcenter.github.io/set-builder/presentation.html?file=https://raw.githubusercontent.com/davidrumseymapcenter/iiif-galleries/main/galleries/california_as_an_island-gallery.json" target="_blank">California As An Island</a></li>
 <li><a href="https://davidrumseymapcenter.github.io/set-builder/presentation.html?file=https://raw.githubusercontent.com/davidrumseymapcenter/iiif-galleries/main/galleries/rhetoric_of_art_2026.json" target="_blank">Rhetoric of Art PWR 2026</a></li>
-<li><a href="https://davidrumseymapcenter.github.io/set-builder/presentation.html?file=https://raw.githubusercontent.com/davidrumseymapcenter/iiif-galleries/main/galleries/surveying-gallery.json" target="_blank">surveying</a></li>
-<li><a href="https://davidrumseymapcenter.github.io/set-builder/presentation.html?file=https://raw.githubusercontent.com/davidrumseymapcenter/iiif-galleries/main/galleries/test_gallery.json" target="_blank">American West S26</a></li>
 </ul>
