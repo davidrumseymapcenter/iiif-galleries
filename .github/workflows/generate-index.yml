@@ -20,17 +20,15 @@ jobs:
           cat > index.md << 'FRONTMATTER'
           ---
           layout: default
-          title: IIIF Galleries
           ---
           FRONTMATTER
 
           echo "" >> index.md
-          echo "# IIIF Galleries" >> index.md
-          echo "" >> index.md
-          echo "Curated image galleries from the David Rumsey Map Center. Click any title to open in presentation mode." >> index.md
           echo "Curated image galleries from the David Rumsey Map Center." >> index.md
           echo "" >> index.md
           echo "Click any title to open in presentation mode." >> index.md
+          echo "" >> index.md
+          echo '<ul class="gallery-list">' >> index.md
 
           for file in galleries/*.json; do
             filename=$(basename "$file")
@@ -48,9 +46,11 @@ jobs:
             ")
             if [ -n "$label" ]; then
               url="https://davidrumseymapcenter.github.io/set-builder/presentation.html?file=https://raw.githubusercontent.com/davidrumseymapcenter/iiif-galleries/main/galleries/${filename}"
-              echo "- <a href=\"${url}\" target=\"_blank\">${label}</a>" >> index.md 
+              echo "<li><a href=\"${url}\" target=\"_blank\">${label}</a></li>" >> index.md
             fi
           done
+
+          echo '</ul>' >> index.md
 
       - name: Commit updated index
         run: |
