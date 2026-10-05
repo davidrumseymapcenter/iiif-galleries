@@ -22,29 +22,15 @@ jobs:
           layout: default
           ---
           FRONTMATTER
-
           echo "" >> index.md
           echo "Curated image galleries from the David Rumsey Map Center." >> index.md
           echo "" >> index.md
           echo "Click any title to open in presentation mode." >> index.md
           echo "" >> index.md
           echo '<ul class="gallery-list">' >> index.md
-
           for file in galleries/*.json; do
+            label=$(python3 scripts/get_label.py "$file")
             filename=$(basename "$file")
-            label=$(python3 << PYEOF
-import json
-try:
-  data = json.load(open('galleries/$filename'))
-  label = data.get('label', '')
-  if isinstance(label, dict):
-    import itertools
-    label = next(itertools.chain.from_iterable(label.values()), '')
-  print(label)
-except:
-  print('')
-PYEOF
-)
             if [ -n "$label" ]; then
               url="https://davidrumseymapcenter.github.io/set-builder/presentation.html?file=https://raw.githubusercontent.com/davidrumseymapcenter/iiif-galleries/main/galleries/${filename}"
               echo "<li><a href=\"${url}\" target=\"_blank\">${label}</a></li>" >> index.md
