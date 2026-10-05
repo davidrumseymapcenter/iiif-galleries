@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## View image galleries created by the David Rumsey Map Center.
+## Image galleries created by the David Rumsey Map Center
 
 *Click any title to open in presentation mode.*
 
@@ -30,6 +30,7 @@ layout: default
 <li><a href="https://davidrumseymapcenter.github.io/set-builder/presentation.html?file=https://raw.githubusercontent.com/davidrumseymapcenter/iiif-galleries/main/galleries/Jain_Cosmological_Maps.json" target="_blank">Jain_Cosmological_Maps</a></li>
 <li><a href="https://davidrumseymapcenter.github.io/set-builder/presentation.html?file=https://raw.githubusercontent.com/davidrumseymapcenter/iiif-galleries/main/galleries/Measuring the California Coast-gallery.json" target="_blank">Measuring the California Coast</a></li>
 <li><a href="https://davidrumseymapcenter.github.io/set-builder/presentation.html?file=https://raw.githubusercontent.com/davidrumseymapcenter/iiif-galleries/main/galleries/Medieval and Early Modern Iberian Literatures-gallery.json" target="_blank">Medieval and Early Modern Iberian Literatures</a></li>
+<li><a href="https://davidrumseymapcenter.github.io/set-builder/presentation.html?file=https://raw.githubusercontent.com/davidrumseymapcenter/iiif-galleries/main/galleries/MitchellMaps-gallery.json" target="_blank">MitchellMaps-gallery</a></li>
 <li><a href="https://davidrumseymapcenter.github.io/set-builder/presentation.html?file=https://raw.githubusercontent.com/davidrumseymapcenter/iiif-galleries/main/galleries/Moon Shots-gallery.json" target="_blank">Moon Shots</a></li>
 <li><a href="https://davidrumseymapcenter.github.io/set-builder/presentation.html?file=https://raw.githubusercontent.com/davidrumseymapcenter/iiif-galleries/main/galleries/Northwest Passage-gallery.json" target="_blank">Northwest Passage</a></li>
 <li><a href="https://davidrumseymapcenter.github.io/set-builder/presentation.html?file=https://raw.githubusercontent.com/davidrumseymapcenter/iiif-galleries/main/galleries/Place, Space and Identity S26-gallery.json" target="_blank">Place, Space and Identity S26</a></li>
