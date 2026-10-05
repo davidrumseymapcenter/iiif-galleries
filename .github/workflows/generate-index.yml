@@ -1,0 +1,59 @@
+name: Generate Gallery Index
+
+on:
+  push:
+    paths:
+      - 'galleries/**.json'
+
+jobs:
+  generate-index:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Generate index.md
+        run: |
+          cat > index.md << 'FRONTMATTER'
+          ---
+          layout: default
+          title: IIIF Galleries
+          ---
+          FRONTMATTER
+
+          echo "" >> index.md
+          echo "# IIIF Galleries" >> index.md
+          echo "" >> index.md
+          echo "Curated image galleries from the David Rumsey Map Center. Click any title to open in presentation mode." >> index.md
+          echo "" >> index.md
+
+          for file in galleries/*.json; do
+            filename=$(basename "$file")
+            label=$(python3 -c "
+          import json, sys
+          try:
+            data = json.load(open('$file'))
+            label = data.get('label', '')
+            if isinstance(label, dict):
+              import itertools
+              label = next(itertools.chain.from_iterable(label.values()), '')
+            print(label)
+          except:
+            print('')
+            ")
+            if [ -n "$label" ]; then
+              url="https://davidrumseymapcenter.github.io/set-builder/presentation.html?file=https://raw.githubusercontent.com/davidrumseymapcenter/iiif-galleries/main/galleries/${filename}"
+              echo "- [${label}](${url})" >> index.md
+            fi
+          done
+
+      - name: Commit updated index
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add index.md
+          git diff --staged --quiet || git commit -m "Auto-update gallery index"
+          git push
