@@ -1,0 +1,1313 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@type": "sc:Collection",
+  "@id": "https://example.org/collection/Fundamentals_of_GIS",
+  "label": "Fundamentals_of_GIS",
+  "items": [
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~2290~180032/manifest",
+      "label": "City And County Of San Francisco.",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~2290~180032/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~2290~180032/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "City And County Of San Francisco.",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Langley, Henry G."
+                },
+                {
+                  "label": "Author",
+                  "value": "Wackenreuder, V."
+                },
+                {
+                  "label": "Date",
+                  "value": "1861"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "City And County Of San Francisco."
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Henry Langley"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "San Francisco"
+                },
+                {
+                  "label": "Type",
+                  "value": "Separate Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "50"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "62"
+                },
+                {
+                  "label": "Scale 1",
+                  "value": "32,800"
+                },
+                {
+                  "label": "Note",
+                  "value": "First map of the city to be included in Langley's directory. Early map to show the western and southern parts of the peninsula, with the land grants, and full topography. Also shows the northern part of San Mateo County and a small part of Marin County. Three insets show the Farrallon Islands. Directory not present. Map is without color."
+                },
+                {
+                  "label": "Reference",
+                  "value": "Norris 3430; Vogdes p234."
+                },
+                {
+                  "label": "State/Province",
+                  "value": "California"
+                },
+                {
+                  "label": "City",
+                  "value": "San Francisco (Calif.)"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "City And County Of San Francisco. Compiled From Official Surveys And Sectionalized In Accordance With U.S. Surveys. Drawn By V. Wackenreuder, C.E. 1861. Published By Henry G. Langley For the San Francisco Directory. Entered ... 1861 By Henry G. Langley ... California. Britton & Co. Print. (with 3 inset maps of the Farrallon Islands)."
+                },
+                {
+                  "label": "List No",
+                  "value": "3867.000"
+                },
+                {
+                  "label": "Series No",
+                  "value": "1"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Langley, Henry G."
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Wackenreuder, V."
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1861"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "City And County Of San Francisco. Compiled From Official Surveys And Sectionalized In Accordance With U.S. Surveys. Drawn By V. Wackenreuder, C.E. 1861. Published By Henry G. Langley For the San Francisco Directory. Entered ... 1861 By Henry G. Langley ... California. Britton & Co. Print. (with 3 inset maps of the Farrallon Islands)."
+                },
+                {
+                  "label": "Pub Reference",
+                  "value": "Norris 3430; Vogdes p234."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "See note field above."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "3867.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Separate Map"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "1"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "50"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "62"
+                },
+                {
+                  "label": "Image No",
+                  "value": "3867000"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D0018/3867000.sid target=_blank>Full Image Download in MrSID Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Langley, Henry G.; Wackenreuder, V."
+                },
+                {
+                  "label": "Collection",
+                  "value": "Rumsey Collection"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~2290~180032/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~2290~180032/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~2290~180032",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 7803,
+                    "height": 6208
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~2290~180032/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~2290~180032/list/luna"
+              ],
+              "width": 7803,
+              "height": 6208
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~2290~180032"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "https://purl.stanford.edu/rn753dm3642/iiif/manifest",
+      "@type": "sc:Manifest",
+      "label": "Topographical map of a region about Stanford University",
+      "attribution": "This work has been identified as being free of known restrictions under copyright law, including all related and neighboring rights. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.",
+      "logo": {
+        "@id": "https://stacks.stanford.edu/image/iiif/wy534zh7137/SULAIR_rosette/full/400,/0/default.jpg",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://stacks.stanford.edu/image/iiif/wy534zh7137/SULAIR_rosette",
+          "profile": "http://iiif.io/api/image/2/level2.json"
+        }
+      },
+      "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "seeAlso": {
+        "@id": "https://purl.stanford.edu/rn753dm3642.mods",
+        "format": "application/mods+xml"
+      },
+      "metadata": [
+        {
+          "label": "Available Online",
+          "value": "<a href='https://purl.stanford.edu/rn753dm3642'>https://purl.stanford.edu/rn753dm3642</a>"
+        },
+        {
+          "label": "Title",
+          "value": "Topographical map of a region about Stanford University"
+        },
+        {
+          "label": "Type",
+          "value": "Map"
+        },
+        {
+          "label": "Format",
+          "value": "1 map : photocopy ; 42 x 52 cm."
+        },
+        {
+          "label": "Language",
+          "value": "English"
+        },
+        {
+          "label": "Description",
+          "value": "Relief shown by contours and spot heights."
+        },
+        {
+          "label": "Description",
+          "value": "Oriented with north toward lower right."
+        },
+        {
+          "label": "Description",
+          "value": "Blue line print."
+        },
+        {
+          "label": "Subject",
+          "value": "Stanford University > Maps"
+        },
+        {
+          "label": "Subject",
+          "value": "Palo Alto Region (Calif.) > Maps, Topographic"
+        },
+        {
+          "label": "Coverage",
+          "value": "Scale [ca. 1:12,000]"
+        },
+        {
+          "label": "Date",
+          "value": "192-?]"
+        },
+        {
+          "label": "Date",
+          "value": "1920s"
+        },
+        {
+          "label": "Identifier",
+          "value": "https://purl.stanford.edu/rn753dm3642"
+        },
+        {
+          "label": "Publisher",
+          "value": "s.n."
+        },
+        {
+          "label": "Record published",
+          "value": "2025-08-11"
+        }
+      ],
+      "description": "Relief shown by contours and spot heights.",
+      "thumbnail": {
+        "@id": "https://stacks.stanford.edu/image/iiif/rn753dm3642%2Frn753dm3642_0001/full/!400,400/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://stacks.stanford.edu/image/iiif/rn753dm3642%2Frn753dm3642_0001",
+          "profile": "http://iiif.io/api/image/2/level2.json"
+        },
+        "width": 400,
+        "height": 328
+      },
+      "sequences": [
+        {
+          "@id": "https://purl.stanford.edu/rn753dm3642/iiif/manifest#sequence-1",
+          "@type": "sc:Sequence",
+          "label": "Current order",
+          "viewingDirection": "left-to-right",
+          "canvases": [
+            {
+              "@id": "https://purl.stanford.edu/rn753dm3642/iiif/canvas/cocina-fileSet-rn753dm3642-rn753dm3642_1",
+              "@type": "sc:Canvas",
+              "label": "Image 1",
+              "height": 11115,
+              "width": 13553,
+              "rendering": [
+                {
+                  "@id": "https://stacks.stanford.edu/file/rn753dm3642/rn753dm3642_0001.jp2",
+                  "label": "Original source file (27.1 MB)",
+                  "format": "image/jp2"
+                }
+              ],
+              "images": [
+                {
+                  "@id": "https://purl.stanford.edu/rn753dm3642/iiif/annotation/https:%2F%2Fcocina.sul.stanford.edu%2Ffile%2Frn753dm3642-rn753dm3642_1%2Frn753dm3642_0001.jp2",
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "on": "https://purl.stanford.edu/rn753dm3642/iiif/canvas/cocina-fileSet-rn753dm3642-rn753dm3642_1",
+                  "resource": {
+                    "@id": "https://stacks.stanford.edu/image/iiif/rn753dm3642%2Frn753dm3642_0001/full/full/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 11115,
+                    "width": 13553,
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://stacks.stanford.edu/image/iiif/rn753dm3642%2Frn753dm3642_0001",
+                      "profile": "http://iiif.io/api/image/2/level2.json"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~405~40014/manifest",
+      "label": "Topographical Map Of The Yosemite Valley And Vicinity. Preliminary Edition.",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~405~40014/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~405~40014/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Topographical Map Of The Yosemite Valley And Vicinity. Preliminary Edition.",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Wheeler, G.M."
+                },
+                {
+                  "label": "Date",
+                  "value": "1883"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Topographical Map Of The Yosemite Valley And Vicinity. Preliminary Edition."
+                },
+                {
+                  "label": "Publisher",
+                  "value": "U.S."
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Washington"
+                },
+                {
+                  "label": "Type",
+                  "value": "Atlas Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "43"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "55"
+                },
+                {
+                  "label": "Scale 1",
+                  "value": "42,240"
+                },
+                {
+                  "label": "Note",
+                  "value": "Yosemite valley in hachures with light cream tint."
+                },
+                {
+                  "label": "Reference",
+                  "value": "P1281-178."
+                },
+                {
+                  "label": "State/Province",
+                  "value": "California"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "Topographical Map Of The Yosemite Valley And Vicinity. Preliminary Edition. Part Of East Central California. Mountain Drawing by J.E. Weyss; Lettering by J. Franke. From Topographical Plat by Lt. Macomb, Nov. 30, 1883. Julius Bien & Co. Photo. lith. Expeditions Of 1878-79, Under the Command of Capt. Geo. M. Wheeler, Corps of Engineers, U.S. Army. U.S. Geographical Surveys West Of The 100th Meridian."
+                },
+                {
+                  "label": "List No",
+                  "value": "2738.110"
+                },
+                {
+                  "label": "Series No",
+                  "value": "117"
+                },
+                {
+                  "label": "Engraver or Printer",
+                  "value": "Franke, J."
+                },
+                {
+                  "label": "Engraver or Printer",
+                  "value": "Julius Bien & Co."
+                },
+                {
+                  "label": "Engraver or Printer",
+                  "value": "Macomb, Lt."
+                },
+                {
+                  "label": "Engraver or Printer",
+                  "value": "Weyss, John E."
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Wheeler, G.M."
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1876"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Topographical Atlas Projected To Illustrate United States Geographical Surveys West Of The 100th Meridian Of Longitude Prosecuted In Accordance With Acts Of Congress Under The Authority Of The Honorable The Secretary Of War, And The Direction Of Brig. Genl. A.A. Humphreys, Chief Of Engineers, U.S. Army. Embracing Results Of the Different Expeditions Under The Command Of 1st Lieut. Geo. M. Wheeler, Corps Of Engineers. Julius Bien, lith. (with) Geological Atlas Projected To Illustrate Geographical Explorations And Surveys West Of The 100th Meridian Of Longitude ... Julius Bien, lith. (1876-1881)"
+                },
+                {
+                  "label": "Pub Reference",
+                  "value": "P1281."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "A collection of 135 Topographical, Land Classification, and Geological Atlas sheets. An almost complete collection of all the Wheeler survey maps originally owned by the Salt Lake Mining Institute. I have since added maps to make it nearly a complete set, following the listing in P1281 (which lists 179 sheets, many of which are duplicates of sheets with minor variations). Many of the sheets in the original Salt Lake Mining Institute set have the signature of Ovando Hollister, an important figure in western mining history."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "2738.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "National Atlas"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "112"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "49"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "61"
+                },
+                {
+                  "label": "Image No",
+                  "value": "2738110"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D0004/2738110.sid target=_blank>Full Image Download in MrSID Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Wheeler, G.M."
+                },
+                {
+                  "label": "Collection",
+                  "value": "Rumsey Collection"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~405~40014/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~405~40014/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~405~40014",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 7267,
+                    "height": 5791
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~405~40014/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~405~40014/list/luna"
+              ],
+              "width": 7267,
+              "height": 5791
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~405~40014"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~274012~90047744/manifest",
+      "label": "Map of London's Underground Railways.",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~274012~90047744/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~274012~90047744/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Map of London's Underground Railways.",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Beck, Henry Charles"
+                },
+                {
+                  "label": "Author",
+                  "value": "London Transport"
+                },
+                {
+                  "label": "Date",
+                  "value": "1933"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Map of London's Underground Railways."
+                },
+                {
+                  "label": "Publisher",
+                  "value": "London Transport"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "London"
+                },
+                {
+                  "label": "Type",
+                  "value": "Separate Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "15"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "21"
+                },
+                {
+                  "label": "Note",
+                  "value": "This the first edition of the first year of issue of Beck's famous map of the London Underground railways, the first such map to use an entirely schematic and largely non geographical design for the railway system. This map is considered to be a landmark of twentieth century information design. See our 8727.000 for the second edition later in 1933."
+                },
+                {
+                  "label": "City",
+                  "value": "London (England)"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Transportation"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Railroad"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Subway"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Pictorial map"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Transit"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Data Visualization"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "Map of London's Underground Railways. Underground. A new design for an old map. We should welcome your comments. Please write to Publicity Manager, 55, Broadway, Westminster, S.W.1 Waterlow & Sons Limited, London, Dunstable & Watford. (750M - 1-33)"
+                },
+                {
+                  "label": "List No",
+                  "value": "8691.003"
+                },
+                {
+                  "label": "Page No",
+                  "value": "map"
+                },
+                {
+                  "label": "Series No",
+                  "value": "3"
+                },
+                {
+                  "label": "Engraver or Printer",
+                  "value": "Waterlow & Sons Limited"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Beck, Henry Charles"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "London Transport"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1933"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Map of London's Underground Railways. Underground. A new design for an old map. We should welcome your comments. Please write to Publicity Manager, 55, Broadway, Westminster, S.W.1 Waterlow & Sons Limited, London, Dunstable & Watford. (750M - 1-33)"
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "8691.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Pocket Map"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "1"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "15"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "7"
+                },
+                {
+                  "label": "Image No",
+                  "value": "8691003.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/162/8691003.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Beck, Henry Charles; London Transport"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~274012~90047744/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~274012~90047744/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~274012~90047744",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 4684,
+                    "height": 3316
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~274012~90047744/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~274012~90047744/list/luna"
+              ],
+              "width": 4684,
+              "height": 3316
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~274012~90047744"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~1328~90159/manifest",
+      "label": "Composite: Panorama from Pt. Sublime. I-III.",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~1328~90159/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~1328~90159/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Composite: Panorama from Pt. Sublime. I-III.",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Dutton, Clarence E. (Clarence Edward), 1841-1912"
+                },
+                {
+                  "label": "Author",
+                  "value": "Holmes, William Henry, 1846-1933"
+                },
+                {
+                  "label": "Date",
+                  "value": "1882"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Composite: Panorama from Pt. Sublime. I-III."
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Bien, Julius & Co."
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Washington"
+                },
+                {
+                  "label": "Type",
+                  "value": "Composite Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "47"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "226"
+                },
+                {
+                  "label": "Note",
+                  "value": "In full color. Composite of all sections using Atlas Sheets 15-17."
+                },
+                {
+                  "label": "Reference",
+                  "value": "P1471."
+                },
+                {
+                  "label": "State/Province",
+                  "value": "Arizona"
+                },
+                {
+                  "label": "Region",
+                  "value": "Grand Canyon (Ariz.)"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Geology"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "(Composite) Panorama From Point Sublime. [Parts I-III.] W.H. Holmes. Atlas Sheets XV-XVII. Julius Bien & Co. lith. U.S. Geological Survey, Geology of the Grand Canon District."
+                },
+                {
+                  "label": "List No",
+                  "value": "4713.019"
+                },
+                {
+                  "label": "Series No",
+                  "value": "22"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Dutton, Clarence E. (Clarence Edward), 1841-1912"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1882"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Department Of The Interior, United States Geological Survey, J.W. Powell Director. Atlas To Accompany The Monograph On The Tertiary History Of The Grand Canon District By Capt. Clarence E. Dutton U.S.A. Washington 1882. Julius Bien & Co. Lith. New York."
+                },
+                {
+                  "label": "Pub Reference",
+                  "value": "P1471."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "With superb panoramas by W.H. Holmes and Thomas Moran. This is one of the finest publications of U.S. Geological Survey. Full printed color. Bound in dark brown cloth covered boards with \"United States Geological Survey J.W. Powell Director. Atlas To Accompany The Tertiary History Of The Grand Canon District. Dutton\" stamped in gilt."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "4713.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Geologic Atlas"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "22"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "52"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "46"
+                },
+                {
+                  "label": "Image No",
+                  "value": "4713019"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D0009/4713019.sid target=_blank>Full Image Download in MrSID Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Dutton, Clarence E. (Clarence Edward), 1841-1912; Holmes, William Henry, 1846-1933"
+                },
+                {
+                  "label": "Collection",
+                  "value": "Rumsey Collection"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~1328~90159/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~1328~90159/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~1328~90159",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 28070,
+                    "height": 5892
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~1328~90159/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~1328~90159/list/luna"
+              ],
+              "width": 28070,
+              "height": 5892
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~1328~90159"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~260596~5524054/manifest",
+      "label": "Map of the underground railways of London",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~260596~5524054/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~260596~5524054/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Map of the underground railways of London",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Waterlow & Sons Limited"
+                },
+                {
+                  "label": "Author",
+                  "value": "Gill, Leslie MacDonald, 1884-1947"
+                },
+                {
+                  "label": "Date",
+                  "value": "1923"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Map of the underground railways of London"
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Waterlow & Sons Limited"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "London"
+                },
+                {
+                  "label": "Type",
+                  "value": "Pocket Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "37"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "41"
+                },
+                {
+                  "label": "Scale 1",
+                  "value": "75,000"
+                },
+                {
+                  "label": "Note",
+                  "value": "Diagram of subway system of London. Includes color coded reference and text. \"British Empire exhibition stations\" shown in red."
+                },
+                {
+                  "label": "Country",
+                  "value": "England"
+                },
+                {
+                  "label": "City",
+                  "value": "London"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Pictorial map"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Subway"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Transit"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "Map of the underground railways of London. Mcdonald, Gill. Waterlow & Sons Limited, London, Dunstable & Waterford. (on verso) Underground : what to see and how to travel : map of the electric railways of London. Issued free. Waterlow & Sons Limited, London, Dunstable & Waterford. (1/11/23). Electric Railway House, Westminster, S.W. 1. (with) Key map shewing main line railway, connections with main line termini. (and) Theatre plan."
+                },
+                {
+                  "label": "List No",
+                  "value": "8023.003"
+                },
+                {
+                  "label": "Series No",
+                  "value": "3"
+                },
+                {
+                  "label": "Engraver or Printer",
+                  "value": "Electric Railway House"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Waterlow & Sons Limited"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Gill, Leslie MacDonald, 1884-1947"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1923"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Underground : what to see and how to travel : map of the electric railways of London. Issued free. Waterlow & Sons Limited, London, Dunstable & Waterford. (1/11/23). Electric Railway House, Westminster, S.W. 1. (with) Key map shewing main line railway, connections with main line termini. (and) Theatre plan. (on verso) Map of the underground railways of London. Mcdonald, Gill. Waterlow & Sons Limited, London, Dunstable & Waterford."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "Three maps, on sheet 37x40.5 both sides, folded to 15.5x7.5. Includes key map, and theater plan, directories, schedules, text, and tables. On lower left margin (1/11/23). On verso: Map of Underground railways of London."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "8023.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Pocket Map"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "3"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "16"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "8"
+                },
+                {
+                  "label": "Image No",
+                  "value": "8023003"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D5005/8023003.sid target=_blank>Full Image Download in MrSID Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Waterlow & Sons Limited; MacDonald Gill. 1884-1947"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~260596~5524054/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~260596~5524054/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~260596~5524054",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 9164,
+                    "height": 7550
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~260596~5524054/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~260596~5524054/list/luna"
+              ],
+              "width": 9164,
+              "height": 7550
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~260596~5524054"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~306~30013/manifest",
+      "label": "1882. Progress Map Of The U.S. Geographical Surveys West Of The 100th Meridian.",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~306~30013/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~306~30013/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "1882. Progress Map Of The U.S. Geographical Surveys West Of The 100th Meridian.",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Wheeler, G.M."
+                },
+                {
+                  "label": "Date",
+                  "value": "1882"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "1882. Progress Map Of The U.S. Geographical Surveys West Of The 100th Meridian."
+                },
+                {
+                  "label": "Publisher",
+                  "value": "U.S."
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Washington"
+                },
+                {
+                  "label": "Type",
+                  "value": "Atlas Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "47"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "57"
+                },
+                {
+                  "label": "Scale 1",
+                  "value": "6,000,000"
+                },
+                {
+                  "label": "Note",
+                  "value": "Index areas to atlas maps in gold, routes and astronomical stations in red. Areas published in green, areas to be issued in blue or gold, areas embraced by 40th Parallel Survey in blue stripe."
+                },
+                {
+                  "label": "Reference",
+                  "value": "P1281-36."
+                },
+                {
+                  "label": "State/Province",
+                  "value": "U.S. West"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "1882. Progress Map Of The U.S. Geographical Surveys West Of The 100th Meridian. To accompany the Annual report of 1st Lieut. M.M. Macomb 4th Artillery U.S. Army. In charge of office. West Of The One Hundredth Meridian. Seasons of 1869, 1871, 1872, 1873, 1874, 1875, 1876, 1877, 1878 & 1879. Captain Geo. M. Wheeler. Corps Of Engineers, U.S. Army in Charge. United States Geographical Surveys."
+                },
+                {
+                  "label": "List No",
+                  "value": "2738.011"
+                },
+                {
+                  "label": "Series No",
+                  "value": "18"
+                },
+                {
+                  "label": "Engraver or Printer",
+                  "value": "Macomb, M.M."
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Wheeler, G.M."
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1876"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Topographical Atlas Projected To Illustrate United States Geographical Surveys West Of The 100th Meridian Of Longitude Prosecuted In Accordance With Acts Of Congress Under The Authority Of The Honorable The Secretary Of War, And The Direction Of Brig. Genl. A.A. Humphreys, Chief Of Engineers, U.S. Army. Embracing Results Of the Different Expeditions Under The Command Of 1st Lieut. Geo. M. Wheeler, Corps Of Engineers. Julius Bien, lith. (with) Geological Atlas Projected To Illustrate Geographical Explorations And Surveys West Of The 100th Meridian Of Longitude ... Julius Bien, lith. (1876-1881)"
+                },
+                {
+                  "label": "Pub Reference",
+                  "value": "P1281."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "A collection of 135 Topographical, Land Classification, and Geological Atlas sheets. An almost complete collection of all the Wheeler survey maps originally owned by the Salt Lake Mining Institute. I have since added maps to make it nearly a complete set, following the listing in P1281 (which lists 179 sheets, many of which are duplicates of sheets with minor variations). Many of the sheets in the original Salt Lake Mining Institute set have the signature of Ovando Hollister, an important figure in western mining history."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "2738.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "National Atlas"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "112"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "49"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "61"
+                },
+                {
+                  "label": "Image No",
+                  "value": "2738011"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D0003/2738011.sid target=_blank>Full Image Download in MrSID Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Wheeler, G.M."
+                },
+                {
+                  "label": "Collection",
+                  "value": "Rumsey Collection"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~306~30013/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~306~30013/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~306~30013",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 7105,
+                    "height": 5773
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~306~30013/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~306~30013/list/luna"
+              ],
+              "width": 7105,
+              "height": 5773
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~306~30013"
+    }
+  ]
+}
