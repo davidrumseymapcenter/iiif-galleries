@@ -1459,183 +1459,6 @@
     {
       "@context": "http://iiif.io/api/presentation/2/context.json",
       "@type": "sc:Manifest",
-      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~344843~90112595/manifest",
-      "label": "Plate II Back of Hand & Wrinkled Apple, To Illustrate The Origin Of Certain Mountain Ranges, Resulting From Shrinking Of The Interior.",
-      "attribution": "David Rumsey Historical Map Collection",
-      "service": {
-        "@context": "http://iiif.io/api/search/1/context.json",
-        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~344843~90112595/search",
-        "profile": "http://iiif.io/api/search/1/search"
-      },
-      "sequences": [
-        {
-          "@type": "sc:Sequence",
-          "canvases": [
-            {
-              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~344843~90112595/canvas/c1",
-              "@type": "sc:Canvas",
-              "label": "Plate II Back of Hand & Wrinkled Apple, To Illustrate The Origin Of Certain Mountain Ranges, Resulting From Shrinking Of The Interior.",
-              "description": "",
-              "metadata": [
-                {
-                  "label": "Author",
-                  "value": "Nasmyth, James"
-                },
-                {
-                  "label": "Author",
-                  "value": "Carpenter, James"
-                },
-                {
-                  "label": "Date",
-                  "value": "1874"
-                },
-                {
-                  "label": "Short Title",
-                  "value": "Plate II Back of Hand & Wrinkled Apple, To Illustrate The Origin Of Certain Mountain Ranges, Resulting From Shrinking Of The Interior."
-                },
-                {
-                  "label": "Publisher",
-                  "value": "John Murray"
-                },
-                {
-                  "label": "Publisher Location",
-                  "value": "London"
-                },
-                {
-                  "label": "Type",
-                  "value": "View"
-                },
-                {
-                  "label": "Obj Height cm",
-                  "value": "28"
-                },
-                {
-                  "label": "Obj Width cm",
-                  "value": "21"
-                },
-                {
-                  "label": "Note",
-                  "value": "Page dimensions are full sheet."
-                },
-                {
-                  "label": "Reference",
-                  "value": "For the full text of this book, see https://archive.org/details/gri_33125003591076/mode/2up"
-                },
-                {
-                  "label": "Region",
-                  "value": "Moon"
-                },
-                {
-                  "label": "Subject",
-                  "value": "Moon"
-                },
-                {
-                  "label": "Full Title",
-                  "value": "Plate II Back of Hand & Wrinkled Apple, To Illustrate The Origin Of Certain Mountain Ranges, Resulting From Shrinking Of The Interior."
-                },
-                {
-                  "label": "List No",
-                  "value": "15224.008"
-                },
-                {
-                  "label": "Series No",
-                  "value": "8"
-                },
-                {
-                  "label": "Publication Author",
-                  "value": "Nasmyth, James"
-                },
-                {
-                  "label": "Publication Author",
-                  "value": "Carpenter, James"
-                },
-                {
-                  "label": "Pub Date",
-                  "value": "1874"
-                },
-                {
-                  "label": "Pub Title",
-                  "value": "The Moon: Considered As A Planet, A World, and A Satellite. Second Edition."
-                },
-                {
-                  "label": "Pub Note",
-                  "value": "\"Inscribed to the reverse of the front end paper: \"To Sir James & Lady Baird from Anne E. Nasmyth in remembrance of her dear husband James Nasmyth who died on the 9th of May 1890 in his 82nd year. Hammerfield Kent\". Anne Nasmyth (nee Hartop, b. 1817 d. 1893) was a notable artist, specialising in botanical studies, who married James Nasmyth in 1840. The recipients were Sir James Gardiner Baird, 7th Baronet (1813-1896) and Lady Henrietta Mary Baird (nee Wauchope). An important title, both in the history of astronomy for its remarkably detailed depictions of the lunar surface(achieved by painstakingly constructing plaster models from numerous observations and then photographing them), and as an early photographically illustrated book, which utilised a number of different methods of reproducing the images, including heliotypes and Woodburytypes. This is an interesting and poignant association copy, presumably Anne Nasmyth's own prior to presenting it to the Bairds.\" (Frost, 2022) \"Nasmyth was brought up in an artistic family, made a fortune as a manufacturer and inventor, and retired to take up astronomy. He built his own 20\" reflector in 1842 (inventing the Nasmyth focus in the process), and began to concentrate on lunar studies. Nasmyth brought photography to the aid of selenography in an unusual manner. Since photography was not yet advanced enough to take photographs of lunar details, Nasmyth constructed plaster models based on visual observations, and then photographed the models. For this book, the photographs were then printed by the arduous Woodburytype process, perhaps the most faithful method ever devised for the reproduction of photographs. The Woodburytype has no grain whatsoever, because it does not use cracks or dots to reproduce tone. Instead, a relief mold is made of the image in lead, so that the areas of dark tone are deep and light tone shallow. Ink suspended in gelatin is cast in the mold, and the resulting print produces contrast by the thickness or thinness of the ink.\" (Linda Hall Library, Face of the Moon 20). \"Nasmyth’s simulated views of the moon supported his specious claim that the craggy pockmarked lunar surface was the result of volcanic activity. Rather than declaring Nasmyth’s methodology unscientific, however, his contemporaries lauded the visual effects and found his arguments convincing. This reception suggests that the photographic medium itself imbued the images with a sense of veracity that lent them scientific authority.\" (Metropolitan Museum)"
-                },
-                {
-                  "label": "Pub List No",
-                  "value": "15224.000"
-                },
-                {
-                  "label": "Pub Type",
-                  "value": "Celestial Atlas"
-                },
-                {
-                  "label": "Pub Height cm",
-                  "value": "29"
-                },
-                {
-                  "label": "Pub Width cm",
-                  "value": "23"
-                },
-                {
-                  "label": "Image No",
-                  "value": "15224008.jp2"
-                },
-                {
-                  "label": "Download 1",
-                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/199/15224008.jp2 target=_blank>Full Image Download in JP2 Format</a>"
-                },
-                {
-                  "label": "Download 2",
-                  "value": "<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>"
-                },
-                {
-                  "label": "Authors",
-                  "value": "Nasmyth, James; Carpenter, James"
-                }
-              ],
-              "thumbnail": {
-                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~344843~90112595/full/!96,96/0/default.jpg",
-                "format": "image/jpeg"
-              },
-              "images": [
-                {
-                  "@type": "oa:Annotation",
-                  "motivation": "sc:painting",
-                  "resource": {
-                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~344843~90112595/full/!1024,1024/0/default.jpg",
-                    "@type": "dctypes:Image",
-                    "service": {
-                      "@context": "http://iiif.io/api/image/2/context.json",
-                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~344843~90112595",
-                      "profile": "http://iiif.io/api/image/2/level1.json",
-                      "protocol": "http://iiif.io/api/image"
-                    },
-                    "format": "image/jpeg",
-                    "width": 6854,
-                    "height": 5720
-                  },
-                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~344843~90112595/canvas/c1"
-                }
-              ],
-              "otherContent": [
-                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~344843~90112595/list/luna"
-              ],
-              "width": 6854,
-              "height": 5720
-            }
-          ]
-        }
-      ],
-      "logo": {
-        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
-        "format": "image/png"
-      },
-      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~344843~90112595"
-    },
-    {
-      "@context": "http://iiif.io/api/presentation/2/context.json",
-      "@type": "sc:Manifest",
       "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~350348~90117829/manifest",
       "label": "Map Illustrating the Extermination of the American Bison. Prepared by W.T. Hornaday.",
       "attribution": "David Rumsey Historical Map Collection",
@@ -2331,12 +2154,12 @@
     {
       "@context": "http://iiif.io/api/presentation/2/context.json",
       "@type": "sc:Manifest",
-      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~288952~90060502/manifest",
-      "label": "Trip to the Moon",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~268210~90042587/manifest",
+      "label": "California's Mission Trails (fanned out).",
       "attribution": "David Rumsey Historical Map Collection",
       "service": {
         "@context": "http://iiif.io/api/search/1/context.json",
-        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~288952~90060502/search",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~268210~90042587/search",
         "profile": "http://iiif.io/api/search/1/search"
       },
       "sequences": [
@@ -2344,126 +2167,110 @@
           "@type": "sc:Sequence",
           "canvases": [
             {
-              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~288952~90060502/canvas/c1",
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~268210~90042587/canvas/c1",
               "@type": "sc:Canvas",
-              "label": "Trip to the Moon",
+              "label": "California's Mission Trails (fanned out).",
               "description": "",
               "metadata": [
                 {
                   "label": "Author",
-                  "value": "Hammond Incorporated"
-                },
-                {
-                  "label": "Author",
-                  "value": "NASA"
+                  "value": "Eddy, Gerald A."
                 },
                 {
                   "label": "Date",
-                  "value": "1969"
+                  "value": "1939"
                 },
                 {
                   "label": "Short Title",
-                  "value": "Trip to the Moon"
+                  "value": "California's Mission Trails (fanned out)."
                 },
                 {
                   "label": "Publisher",
-                  "value": "Hammon Inc."
-                },
-                {
-                  "label": "Publisher Location",
-                  "value": "Maplewood, N.J."
+                  "value": "California Mission Trails Association"
                 },
                 {
                   "label": "Type",
-                  "value": "Separate Map"
+                  "value": "Atlas Map"
                 },
                 {
                   "label": "Obj Height cm",
-                  "value": "47"
+                  "value": "24"
                 },
                 {
                   "label": "Obj Width cm",
-                  "value": "62"
-                },
-                {
-                  "label": "Scale 1",
-                  "value": "None shown"
+                  "value": "24"
                 },
                 {
                   "label": "Note",
-                  "value": "Color map. With 9 inset views of various stages of the trip to the Moon, photographed by NASA. Includes place names and text. Relief shown by shading. Date estimated."
-                },
-                {
-                  "label": "Region",
-                  "value": "Moon"
+                  "value": "Scan shows how maps are arranged in a fan."
                 },
                 {
                   "label": "Subject",
-                  "value": "Moon"
+                  "value": "Tourism"
                 },
                 {
                   "label": "Subject",
-                  "value": "Celestial"
-                },
-                {
-                  "label": "Subject",
-                  "value": "Space"
+                  "value": "Pictorial map"
                 },
                 {
                   "label": "Full Title",
-                  "value": "Trip to the Moon. Esso. Copyright Hammond Incorporated, Maplewood, N.J. Printed in U.S.A. (9 inset views)."
+                  "value": "California's Mission Trails (fanned out)."
                 },
                 {
                   "label": "List No",
-                  "value": "11282.000"
+                  "value": "7986.002"
                 },
                 {
-                  "label": "Engraver or Printer",
-                  "value": "Esso Standard Oil Company"
+                  "label": "Series No",
+                  "value": "2"
+                },
+                {
+                  "label": "Page No",
+                  "value": "front fan"
                 },
                 {
                   "label": "Publication Author",
-                  "value": "Hammond Incorporated"
-                },
-                {
-                  "label": "Publication Author",
-                  "value": "NASA"
+                  "value": "Eddy, Gerald A."
                 },
                 {
                   "label": "Pub Date",
-                  "value": "1969"
+                  "value": "1939"
                 },
                 {
                   "label": "Pub Title",
-                  "value": "Trip to the Moon. Esso. Copyright Hammond Incorporated, Maplewood, N.J. Printed in U.S.A. (9 inset views)."
+                  "value": "California's Mission Trails."
                 },
                 {
                   "label": "Pub Note",
-                  "value": "See note field above."
+                  "value": "Consists of a set of stiff paper double-sided circles riveted together so they can rotate separately with a map on front, text on back. Each map covers a portion of the California coast. Black and white except front cover which is blue and gold."
                 },
                 {
                   "label": "Pub List No",
-                  "value": "11282.000"
+                  "value": "7986.000"
                 },
                 {
                   "label": "Pub Type",
-                  "value": "Separate Map"
+                  "value": "Regional Atlas"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "7"
                 },
                 {
                   "label": "Pub Height cm",
-                  "value": "49"
+                  "value": "13"
                 },
                 {
                   "label": "Pub Width cm",
-                  "value": "62"
+                  "value": "12"
                 },
                 {
                   "label": "Image No",
-                  "value": "11282000.jp2"
+                  "value": "7986002.jp2"
                 },
                 {
                   "label": "Download 1",
-                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/168/11282000.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/136/7986002.jp2 target=_blank>Full Image Download in JP2 Format</a>"
                 },
                 {
                   "label": "Download 2",
@@ -2471,11 +2278,11 @@
                 },
                 {
                   "label": "Authors",
-                  "value": "Hammond Incorporated; NASA"
+                  "value": "Eddy, Gerald A."
                 }
               ],
               "thumbnail": {
-                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~288952~90060502/full/!96,96/0/default.jpg",
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~268210~90042587/full/!96,96/0/default.jpg",
                 "format": "image/jpeg"
               },
               "images": [
@@ -2483,26 +2290,26 @@
                   "@type": "oa:Annotation",
                   "motivation": "sc:painting",
                   "resource": {
-                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~288952~90060502/full/!1024,1024/0/default.jpg",
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~268210~90042587/full/!1024,1024/0/default.jpg",
                     "@type": "dctypes:Image",
                     "service": {
                       "@context": "http://iiif.io/api/image/2/context.json",
-                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~288952~90060502",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~268210~90042587",
                       "profile": "http://iiif.io/api/image/2/level1.json",
                       "protocol": "http://iiif.io/api/image"
                     },
                     "format": "image/jpeg",
-                    "width": 12736,
-                    "height": 9710
+                    "width": 4782,
+                    "height": 4761
                   },
-                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~288952~90060502/canvas/c1"
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~268210~90042587/canvas/c1"
                 }
               ],
               "otherContent": [
-                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~288952~90060502/list/luna"
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~268210~90042587/list/luna"
               ],
-              "width": 12736,
-              "height": 9710
+              "width": 4782,
+              "height": 4761
             }
           ]
         }
@@ -2511,7 +2318,522 @@
         "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
         "format": "image/png"
       },
-      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~288952~90060502"
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~268210~90042587"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~264711~5524560/manifest",
+      "label": "The Panorama Today in Northern California",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~264711~5524560/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~264711~5524560/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "The Panorama Today in Northern California",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Sheets, Millard"
+                },
+                {
+                  "label": "Date",
+                  "value": "1950"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "The Panorama Today in Northern California"
+                },
+                {
+                  "label": "Publisher",
+                  "value": "American Trust Company"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "San Francisco"
+                },
+                {
+                  "label": "Type",
+                  "value": "Separate Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "51"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "74"
+                },
+                {
+                  "label": "Scale 1",
+                  "value": "None shown"
+                },
+                {
+                  "label": "Note",
+                  "value": "Color pictorial mid-Century modern promotional map of Northern California, tell the history of the greater San Francisco Bay area. Showing vaqueros and missions; wagon trains and railroads; women at the beach and sailboats out at sea; eagles and skunks and deer and lots of cows and horses; fishing fleets; the Ferry Building; the UC Berkeley Campanile; Stanford University Hoover Tower; the Capitol building; large airplanes crossing the bay and grain elevators on the landscape. Also shows the Wine Regions of Napa Valley and Sonoma Valley, the agricultural regions of Sacramento and San Joaquin, the farm equipment and industrial agriculture buildings, and the images of Skiers near Lake Tahoe."
+                },
+                {
+                  "label": "State/Province",
+                  "value": "California"
+                },
+                {
+                  "label": "Region",
+                  "value": "San Francisco Bay Area (Calif.)"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Pictorial map"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "The Panorama Today in Northern California its resources activities and opportunities. Published on its 100th. Anniversary by American Trust Company, San Francisco. Millard Sheets. Lithogravure in U.S.A."
+                },
+                {
+                  "label": "List No",
+                  "value": "8080.000"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Sheets, Millard"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1950"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "The Panorama Today in Northern California its resources activities and opportunities. Published on its 100th. Anniversary by American Trust Company, San Francisco. Michael Shute. Lithoravure in U.S.A."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "See note field above."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "8080.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Separate Map"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "51"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "74"
+                },
+                {
+                  "label": "Image No",
+                  "value": "8080000"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D5005/8080000.sid target=_blank>Full Image Download in MrSID Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Sheets, Millard"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~264711~5524560/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~264711~5524560/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~264711~5524560",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 16668,
+                    "height": 12480
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~264711~5524560/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~264711~5524560/list/luna"
+              ],
+              "width": 16668,
+              "height": 12480
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~264711~5524560"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~368452~90136010/manifest",
+      "label": "(1-2) Auto Map-Ic United States East of the Mississippi River.",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~368452~90136010/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~368452~90136010/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "(1-2) Auto Map-Ic United States East of the Mississippi River.",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Anonymous"
+                },
+                {
+                  "label": "Date",
+                  "value": "1960"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "(1-2) Auto Map-Ic United States East of the Mississippi River."
+                },
+                {
+                  "label": "Publisher",
+                  "value": "H.B. Lowry & Co."
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "London"
+                },
+                {
+                  "label": "Type",
+                  "value": "Atlas Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "32"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "17"
+                },
+                {
+                  "label": "Note",
+                  "value": "Date estimated."
+                },
+                {
+                  "label": "Country",
+                  "value": "United States"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Automobile"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "(1-2) Auto Map-Ic United States East of the Mississippi River."
+                },
+                {
+                  "label": "List No",
+                  "value": "16253.005"
+                },
+                {
+                  "label": "Series No",
+                  "value": "5"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Anonymous"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1960"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Auto Map-Ic United States East of the Mississippi River."
+                },
+                {
+                  "label": "Pub Reference",
+                  "value": "Thomas O'Loughlin \"The Auto-Mapic map of Great Britain\" https://nottingham-repository.worktribe.com/output/992743"
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "Plastic case with 15 maps and index map. Each map is brought into view by moving up or down the red side handles. Made for automobile drivers to be more convenient than a book of road maps. In the same series: Switzerland, Austria ,Sweden Germany, and U.S.A. Printed in Austria. See our 16193.000 for the Road Map of Great Britain, where the title is changed from Auto Map-Ic to Auto Mapic."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "16253.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Regional Atlas"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "15"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "32"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "17"
+                },
+                {
+                  "label": "Image No",
+                  "value": "16253005.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/218/16253005.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Anonymous"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~368452~90136010/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~368452~90136010/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~368452~90136010",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 4825,
+                    "height": 8126
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~368452~90136010/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~368452~90136010/list/luna"
+              ],
+              "width": 4825,
+              "height": 8126
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~368452~90136010"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~288996~90060602/manifest",
+      "label": "Silicon Valley, California.",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~288996~90060602/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~288996~90060602/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Silicon Valley, California.",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Eclectibles"
+                },
+                {
+                  "label": "Author",
+                  "value": "Hillam, Corbin"
+                },
+                {
+                  "label": "Date",
+                  "value": "1981"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Silicon Valley, California."
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Inmac"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Santa Clara"
+                },
+                {
+                  "label": "Type",
+                  "value": "Separate Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "92"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "62"
+                },
+                {
+                  "label": "Region",
+                  "value": "Silicon Valley (Calif.)"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Pictorial map"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Silicon Valley"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "Silicon Valley, California."
+                },
+                {
+                  "label": "List No",
+                  "value": "12096.000"
+                },
+                {
+                  "label": "Series No",
+                  "value": "1"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Eclectibles"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Hillam, Corbin"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1981"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Silicon Valley, California."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "12096.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Separate Map"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "1"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "92"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "62"
+                },
+                {
+                  "label": "Image No",
+                  "value": "12096000.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/168/12096000.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Eclectibles"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~288996~90060602/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~288996~90060602/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~288996~90060602",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 12272,
+                    "height": 18178
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~288996~90060602/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~288996~90060602/list/luna"
+              ],
+              "width": 12272,
+              "height": 18178
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~288996~90060602"
     }
   ]
 }
