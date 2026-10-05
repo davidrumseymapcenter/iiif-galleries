@@ -32,24 +32,24 @@ jobs:
 
           for file in galleries/*.json; do
             filename=$(basename "$file")
-            label=$(python3 -c "
-          import json, sys
-          try:
-            data = json.load(open('$file'))
-            label = data.get('label', '')
-            if isinstance(label, dict):
-              import itertools
-              label = next(itertools.chain.from_iterable(label.values()), '')
-            print(label)
-          except:
-            print('')
-            ")
+            label=$(python3 << PYEOF
+import json
+try:
+  data = json.load(open('galleries/$filename'))
+  label = data.get('label', '')
+  if isinstance(label, dict):
+    import itertools
+    label = next(itertools.chain.from_iterable(label.values()), '')
+  print(label)
+except:
+  print('')
+PYEOF
+)
             if [ -n "$label" ]; then
               url="https://davidrumseymapcenter.github.io/set-builder/presentation.html?file=https://raw.githubusercontent.com/davidrumseymapcenter/iiif-galleries/main/galleries/${filename}"
               echo "<li><a href=\"${url}\" target=\"_blank\">${label}</a></li>" >> index.md
             fi
           done
-
           echo '</ul>' >> index.md
 
       - name: Commit updated index
