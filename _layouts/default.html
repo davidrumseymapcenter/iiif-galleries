@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>IIIF Galleries — David Rumsey Map Center</title>
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: 'Open Sans', -apple-system, sans-serif;
+      background: #f5f5f5;
+      color: #333;
+      line-height: 1.6;
+    }
+
+    .page-header {
+      background: white;
+      border-bottom: 1px solid #e0e0e0;
+      padding: 16px 24px;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.08);
+    }
+
+    .page-header img {
+      height: 30px;
+      width: auto;
+    }
+
+    .page-header h1 {
+      font-size: 18px;
+      font-weight: 600;
+      color: #333;
+      flex: 1;
+    }
+
+    .page-header a {
+      background: #0073A3;
+      color: white;
+      border: none;
+      border-radius: 4px;
+      padding: 7px 14px;
+      font-family: 'Open Sans', sans-serif;
+      font-size: 12px;
+      font-weight: 600;
+      text-decoration: none;
+      transition: background 0.2s ease;
+    }
+
+    .page-header a:hover {
+      background: #005f87;
+    }
+
+    .page-main {
+      max-width: 800px;
+      margin: 32px auto;
+      padding: 0 24px;
+    }
+
+    .page-intro {
+      font-size: 14px;
+      color: #555;
+      margin-bottom: 8px;
+    }
+
+    .page-sub {
+      font-size: 13px;
+      color: #888;
+      margin-bottom: 24px;
+      padding-bottom: 16px;
+      border-bottom: 1px solid #e0e0e0;
+    }
+
+    .gallery-list {
+      list-style: none;
+      padding: 0;
+    }
+
+    .gallery-list li {
+      padding: 12px 0;
+      border-bottom: 1px solid #e0e0e0;
+      font-size: 15px;
+    }
+
+    .gallery-list li:last-child {
+      border-bottom: none;
+    }
+
+    .gallery-list a {
+      color: #0073A3;
+      text-decoration: none;
+      font-weight: 600;
+    }
+
+    .gallery-list a:hover {
+      color: #005f87;
+      text-decoration: underline;
+    }
+
+    .page-footer {
+      text-align: center;
+      padding: 24px;
+      font-size: 12px;
+      color: #aaa;
+      margin-top: 40px;
+      border-top: 1px solid #e0e0e0;
+    }
+
+    .page-footer a {
+      color: #0073A3;
+      text-decoration: none;
+    }
+
+    .page-footer a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="page-header">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/International_Image_Interoperability_Framework_logo.png" alt="IIIF Logo">
+    <h1>IIIF Galleries — David Rumsey Map Center</h1>
+    <a href="https://davidrumseymapcenter.github.io/set-builder/" target="_blank">Open Gallery Builder</a>
+  </div>
+
+  <div class="page-main">
+    {{ content }}
+  </div>
+
+  <div class="page-footer">
+    <p>David Rumsey Map Center, Stanford University Libraries &nbsp;·&nbsp;
+    <a href="https://davidrumseymapcenter.github.io/set-builder/info.html" target="_blank">Help</a> &nbsp;·&nbsp;
+    <a href="https://github.com/davidrumseymapcenter/iiif-galleries" target="_blank">GitHub</a></p>
+  </div>
+
+</body>
+</html>
