@@ -28,7 +28,9 @@ jobs:
           echo "# IIIF Galleries" >> index.md
           echo "" >> index.md
           echo "Curated image galleries from the David Rumsey Map Center. Click any title to open in presentation mode." >> index.md
+          echo "Curated image galleries from the David Rumsey Map Center." >> index.md
           echo "" >> index.md
+          echo "Click any title to open in presentation mode." >> index.md
 
           for file in galleries/*.json; do
             filename=$(basename "$file")
@@ -46,7 +48,7 @@ jobs:
             ")
             if [ -n "$label" ]; then
               url="https://davidrumseymapcenter.github.io/set-builder/presentation.html?file=https://raw.githubusercontent.com/davidrumseymapcenter/iiif-galleries/main/galleries/${filename}"
-              echo "- [${label}](${url})" >> index.md
+              echo "- <a href=\"${url}\" target=\"_blank\">${label}</a>" >> index.md 
             fi
           done
 
