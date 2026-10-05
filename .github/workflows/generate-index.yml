@@ -23,7 +23,7 @@ jobs:
           ---
           FRONTMATTER
           echo "" >> index.md
-          echo "## Image galleries created by the David Rumsey Map Center." >> index.md
+          echo "## Image galleries created by the David Rumsey Map Center" >> index.md
           echo "" >> index.md
           echo "*Click any title to open in presentation mode.*" >> index.md
           echo "" >> index.md
