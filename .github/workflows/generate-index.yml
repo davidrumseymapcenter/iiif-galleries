@@ -23,9 +23,11 @@ jobs:
           ---
           FRONTMATTER
           echo "" >> index.md
-          echo "Curated image galleries from the David Rumsey Map Center." >> index.md
+          echo "##View image galleries created by the David Rumsey Map Center." >> index.md
           echo "" >> index.md
-          echo "Click any title to open in presentation mode." >> index.md
+          echo "*Click any title to open in presentation mode.*" >> index.md
+          echo "" >> index.md
+          echo "<hr>" >> index.md
           echo "" >> index.md
           echo '<ul class="gallery-list">' >> index.md
           for file in galleries/*.json; do
