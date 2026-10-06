@@ -7,175 +7,6 @@
     {
       "@context": "http://iiif.io/api/presentation/2/context.json",
       "@type": "sc:Manifest",
-      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~338078~90110894/manifest",
-      "label": "Caarte vande Zuyder-Zee ... = Description de la Zuyder-Zee ...",
-      "attribution": "David Rumsey Historical Map Collection",
-      "service": {
-        "@context": "http://iiif.io/api/search/1/context.json",
-        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~338078~90110894/search",
-        "profile": "http://iiif.io/api/search/1/search"
-      },
-      "sequences": [
-        {
-          "@type": "sc:Sequence",
-          "canvases": [
-            {
-              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~338078~90110894/canvas/c1",
-              "@type": "sc:Canvas",
-              "label": "Caarte vande Zuyder-Zee ... = Description de la Zuyder-Zee ...",
-              "description": "",
-              "metadata": [
-                {
-                  "label": "Author",
-                  "value": "Blaeu, Willem Janszoon, 1571-1638"
-                },
-                {
-                  "label": "Date",
-                  "value": "1619"
-                },
-                {
-                  "label": "Short Title",
-                  "value": "Caarte vande Zuyder-Zee ... = Description de la Zuyder-Zee ..."
-                },
-                {
-                  "label": "Type",
-                  "value": "Chart Map"
-                },
-                {
-                  "label": "Obj Height cm",
-                  "value": "25"
-                },
-                {
-                  "label": "Obj Width cm",
-                  "value": "55"
-                },
-                {
-                  "label": "Note",
-                  "value": "Nautical chart showing the Zuiderzee [IJssel Lake], a shallow bay of the North Sea in the northwest of the Netherlands. Parallel titles appears in Dutch and French, translating (loosely) to: Description of the Zuyder-Zee, and of the rivers of Texel and Vlie, showing all sands, banks, droughts and other inconveniences on the said rivers, and by what means they can be avoided. Features cities, roads, ports, topography, coastlines, shoals, islands, anchorage, soundings and ships. Relief shown pictorially. Includes three bar scales, rhumb lines and compass roses, with north oriented toward upper left. Decorative cartouche. Black and white engraving. Chart is 25 x 55 cm, on double sheet 26 x 58 cm. (Plate number inferred.) Appears in \"Eerste boeck\" of atlas."
-                },
-                {
-                  "label": "Country",
-                  "value": "Netherlands"
-                },
-                {
-                  "label": "Region",
-                  "value": "IJssel Lake (Netherlands)"
-                },
-                {
-                  "label": "Subject",
-                  "value": "Nautical Charts"
-                },
-                {
-                  "label": "Full Title",
-                  "value": "Caarte vande Zuyder-Zee, en van de vermaerde Stro­men ende Gaten van't Vlie ende Texel, wat zan­den, platen, drooghten, diepten, ende ondiepten dae­in gheleghen zÿn, ende hoemen die zoo in't op als afzeylen schouwen ende mÿden zal. = Description de la Zuyder-Zee, et des tresrenommez fleuves du Texel et Vlie, monstrant tous sables, bancqs, secheresses et autres inconveniens sur lesdictes fleuves, et par quel moyen on les peult eviter."
-                },
-                {
-                  "label": "List No",
-                  "value": "14351.038"
-                },
-                {
-                  "label": "Series No",
-                  "value": "38"
-                },
-                {
-                  "label": "Page No",
-                  "value": "1"
-                },
-                {
-                  "label": "Publication Author",
-                  "value": "Blaeu, Willem Janszoon, 1571-1638"
-                },
-                {
-                  "label": "Pub Date",
-                  "value": "1620"
-                },
-                {
-                  "label": "Pub Title",
-                  "value": "Het Licht der Zee-vaert daerinne claersyck beschreven ende afghebeeldet werdé, alle de Custen end Havenen; vande Westersche, Noordsche, Oostersche ende Middelandsche Zee'n. Dock van vele Landen, Eylanden ende plaetsen van Guinea, Brasilien, Oost ende West-Indien. Wt de alderbeste Zeebeschryvers gheschriften (als Locas Ians z. Waghenaer ende meer andere) eenfdeels vergadert: maer uyt vele ervarene Zeevaerders schriften ende mondtlycke verclaringhen van alle verlopen ghebetert, ende met veel nieuwe beschryvinghen ende Caerten seer vermeerdert. Alles ghedeelt in vier boecken, waer van yders inhoudt voor elck uytghedruckt staet. Hier zyn byghevoeght (beneffens eene onderwysinghe in de conste der Zeevaert) nieuwe tafelen van der zonnen declinatie, gherekent uyt de observation van Tyche Brahe, ende gherecht op de Meridiaen van Amsterdam. Midsgaders nieuwe tafelenende onderwys van't recht ghebruyck der Noordsterre ende andere vaste sterren alle Zeevarende luyden te nut ghedaen. Door Willem Ians Zoon. Tot Amsterdam. Anno 1620."
-                },
-                {
-                  "label": "Pub Reference",
-                  "value": "https://ota.bodleian.ox.ac.uk/repository/xmlui/bitstream/handle/20.500.12024/A16189/A16189.html?sequence=5&isAllowed=y"
-                },
-                {
-                  "label": "Pub Note",
-                  "value": "Het Licht der Zee-vaert, by Willem Blaeu; published in Amsterdam, 1620. Title translates to: The light of the sea. This chart atlas was Blaeu's first atlas. Initially published in 1608, this is the fifth Dutch edition with 38 (of 42) maps. Oblong quarto. Engraved title, engraved frontispiece, 38 mostly double-page engraved charts (of 42, lacking 4 maps of Denmark), woodcut illustrations and diagrams within the text, 1 with volvelle (lacking 1), letterpress tables within decorative woodcut borders. Volume comprised of 261 woodcut coastal profiles in the text, illustrations, tables and charts. Recent fine full calf binding with richly gilt spine in compartments. Collation: Engraved title, (2), engraved frontispiece, 54 pp. (A4-F4, G2) lacking 2 pages; (2, title to Eerste Boeck), [1-8], 9-119, (1 blank) pp. (2, title to Tvveede Boeck), 3-130, [131] pp. 38 engraved maps (lacking 4). Probably lacking 1 volvelle in the beginning. Lacking 4 maps of Denmark, numbers 21-22, 24-25. Het Licht der Zee-vaert was the first book produced by the Blaeu publishing house, heralding a golden age of atlas production, and survives in only a few copies. It is one of the most important Dutch pilot-guides. Blaeu's pilot books were divided into chapters, each containing navigational instructions for specific sections of coastline, accompanied by a finely engraved coastal chart for each section. Map titles appeared in Dutch and French, with woodcut profile views illustrating the text. Blaeu included an editorial commentary at the beginning of the volume, condemning the generally held view of mariners that manuscript charts were better and more accurate than printed sea charts. Blaeu questioned the widely held belief of the time that manuscript charts were updated on a daily basis. Maps show the coasts of England, Scotland, Ireland, Norway, Sweden, Russia, Finland, Baltics, Pomerania, Spain, France, Northern Africa, Canaries, Maderia, etc. Richly embellished with decorative cartouches, sailing ships, sea-monsters, compass roses and sometimes with insets. The map \"Carte van de Reede ende Haven van Medenblick\" in the beginning, was not published until the edition 1618, and only published with the Dutch title until 1620 (the cartouche for the French title was, as in this case, blank). In 1618, Blaeu added a third chapter, covering the coastline of the Mediterranean. The first two charts, signed by Blaeu as Willem Jansz, cover the eastern and western Mediterranean. Willem Blaeu's earliest work focused on navigational aids for mariners. His first publication in this field was his Nieuw graetbouck, for which there are no known surviving examples. His next works of importance were two pilot guides, the Het licht der Zee-vaert and Zeespiegel (first edition 1623).  In 1621, Johannes Jansson published a direct copy of Blaeu’s pilot guide Het licht der Zee-vaert, as Blaeu’s copyright had expired. Blaeu, in turn, competed against Jansson and his brother-in-law Henricus Hondius by producing an atlas, which spurred a rivalry lasting for over 50 years.  Blaeu (1571-1638) was a prominent Dutch geographer and publisher. Born the son of a herring merchant, Blaeu became mathematician and astronomer. He studied with the Danish astronomer Tycho Brahe, with whom he honed his instrument and globe making skills. Blaeu set up shop in Amsterdam, where he sold instruments and globes, published maps, and edited the works of intellectuals such as Descartes and Hugo Grotius. In 1630 he issued his first world atlas, Atlas Appendix (see our 12202.000). In 1635, he released his atlas, Theatrum Orbis Terrarum, sive, Atlas novus. Willem died in 1638. He had two sons, Cornelis (1610-1648) and Joan (1596-1673). Joan trained as a lawyer, but joined his father’s business rather than practice law. After his father’s death, the brothers took over their father’s shop and Joan took on his work as hydrographer to the Dutch East India Company. Later in life, Joan would modify and greatly expand his father’s Atlas novus, eventually releasing his own masterpiece, the Atlas maior, between 1662 and 1672 (see our 10017.000)."
-                },
-                {
-                  "label": "Pub List No",
-                  "value": "14351.000"
-                },
-                {
-                  "label": "Pub Type",
-                  "value": "Chart Atlas"
-                },
-                {
-                  "label": "Pub Height cm",
-                  "value": "27"
-                },
-                {
-                  "label": "Pub Width cm",
-                  "value": "31"
-                },
-                {
-                  "label": "Image No",
-                  "value": "14351038.jp2"
-                },
-                {
-                  "label": "Download 1",
-                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/199/14351038.jp2 target=_blank>Full Image Download in JP2 Format</a>"
-                },
-                {
-                  "label": "Download 2",
-                  "value": "<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>"
-                },
-                {
-                  "label": "Authors",
-                  "value": "Blaeu, Willem Janszoon, 1571-1638"
-                }
-              ],
-              "thumbnail": {
-                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~338078~90110894/full/!96,96/0/default.jpg",
-                "format": "image/jpeg"
-              },
-              "images": [
-                {
-                  "@type": "oa:Annotation",
-                  "motivation": "sc:painting",
-                  "resource": {
-                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~338078~90110894/full/!1024,1024/0/default.jpg",
-                    "@type": "dctypes:Image",
-                    "service": {
-                      "@context": "http://iiif.io/api/image/2/context.json",
-                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~338078~90110894",
-                      "profile": "http://iiif.io/api/image/2/level1.json",
-                      "protocol": "http://iiif.io/api/image"
-                    },
-                    "format": "image/jpeg",
-                    "width": 15286,
-                    "height": 6820
-                  },
-                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~338078~90110894/canvas/c1"
-                }
-              ],
-              "otherContent": [
-                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~338078~90110894/list/luna"
-              ],
-              "width": 15286,
-              "height": 6820
-            }
-          ]
-        }
-      ],
-      "logo": {
-        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
-        "format": "image/png"
-      },
-      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~338078~90110894"
-    },
-    {
-      "@context": "http://iiif.io/api/presentation/2/context.json",
-      "@type": "sc:Manifest",
       "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~284866~90121493/manifest",
       "label": "Composite: Tabulae Peutingerianae segmentum I - VIII",
       "attribution": "David Rumsey Historical Map Collection",
@@ -554,12 +385,12 @@
     {
       "@context": "http://iiif.io/api/presentation/2/context.json",
       "@type": "sc:Manifest",
-      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~365475~90132719/manifest",
-      "label": "Castle Plan 70 (Vol Three Japanese Castles)",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~374147~90140765/manifest",
+      "label": "Composite: A correct sea chart of the whole world, according to Wright's commonly called Mercator's projection.",
       "attribution": "David Rumsey Historical Map Collection",
       "service": {
         "@context": "http://iiif.io/api/search/1/context.json",
-        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~365475~90132719/search",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~374147~90140765/search",
         "profile": "http://iiif.io/api/search/1/search"
       },
       "sequences": [
@@ -567,110 +398,130 @@
           "@type": "sc:Sequence",
           "canvases": [
             {
-              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~365475~90132719/canvas/c1",
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~374147~90140765/canvas/c1",
               "@type": "sc:Canvas",
-              "label": "Castle Plan 70 (Vol Three Japanese Castles)",
+              "label": "Composite: A correct sea chart of the whole world, according to Wright's commonly called Mercator's projection.",
               "description": "",
               "metadata": [
                 {
                   "label": "Author",
-                  "value": "Anonymous"
+                  "value": "Halley, Edmond, 1656-1742"
+                },
+                {
+                  "label": "Author",
+                  "value": "Senex, John, -1740"
+                },
+                {
+                  "label": "Author",
+                  "value": "Cutler, Nathaniel"
                 },
                 {
                   "label": "Date",
-                  "value": "1795"
+                  "value": "1728"
                 },
                 {
                   "label": "Short Title",
-                  "value": "Castle Plan 70 (Vol Three Japanese Castles)"
+                  "value": "Composite: A correct sea chart of the whole world, according to Wright's commonly called Mercator's projection."
+                },
+                {
+                  "label": "Publisher",
+                  "value": "James and John Knapton (Firm)"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "London"
                 },
                 {
                   "label": "Type",
-                  "value": "View"
-                },
-                {
-                  "label": "Type",
-                  "value": "Artwork"
+                  "value": "Composite Map"
                 },
                 {
                   "label": "Obj Height cm",
-                  "value": "28"
+                  "value": "59"
                 },
                 {
                   "label": "Obj Width cm",
-                  "value": "38"
+                  "value": "140"
+                },
+                {
+                  "label": "Scale 1",
+                  "value": "40,000,000"
                 },
                 {
                   "label": "Note",
-                  "value": "The date is taken from text on the inside portfolio cover: the characters “寛政” refer to the Kansei era (1789–1801) in Japan, and “七年” means the 7th year of that era, which corresponds to 1795 in the Gregorian calendar. The rest the text indicates that this document or artwork was written in June of that year."
+                  "value": "Composite nautical chart representing the Western and Eastern Hemispheres. Shows countries, cities, bodies of water, drainage, coastlines, islands and shoals. Includes rhumb lines, latitudinal and longitudinal lines, as well as compass roses with north oriented upward. With a decorative cartouche. Black and white engraving."
                 },
                 {
-                  "label": "Country",
-                  "value": "Japan"
-                },
-                {
-                  "label": "Subject",
-                  "value": "Architecture"
+                  "label": "World Area",
+                  "value": "World"
                 },
                 {
                   "label": "Subject",
-                  "value": "Military"
-                },
-                {
-                  "label": "Subject",
-                  "value": "Art"
+                  "value": "Nautical Charts"
                 },
                 {
                   "label": "Full Title",
-                  "value": "Castle Plan 70 (Vol Three Japanese Castles)"
+                  "value": "(Composite map of) A correct sea chart of the whole world, according to Wright's commonly called Mercator's projection."
                 },
                 {
                   "label": "List No",
-                  "value": "16143.149"
+                  "value": "14577.073"
                 },
                 {
                   "label": "Series No",
-                  "value": "149"
+                  "value": "11"
+                },
+                {
+                  "label": "Page No",
+                  "value": "1-2"
                 },
                 {
                   "label": "Publication Author",
-                  "value": "Anonymous"
+                  "value": "Halley, Edmond, 1656-1742"
                 },
                 {
                   "label": "Pub Date",
-                  "value": "1795"
+                  "value": "1728"
                 },
                 {
                   "label": "Pub Title",
-                  "value": "(Vol One. Two, Three, Four, Five - Japanese Castles)"
+                  "value": "Atlas maritimus & commercialis; or, a general view of the world, so far as relates to trade and navigation : Describing all the coasts, ports, harbours, and noted rivers, according to the latest discoveries and most exact observations. Together with a large account of the commerce carried on by sea between the several countries of the world, as likewise of all inland trade by means of navigable rivers; the rise, progress, and decay thereof, in its various branches; with methods for farther improvements. To which are added sailing directions for all the known coasts and islands on the globe; with a sett of sea-charts, some laid down after Mercator, but the greater part according to a new globular projection, adapted for measuring distances (as near as possible) by scale and compass, and authorized by letters patent under the Great Seal of Great Britain. The use of the projection justified by Dr. Halley. To which are subjoin'd two large hemispheres on the plane of the equinoctial; containing all the stars in the Britannic Catalogue : Of great use to sailors for finding the latitude in the night. London : Printed for James and John Knapton, William and John Innys in St. Paul's Churchyard; John Darby in Bartholomew-Close; Arthur Bettesworth, John Osborn and Thomas Longman in Pater-noster-Row; John Senex in Fleet-Street; Edward Symon in Cornhil; Andrew Johnston in Peter's Court in St. Martin's Lane; and the Executors of William Taylor deceas'd. M.DCC.XXVIII."
+                },
+                {
+                  "label": "Pub Reference",
+                  "value": "Rogers, P., “The making of Atlas maritimus (1728) : A shift towards commercial geography,” Journal of historical geography, 2023) \nhttps://catalog.hathitrust.org/Record/100577258"
                 },
                 {
                   "label": "Pub Note",
-                  "value": "\"An incredible collection of delicate watercolours showing birds-eye views of Samurai castles. The importance of a collection such as this is that since the nature of castles was to act as a defense, their layout tended to be kept secret. These drawings probably owe their existence to the fact that the Tokugawa Shogunate demanded drawings of castles to be submitted to them to exert some control over the daimyo.\" (Ursus Books, 2024)"
+                  "value": "Atlas maritimus & commercialis; or, a general view of the world, so far as relates to trade and navigation. Published in 1728 by a consortium of London booksellers including James & John Knapton and William & John Innys. Elephant folio, bound in 20th century leather. Contains 97 nautical charts and 2 celestial charts on 54 plates.  This atlas is the first openly published commercial geography for a general audience. According to Pat Rogers, “No previous work in English had offered a survey of the world's trading sites on this scale.” It was an ambitious project brought to completion by numerous mapmakers, printers, and writers. While it is conventionally credited to Nathaniel Cutler and Edmond Halley, they supplied only portions of the monumental work. The maps can be assigned to John Senex, drawing extensively on a new projection provided by Henry Wilson. Senex (1678–1740) was a prominent English engraver and mapmaker who rose to fame in early 18th-century London. After apprenticing with a bookseller, he became known for producing some of the finest maps and globes of the British cartographic golden age Produced over nearly a decade, the work evolved in focus throughout its creation. Initially, it was intended to promote Wilson’s newly devised globular projection (patented in 1721). It offered more reliable charts at a time when navigators struggled to determine longitude at sea. However, following the 1713 Treaty of Utrecht and the subsequent period of peace, its audience shifted from naval to mercantile users. Overall, it reflects the British Empire's global commercial ambitions during the early 18th century. It also shows the intersection of science - astronomy and cartography - with commerce. For scholars, it is significant for understanding colonial navigation, economic geography, and global trade patterns of its period. The first part is a comprehensive 344-page gazetteer. It details major trade ports and goods (e.g., Russia for leather and animal skins), regional breakdowns - the British Isles, Europe, Asia, Africa, and America - as well as speculations on geographic topics, such as rejecting the existence of a Northwest Passage and expressing doubts about California being an island, although maps in the second part still depict it as such. The first part’s author is anonymous but much of its descriptive content has been attributed to the prolific Daniel Defoe, a British writer, journalist, merchant, and spy. His most famous work was the 1719 novel Robinson Crusoe. His contributions here are presumed to be based upon his commercial and travel writings.   The second part, A general coasting pilot; containing directions for sailing is attributed to Cutler, a British mathematician, instrument maker and mapseller. Featuring  Wilson's novel projection, it  includes detailed sailing instructions and charts for navigating to and from the key commercial ports described in the first part. It also includes two celestial hemispheres, on the plane of the equinoctial, that map all stars in the Britannic catalogue. These charts were created to help sailors determine latitude at night, making it a practical tool for oceanic navigation. The English astronomer, mathematician and physicist Halley's name has been associated with atlas because he is the most renowned scientist to have participated in its creation. Halley wrote the introductory To the reader section and endorsed the Atlas, particularly Wilson's projection. Halley is also thought to have edited Cutler's navigational instructions in the second portion of the work. Additionally, the primary mapmaker, Senex, had a history of leveraging his association with Halley to promote maps.  This copy of the Atlas is inscribed. On the title page is a note indicating that the book belonged to William Oliver. It was given to him by James Laroche of Bristol, in October 1729 (another indication of the early printing of this book). Oliver (1695-1764) was a British physician and philanthropist. In January 1729, he was elected a fellow of the Royal Society. Laroche (1692-1770) was a prominent Bristol merchant. Historical notes obtained from Geographicus Rare Antique Maps. For a full online version of the text, see the HathiTrust: https://catalog.hathitrust.org/Record/100577258"
                 },
                 {
                   "label": "Pub List No",
-                  "value": "16143.000"
+                  "value": "14577.000"
                 },
                 {
                   "label": "Pub Type",
-                  "value": "Regional Atlas"
+                  "value": "World Atlas"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "99"
                 },
                 {
                   "label": "Pub Height cm",
-                  "value": "28"
+                  "value": "55"
                 },
                 {
                   "label": "Pub Width cm",
-                  "value": "20"
+                  "value": "36"
                 },
                 {
                   "label": "Image No",
-                  "value": "16143149.jp2"
+                  "value": "14577073.jp2"
                 },
                 {
                   "label": "Download 1",
-                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/213/16143149.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/218/14577073.jp2 target=_blank>Full Image Download in JP2 Format</a>"
                 },
                 {
                   "label": "Download 2",
@@ -678,15 +529,11 @@
                 },
                 {
                   "label": "Authors",
-                  "value": "Anonymous"
-                },
-                {
-                  "label": "local_note",
-                  "value": "[2026-09-24]: Added -kl"
+                  "value": "Halley, Edmond, 1656-1742; Senex, John, -1740; Cutler, Nathaniel"
                 }
               ],
               "thumbnail": {
-                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~365475~90132719/full/!96,96/0/default.jpg",
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~374147~90140765/full/!96,96/0/default.jpg",
                 "format": "image/jpeg"
               },
               "images": [
@@ -694,26 +541,23 @@
                   "@type": "oa:Annotation",
                   "motivation": "sc:painting",
                   "resource": {
-                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~365475~90132719/full/!1024,1024/0/default.jpg",
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~374147~90140765/full/!1024,1024/0/default.jpg",
                     "@type": "dctypes:Image",
                     "service": {
                       "@context": "http://iiif.io/api/image/2/context.json",
-                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~365475~90132719",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~374147~90140765",
                       "profile": "http://iiif.io/api/image/2/level1.json",
                       "protocol": "http://iiif.io/api/image"
                     },
                     "format": "image/jpeg",
-                    "width": 9083,
-                    "height": 7031
+                    "width": 25562,
+                    "height": 11132
                   },
-                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~365475~90132719/canvas/c1"
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~374147~90140765/canvas/c1"
                 }
               ],
-              "otherContent": [
-                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~365475~90132719/list/luna"
-              ],
-              "width": 9083,
-              "height": 7031
+              "width": 25562,
+              "height": 11132
             }
           ]
         }
@@ -722,7 +566,7 @@
         "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
         "format": "image/png"
       },
-      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~365475~90132719"
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~374147~90140765"
     },
     {
       "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -892,171 +736,6 @@
         "format": "image/png"
       },
       "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~364624~90132050"
-    },
-    {
-      "@context": "http://iiif.io/api/presentation/2/context.json",
-      "@type": "sc:Manifest",
-      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~340644~90108896/manifest",
-      "label": "Haikou Quantu 海口全圖 [Complete Map of Sea Ports].",
-      "attribution": "David Rumsey Historical Map Collection",
-      "service": {
-        "@context": "http://iiif.io/api/search/1/context.json",
-        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~340644~90108896/search",
-        "profile": "http://iiif.io/api/search/1/search"
-      },
-      "sequences": [
-        {
-          "@type": "sc:Sequence",
-          "canvases": [
-            {
-              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~340644~90108896/canvas/c1",
-              "@type": "sc:Canvas",
-              "label": "Haikou Quantu 海口全圖 [Complete Map of Sea Ports].",
-              "description": "",
-              "metadata": [
-                {
-                  "label": "Author",
-                  "value": "Anonymous"
-                },
-                {
-                  "label": "Date",
-                  "value": "1800"
-                },
-                {
-                  "label": "Short Title",
-                  "value": "Haikou Quantu 海口全圖 [Complete Map of Sea Ports]."
-                },
-                {
-                  "label": "Type",
-                  "value": "Manuscript Map"
-                },
-                {
-                  "label": "Obj Height cm",
-                  "value": "30"
-                },
-                {
-                  "label": "Obj Width cm",
-                  "value": "665"
-                },
-                {
-                  "label": "Country",
-                  "value": "China"
-                },
-                {
-                  "label": "Country",
-                  "value": "Taiwan"
-                },
-                {
-                  "label": "Subject",
-                  "value": "Military"
-                },
-                {
-                  "label": "Subject",
-                  "value": "Nautical Charts"
-                },
-                {
-                  "label": "Subject",
-                  "value": "Navigation"
-                },
-                {
-                  "label": "Full Title",
-                  "value": "Haikou Quantu 海口全圖 [Complete Map of Sea Ports]. Wanguo tu & Wukou Yanhai Shuilu Quantu 萬國圖 & 五口沿海水路全圖 [Map of 10,000 Countries & Complete Map of the Five Coastal Estuaries]."
-                },
-                {
-                  "label": "List No",
-                  "value": "15039.003"
-                },
-                {
-                  "label": "Series No",
-                  "value": "3"
-                },
-                {
-                  "label": "Publication Author",
-                  "value": "Anonymous"
-                },
-                {
-                  "label": "Pub Date",
-                  "value": "1800"
-                },
-                {
-                  "label": "Pub Title",
-                  "value": "Haikou Quantu 海口全圖 [Complete Map of Sea Ports]. Wanguo tu & Wukou Yanhai Shuilu Quantu 萬國圖 & 五口沿海水路全圖 [Map of 10,000 Countries & Complete Map of the Five Coastal Estuaries]."
-                },
-                {
-                  "label": "Pub Note",
-                  "value": "\"A fine hand-coloured manuscript map painted on paper with numerous annotations in Chinese. Map measuring 665x30cm, mounted on paper as a handscroll, empty pink mica-flecked frontispiece (detached), housed in a 20th century wooden box. Occasional light creasing, a few very minor marginal tears, but otherwise in very good condition. Some English annotation written in pencil. Three red seals of the map production supervisor (新三益號監製) along the upper edge. N.p., n.d. [but early 19th century]. This rare manuscript military map follows the pattern established during the 18th century: It opens with a map of the eastern hemisphere, showing Europe incl. Germany (Huangqi 黄祁), Denmark (Linyin吝因 - the stingy one!), Holland (Helan 荷兰), France (Folangxi 佛兰西), England (Yingjili 英机黎) & Portugal (Putaoya 葡萄牙), Africa, Arabia, India, Russia, China, Japan, and South East Asia. Further south is Australia (Dashishan 大石山, Great Stone Mountain) with a note on the left stating that “on the northern shore of this place ‘Great Stone Mountain’ you can anchor boats” (此處大 石山向北塢內可泊船) and to its right is another un-named continent (“no traces of humans can be found” 人迹不到處). Of the Arctic Ocean, it is said: “For six months in the year this sea is without water and for six months the day has no evening.”. The concept of an eastern hemisphere is clearly based on Western cartography, however, the map as such is based on a Chinese Geography entitled Hai guo wen jian lu (海國聞見錄) by Chen Lunjiong (?-1751, Admiral of the Guangdong Navy) first published in 1744. Throughout the 18th century Chen was instrumental in stepping up the construction of fortifications in strategically important locations along the coast and this map documents his lasting influence. The Eastern Hemisphere is followed by a long continuous coastal chart stretching from the Manchu capital Mukden (now Shenyang) down to Vietnam: It provides details of geographical features like mountains, islands, reefs, sandbanks, and harbours. It indicates the location of coastal towns and villages, defensive structures and numerous military garrisons (identified with a little red flag). The scroll takes you from Shengjing to Tianjin, across Shandong Peninsula with the capital Peking at the top, down the Yellow River estuary, the Yangtze River estuary, the Qiantang estuary, Ningbo (Zhejiang), Fujian, Taiwan, Guangdong, Macau, Hainan, Dongsha, Xisha, and Vietnam. Macao is given special prominence with three walls guarding the Portuguese settlement. At the very end of the scroll the following comment is written in the top right corner: “Siam is an ancient red land, during the Ming dynasty Siam and the Lavo kingdom united as a dynasty and were given tribute status.” (暹羅國即古坴明姑 合暹與羅斛為一本朝因之受封朝貢). It is interesting to note that during the Qing dynasty Chinese Costal charts were not drawn to a specific scale. The further you move away from the capital the smaller the scale, i.e. the distance from Macao to Taiwan appears to be relatively longer than from Peking to Taiwan. Furthermore, the map does not follow a standardised grid system but simply follows the coastline regardless of whether it goes from North to South, or East to West. All the features and topographical details are rendered with precision and the characters are written in regular kaishu script used by official scribes. The outer green silk brocade was used for documents relating to naval defence during the Qing dynasty and thus the purpose of the map is of a military nature. This coastal chart is undated but due to the fact that character for “ning” (寧 part of the personal name of the Daoguang Emperor) is not a taboo, leads us to assume that the map was made during the Jiaqing period, i.e. before 1820. No mention is made of the English presence in Hong Kong.\" (Maggs Bros., 2022)"
-                },
-                {
-                  "label": "Pub List No",
-                  "value": "15039.000"
-                },
-                {
-                  "label": "Pub Type",
-                  "value": "Manuscript Map"
-                },
-                {
-                  "label": "Pub Height cm",
-                  "value": "33"
-                },
-                {
-                  "label": "Pub Width cm",
-                  "value": "9"
-                },
-                {
-                  "label": "Image No",
-                  "value": "15039003.jp2"
-                },
-                {
-                  "label": "Download 1",
-                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/195/15039003.jp2 target=_blank>Full Image Download in JP2 Format</a>"
-                },
-                {
-                  "label": "Download 2",
-                  "value": "<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>"
-                },
-                {
-                  "label": "Authors",
-                  "value": "Anonymous"
-                }
-              ],
-              "thumbnail": {
-                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~340644~90108896/full/!96,96/0/default.jpg",
-                "format": "image/jpeg"
-              },
-              "images": [
-                {
-                  "@type": "oa:Annotation",
-                  "motivation": "sc:painting",
-                  "resource": {
-                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~340644~90108896/full/!1024,1024/0/default.jpg",
-                    "@type": "dctypes:Image",
-                    "service": {
-                      "@context": "http://iiif.io/api/image/2/context.json",
-                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~340644~90108896",
-                      "profile": "http://iiif.io/api/image/2/level1.json",
-                      "protocol": "http://iiif.io/api/image"
-                    },
-                    "format": "image/jpeg",
-                    "width": 148124,
-                    "height": 6535
-                  },
-                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~340644~90108896/canvas/c1"
-                }
-              ],
-              "otherContent": [
-                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~340644~90108896/list/luna"
-              ],
-              "width": 148124,
-              "height": 6535
-            }
-          ]
-        }
-      ],
-      "logo": {
-        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
-        "format": "image/png"
-      },
-      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~340644~90108896"
     },
     {
       "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -1266,207 +945,6 @@
     {
       "@context": "http://iiif.io/api/presentation/2/context.json",
       "@type": "sc:Manifest",
-      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~292850~90064439/manifest",
-      "label": "II. Tableau physique des iles Canaries. Geographie des plantes du Pic de Teneriffe.",
-      "attribution": "David Rumsey Historical Map Collection",
-      "service": {
-        "@context": "http://iiif.io/api/search/1/context.json",
-        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~292850~90064439/search",
-        "profile": "http://iiif.io/api/search/1/search"
-      },
-      "sequences": [
-        {
-          "@type": "sc:Sequence",
-          "canvases": [
-            {
-              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~292850~90064439/canvas/c1",
-              "@type": "sc:Canvas",
-              "label": "II. Tableau physique des iles Canaries. Geographie des plantes du Pic de Teneriffe.",
-              "description": "",
-              "metadata": [
-                {
-                  "label": "Author",
-                  "value": "Humboldt, Alexander von, 1769-1859"
-                },
-                {
-                  "label": "Author",
-                  "value": "Bonpland, Aime"
-                },
-                {
-                  "label": "Author",
-                  "value": "Marchais, L."
-                },
-                {
-                  "label": "Author",
-                  "value": "de Buch, Leopold"
-                },
-                {
-                  "label": "Author",
-                  "value": "Smith, Chr."
-                },
-                {
-                  "label": "Date",
-                  "value": "1817"
-                },
-                {
-                  "label": "Short Title",
-                  "value": "II. Tableau physique des iles Canaries. Geographie des plantes du Pic de Teneriffe."
-                },
-                {
-                  "label": "Publisher",
-                  "value": "J. Smith"
-                },
-                {
-                  "label": "Publisher Location",
-                  "value": "Paris"
-                },
-                {
-                  "label": "Type",
-                  "value": "Atlas Map"
-                },
-                {
-                  "label": "Obj Height cm",
-                  "value": "30"
-                },
-                {
-                  "label": "Obj Width cm",
-                  "value": "52"
-                },
-                {
-                  "label": "Region",
-                  "value": "Canary Islands"
-                },
-                {
-                  "label": "Subject",
-                  "value": "Vegetation"
-                },
-                {
-                  "label": "Subject",
-                  "value": "Data Visualization"
-                },
-                {
-                  "label": "Full Title",
-                  "value": "II. Tableau physique des iles Canaries. Geographie des plantes du Pic de Teneriffe."
-                },
-                {
-                  "label": "List No",
-                  "value": "12125.024"
-                },
-                {
-                  "label": "Series No",
-                  "value": "24"
-                },
-                {
-                  "label": "Page No",
-                  "value": "2"
-                },
-                {
-                  "label": "Engraver or Printer",
-                  "value": "L. Coutant"
-                },
-                {
-                  "label": "Engraver or Printer",
-                  "value": "L. Aubert"
-                },
-                {
-                  "label": "Publication Author",
-                  "value": "Humboldt, Alexander von, 1769-1859"
-                },
-                {
-                  "label": "Publication Author",
-                  "value": "Bonpland, Aime"
-                },
-                {
-                  "label": "Pub Date",
-                  "value": "1831"
-                },
-                {
-                  "label": "Pub Title",
-                  "value": "Voyage de MM. Alexandre de Humboldt et Aime Bonpland. Atlas Geographique et Physique, pour Accompagner la Relation Historique. Sixieme livraison. Paris, J. Smith, Rue Montmorency, No. 16; Londres, Dulau et Compie., Soho-Square. 1831. Imprimerie de J. Smith."
-                },
-                {
-                  "label": "Pub Note",
-                  "value": "“This atlas was issued as part of Humboldt and Bonpland’s Voyage aux régions équinoxiales du Nouveau Continent fait en 1799, 1800, 1801, 1802, 1803 et 1804 (Paris, 1808-1834), which was published in over thirty volumes over several decades…This atlas is important for many reasons, and its illustrations showed Europe and the entire world new scientific information for the first time. Humboldt’s groundbreaking exploration of the Orinoco River, for example, is delineated on two maps, one of which was the first to establish the precise location of and to show the connection between Rio Orinoco and Rio Negro, a question that had baffled geographers for three centuries…The Orinoco river maps are supplemented by maps of other rivers, many accurately depicted for the first time. Also significant are the profiles and maps of mountain ranges, which are depicted with scientific precision showing new information in novel ways. Many of the profiles are dramatically hand colored… The dramatic volcano plates are supplemented by several large-scale maps, which are masterful depictions of land forms. These studies were crucial to Humboldt’s later conclusions about the origin and nature of these natural structures and constitute one of his major contributions to the field of geology. Humboldt mapped many areas in an accurate fashion for the first time. Because riverbeds and stream courses interested him immensely, those features are often shown in great detail on the maps, which also depict other natural and man-made features, such as mountains, missions, roads, and settlements. His map of the Isthmus of Tehuantepec, for example, was from the latest available surveys recently done by the Mexican government (Humboldt was for fifty years an advocate of an interoceanic connection between the Atlantic and Pacific). The Cuba map is also an updated version and reflects his recent explorations of the island. Despite a few secondary sources, most of the maps are based directly on his extensive travels and observations during the course of his explorations. Perhaps the most remarkable map in this atlas is the first printing of a manuscript map that harks back to the very earliest European cartographic representation of the New World. This is the manuscript world map made by Spanish conquistador, cartographer, and explorer Juan de la Cosa (ca. 1460-1509), who sailed with the first three voyages of Columbus and was the owner of the Santa María. This portolan world chart incorporates lands discovered in America up to 1500 during expeditions by Spanish, Portuguese, and English expeditions to America. Juan de la Cosa’s mappa mundi is painted in ink and colors on ox hide (93 x 183 cm) and richly decorated. His map is believed to be “the earliest extant map showing any part of the continent of North America” (Schwartz & Ehrenberg, The Mapping of America, Plate 1, pp. 18-19)… Finally, going back to the beginning, the emblematic frontispiece engraving Humanitas. Literæ. Fruges (after the art work of artist Barthélemy Joseph Fulcran Roger) is not just another pretty, classical picture, but rather an expression of Humboldt’s deep philosophical concept of America and Europe expressed in iconography.” (Dorothy Sloan, Auction 22, 2009). This copy is unbound in original paper covers with multiple title pages. See our “Atlas Geographique Et Physique Du Royaume De La Nouvelle-Espagne,” 1811 for the other atlas volume in this series, concerning Mexico."
-                },
-                {
-                  "label": "Pub List No",
-                  "value": "12125.000"
-                },
-                {
-                  "label": "Pub Type",
-                  "value": "Exploration Book"
-                },
-                {
-                  "label": "Pub Maps",
-                  "value": "39"
-                },
-                {
-                  "label": "Pub Height cm",
-                  "value": "61"
-                },
-                {
-                  "label": "Pub Width cm",
-                  "value": "48"
-                },
-                {
-                  "label": "Image No",
-                  "value": "12125024.jp2"
-                },
-                {
-                  "label": "Download 1",
-                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/171/12125024.jp2 target=_blank>Full Image Download in JP2 Format</a>"
-                },
-                {
-                  "label": "Download 2",
-                  "value": "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
-                },
-                {
-                  "label": "Authors",
-                  "value": "Humboldt, Alexander von, 1769-1859; Bonpland, Aime; Marchais, L.; de Buch, Leopold; Smith, Chr."
-                }
-              ],
-              "thumbnail": {
-                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~292850~90064439/full/!96,96/0/default.jpg",
-                "format": "image/jpeg"
-              },
-              "images": [
-                {
-                  "@type": "oa:Annotation",
-                  "motivation": "sc:painting",
-                  "resource": {
-                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~292850~90064439/full/!1024,1024/0/default.jpg",
-                    "@type": "dctypes:Image",
-                    "service": {
-                      "@context": "http://iiif.io/api/image/2/context.json",
-                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~292850~90064439",
-                      "profile": "http://iiif.io/api/image/2/level1.json",
-                      "protocol": "http://iiif.io/api/image"
-                    },
-                    "format": "image/jpeg",
-                    "width": 14054,
-                    "height": 10336
-                  },
-                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~292850~90064439/canvas/c1"
-                }
-              ],
-              "otherContent": [
-                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~292850~90064439/list/luna"
-              ],
-              "width": 14054,
-              "height": 10336
-            }
-          ]
-        }
-      ],
-      "logo": {
-        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
-        "format": "image/png"
-      },
-      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~292850~90064439"
-    },
-    {
-      "@context": "http://iiif.io/api/presentation/2/context.json",
-      "@type": "sc:Manifest",
       "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~286488~90059013/manifest",
       "label": "Picture of Organized Nature.",
       "attribution": "David Rumsey Historical Map Collection",
@@ -1632,159 +1110,6 @@
         "format": "image/png"
       },
       "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~286488~90059013"
-    },
-    {
-      "@context": "http://iiif.io/api/presentation/2/context.json",
-      "@id": "https://purl.stanford.edu/ns026jq3113/iiif/manifest",
-      "@type": "sc:Manifest",
-      "label": "[Nahuatl glyph map of the Aztec migration from Aztlan to Tenochtitlán]",
-      "attribution": "This work has been identified as being free of known restrictions under copyright law, including all related and neighboring rights. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.",
-      "logo": {
-        "@id": "https://stacks.stanford.edu/image/iiif/wy534zh7137/SULAIR_rosette/full/400,/0/default.jpg",
-        "service": {
-          "@context": "http://iiif.io/api/image/2/context.json",
-          "@id": "https://stacks.stanford.edu/image/iiif/wy534zh7137/SULAIR_rosette",
-          "profile": "http://iiif.io/api/image/2/level2.json"
-        }
-      },
-      "license": "https://creativecommons.org/publicdomain/mark/1.0/",
-      "seeAlso": {
-        "@id": "https://purl.stanford.edu/ns026jq3113.mods",
-        "format": "application/mods+xml"
-      },
-      "metadata": [
-        {
-          "label": "Available Online",
-          "value": "<a href='https://purl.stanford.edu/ns026jq3113'>https://purl.stanford.edu/ns026jq3113</a>"
-        },
-        {
-          "label": "Title",
-          "value": "[Nahuatl glyph map of the Aztec migration from Aztlan to Tenochtitlán]"
-        },
-        {
-          "label": "Creator",
-          "value": "[Agostino Aglio?]"
-        },
-        {
-          "label": "Type",
-          "value": "Cartographic image"
-        },
-        {
-          "label": "Type",
-          "value": "Maps."
-        },
-        {
-          "label": "Type",
-          "value": "Manuscript maps."
-        },
-        {
-          "label": "Format",
-          "value": "1 map : manuscript ; on sheet 36.8 x 42 cm"
-        },
-        {
-          "label": "Language",
-          "value": "English"
-        },
-        {
-          "label": "Description",
-          "value": "Relief shown pictorially"
-        },
-        {
-          "label": "Description",
-          "value": "Includes manuscript notation: \"Facsimile of a Mexican Hieroglyphic Painting or Picture writing embodying in one Picture the [missing text] tongues from a bird, their setting out under different leaders, their migration from the country they stopped at and the number of years they remained at each spot.  Taken from the Giro[glyph?] having been refurnished and authenticated by A De Humboldtt in his Atlas Pittoresque and [Agostino] Aglio in h[is] [drawings?] / British [Library or Museum?] on, 9 August 183[4?]\""
-        },
-        {
-          "label": "Description",
-          "value": "From dealer description: \"A circa 1830 hand-drawn pen and ink copy of the Sigüenza Map, a 16th-century Aztec document housed in Mexico City's Museo Nacional de Antropología. The map derives its name from its association with Carlos de Sigüenza y Góngora, a revered Mexican intellectual, who was among the first to study and value the depth of Aztec history and culture. It traces the Aztec migration from the 9th to the 13th century A.D. from Aztlan to the founding of Tenochtitlán, now Mexico City.  This map is a vivid pictorial narrative that depicts the Aztecs' sacred migration journey to what is now central Mexico. It stands as a foundational visual icon of Aztec culture and society. Importantly, it portrays the historical and symbolic establishment of the city of Tenochtitlan, as well as its sister city, the marketplace altepetl of Tlaltelolco. The map is adorned with hieroglyphs, place glyphs, depictions of Indian principals, and pivotal historical scenes.\n\nThe present manuscript example was commissioned in the 1830s by Captain William Henry Shippard.... Shippard avidly collected and studied early Mexican history for his various museum schemes that never got off the ground.  [This copy] may have been drawn by Agostino Aglio, who was known to have made copies of Mesoamerican manuscripts in the British Library for Lord Kingsborough, among others, in the first decades of the 19th-century.\""
-        },
-        {
-          "label": "Subject",
-          "value": "Aztlán"
-        },
-        {
-          "label": "Subject",
-          "value": "Mexico City (Mex.)"
-        },
-        {
-          "label": "Date",
-          "value": "1834"
-        },
-        {
-          "label": "Date",
-          "value": "1834"
-        },
-        {
-          "label": "Identifier",
-          "value": "https://purl.stanford.edu/ns026jq3113"
-        },
-        {
-          "label": "Record published",
-          "value": "2026-07-06"
-        }
-      ],
-      "description": "Relief shown pictorially",
-      "thumbnail": {
-        "@id": "https://stacks.stanford.edu/image/iiif/ns026jq3113%2Fns026jq3113_0001/full/!400,400/0/default.jpg",
-        "@type": "dctypes:Image",
-        "format": "image/jpeg",
-        "service": {
-          "@context": "http://iiif.io/api/image/2/context.json",
-          "@id": "https://stacks.stanford.edu/image/iiif/ns026jq3113%2Fns026jq3113_0001",
-          "profile": "http://iiif.io/api/image/2/level2.json"
-        },
-        "width": 400,
-        "height": 334
-      },
-      "sequences": [
-        {
-          "@id": "https://purl.stanford.edu/ns026jq3113/iiif/manifest#sequence-1",
-          "@type": "sc:Sequence",
-          "label": "Current order",
-          "viewingDirection": "left-to-right",
-          "canvases": [
-            {
-              "@id": "https://purl.stanford.edu/ns026jq3113/iiif/canvas/cocina-fileSet-ns026jq3113-ns026jq3113_1",
-              "@type": "sc:Canvas",
-              "label": "Image 1",
-              "height": 9989,
-              "width": 11968,
-              "rendering": [
-                {
-                  "@id": "https://stacks.stanford.edu/file/ns026jq3113/ns026jq3113_0001.jp2",
-                  "label": "Original source file (53 MB)",
-                  "format": "image/jp2"
-                }
-              ],
-              "images": [
-                {
-                  "@id": "https://purl.stanford.edu/ns026jq3113/iiif/annotation/https:%2F%2Fcocina.sul.stanford.edu%2Ffile%2F7390da55-d7e7-476f-a0c5-20083c3c8303",
-                  "@type": "oa:Annotation",
-                  "motivation": "sc:painting",
-                  "on": "https://purl.stanford.edu/ns026jq3113/iiif/canvas/cocina-fileSet-ns026jq3113-ns026jq3113_1",
-                  "resource": {
-                    "@id": "https://stacks.stanford.edu/image/iiif/ns026jq3113%2Fns026jq3113_0001/full/full/0/default.jpg",
-                    "@type": "dctypes:Image",
-                    "format": "image/jpeg",
-                    "height": 9989,
-                    "width": 11968,
-                    "service": {
-                      "@context": "http://iiif.io/api/image/2/context.json",
-                      "@id": "https://stacks.stanford.edu/image/iiif/ns026jq3113%2Fns026jq3113_0001",
-                      "profile": "http://iiif.io/api/image/2/level2.json"
-                    }
-                  }
-                }
-              ],
-              "metadata": [
-                {
-                  "label": "local_note",
-                  "value": "[2026-09-24]: Added -kl"
-                }
-              ]
-            }
-          ]
-        }
-      ]
     },
     {
       "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -1974,12 +1299,12 @@
     {
       "@context": "http://iiif.io/api/presentation/2/context.json",
       "@type": "sc:Manifest",
-      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~364277~90131792/manifest",
-      "label": "(Map 7) Tokyo mei hitori annai (Tokyo Guide Book)",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~376110~90142263/manifest",
+      "label": "(Overlay Composite) Atlas Lunaire Pl. VII Société Belge d’Astronomie",
       "attribution": "David Rumsey Historical Map Collection",
       "service": {
         "@context": "http://iiif.io/api/search/1/context.json",
-        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~364277~90131792/search",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~376110~90142263/search",
         "profile": "http://iiif.io/api/search/1/search"
       },
       "sequences": [
@@ -1987,211 +1312,42 @@
           "@type": "sc:Sequence",
           "canvases": [
             {
-              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~364277~90131792/canvas/c1",
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~376110~90142263/canvas/c1",
               "@type": "sc:Canvas",
-              "label": "(Map 7) Tokyo mei hitori annai (Tokyo Guide Book)",
+              "label": "(Overlay Composite) Atlas Lunaire Pl. VII Société Belge d’Astronomie",
               "description": "",
               "metadata": [
                 {
                   "label": "Author",
-                  "value": "Shimizudo"
+                  "value": "Loewy, Maurice (1833-1907)"
                 },
-                {
-                  "label": "Date",
-                  "value": "1890"
-                },
-                {
-                  "label": "Short Title",
-                  "value": "(Map 7) Tokyo mei hitori annai (Tokyo Guide Book)"
-                },
-                {
-                  "label": "Publisher",
-                  "value": "Shimizudo"
-                },
-                {
-                  "label": "Publisher Location",
-                  "value": "Tokyo"
-                },
-                {
-                  "label": "Type",
-                  "value": "Atlas Map"
-                },
-                {
-                  "label": "Obj Height cm",
-                  "value": "8"
-                },
-                {
-                  "label": "Obj Width cm",
-                  "value": "33"
-                },
-                {
-                  "label": "City",
-                  "value": "Tokyo (Japan)"
-                },
-                {
-                  "label": "Subject",
-                  "value": "Tourism"
-                },
-                {
-                  "label": "Full Title",
-                  "value": "(Map 7) Tokyo mei hitori annai (Tokyo Guide Book)"
-                },
-                {
-                  "label": "List No",
-                  "value": "16142.010"
-                },
-                {
-                  "label": "Series No",
-                  "value": "10"
-                },
-                {
-                  "label": "Publication Author",
-                  "value": "Shimizudo"
-                },
-                {
-                  "label": "Pub Date",
-                  "value": "1890"
-                },
-                {
-                  "label": "Pub Title",
-                  "value": "Tokyo mei hitori annai (Tokyo Guide Book)"
-                },
-                {
-                  "label": "Pub Reference",
-                  "value": "No copies listed in OCLC."
-                },
-                {
-                  "label": "Pub Note",
-                  "value": "\"Revised and corrected edition. Comprised of seven sightseeing routes through 1890s Tokyo, the top half of each leaf is an engraved map of sightseeing areas such as temples, gardens, banks, theaters, bridges, an amusement park, and a foreigner’s quarter. Notes on the bottom half. The final three leaves contain useful references such as the ideal places to visit every month for flower viewing.\" (Ursus Books, 2024)"
-                },
-                {
-                  "label": "Pub List No",
-                  "value": "16142.000"
-                },
-                {
-                  "label": "Pub Type",
-                  "value": "Guide Book"
-                },
-                {
-                  "label": "Pub Type",
-                  "value": "City Atlas"
-                },
-                {
-                  "label": "Pub Maps",
-                  "value": "25"
-                },
-                {
-                  "label": "Pub Height cm",
-                  "value": "8"
-                },
-                {
-                  "label": "Pub Width cm",
-                  "value": "18"
-                },
-                {
-                  "label": "Image No",
-                  "value": "16142010.jp2"
-                },
-                {
-                  "label": "Download 1",
-                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/213/16142010.jp2 target=_blank>Full Image Download in JP2 Format</a>"
-                },
-                {
-                  "label": "Download 2",
-                  "value": "<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>"
-                },
-                {
-                  "label": "Authors",
-                  "value": "Shimizudo"
-                },
-                {
-                  "label": "local_note",
-                  "value": "[2026-09-24]: Added -kl"
-                }
-              ],
-              "thumbnail": {
-                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~364277~90131792/full/!96,96/0/default.jpg",
-                "format": "image/jpeg"
-              },
-              "images": [
-                {
-                  "@type": "oa:Annotation",
-                  "motivation": "sc:painting",
-                  "resource": {
-                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~364277~90131792/full/!1024,1024/0/default.jpg",
-                    "@type": "dctypes:Image",
-                    "service": {
-                      "@context": "http://iiif.io/api/image/2/context.json",
-                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~364277~90131792",
-                      "profile": "http://iiif.io/api/image/2/level1.json",
-                      "protocol": "http://iiif.io/api/image"
-                    },
-                    "format": "image/jpeg",
-                    "width": 8664,
-                    "height": 2374
-                  },
-                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~364277~90131792/canvas/c1"
-                }
-              ],
-              "otherContent": [
-                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~364277~90131792/list/luna"
-              ],
-              "width": 8664,
-              "height": 2374
-            }
-          ]
-        }
-      ],
-      "logo": {
-        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
-        "format": "image/png"
-      },
-      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~364277~90131792"
-    },
-    {
-      "@context": "http://iiif.io/api/presentation/2/context.json",
-      "@type": "sc:Manifest",
-      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~373556~90140289/manifest",
-      "label": "長江形勢一覽圖 = Changjiang xingshi yilan tu = General Survey Map of the Yangtze River Situation",
-      "attribution": "David Rumsey Historical Map Collection",
-      "service": {
-        "@context": "http://iiif.io/api/search/1/context.json",
-        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~373556~90140289/search",
-        "profile": "http://iiif.io/api/search/1/search"
-      },
-      "sequences": [
-        {
-          "@type": "sc:Sequence",
-          "canvases": [
-            {
-              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~373556~90140289/canvas/c1",
-              "@type": "sc:Canvas",
-              "label": "長江形勢一覽圖 = Changjiang xingshi yilan tu = General Survey Map of the Yangtze River Situation",
-              "description": "",
-              "metadata": [
                 {
                   "label": "Author",
-                  "value": "周友勝 (Zhou Yousheng, style name 雲如 Yunru)"
+                  "value": "Puiseux, Pierre (1855-1928)"
                 },
                 {
                   "label": "Date",
-                  "value": "1922"
+                  "value": "1899"
                 },
                 {
                   "label": "Short Title",
-                  "value": "長江形勢一覽圖 = Changjiang xingshi yilan tu = General Survey Map of the Yangtze River Situation"
+                  "value": "(Overlay Composite) Atlas Lunaire Pl. VII Société Belge d’Astronomie"
                 },
                 {
                   "label": "Publisher",
-                  "value": "上海交通路新學會社總店 (Shanghai Jiaotong Road New Society Headquarters)"
+                  "value": "Société Belge d'Astronomie"
                 },
                 {
                   "label": "Publisher Location",
-                  "value": "Shanghai"
+                  "value": "Brussels"
                 },
                 {
                   "label": "Type",
-                  "value": "Separate Map"
+                  "value": "Celestial Map"
+                },
+                {
+                  "label": "Type",
+                  "value": "Index Map"
                 },
                 {
                   "label": "Obj Height cm",
@@ -2199,253 +1355,75 @@
                 },
                 {
                   "label": "Obj Width cm",
-                  "value": "367"
-                },
-                {
-                  "label": "Note",
-                  "value": "Preface on right end of scroll: \"This map was drawn by Mr. Zhou Yunqing of Zhejiang. With great diligence he compiled and completed it, leaving a valuable record. The Yangtze River, stretching a myriad li, flows through countless mountains and regions, touching upon the prosperity of China. Its terrain and strategic importance cannot be overstated. For those who study military defense, administration, or geography, such a map is an indispensable reference. I, Lü Jingyu (style name of Lü Haipiao), therefore respectfully inscribe this preface, so that it may aid scholars and travelers in their study of the river’s vastness and beauty.\" Signature at end: 仁和高野雀拜書謹識 錢佩 (Respectfully written and recorded by Qian Pei of Renhe, Gao Yeque)"
-                },
-                {
-                  "label": "Country",
-                  "value": "China"
+                  "value": "26"
                 },
                 {
                   "label": "Region",
-                  "value": "Yangtze River (China)"
-                },
-                {
-                  "label": "Full Title",
-                  "value": "長江形勢一覽圖 = Changjiang xingshi yilan tu = General Survey Map of the Yangtze River Situation"
-                },
-                {
-                  "label": "List No",
-                  "value": "16635.000"
-                },
-                {
-                  "label": "Publication Author",
-                  "value": "周友勝 (Zhou Yousheng, style name 雲如 Yunru)"
-                },
-                {
-                  "label": "Pub Date",
-                  "value": "1922"
-                },
-                {
-                  "label": "Pub Title",
-                  "value": "長江形勢一覽圖 = Changjiang xingshi yilan tu = General Survey Map of the Yangtze River Situation"
-                },
-                {
-                  "label": "Pub Note",
-                  "value": "Large overview map of the Yangtze River, compiled by Zhou Yousheng (style name Yunru) and published in Shanghai in early 1922. Printed by the Rixin Printing Company on Ou-jia Road, and issued by the New Society Headquarters on Jiaotong Road. Title translates as “General Survey Map of the Yangtze River Situation.” Includes prefatory inscriptions and seals by Lü Haipiao (also known as Lü Jingyu) and Qian Pei of Renhe. Printed in December 1921 (Xinyou year) and released in January 1922 (Renxu year). Price at issue was one silver yuan. Intended as a strategic and geographic reference for the Yangtze basin, highlighting navigation, terrain, and military significance."
-                },
-                {
-                  "label": "Pub List No",
-                  "value": "16635.000"
-                },
-                {
-                  "label": "Pub Type",
-                  "value": "Separate Map"
-                },
-                {
-                  "label": "Pub Height cm",
-                  "value": "32"
-                },
-                {
-                  "label": "Pub Width cm",
-                  "value": "367"
-                },
-                {
-                  "label": "Image No",
-                  "value": "16635000.jp2"
-                },
-                {
-                  "label": "Download 1",
-                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/218/16635000.jp2 target=_blank>Full Image Download in JP2 Format</a>"
-                },
-                {
-                  "label": "Download 2",
-                  "value": "<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>"
-                },
-                {
-                  "label": "Authors",
-                  "value": "周友勝 (Zhou Yousheng, style name 雲如 Yunru)"
-                }
-              ],
-              "thumbnail": {
-                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~373556~90140289/full/!96,96/0/default.jpg",
-                "format": "image/jpeg"
-              },
-              "images": [
-                {
-                  "@type": "oa:Annotation",
-                  "motivation": "sc:painting",
-                  "resource": {
-                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~373556~90140289/full/!1024,1024/0/default.jpg",
-                    "@type": "dctypes:Image",
-                    "service": {
-                      "@context": "http://iiif.io/api/image/2/context.json",
-                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~373556~90140289",
-                      "profile": "http://iiif.io/api/image/2/level1.json",
-                      "protocol": "http://iiif.io/api/image"
-                    },
-                    "format": "image/jpeg",
-                    "width": 86798,
-                    "height": 7732
-                  },
-                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~373556~90140289/canvas/c1"
-                }
-              ],
-              "width": 86798,
-              "height": 7732
-            }
-          ]
-        }
-      ],
-      "logo": {
-        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
-        "format": "image/png"
-      },
-      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~373556~90140289"
-    },
-    {
-      "@context": "http://iiif.io/api/presentation/2/context.json",
-      "@type": "sc:Manifest",
-      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~345883~90113358/manifest",
-      "label": "Cлoжнeйшaя кoмпoзициoннaя apxитeктypнaя здaчa.",
-      "attribution": "David Rumsey Historical Map Collection",
-      "service": {
-        "@context": "http://iiif.io/api/search/1/context.json",
-        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~345883~90113358/search",
-        "profile": "http://iiif.io/api/search/1/search"
-      },
-      "sequences": [
-        {
-          "@type": "sc:Sequence",
-          "canvases": [
-            {
-              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~345883~90113358/canvas/c1",
-              "@type": "sc:Canvas",
-              "label": "Cлoжнeйшaя кoмпoзициoннaя apxитeктypнaя здaчa.",
-              "description": "",
-              "metadata": [
-                {
-                  "label": "Author",
-                  "value": "Chernikhov, I︠A︡kov Georgievich"
-                },
-                {
-                  "label": "Author",
-                  "value": "Kopanit︠s︡yn, D."
-                },
-                {
-                  "label": "Author",
-                  "value": "Pavlova, E."
-                },
-                {
-                  "label": "Date",
-                  "value": "1933"
-                },
-                {
-                  "label": "Short Title",
-                  "value": "Cлoжнeйшaя кoмпoзициoннaя apxитeктypнaя здaчa."
-                },
-                {
-                  "label": "Publisher",
-                  "value": "Meshdunarodnaja Kniga"
-                },
-                {
-                  "label": "Publisher Location",
-                  "value": "Leningrad"
-                },
-                {
-                  "label": "Type",
-                  "value": "View"
-                },
-                {
-                  "label": "Obj Height cm",
-                  "value": "15"
-                },
-                {
-                  "label": "Obj Width cm",
-                  "value": "13"
-                },
-                {
-                  "label": "Note",
-                  "value": "View of \"architectural fiction\" - the most complex composition, demonstrating a combination of solid structural elements with lattice trusses. Colored lithograph. View is 15 x 13 cm, on sheet 31 x 21 cm. With descriptive text."
+                  "value": "Moon"
                 },
                 {
                   "label": "Subject",
-                  "value": "Architecture"
+                  "value": "Moon"
                 },
                 {
                   "label": "Full Title",
-                  "value": "Cлoжнeйшaя кoмпoзициoннaя apxитeктypнaя здaчa."
+                  "value": "(Overlay Composite) Atlas Lunaire Pl. VII Société Belge d’Astronomie"
                 },
                 {
                   "label": "List No",
-                  "value": "14398.100"
+                  "value": "16843.028"
                 },
                 {
                   "label": "Series No",
-                  "value": "100"
-                },
-                {
-                  "label": "Page No",
-                  "value": "85"
+                  "value": "28"
                 },
                 {
                   "label": "Publication Author",
-                  "value": "Chernikhov, I︠A︡kov Georgievich"
+                  "value": "Loewy, Maurice (1833-1907)"
                 },
                 {
                   "label": "Publication Author",
-                  "value": "Kopanit︠s︡yn, D."
-                },
-                {
-                  "label": "Publication Author",
-                  "value": "Pavlova, E."
+                  "value": "Puiseux, Pierre (1855-1928)"
                 },
                 {
                   "label": "Pub Date",
-                  "value": "1933"
+                  "value": "1899"
                 },
                 {
                   "label": "Pub Title",
-                  "value": "APXИTEKTУPHЫIE ФAHTAЗИИ. 101 KOMПOЗИЦИЯ B KPACKAX, 101 APXИTEKTУPHAЯ MИHИATЮPA. И CПOЛHEHЫ ПPИ УЧACTИИ Д. KOПAHИЦЫHA И E. ПABЛOBOЙ. ЯKOB ЧEPHИXOB. ЛEHИHГPAД, 1933. ИЗДAHИE ЛEHИHГPAДCKOГO OБЛACTHOГO OTДEЛEHИЯ BCECOЮ З HOГO OБъEДИHEHИЯ \"MEЖДУHAPOДHAЯ KHИГA\"."
-                },
-                {
-                  "label": "Pub Reference",
-                  "value": "Senkevitch, Soviet architecture, 1917-1967 (Charlottesville, 1974), 205. Centre Pompidou, Paris-Moscou, 1900-1930 (Paris, 1979), 567. Andel, 301-302."
+                  "value": "Atlas Lunaire, publié par la Société Belge d’Astronomie, reproduisant à une échelle réduite aux deux cinquièmes les agrandissements photographiques de Messieurs M. Lœwy, directeur de l’Observatoire de Paris, et P. Puiseux, astronome à l’Observatoire de Paris. Fascicule I. Bruxelles, Société Belge d’Astronomie, 1899. (Lunar Atlas, published by the Belgian Astronomical Society, reproducing at a reduced scale of two-fifths the photographic enlargements by Messrs. M. Lœwy, Director of the Paris Observatory, and P. Puiseux, astronomer at the Paris Observatory. Fascicle I-12. Brussels: Belgian Astronomical Society, 1899.)"
                 },
                 {
                   "label": "Pub Note",
-                  "value": "APXИTEKTУPHЫIE ФAHTAЗИИ, by Chernikhov, published in Leningrad by Meshdunarodnaja Kniga, 1933. Title translates to: Architectural fictions. Bound in board, covered in original blue cloth. Title debossed on both front cover and spine. Collation: [1-13], 14-102, 101 leaves of plates. Volume includes four parallel title pages, beginning with Russian and followed by translations in German, French and English, as well as a colophon in Russian. Table of contents for text lists section titles with associated page numbers. Section titles translate to: I. Types of architectural design -- II. Technical processes -- III. Imaging methods -- IV. Composite processes -- V. Techniques and display types -- VI. Methods for detecting architectural designs -- VII. Basic principles of building architectural fictions. Table of contents for plates lists titles of illustrations with associated plate numbers. Text illustrated by miniature images of architecture in black and white. Plates feature views of architectural fictions, in color and accompanied by descriptive text. Besides title page translations, all other text appears in Russian. “First edition of the landmark work of Soviet architectural fantasies, lavishly illustrated with dramatic designs of possible cities, factories and monumental buildings. This is the best and most important publication by Chernykov, and one of the most exciting books on architecture issued in the twentieth century. Published in collaboration with D. Kopanitzin and E. Pavlova, this first edition was limited to 3,000 copies.” - Ursus Books & Gallery, New York."
+                  "value": "Reduced-format edition, reproducing at two-fifths scale the celebrated photographic enlargements by Loewy and Puiseux from their Atlas Lunaire. Title, 71 plates, plus 3 additional plates. Issued in 12 parts. 71 photographic plates printed by half-tone from the original lunar heliogravure photographs, each with printed tissue overlays. Extra-illustrated with three smaller heliogravure plates (approx. 25 × 18 cm) of the entire Moon by Fillon & Heuse after Loewy and Puiseux, captioned “Lunar photograph obtained at the Paris Observatory” and Lunar Atlas Plates A–C, and with a later map of lunar craters. Later half-cloth, preserving original printed wrappers from one part (boards bowed). Condition: some headlines shaved by the binder, a few plates lightly creased, occasional light wear or light soiling; one plate (XXIX) lacking its printed overlay and instead supplied with a contemporary pen-and-ink annotated overlay, likely original to the issue. The rare reduced-format edition of Loewy and Puiseux’s Atlas Lunaire, issued by the Société Belge d’Astronomie for its members and never sold commercially. Published in fascicules concurrently with the monumental large-format edition produced by the Imprimerie Nationale between 1896 and 1910, this version reproduced all 71 plates at a more portable scale for use by amateur and professional astronomers alike. As stated in the Bulletin of the Belgian Astronomical Society (1897–1898), the atlas was intended as both a practical vade mecum for lunar observation and a precise scientific reference; members could purchase individual issues for 5 francs. With Society membership numbering only 200–400, and not all members subscribing, the print run was necessarily small. Loewy, director of the Paris Observatory, and Puiseux devoted over fourteen years to the project, working under the severe constraints of atmospheric conditions: only 50–60 suitable nights per year, yielding just four or five usable negatives. In total, nearly six thousand photographs were taken over some five hundred evenings. The resulting atlas has been described as “the ultimate achievement of nineteenth-century astronomical photography” (The Photobook), and remained the standard photographic map of the Moon until the advent of space probes in the 1960s; images of substantially higher quality were not obtained until the 1970s. Rare: ABPC and AE record no copies at auction. WorldCat lists mostly incomplete examples, typically with 35–53 plates. As with the large-format edition, this reduced edition was complete at 71 plates; copies are frequently encountered without text, perhaps as issued. Cf. The Photobook, vol. I, pp. 54–55 (first edition)."
                 },
                 {
                   "label": "Pub List No",
-                  "value": "14398.000"
+                  "value": "16843.000"
                 },
                 {
                   "label": "Pub Type",
-                  "value": "Geography Book"
+                  "value": "Celestial Atlas"
                 },
                 {
                   "label": "Pub Maps",
-                  "value": "101"
+                  "value": "71"
                 },
                 {
                   "label": "Pub Height cm",
-                  "value": "31"
+                  "value": "33"
                 },
                 {
                   "label": "Pub Width cm",
-                  "value": "23"
+                  "value": "26"
                 },
                 {
                   "label": "Image No",
-                  "value": "14398100.jp2"
+                  "value": "16843028.jp2"
                 },
                 {
                   "label": "Download 1",
-                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/199/14398100.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/222/16843028.jp2 target=_blank>Full Image Download in JP2 Format</a>"
                 },
                 {
                   "label": "Download 2",
@@ -2453,11 +1431,11 @@
                 },
                 {
                   "label": "Authors",
-                  "value": "Chernikhov, I︠A︡kov Georgievich; Kopanit︠s︡yn, D.; Pavlova, E."
+                  "value": "Loewy, Maurice (1833-1907); Puiseux, Pierre (1855-1928)"
                 }
               ],
               "thumbnail": {
-                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~345883~90113358/full/!96,96/0/default.jpg",
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~376110~90142263/full/!96,96/0/default.jpg",
                 "format": "image/jpeg"
               },
               "images": [
@@ -2465,26 +1443,23 @@
                   "@type": "oa:Annotation",
                   "motivation": "sc:painting",
                   "resource": {
-                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~345883~90113358/full/!1024,1024/0/default.jpg",
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~376110~90142263/full/!1024,1024/0/default.jpg",
                     "@type": "dctypes:Image",
                     "service": {
                       "@context": "http://iiif.io/api/image/2/context.json",
-                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~345883~90113358",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~376110~90142263",
                       "profile": "http://iiif.io/api/image/2/level1.json",
                       "protocol": "http://iiif.io/api/image"
                     },
                     "format": "image/jpeg",
-                    "width": 5062,
-                    "height": 7556
+                    "width": 6347,
+                    "height": 8044
                   },
-                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~345883~90113358/canvas/c1"
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~376110~90142263/canvas/c1"
                 }
               ],
-              "otherContent": [
-                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~345883~90113358/list/luna"
-              ],
-              "width": 5062,
-              "height": 7556
+              "width": 6347,
+              "height": 8044
             }
           ]
         }
@@ -2493,7 +1468,7 @@
         "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
         "format": "image/png"
       },
-      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~345883~90113358"
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~376110~90142263"
     },
     {
       "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -2880,6 +1855,199 @@
     {
       "@context": "http://iiif.io/api/presentation/2/context.json",
       "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~366015~90133270/manifest",
+      "label": "Selenographic positions : Vaporum C4-d.",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~366015~90133270/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~366015~90133270/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Selenographic positions : Vaporum C4-d.",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Arthur, D. W. G."
+                },
+                {
+                  "label": "Author",
+                  "value": "Whitaker, Ewen A. (Ewen Adair)"
+                },
+                {
+                  "label": "Date",
+                  "value": "1960"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Selenographic positions : Vaporum C4-d."
+                },
+                {
+                  "label": "Publisher",
+                  "value": "University of Arizona Press"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Tucson"
+                },
+                {
+                  "label": "Type",
+                  "value": "Aerial Photograph"
+                },
+                {
+                  "label": "Type",
+                  "value": "Celestial Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "41"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "51"
+                },
+                {
+                  "label": "Note",
+                  "value": "Two photographs of the moon - in black and white - showing part of the globe: selenographic positions of Vaporum C4-d, with gridlines in second photograph. Includes legend and citation of authorities for grid positioning (S. A. Saunder, J. Franz, and D. W. G. Arthur). First photograph 41 x 27 cm; second 41 x 25, on sheet 46 x 55 cm. In Part 1."
+                },
+                {
+                  "label": "Region",
+                  "value": "Moon"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Celestial"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "Selenographic positions : Vaporum C4-d. Compiled by D. W. G. Arthur and E. A. Whitaker."
+                },
+                {
+                  "label": "List No",
+                  "value": "14058.018"
+                },
+                {
+                  "label": "Series No",
+                  "value": "18"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Arthur, D. W. G."
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Whitaker, Ewen A. (Ewen Adair)"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Aeronautical Chart and Information Center (U.S.)"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Kuiper, Gerard P. (Gerard Peter), 1905-1973"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "University of Arizona. Lunar and Planetary Laboratory"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1961"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Orthographic atlas of the moon : Supplement number one to the Photographic lunar atlas. Compiled by D. W. G. Arthur and E. A. Whitaker; produced with the technical assistance of the Air Force Aeronautical Chart and Information Center; Gerard P. Kuiper, Editor. Edition A : Showing the Standard orthographic coordinate grid. Part 1 : Central area. Contributions, Lunar and Planetary Laboratory, No. 1. The University of Arizona Press, 1960."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "The Orthographic atlas of the moon : Supplement one was published in 1961 by The University of Arizona Press. It contains two parts: Part 1 created in 1960, and Part 2 in 1961. Part 1 includes 31 sheets with 34 photographs and 2 charts; Part 2, 32 sheets with 37 photographs and 1 chart. Together, the volume consists of a total 63 sheets with 65 photographs and 3 charts. According to the Introduction: the most representative photographs of each of the 44 fields or provinces into which the visible lunar surface was divided in the Photographic lunar atlas are reproduced, supplied with the standard orthographic grid ... The Orthographic atlas is a supplement to the Photographic lunar atlas, published in 1960 by The University of Chicago Press (see Pub List No. 14057.000). In addition, the Orthographic atlas was followed by a second supplement: the Rectified lunar atlas : Supplement two, published in 1963 by the Aeronautical Chart and Information Center, United States Air Force (see Pub List No. 14059.000). The purpose of the Photographic lunar atlas “is to present the surface record of the moon as shown on the best photographs now available” (Introduction). The Rectified lunar atlas contains \"a series of high-quality photographs of the lunar surface as it would appear if viewed from above\" (Introduction). Note on terminology: photographs and charts are differentiated here as follows - photographs are the original representations of the moon, in black and white, and without the overlay of interpretive graphics and text; charts are those same base images, in either brown or blue and white, mediated by overlaid interpretive graphics and text. One could even consider the photographs as art and the charts as maps."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "14058.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Celestial Atlas"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "74"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "47"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "59"
+                },
+                {
+                  "label": "Image No",
+                  "value": "14058018.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/213/14058018.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Arthur, D. W. G.; Whitaker, Ewen A. (Ewen Adair)"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~366015~90133270/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~366015~90133270/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~366015~90133270",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 8956,
+                    "height": 7176
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~366015~90133270/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~366015~90133270/list/luna"
+              ],
+              "width": 8956,
+              "height": 7176
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~366015~90133270"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
       "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~365646~90132902/manifest",
       "label": "Havenhurst 8200 Every Building On The Sunset Strip",
       "attribution": "David Rumsey Historical Map Collection",
@@ -3216,301 +2384,6 @@
     {
       "@context": "http://iiif.io/api/presentation/2/context.json",
       "@type": "sc:Manifest",
-      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~374209~90140801/manifest",
-      "label": "San Francisco",
-      "attribution": "David Rumsey Historical Map Collection",
-      "service": {
-        "@context": "http://iiif.io/api/search/1/context.json",
-        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~374209~90140801/search",
-        "profile": "http://iiif.io/api/search/1/search"
-      },
-      "sequences": [
-        {
-          "@type": "sc:Sequence",
-          "canvases": [
-            {
-              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~374209~90140801/canvas/c1",
-              "@type": "sc:Canvas",
-              "label": "San Francisco",
-              "description": "",
-              "metadata": [
-                {
-                  "label": "Author",
-                  "value": "Nishino, Sohei"
-                },
-                {
-                  "label": "Date",
-                  "value": "2016"
-                },
-                {
-                  "label": "Short Title",
-                  "value": "San Francisco"
-                },
-                {
-                  "label": "Type",
-                  "value": "Artwork"
-                },
-                {
-                  "label": "Obj Height cm",
-                  "value": "170"
-                },
-                {
-                  "label": "Obj Width cm",
-                  "value": "256"
-                },
-                {
-                  "label": "Reference",
-                  "value": "https://soheinishino.net/dioramamap-sanfrancisco"
-                },
-                {
-                  "label": "City",
-                  "value": "San Francisco (Calif,)"
-                },
-                {
-                  "label": "Full Title",
-                  "value": "San Francisco"
-                },
-                {
-                  "label": "List No",
-                  "value": "16705.000"
-                },
-                {
-                  "label": "Publication Author",
-                  "value": "Nishino, Sohei"
-                },
-                {
-                  "label": "Pub Date",
-                  "value": "2016"
-                },
-                {
-                  "label": "Pub Title",
-                  "value": "San Francisco"
-                },
-                {
-                  "label": "Pub Reference",
-                  "value": "Image copyright by Sohei Nishino."
-                },
-                {
-                  "label": "Pub Note",
-                  "value": "Initially developed and conceptualized during his undergraduate studies at the Osaka University of the Arts in Japan, Sohei Nishino's project, Diorama Maps, provides an uncanny reimagining of various twenty-first century cities. Produced in 2016, Diorama Map: San Francisco is a stunning example of Nishino's novel approach. While wandering around a city of prominence, Nishino produces a plethora of images, frequently composed from a high-angle perspective. These pictures capture quintessential landmarks, atmospheric elements, and at times, residents on the street. After the image-making phase, he meticulously constructs massive collages using bits and pieces from over 4,000 prints. Once satisfied with his handiwork and layout, Nishino photographs the final collage – resulting in a kaleidoscopic image, sometimes up to seven feet wide. The impressive scale invites the viewer to inspect various details of the scene closely. Importantly, Nishino's maps aren't necessarily geographically accurate, a purposeful choice as the artist desires to convey the sensory and experiential aspects of a place:  \n“... a trace of the way in which I walked through it, an embodiment of my awareness, a microcosm of the life and energy that comprises the city.”\n—Sohei Nishino"
-                },
-                {
-                  "label": "Pub List No",
-                  "value": "16705.000"
-                },
-                {
-                  "label": "Pub Type",
-                  "value": "Artwork"
-                },
-                {
-                  "label": "Pub Height cm",
-                  "value": "170"
-                },
-                {
-                  "label": "Pub Width cm",
-                  "value": "256"
-                },
-                {
-                  "label": "Image No",
-                  "value": "16705000.jp2"
-                },
-                {
-                  "label": "Authors",
-                  "value": "Nishino, Sohei"
-                },
-                {
-                  "label": "local_note",
-                  "value": "[2026-09-23]: https://www.soheinishino.net/"
-                }
-              ],
-              "thumbnail": {
-                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~374209~90140801/full/!96,96/0/default.jpg",
-                "format": "image/jpeg"
-              },
-              "images": [
-                {
-                  "@type": "oa:Annotation",
-                  "motivation": "sc:painting",
-                  "resource": {
-                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~374209~90140801/full/!0,0/0/default.jpg",
-                    "@type": "dctypes:Image",
-                    "service": {
-                      "@context": "http://iiif.io/api/image/2/context.json",
-                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~374209~90140801",
-                      "profile": "http://iiif.io/api/image/2/level1.json",
-                      "protocol": "http://iiif.io/api/image"
-                    },
-                    "format": "image/jpeg",
-                    "width": 1536,
-                    "height": 1011
-                  },
-                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~374209~90140801/canvas/c1"
-                }
-              ],
-              "otherContent": [
-                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~374209~90140801/list/luna"
-              ],
-              "width": 0,
-              "height": 0
-            }
-          ]
-        }
-      ],
-      "logo": {
-        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
-        "format": "image/png"
-      },
-      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~374209~90140801"
-    },
-    {
-      "@context": "http://iiif.io/api/presentation/2/context.json",
-      "@type": "sc:Manifest",
-      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~340582~90108833/manifest",
-      "label": "Routes/Roots",
-      "attribution": "David Rumsey Historical Map Collection",
-      "service": {
-        "@context": "http://iiif.io/api/search/1/context.json",
-        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~340582~90108833/search",
-        "profile": "http://iiif.io/api/search/1/search"
-      },
-      "sequences": [
-        {
-          "@type": "sc:Sequence",
-          "canvases": [
-            {
-              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~340582~90108833/canvas/c1",
-              "@type": "sc:Canvas",
-              "label": "Routes/Roots",
-              "description": "",
-              "metadata": [
-                {
-                  "label": "Author",
-                  "value": "Zheng, Yunxin (Connie)"
-                },
-                {
-                  "label": "Date",
-                  "value": "2021"
-                },
-                {
-                  "label": "Short Title",
-                  "value": "Routes/Roots"
-                },
-                {
-                  "label": "Type",
-                  "value": "Artwork"
-                },
-                {
-                  "label": "Obj Height cm",
-                  "value": "153"
-                },
-                {
-                  "label": "Obj Width cm",
-                  "value": "312"
-                },
-                {
-                  "label": "Note",
-                  "value": "Mixed media on silkscreen and cyanotype print. Map of migratory routes of major food plants from the past several millennia. \"Routes/Roots traces the ways in which major food plants — from peppers to watermelons to coffee — have traversed the world over the past several millennia, along with the human activities that have enabled or necessitated their movement. An incomplete register shaped by the interests and biases of its author, this map nevertheless attempts to record the manifold ways in which colonialism, slavery and capitalistic enterprise have shaped not only what foods we eat and consider ‘native’ to a place, but also how seeds and their fruits can make hostile new landscapes feel like home — or transform fertile soil into unrecognizable fields for industry. When we consider the brutal histories behind many of our favorite foods, what is the true cost of a bag of sugar or a sack of oranges? This work was originally made for inclusion in my solo exhibition new yamfish seed exchange (nyse). Routes/Roots is scaled according to the Gall-Peters map projection, which maps all areas such that they have the correct sizes relative to one another. Many maps today continue to use the Mercator projection, which was originally used for colonial navigation and incorrectly inflates the size of regions according to their distance from the equator, making regions such as Greenland disproportionately large and continents such as Africa disproportionately small.\" Connie Zheng, 2021 https://www.conniezheng.com"
-                },
-                {
-                  "label": "Reference",
-                  "value": "This artwork is copyright by Connie Zheng. Please contact the artist for reproduction or exhibit. https://www.conniezheng.com"
-                },
-                {
-                  "label": "World Area",
-                  "value": "World"
-                },
-                {
-                  "label": "Subject",
-                  "value": "Art"
-                },
-                {
-                  "label": "Subject",
-                  "value": "Food"
-                },
-                {
-                  "label": "Full Title",
-                  "value": "Routes/Roots"
-                },
-                {
-                  "label": "List No",
-                  "value": "10995.000"
-                },
-                {
-                  "label": "Publication Author",
-                  "value": "Zheng, Yunxin (Connie)"
-                },
-                {
-                  "label": "Pub Date",
-                  "value": "2021"
-                },
-                {
-                  "label": "Pub Title",
-                  "value": "Routes/Roots"
-                },
-                {
-                  "label": "Pub List No",
-                  "value": "10995.000"
-                },
-                {
-                  "label": "Pub Type",
-                  "value": "Artwork"
-                },
-                {
-                  "label": "Pub Height cm",
-                  "value": "153"
-                },
-                {
-                  "label": "Pub Width cm",
-                  "value": "312"
-                },
-                {
-                  "label": "Image No",
-                  "value": "10995000.jp2"
-                },
-                {
-                  "label": "Authors",
-                  "value": "Zheng, Yunxin (Connie)"
-                }
-              ],
-              "thumbnail": {
-                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~340582~90108833/full/!96,96/0/default.jpg",
-                "format": "image/jpeg"
-              },
-              "images": [
-                {
-                  "@type": "oa:Annotation",
-                  "motivation": "sc:painting",
-                  "resource": {
-                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~340582~90108833/full/!1024,1024/0/default.jpg",
-                    "@type": "dctypes:Image",
-                    "service": {
-                      "@context": "http://iiif.io/api/image/2/context.json",
-                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~340582~90108833",
-                      "profile": "http://iiif.io/api/image/2/level1.json",
-                      "protocol": "http://iiif.io/api/image"
-                    },
-                    "format": "image/jpeg",
-                    "width": 45757,
-                    "height": 22601
-                  },
-                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~340582~90108833/canvas/c1"
-                }
-              ],
-              "width": 45757,
-              "height": 22601
-            }
-          ]
-        }
-      ],
-      "logo": {
-        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
-        "format": "image/png"
-      },
-      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~340582~90108833"
-    },
-    {
-      "@context": "http://iiif.io/api/presentation/2/context.json",
-      "@type": "sc:Manifest",
       "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~369647~90137022/manifest",
       "label": "First Maps of the Internet",
       "attribution": "David Rumsey Historical Map Collection",
@@ -3693,12 +2566,12 @@
     {
       "@context": "http://iiif.io/api/presentation/2/context.json",
       "@type": "sc:Manifest",
-      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~321998~90091121/manifest",
-      "label": "Arpanet Logical Map, March 1977",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~374209~90140801/manifest",
+      "label": "San Francisco",
       "attribution": "David Rumsey Historical Map Collection",
       "service": {
         "@context": "http://iiif.io/api/search/1/context.json",
-        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~321998~90091121/search",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~374209~90140801/search",
         "profile": "http://iiif.io/api/search/1/search"
       },
       "sequences": [
@@ -3706,377 +2579,22 @@
           "@type": "sc:Sequence",
           "canvases": [
             {
-              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~321998~90091121/canvas/c1",
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~374209~90140801/canvas/c1",
               "@type": "sc:Canvas",
-              "label": "Arpanet Logical Map, March 1977",
+              "label": "San Francisco",
               "description": "",
               "metadata": [
                 {
                   "label": "Author",
-                  "value": "Anonymous"
+                  "value": "Nishino, Sohei"
                 },
                 {
                   "label": "Date",
-                  "value": "1977"
+                  "value": "2016"
                 },
                 {
                   "label": "Short Title",
-                  "value": "Arpanet Logical Map, March 1977"
-                },
-                {
-                  "label": "Type",
-                  "value": "Diagram"
-                },
-                {
-                  "label": "Obj Height cm",
-                  "value": "20"
-                },
-                {
-                  "label": "Obj Width cm",
-                  "value": "26"
-                },
-                {
-                  "label": "Reference",
-                  "value": "See video on Bob Taylor https://www.youtube.com/watch?v=Y0MsrrTo8jY"
-                },
-                {
-                  "label": "Subject",
-                  "value": "Internet"
-                },
-                {
-                  "label": "Full Title",
-                  "value": "Arpanet Logical Map, March 1977"
-                },
-                {
-                  "label": "List No",
-                  "value": "10442.000"
-                },
-                {
-                  "label": "Publication Author",
-                  "value": "Anonymous"
-                },
-                {
-                  "label": "Pub Date",
-                  "value": "2009"
-                },
-                {
-                  "label": "Pub Title",
-                  "value": "Arpanet Logical Map, March 1977"
-                },
-                {
-                  "label": "Pub Note",
-                  "value": "(This diagram is) \"An act of a tech enthusiast who realized Robert W. Taylor was the man who in many ways set the stage for the break-throughs of the 1960's. From his time at NASA to being director at ARPA, he cultivated the talent, set the agenda, held the purse strings and charted the direction of important bodies of thinkers and creators. It was he that planted seed ideas, guided young engineers, while he himself coding and fleshing out some incredibly abstract conceptions into reality. While he won the National Medal for Technology, and the Draper prize, he was always a soft spoken man that deferred successes to others. Even when numerous people began to vie for the title of the \"Father of the Arpanet\", a title he could easily claim, he stated that he only wanted to be known as the \"father of his children\". He was a conceptual prophet that instantly realized that a binary computer was just a machine that could also code language and connect the world, while being a hands on aggregator of talent and vision. This simple photocopied map of the 1977 Arpanet, was signed simply, \"Bob Taylor\".\" Curtis Bird, 2020"
-                },
-                {
-                  "label": "Pub List No",
-                  "value": "10442.000"
-                },
-                {
-                  "label": "Pub Type",
-                  "value": "Diagram"
-                },
-                {
-                  "label": "Pub Height cm",
-                  "value": "20"
-                },
-                {
-                  "label": "Pub Width cm",
-                  "value": "26"
-                },
-                {
-                  "label": "Image No",
-                  "value": "10442000.jp2"
-                },
-                {
-                  "label": "Download 1",
-                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/179/10442000.jp2 target=_blank>Full Image Download in JP2 Format</a>"
-                },
-                {
-                  "label": "Download 2",
-                  "value": "<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>"
-                },
-                {
-                  "label": "Authors",
-                  "value": "Anonymous"
-                }
-              ],
-              "thumbnail": {
-                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~321998~90091121/full/!96,96/0/default.jpg",
-                "format": "image/jpeg"
-              },
-              "images": [
-                {
-                  "@type": "oa:Annotation",
-                  "motivation": "sc:painting",
-                  "resource": {
-                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~321998~90091121/full/!1024,1024/0/default.jpg",
-                    "@type": "dctypes:Image",
-                    "service": {
-                      "@context": "http://iiif.io/api/image/2/context.json",
-                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~321998~90091121",
-                      "profile": "http://iiif.io/api/image/2/level1.json",
-                      "protocol": "http://iiif.io/api/image"
-                    },
-                    "format": "image/jpeg",
-                    "width": 5682,
-                    "height": 4450
-                  },
-                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~321998~90091121/canvas/c1"
-                }
-              ],
-              "otherContent": [
-                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~321998~90091121/list/luna"
-              ],
-              "width": 5682,
-              "height": 4450
-            }
-          ]
-        }
-      ],
-      "logo": {
-        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
-        "format": "image/png"
-      },
-      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~321998~90091121"
-    },
-    {
-      "@context": "http://iiif.io/api/presentation/2/context.json",
-      "@type": "sc:Manifest",
-      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~369634~90137009/manifest",
-      "label": "The Whole Internet",
-      "attribution": "David Rumsey Historical Map Collection",
-      "service": {
-        "@context": "http://iiif.io/api/search/1/context.json",
-        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~369634~90137009/search",
-        "profile": "http://iiif.io/api/search/1/search"
-      },
-      "sequences": [
-        {
-          "@type": "sc:Sequence",
-          "canvases": [
-            {
-              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~369634~90137009/canvas/c1",
-              "@type": "sc:Canvas",
-              "label": "The Whole Internet",
-              "description": "",
-              "metadata": [
-                {
-                  "label": "Author",
-                  "value": "Peacock Maps, Inc."
-                },
-                {
-                  "label": "Author",
-                  "value": "Staple, Gregory C."
-                },
-                {
-                  "label": "Author",
-                  "value": "Slage, Irena"
-                },
-                {
-                  "label": "Author",
-                  "value": "Burch, Hal"
-                },
-                {
-                  "label": "Author",
-                  "value": "Cheswick, Bill"
-                },
-                {
-                  "label": "Date",
-                  "value": "1999"
-                },
-                {
-                  "label": "Short Title",
-                  "value": "The Whole Internet"
-                },
-                {
-                  "label": "Publisher",
-                  "value": "Peacock Maps, Inc."
-                },
-                {
-                  "label": "Publisher Location",
-                  "value": "Washington, D.C."
-                },
-                {
-                  "label": "Type",
-                  "value": "Separate Map"
-                },
-                {
-                  "label": "Obj Height cm",
-                  "value": "70"
-                },
-                {
-                  "label": "Obj Width cm",
-                  "value": "102"
-                },
-                {
-                  "label": "Note",
-                  "value": "Black version. See 16294.000 for the white version."
-                },
-                {
-                  "label": "World Area",
-                  "value": "World"
-                },
-                {
-                  "label": "Subject",
-                  "value": "Communications"
-                },
-                {
-                  "label": "Subject",
-                  "value": "Internet"
-                },
-                {
-                  "label": "Subject",
-                  "value": "Data Visualization"
-                },
-                {
-                  "label": "Subject",
-                  "value": "Oceans; Seas"
-                },
-                {
-                  "label": "Full Title",
-                  "value": "The Whole Internet"
-                },
-                {
-                  "label": "List No",
-                  "value": "16291.000"
-                },
-                {
-                  "label": "Publication Author",
-                  "value": "Peacock Maps, Inc."
-                },
-                {
-                  "label": "Publication Author",
-                  "value": "Staple, Gregory C."
-                },
-                {
-                  "label": "Publication Author",
-                  "value": "Slage, Irena"
-                },
-                {
-                  "label": "Publication Author",
-                  "value": "Burch, Hal"
-                },
-                {
-                  "label": "Publication Author",
-                  "value": "Cheswick, Bill"
-                },
-                {
-                  "label": "Pub Date",
-                  "value": "1999"
-                },
-                {
-                  "label": "Pub Title",
-                  "value": "The Whole Internet"
-                },
-                {
-                  "label": "Pub Note",
-                  "value": "Gregory Staple coined the term “telegeography” in 1990 to describe the unprecedented new reach and impact of the world’s electronic communications networks. Rather than presaging the \"death of distance\", telegeography held that the rise of digital networks reflected an explosion of place (e.g., myriad new dialing codes, URLs, email addresses) that was dividing traditional social groups and splintering physical geographies of space and time .\n\nIn 1993, Staple founded TeleGeography, Inc. (TGI) to research and compile reliable country-by-country statistics on the flow of international telephone and data traffic. TGI also began to map the physical infrastructure underlying these communications streams (subsea cables, landing stations, communication satellites, tele-houses). \n\nBuilding on work published by London’s International Institute of Communications (IIC), where Staple worked in the late 1980’s, TGI issued annual statistical reports with commentary detailing the volume of cross-border telecommunications traffic and network links between over 50 countries - see the reports archive at https://www2.telegeography.com/telegeography-report-archive\n\nIn 1996, TGI began to publish an annual poster-size map  of the world’s submarine telecommunication cables and landing stations - https://www.davidrumsey.com/luna/servlet/s/i6v93f \n \nSome maps also included the footprints of major satellite networks. TGI's 2025 global communications map covers the approximately 600 international subsea cable systems that make up the Internet’s principal electronic backbone - https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~369655~90137030:Submarine-Cable-Map-2025?qvq=q:telegeography;lc:RUMSEY~8~1&mi=37&trs=39  \n\nThis 2014 Medium post recounts the history of TGI’s first 25 years - https://gregstaple.medium.com/mapping-tomorrow-c340d7dcc03f\n\nMap and image are copyright by Lucent Technologies and TeleGeography, Inc. www.telegeography.com  For copies of TeleGeography maps that are still in print, see https://shop.telegeography.com/collections/telecom-maps"
-                },
-                {
-                  "label": "Pub List No",
-                  "value": "16291.000"
-                },
-                {
-                  "label": "Pub Type",
-                  "value": "Separate Map"
-                },
-                {
-                  "label": "Pub Height cm",
-                  "value": "70"
-                },
-                {
-                  "label": "Pub Width cm",
-                  "value": "102"
-                },
-                {
-                  "label": "Image No",
-                  "value": "16291000.jp2"
-                },
-                {
-                  "label": "Authors",
-                  "value": "Peacock Maps, Inc.; Staple, Gregory C.; Slage, Irena; Burch, Hal; Cheswick, Bill"
-                }
-              ],
-              "thumbnail": {
-                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~369634~90137009/full/!96,96/0/default.jpg",
-                "format": "image/jpeg"
-              },
-              "images": [
-                {
-                  "@type": "oa:Annotation",
-                  "motivation": "sc:painting",
-                  "resource": {
-                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~369634~90137009/full/!1024,1024/0/default.jpg",
-                    "@type": "dctypes:Image",
-                    "service": {
-                      "@context": "http://iiif.io/api/image/2/context.json",
-                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~369634~90137009",
-                      "profile": "http://iiif.io/api/image/2/level1.json",
-                      "protocol": "http://iiif.io/api/image"
-                    },
-                    "format": "image/jpeg",
-                    "width": 20321,
-                    "height": 15717
-                  },
-                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~369634~90137009/canvas/c1"
-                }
-              ],
-              "width": 20321,
-              "height": 15717
-            }
-          ]
-        }
-      ],
-      "logo": {
-        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
-        "format": "image/png"
-      },
-      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~369634~90137009"
-    },
-    {
-      "@context": "http://iiif.io/api/presentation/2/context.json",
-      "@type": "sc:Manifest",
-      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~333709~90102196/manifest",
-      "label": "Map projection V : Stereographic, Eurasia.",
-      "attribution": "David Rumsey Historical Map Collection",
-      "service": {
-        "@context": "http://iiif.io/api/search/1/context.json",
-        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~333709~90102196/search",
-        "profile": "http://iiif.io/api/search/1/search"
-      },
-      "sequences": [
-        {
-          "@type": "sc:Sequence",
-          "canvases": [
-            {
-              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~333709~90102196/canvas/c1",
-              "@type": "sc:Canvas",
-              "label": "Map projection V : Stereographic, Eurasia.",
-              "description": "",
-              "metadata": [
-                {
-                  "label": "Author",
-                  "value": "Auerbach, Tauba, 1981-"
-                },
-                {
-                  "label": "Date",
-                  "value": "2020"
-                },
-                {
-                  "label": "Short Title",
-                  "value": "Map projection V : Stereographic, Eurasia."
-                },
-                {
-                  "label": "Publisher",
-                  "value": "Diagonal Press"
-                },
-                {
-                  "label": "Publisher Location",
-                  "value": "New York"
-                },
-                {
-                  "label": "Type",
-                  "value": "Separate Map"
+                  "value": "San Francisco"
                 },
                 {
                   "label": "Type",
@@ -4084,281 +2602,79 @@
                 },
                 {
                   "label": "Obj Height cm",
-                  "value": "68"
+                  "value": "170"
                 },
                 {
                   "label": "Obj Width cm",
-                  "value": "98"
+                  "value": "256"
                 },
                 {
-                  "label": "Note",
-                  "value": "World map by artist Tauba Auerbach, featuring an alternative projection: stereographic. Shows all the world's oceans inside the shoreline of a single continental mass, Eurasia, which stretches around the peripheries. Made using custom software created for Auerbach by programmer Jason Davies. The tool allows one to rotate the earth in any direction and flatten it using a wide array of projections, producing unfamiliar but mathematically accurate models of the earth. In this application, the gaze is focused on the oceans and the Southern Hemisphere. The software was originally created to generate source material for a series of paintings and GIFs, as part of the exhibition Panthalassa at Standard (Oslo) in October 2020. Title, date, artist's initials and publisher included within the exterior border of the image, each on one of four sides. Offset print in black and fluorescent green on white paper. Map is 68 x 98 cm, on sheet 69 x 99 cm, folded to 13 x 35."
+                  "label": "Reference",
+                  "value": "https://soheinishino.net/dioramamap-sanfrancisco"
                 },
                 {
-                  "label": "World Area",
-                  "value": "World"
-                },
-                {
-                  "label": "World Area",
-                  "value": "Southern Hemisphere"
-                },
-                {
-                  "label": "Region",
-                  "value": "Eurasia"
-                },
-                {
-                  "label": "Subject",
-                  "value": "Data Visualization"
-                },
-                {
-                  "label": "Subject",
-                  "value": "Oceans; Seas"
-                },
-                {
-                  "label": "Subject",
-                  "value": "Art"
+                  "label": "City",
+                  "value": "San Francisco (Calif,)"
                 },
                 {
                   "label": "Full Title",
-                  "value": "Map projection V : Stereographic (Eurasia surrounds). T. A. \\ Diagonal Press, 2020."
+                  "value": "San Francisco"
                 },
                 {
                   "label": "List No",
-                  "value": "14311.002"
-                },
-                {
-                  "label": "Series No",
-                  "value": "2"
-                },
-                {
-                  "label": "Engraver or Printer",
-                  "value": "Auerbach, Tauba, 1981-"
+                  "value": "16705.000"
                 },
                 {
                   "label": "Publication Author",
-                  "value": "Auerbach, Tauba, 1981-"
+                  "value": "Nishino, Sohei"
                 },
                 {
                   "label": "Pub Date",
-                  "value": "2020"
+                  "value": "2016"
                 },
                 {
                   "label": "Pub Title",
-                  "value": "Time and Space : Map projection V : Stereographic (Eurasia surrounds). T. A. \\ Diagonal Press, 2020."
+                  "value": "San Francisco"
                 },
                 {
                   "label": "Pub Reference",
-                  "value": "https://diagonalpress.com/collections"
+                  "value": "Image copyright by Sohei Nishino."
                 },
                 {
                   "label": "Pub Note",
-                  "value": "Fifth in a series of ten unusual maps made using custom software created for artist Tauba Auerbach by programmer Jason Davies. For full series, see PLNs 14307.000 through 14316.000. All images and works copyright Diagonal Press. Posters available via the Diagonal Press website (see link in Pub Reference). Earnings from these posters will contribute to the Indigenous Language Institute, Critical Resistance and Indigenous Environmental Network. "
+                  "value": "Initially developed and conceptualized during his undergraduate studies at the Osaka University of the Arts in Japan, Sohei Nishino's project, Diorama Maps, provides an uncanny reimagining of various twenty-first century cities. Produced in 2016, Diorama Map: San Francisco is a stunning example of Nishino's novel approach. While wandering around a city of prominence, Nishino produces a plethora of images, frequently composed from a high-angle perspective. These pictures capture quintessential landmarks, atmospheric elements, and at times, residents on the street. After the image-making phase, he meticulously constructs massive collages using bits and pieces from over 4,000 prints. Once satisfied with his handiwork and layout, Nishino photographs the final collage – resulting in a kaleidoscopic image, sometimes up to seven feet wide. The impressive scale invites the viewer to inspect various details of the scene closely. Importantly, Nishino's maps aren't necessarily geographically accurate, a purposeful choice as the artist desires to convey the sensory and experiential aspects of a place:  \n“... a trace of the way in which I walked through it, an embodiment of my awareness, a microcosm of the life and energy that comprises the city.”\n—Sohei Nishino"
                 },
                 {
                   "label": "Pub List No",
-                  "value": "14311.000"
+                  "value": "16705.000"
                 },
                 {
                   "label": "Pub Type",
-                  "value": "Separate Map"
-                },
-                {
-                  "label": "Pub Type",
-                  "value": "Artist Book"
+                  "value": "Artwork"
                 },
                 {
                   "label": "Pub Height cm",
-                  "value": "13"
+                  "value": "170"
                 },
                 {
                   "label": "Pub Width cm",
-                  "value": "35"
+                  "value": "256"
                 },
                 {
                   "label": "Image No",
-                  "value": "14311002.jp2"
+                  "value": "16705000.jp2"
                 },
                 {
                   "label": "Authors",
-                  "value": "Auerbach, Tauba, 1981-"
-                }
-              ],
-              "thumbnail": {
-                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~333709~90102196/full/!96,96/0/default.jpg",
-                "format": "image/jpeg"
-              },
-              "images": [
-                {
-                  "@type": "oa:Annotation",
-                  "motivation": "sc:painting",
-                  "resource": {
-                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~333709~90102196/full/!1024,1024/0/default.jpg",
-                    "@type": "dctypes:Image",
-                    "service": {
-                      "@context": "http://iiif.io/api/image/2/context.json",
-                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~333709~90102196",
-                      "profile": "http://iiif.io/api/image/2/level1.json",
-                      "protocol": "http://iiif.io/api/image"
-                    },
-                    "format": "image/jpeg",
-                    "width": 12222,
-                    "height": 8539
-                  },
-                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~333709~90102196/canvas/c1"
-                }
-              ],
-              "width": 12222,
-              "height": 8539
-            }
-          ]
-        }
-      ],
-      "logo": {
-        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
-        "format": "image/png"
-      },
-      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~333709~90102196"
-    },
-    {
-      "@context": "http://iiif.io/api/presentation/2/context.json",
-      "@type": "sc:Manifest",
-      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~339642~90107820/manifest",
-      "label": "2 - 3 Panorama of the Hudson : showing both sides of the river from New York to Albany",
-      "attribution": "David Rumsey Historical Map Collection",
-      "service": {
-        "@context": "http://iiif.io/api/search/1/context.json",
-        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~339642~90107820/search",
-        "profile": "http://iiif.io/api/search/1/search"
-      },
-      "sequences": [
-        {
-          "@type": "sc:Sequence",
-          "canvases": [
-            {
-              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~339642~90107820/canvas/c1",
-              "@type": "sc:Canvas",
-              "label": "2 - 3 Panorama of the Hudson : showing both sides of the river from New York to Albany",
-              "description": "",
-              "metadata": [
-                {
-                  "label": "Author",
-                  "value": "Shear, G Willard"
-                },
-                {
-                  "label": "Author",
-                  "value": "Bryant Literary Union"
-                },
-                {
-                  "label": "Date",
-                  "value": "1888"
-                },
-                {
-                  "label": "Short Title",
-                  "value": "2 - 3 Panorama of the Hudson : showing both sides of the river from New York to Albany"
-                },
-                {
-                  "label": "Publisher",
-                  "value": "Bryant Literary Union"
-                },
-                {
-                  "label": "Publisher Location",
-                  "value": "New York"
-                },
-                {
-                  "label": "Type",
-                  "value": "View"
-                },
-                {
-                  "label": "Obj Height cm",
-                  "value": "19"
-                },
-                {
-                  "label": "Obj Width cm",
-                  "value": "31"
-                },
-                {
-                  "label": "State/Province",
-                  "value": "New York"
-                },
-                {
-                  "label": "Region",
-                  "value": "Hudson River"
-                },
-                {
-                  "label": "Subject",
-                  "value": "Rivers"
-                },
-                {
-                  "label": "Full Title",
-                  "value": "2 - 3 Panorama of the Hudson : showing both sides of the river from New York to Albany : first photo-panorama of any river ever published : one hundred and fifty miles of continuous scenery accurately represented from eight hundred consecutive photographs ..."
-                },
-                {
-                  "label": "List No",
-                  "value": "10944.005"
-                },
-                {
-                  "label": "Series No",
-                  "value": "5"
-                },
-                {
-                  "label": "Publication Author",
-                  "value": "Shear, G Willard"
-                },
-                {
-                  "label": "Publication Author",
-                  "value": "Bryant Literary Union"
-                },
-                {
-                  "label": "Pub Date",
-                  "value": "1888"
-                },
-                {
-                  "label": "Pub Title",
-                  "value": "Panorama of the Hudson : showing both sides of the river from New York to Albany : first photo-panorama of any river ever published : one hundred and fifty miles of continuous scenery accurately represented from eight hundred consecutive photographs ..."
-                },
-                {
-                  "label": "Pub Note",
-                  "value": "Photographs show both banks, printed as seen from the middle of the river; views of the east bank of the river printed upside down under corresponding views of the west bank. Book has title pages at front and back, and can be flipped for views from New York to Albany, or from Albany to New York. 96 unnumbered pages : all illustrations. \"From the metropolis to the capital the Hudson varies in width from half a mile to four miles and a half; but the river remains uniform in these pages as most convenient for a book of reference or tourist guide.\" Photographs are doubled to allow easy right side up viewing of both banks. This is a modest production yet it allows unique views of all the human activity along the Hudson River as of 1888."
-                },
-                {
-                  "label": "Pub List No",
-                  "value": "10944.000"
-                },
-                {
-                  "label": "Pub Type",
-                  "value": "Regional Atlas"
-                },
-                {
-                  "label": "Pub Height cm",
-                  "value": "19"
-                },
-                {
-                  "label": "Pub Width cm",
-                  "value": "31"
-                },
-                {
-                  "label": "Image No",
-                  "value": "10944005.jp2"
-                },
-                {
-                  "label": "Download 1",
-                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/195/10944005.jp2 target=_blank>Full Image Download in JP2 Format</a>"
-                },
-                {
-                  "label": "Download 2",
-                  "value": "<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>"
-                },
-                {
-                  "label": "Authors",
-                  "value": "Shear, G Willard ; Bryant Literary Union"
+                  "value": "Nishino, Sohei"
                 },
                 {
                   "label": "local_note",
-                  "value": "[2026-09-24]: Added -kl"
+                  "value": "[2026-09-23]: https://www.soheinishino.net/"
                 }
               ],
               "thumbnail": {
-                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~339642~90107820/full/!96,96/0/default.jpg",
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~374209~90140801/full/!96,96/0/default.jpg",
                 "format": "image/jpeg"
               },
               "images": [
@@ -4366,26 +2682,26 @@
                   "@type": "oa:Annotation",
                   "motivation": "sc:painting",
                   "resource": {
-                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~339642~90107820/full/!1024,1024/0/default.jpg",
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~374209~90140801/full/!0,0/0/default.jpg",
                     "@type": "dctypes:Image",
                     "service": {
                       "@context": "http://iiif.io/api/image/2/context.json",
-                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~339642~90107820",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~374209~90140801",
                       "profile": "http://iiif.io/api/image/2/level1.json",
                       "protocol": "http://iiif.io/api/image"
                     },
                     "format": "image/jpeg",
-                    "width": 14304,
-                    "height": 10346
+                    "width": 1536,
+                    "height": 1011
                   },
-                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~339642~90107820/canvas/c1"
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~374209~90140801/canvas/c1"
                 }
               ],
               "otherContent": [
-                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~339642~90107820/list/luna"
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~374209~90140801/list/luna"
               ],
-              "width": 14304,
-              "height": 10346
+              "width": 0,
+              "height": 0
             }
           ]
         }
@@ -4394,184 +2710,7 @@
         "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
         "format": "image/png"
       },
-      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~339642~90107820"
-    },
-    {
-      "@context": "http://iiif.io/api/presentation/2/context.json",
-      "@type": "sc:Manifest",
-      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~315043~90083688/manifest",
-      "label": "The Temple of Time",
-      "attribution": "David Rumsey Historical Map Collection",
-      "service": {
-        "@context": "http://iiif.io/api/search/1/context.json",
-        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~315043~90083688/search",
-        "profile": "http://iiif.io/api/search/1/search"
-      },
-      "sequences": [
-        {
-          "@type": "sc:Sequence",
-          "canvases": [
-            {
-              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~315043~90083688/canvas/c1",
-              "@type": "sc:Canvas",
-              "label": "The Temple of Time",
-              "description": "",
-              "metadata": [
-                {
-                  "label": "Author",
-                  "value": "Willard, Emma"
-                },
-                {
-                  "label": "Date",
-                  "value": "1846"
-                },
-                {
-                  "label": "Short Title",
-                  "value": "The Temple of Time"
-                },
-                {
-                  "label": "Publisher",
-                  "value": "A.S. Barnes & Co."
-                },
-                {
-                  "label": "Publisher Location",
-                  "value": "New York"
-                },
-                {
-                  "label": "Type",
-                  "value": "Timeline"
-                },
-                {
-                  "label": "Obj Height cm",
-                  "value": "68"
-                },
-                {
-                  "label": "Obj Width cm",
-                  "value": "96"
-                },
-                {
-                  "label": "Scale 1",
-                  "value": "None shown"
-                },
-                {
-                  "label": "Note",
-                  "value": "Color chart of time, 68x96, folded in covers 36x25, putting the course of time in perspective in multiple dimensions. Chart exhibited nations both ethnographically and chronographically. With many of the most celebrated leaders of the world. Includes notes on lower panel."
-                },
-                {
-                  "label": "World Area",
-                  "value": "World"
-                },
-                {
-                  "label": "Subject",
-                  "value": "Data Visualization"
-                },
-                {
-                  "label": "Subject",
-                  "value": "Ethnography; Nationality; Race"
-                },
-                {
-                  "label": "Full Title",
-                  "value": "The Temple of Time. Invented by Emma Willard. Published by A.S. Barnes & Co. New York. Entered according to act of Congress, 1846, by Emma Willard. Published by A.S. Barnes & Co. New York. (cover title) Willard's map of time : a companion to the Historic guide. By Emma Willard."
-                },
-                {
-                  "label": "List No",
-                  "value": "13233.002"
-                },
-                {
-                  "label": "Series No",
-                  "value": "2"
-                },
-                {
-                  "label": "Publication Author",
-                  "value": "Willard, Emma"
-                },
-                {
-                  "label": "Pub Date",
-                  "value": "1846"
-                },
-                {
-                  "label": "Pub Title",
-                  "value": "The Temple of Time. Invented by Emma Willard. Published by A.S. Barnes & Co. New York. Entered according to act of Congress, 1846, by Emma Willard. Published by A.S. Barnes & Co. New York. (cover title) Willard's map of time : a companion to the Historic guide. By Emma Willard."
-                },
-                {
-                  "label": "Pub Note",
-                  "value": "See note field above."
-                },
-                {
-                  "label": "Pub List No",
-                  "value": "13233.000"
-                },
-                {
-                  "label": "Pub Type",
-                  "value": "Timeline"
-                },
-                {
-                  "label": "Pub Height cm",
-                  "value": "36"
-                },
-                {
-                  "label": "Pub Width cm",
-                  "value": "25"
-                },
-                {
-                  "label": "Image No",
-                  "value": "13233002.jp2"
-                },
-                {
-                  "label": "Download 1",
-                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/179/13233002.jp2 target=_blank>Full Image Download in JP2 Format</a>"
-                },
-                {
-                  "label": "Download 2",
-                  "value": "<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>"
-                },
-                {
-                  "label": "Authors",
-                  "value": "Willard, Emma"
-                },
-                {
-                  "label": "local_note",
-                  "value": "[2026-09-24]: Added -kl"
-                }
-              ],
-              "thumbnail": {
-                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~315043~90083688/full/!96,96/0/default.jpg",
-                "format": "image/jpeg"
-              },
-              "images": [
-                {
-                  "@type": "oa:Annotation",
-                  "motivation": "sc:painting",
-                  "resource": {
-                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~315043~90083688/full/!1024,1024/0/default.jpg",
-                    "@type": "dctypes:Image",
-                    "service": {
-                      "@context": "http://iiif.io/api/image/2/context.json",
-                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~315043~90083688",
-                      "profile": "http://iiif.io/api/image/2/level1.json",
-                      "protocol": "http://iiif.io/api/image"
-                    },
-                    "format": "image/jpeg",
-                    "width": 23308,
-                    "height": 16952
-                  },
-                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~315043~90083688/canvas/c1"
-                }
-              ],
-              "otherContent": [
-                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~315043~90083688/list/luna"
-              ],
-              "width": 23308,
-              "height": 16952
-            }
-          ]
-        }
-      ],
-      "logo": {
-        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
-        "format": "image/png"
-      },
-      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~315043~90083688"
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~374209~90140801"
     }
   ]
 }
