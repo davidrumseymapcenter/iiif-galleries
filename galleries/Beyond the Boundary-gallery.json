@@ -1,0 +1,1419 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@type": "sc:Collection",
+  "@id": "https://iiif-gallery-builder.example.org/Beyond the Boundary",
+  "label": "Beyond the Boundary",
+  "items": [
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~327588~90096204/manifest",
+      "label": "Composite: Paris. Plan de Turgot",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~327588~90096204/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~327588~90096204/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Composite: Paris. Plan de Turgot",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Turgot, Michel-Etienne"
+                },
+                {
+                  "label": "Author",
+                  "value": "Bretez, Louis"
+                },
+                {
+                  "label": "Author",
+                  "value": "Lucas, Claude"
+                },
+                {
+                  "label": "Date",
+                  "value": "1739"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Composite: Paris. Plan de Turgot"
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Michel-Etienne Turgot"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Paris"
+                },
+                {
+                  "label": "Type",
+                  "value": "Composite Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "251"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "323"
+                },
+                {
+                  "label": "Scale 1",
+                  "value": "400"
+                },
+                {
+                  "label": "Note",
+                  "value": "First edition, published in 1739. Original binding. See our 1860 reissue from the same plates (10059.000). \"In 1734 Michel-Etienne Turgot, chief of the municipality of Paris as provost of merchants, decided to promote the reputation of Paris for Parisian, provincial or foreign elites by implementing a new map of the city. He asked Louis Bretez, member of the Royal Academy of Painting and Sculpture and professor of perspective, to draw up the plan of Paris and its suburbs. By contract, Turgot requested a very faithful reproduction with great accuracy. Louis Bretez, was allowed to enter into the mansions, houses and gardens in order to take measurements and draw pictures. He worked for two years (1734-1736). In the eighteenth century, the trend was to abandon portraits of cities (inherited from the Renaissance) for a geometric plan, more technical and mathematical. But the plan de Turgot goes against this trend, by choosing the system of perspective cavaliere: two buildings of the same size are represented by two drawings of the same size, whether the buildings are close or distant. In 1736, Claude Lucas, engraver of the Royal Academy of Sciences, created the 21 sheets of the plan. The plan was published in 1739, and the prints were bound in volumes offered to the King, the members of the Academy, and the Municipality. Additional copies were to serve as representations of France to foreigners. The 21 engraved brass plates are kept by the Chalcography of the Louvre, where they are even now used for re-printing employing the same techniques as two centuries ago.\" (Wikipedia)."
+                },
+                {
+                  "label": "City",
+                  "value": "Paris (France)"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "Composite: Paris. Plan de Turgot"
+                },
+                {
+                  "label": "List No",
+                  "value": "10553.022"
+                },
+                {
+                  "label": "Series No",
+                  "value": "22"
+                },
+                {
+                  "label": "Engraver or Printer",
+                  "value": "Aubin"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Turgot, Michel-Etienne"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Bretez, Louis"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Lucas, Claude"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1739"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Plan de Paris, commencé l'année 1734 dessiné et gravé sous les ordres de Messire Michel Etienne Turgot,... achevé de graver en 1739 levé et dessiné par Louis Bretez, gravé par Claude Lucas, et écrit par Aubin."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "Key sheet plus 20 sheets which join to make a very large map and view of Paris."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "10553.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "City Atlas"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "21"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "71"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "54"
+                },
+                {
+                  "label": "Image No",
+                  "value": "10553022.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/185/10553022.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Turgot, Michel-Etienne ; Bretez, Louis ; Lucas, Claude"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~327588~90096204/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~327588~90096204/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~327588~90096204",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 82079,
+                    "height": 65656
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~327588~90096204/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~327588~90096204/list/luna"
+              ],
+              "width": 82079,
+              "height": 65656
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~327588~90096204"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~36743~1200441/manifest",
+      "label": "Linea Divisoria Entre Mexico Y Los Estados Unidos. No. 19.",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~36743~1200441/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~36743~1200441/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Linea Divisoria Entre Mexico Y Los Estados Unidos. No. 19.",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "International Boundary Commission"
+                },
+                {
+                  "label": "Date",
+                  "value": "1901"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Linea Divisoria Entre Mexico Y Los Estados Unidos. No. 19."
+                },
+                {
+                  "label": "Publisher",
+                  "value": "J. Polhemus."
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "New York"
+                },
+                {
+                  "label": "Type",
+                  "value": "Atlas Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "72"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "104"
+                },
+                {
+                  "label": "Scale 1",
+                  "value": "60,000"
+                },
+                {
+                  "label": "Note",
+                  "value": "Title also in Spanish. U.S. and Mexican Commissioners listed with signatures. Map in black and white and showing 20-foot contours, railroads, survey markers, landmarks, vegetation, watercourses, roads, hachures for edges of mesas, and boundary line."
+                },
+                {
+                  "label": "Reference",
+                  "value": "P1263."
+                },
+                {
+                  "label": "Country",
+                  "value": "Mexico"
+                },
+                {
+                  "label": "Region",
+                  "value": "Northern Mexico"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Boundaries"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "Boundary between the United States and Mexico by the International Boundary Survey under the Convention of July 29th 1882, Revived February 18th 1889. Engraved by R.F. Bartle & Co., Washington, D.C., U.S.A. No. 19."
+                },
+                {
+                  "label": "List No",
+                  "value": "2171.019"
+                },
+                {
+                  "label": "Series No",
+                  "value": "21"
+                },
+                {
+                  "label": "Page No",
+                  "value": "19"
+                },
+                {
+                  "label": "Engraver or Printer",
+                  "value": "Bartle, R.F. & Co."
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "International Boundary Commission"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1901"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Linea Divisoria Entre Mexico Y Los Estados Unidos Al Oeste Del Rio Grande Levantada Y Marcada, Bajo La Direccion Por Parte De Mexico Del Ingeniero Jacobo Blanco, Por La Comision Internacional De Limites Creada Por La Convencion De Julio 29 De 1882 Renovada Por La De Febrero 18 De 1889 ..."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "Accompanies Memoria de la seccion Mexicana. Publication date approximate."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "2171.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Regional Atlas"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "19"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "74"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "56"
+                },
+                {
+                  "label": "Image No",
+                  "value": "2171019"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D0120/2171019.sid target=_blank>Full Image Download in MrSID Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "International Boundary Commission"
+                },
+                {
+                  "label": "Collection",
+                  "value": "Rumsey Collection"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~36743~1200441/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~36743~1200441/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~36743~1200441",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 12600,
+                    "height": 8480
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~36743~1200441/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~36743~1200441/list/luna"
+              ],
+              "width": 12600,
+              "height": 8480
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~36743~1200441"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "https://purl.stanford.edu/wk210cf6868/iiif/manifest",
+      "@type": "sc:Manifest",
+      "label": "Africa: Industries and Communications",
+      "attribution": "This work has been identified as being free of known restrictions under copyright law, including all related and neighboring rights. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.",
+      "logo": {
+        "@id": "https://stacks.stanford.edu/image/iiif/wy534zh7137/SULAIR_rosette/full/400,/0/default.jpg",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://stacks.stanford.edu/image/iiif/wy534zh7137/SULAIR_rosette",
+          "profile": "http://iiif.io/api/image/2/level2.json"
+        }
+      },
+      "seeAlso": {
+        "@id": "https://purl.stanford.edu/wk210cf6868.mods",
+        "format": "application/mods+xml"
+      },
+      "metadata": [
+        {
+          "label": "Available Online",
+          "value": "<a href='https://purl.stanford.edu/wk210cf6868'>https://purl.stanford.edu/wk210cf6868</a>"
+        },
+        {
+          "label": "Title",
+          "value": "Africa: Industries and Communications"
+        },
+        {
+          "label": "Type",
+          "value": "cartographic"
+        },
+        {
+          "label": "Format",
+          "value": "1 map : col. ; 35 x 47 cm."
+        },
+        {
+          "label": "Language",
+          "value": "English"
+        },
+        {
+          "label": "Description",
+          "value": "\"The Amalgamated Press Limited, London.\""
+        },
+        {
+          "label": "Description",
+          "value": "Lower right: \"136.\" Upper right: \"135.\""
+        },
+        {
+          "label": "Description",
+          "value": "\"The London Geographical Institute.\""
+        },
+        {
+          "label": "Description",
+          "value": "On verso: The Harmsworth Universal Atlas. Nos. 135-136.  Africa: Industries and Communications. Index to the Commerical maps of the of the continents"
+        },
+        {
+          "label": "Subject",
+          "value": "Africa"
+        },
+        {
+          "label": "Subject",
+          "value": "WORLD."
+        },
+        {
+          "label": "Subject",
+          "value": "Industries and Communications-"
+        },
+        {
+          "label": "Subject",
+          "value": "1906-1908."
+        },
+        {
+          "label": "Coverage",
+          "value": "Scale [ca. 1:20,000,000]"
+        },
+        {
+          "label": "Coverage",
+          "value": "18°00′00″W -- 51°00′00″E / 37°00′00″N -- 35°00′00″S"
+        },
+        {
+          "label": "Date",
+          "value": "1906"
+        },
+        {
+          "label": "Identifier",
+          "value": "https://purl.stanford.edu/wk210cf6868"
+        },
+        {
+          "label": "Relation",
+          "value": "Caroline Batchelor Map Collection"
+        },
+        {
+          "label": "Record published",
+          "value": "2026-07-21"
+        }
+      ],
+      "description": "\"The Amalgamated Press Limited, London.\"",
+      "thumbnail": {
+        "@id": "https://stacks.stanford.edu/image/iiif/wk210cf6868%2Fwk210cf6868_00_0001/full/!400,400/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://stacks.stanford.edu/image/iiif/wk210cf6868%2Fwk210cf6868_00_0001",
+          "profile": "http://iiif.io/api/image/2/level2.json"
+        },
+        "width": 305,
+        "height": 400
+      },
+      "sequences": [
+        {
+          "@id": "https://purl.stanford.edu/wk210cf6868/iiif/manifest#sequence-1",
+          "@type": "sc:Sequence",
+          "label": "Current order",
+          "viewingDirection": "left-to-right",
+          "canvases": [
+            {
+              "@id": "https://purl.stanford.edu/wk210cf6868/iiif/canvas/cocina-fileSet-wk210cf6868-830de5ba-0f57-4c63-a008-f0b8184692ec",
+              "@type": "sc:Canvas",
+              "label": "Image 1",
+              "height": 12623,
+              "width": 9613,
+              "rendering": [
+                {
+                  "@id": "https://stacks.stanford.edu/file/wk210cf6868/wk210cf6868_00_0001.jp2",
+                  "label": "Original source file (21.8 MB)",
+                  "format": "image/jp2"
+                }
+              ],
+              "images": [
+                {
+                  "@id": "https://purl.stanford.edu/wk210cf6868/iiif/annotation/https:%2F%2Fcocina.sul.stanford.edu%2Ffile%2Fwk210cf6868-830de5ba-0f57-4c63-a008-f0b8184692ec%2Fwk210cf6868_00_0001.jp2",
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "on": "https://purl.stanford.edu/wk210cf6868/iiif/canvas/cocina-fileSet-wk210cf6868-830de5ba-0f57-4c63-a008-f0b8184692ec",
+                  "resource": {
+                    "@id": "https://stacks.stanford.edu/image/iiif/wk210cf6868%2Fwk210cf6868_00_0001/full/full/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 12623,
+                    "width": 9613,
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://stacks.stanford.edu/image/iiif/wk210cf6868%2Fwk210cf6868_00_0001",
+                      "profile": "http://iiif.io/api/image/2/level2.json"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~271958~90045809/manifest",
+      "label": "La guerre est l'industrie nationale de la Prusse. (War is the National Industry of Prussia).",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~271958~90045809/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~271958~90045809/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "La guerre est l'industrie nationale de la Prusse. (War is the National Industry of Prussia).",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Neumont, Maurice"
+                },
+                {
+                  "label": "Author",
+                  "value": "Mirabeau, vicomte de"
+                },
+                {
+                  "label": "Author",
+                  "value": "Petain, Philippe"
+                },
+                {
+                  "label": "Date",
+                  "value": "1917"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "La guerre est l'industrie nationale de la Prusse. (War is the National Industry of Prussia)."
+                },
+                {
+                  "label": "Type",
+                  "value": "Separate Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "60"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "78"
+                },
+                {
+                  "label": "World Area",
+                  "value": "Europe"
+                },
+                {
+                  "label": "Event",
+                  "value": "World War I"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Pictorial map"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Military"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Satirical"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "La guerre est l'industrie nationale de la Prusse. (War is the National Industry of Prussia)."
+                },
+                {
+                  "label": "List No",
+                  "value": "8865.000"
+                },
+                {
+                  "label": "Series No",
+                  "value": "1"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Neumont, Maurice"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Mirabeau, vicomte de"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Petain, Philippe"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1917"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "La guerre est l'industrie nationale de la Prusse. (War is the National Industry of Prussia)."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "Produced for the village conference against enemy propaganda in France. French propaganda poster illustrating the aggressive and warlike tendencies of Prussia. Imperial Germany shown as an octopus. Map shows Prussia's territorial expansion since 1871. Color."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "8865.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Separate Map"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "1"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "60"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "78"
+                },
+                {
+                  "label": "Image No",
+                  "value": "8865000.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/153/8865000.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Neumont, Maurice; Mirabeau, vicomte de; Petain, Philippe"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~271958~90045809/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~271958~90045809/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~271958~90045809",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 15884,
+                    "height": 11900
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~271958~90045809/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~271958~90045809/list/luna"
+              ],
+              "width": 15884,
+              "height": 11900
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~271958~90045809"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~274103~90047834/manifest",
+      "label": "The world divided. Richard Edes Harrison, July 1941",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~274103~90047834/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~274103~90047834/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "The world divided. Richard Edes Harrison, July 1941",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Harrison, Richard Edes"
+                },
+                {
+                  "label": "Date",
+                  "value": "1941"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "The world divided. Richard Edes Harrison, July 1941"
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Time Inc."
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "New York"
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Fortune"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "New York"
+                },
+                {
+                  "label": "Type",
+                  "value": "Separate Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "35"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "56"
+                },
+                {
+                  "label": "Scale 1",
+                  "value": "None shown"
+                },
+                {
+                  "label": "Note",
+                  "value": "Color map on 2 sheets, made by Richard Edes Harrison, Fortune magazine. Shows water and air routes, U.S. military missions and financial aid. Includes notes text: \"The political alignments of the world are here shown, centering geographically around the North Pole but ideologically and economically around the U.S. The classification keyed below is necessarily simplified and does not of course meet all the subtleties of politics and diplomacy - for instance, the peculiar position of Vichy and its colonies. The special case of the U.S.S.R. is acknowledged by a special color. The situation is as of July 7, 1941, and is subject to change without notice.\" and notes."
+                },
+                {
+                  "label": "World Area",
+                  "value": "World"
+                },
+                {
+                  "label": "Event",
+                  "value": "World War II"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Pictorial map"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "The world divided. Richard Edes Harrison, July 1941. The world centrifuged : North - Polar Azmuthal Equidistant Projection."
+                },
+                {
+                  "label": "List No",
+                  "value": "9808.000"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Harrison, Richard Edes"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1941"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "The world divided. Richard Edes Harrison, July 1941. The world centrifuged : North - Polar Azmuthal Equidistant Projection."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "See note field above."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "9808.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Separate Map"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "35"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "56"
+                },
+                {
+                  "label": "Image No",
+                  "value": "9808000.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/162/9808000.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Harrison, Richard Edes"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~274103~90047834/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~274103~90047834/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~274103~90047834",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 11292,
+                    "height": 7158
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~274103~90047834/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~274103~90047834/list/luna"
+              ],
+              "width": 11292,
+              "height": 7158
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~274103~90047834"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~368699~90136042/manifest",
+      "label": "Africa. A Friendship Map",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~368699~90136042/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~368699~90136042/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Africa. A Friendship Map",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Jefferson, Louise E. (1908-2002)"
+                },
+                {
+                  "label": "Date",
+                  "value": "1945"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Africa. A Friendship Map"
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Friendship Press, Inc."
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "New York"
+                },
+                {
+                  "label": "Type",
+                  "value": "Separate Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "73"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "69"
+                },
+                {
+                  "label": "World Area",
+                  "value": "Africa"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Pictorial map"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "Africa. A Friendship Map"
+                },
+                {
+                  "label": "List No",
+                  "value": "16264.000"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Jefferson, Louise E. (1908-2002)"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1945"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Africa. A Friendship Map"
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "\"Louise Jefferson's Iconic Map of Africa A rare pictorial map promoting peaceful relations with Africa and advocating for African self-determination, independence, and self-rule as the era of colonization approached its conclusion. The cartography is simplified, marking major rivers, cities, and tribal regions while serving as a visual narrative of Africa's diverse natural and cultural landscapes. The illustrations bring Africa to life, featuring iconic landscape elements such as the Sahara Desert, the Kalahari, and lush forests, alongside rich fauna, including giraffes, elephants, and camels. Prominent economic activities such as agriculture, fishing, and industries are highlighted, alongside symbols of modernity and progress, including hospitals, schools, and research centers. The inclusion of airplanes, steam engines, and automobiles reflects the continent's integration into global technological advancements. The map emphasizes African agency and accomplishment, reinforcing its positive vision through textual elements. The upper-left inset notes: \"There is hardly a type of responsible position in Africa today that is not being capably filled somewhere on the continent by an African. Africans build, repair, and pilot airplanes, service and operate automobiles, trucks, steam engines, electrical and radio installations. They are teachers, college professors, nurses, doctors, dentists, lawyers, clergymen, engineers and business men.\" Individuals of significance are also depicted, including “Haile Selassie, Emperor of Ethiopia” and “Mina Soga, World Christian,” underscoring both leadership and global contributions of Africans. This celebration of African progress aligns with the mid-twentieth-century movement toward independence and socio-political transformation across the continent. The map is the work of Louise Jefferson, an African American illustrator and pioneering figure in mid-twentieth-century publishing. Jefferson's composition balances traditional artistic elements with emerging socio-economic realities, creating an artifact that is both a historical document and a statement of hope. Louise E. Jefferson Biography The following Biography is excerpted from the Tulane University website: Jefferson was born in Washington, D.C. in 1908 . . . the only child of Louise and Paul Jefferson. Her father was a calligrapher for the United States Treasury, and her mother made a living playing piano and singing aboard cruise ships on the Potomac River. . . Louise began her training at Hunter College in New York City where she studied fine art, and then on to Columbia University where she studied graphic arts. During her time in New York City, Jefferson became involved with the Harlem Artist’s Guild, and is credited as a founding member. She was an active member of the artistic community during the Harlem Renaissance, and she became close friends with poet Langston Hughes, and shared an apartment with Pauli Murray, who would become an influential activist, lawyer, and priest. At the start of her career, Jefferson designed posters for the YWCA in New York City, until she was discovered by the Friendship Press, the publishing branch for the National Council of Churches. By 1942, Jefferson was the Artistic Director for the Friendship Press and she had control of every aspect of the Press’s book productions. While working for Friendship Press, Jefferson also accepted freelance work from publishing companies Doubleday, Macmillan, and Viking, and also from the University presses of Columbia, Oxford, Rutgers, and Syracuse. Jefferson would retire from the Friendship press in 1960, but she remained busy designing book jackets and maps for publishing companies and Universities. Once retired, Jefferson set her sights on the most ambitious project of her life. Over the course of several years, Jefferson made five trips to Africa to do research for what would become her book, The Decorative Arts of Africa. She travelled the continent extensively, visiting Cameroon, the Democratic Republic of the Congo, Egypt, Gambia, Ghana, Guinea, Liberia, Mali, Niger, Nigeria, Senegal, South Africa, Sudan, Uganda, and Zimbabwe. Jefferson used her photographs and drawings from her adventures to create The Decorative Arts of Africa, which was published in 1973. Containing over 300 illustrations, Louise describes her book “as a visual sampling of what the spirit and tempo of the African artist’s role has been in the past and what it continues to be today.” In her later years, Jefferson settled down in the picturesque town of Litchfield Connecticut, where she maintained an art studio and could always be found with her beloved camera, ready to capture a photo at a moment’s notice. She spent the last few years of her life tending to her garden, entertaining friends, and taking snapshots around Litchfield. Louise Jefferson passed away in 2002 at the age of 93.\" (Ruderman, 2025)"
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "16264.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Separate Map"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "73"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "69"
+                },
+                {
+                  "label": "Image No",
+                  "value": "16264000.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/218/16264000.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Jefferson, Louise E. (1908-2002)"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~368699~90136042/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~368699~90136042/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~368699~90136042",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 17319,
+                    "height": 18276
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~368699~90136042/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~368699~90136042/list/luna"
+              ],
+              "width": 17319,
+              "height": 18276
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~368699~90136042"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~373033~90139743/manifest",
+      "label": "It's An Interesting World In An Interesting Time.",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~373033~90139743/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~373033~90139743/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "It's An Interesting World In An Interesting Time.",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Chapin, R. M."
+                },
+                {
+                  "label": "Author",
+                  "value": "Donovan, J."
+                },
+                {
+                  "label": "Date",
+                  "value": "1959"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "It's An Interesting World In An Interesting Time."
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Time Inc."
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "New York"
+                },
+                {
+                  "label": "Type",
+                  "value": "View"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "64"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "80"
+                },
+                {
+                  "label": "World Area",
+                  "value": "World"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Pictorial map"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "It's An Interesting World In An Interesting Time."
+                },
+                {
+                  "label": "List No",
+                  "value": "16416.001"
+                },
+                {
+                  "label": "Series No",
+                  "value": "1"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Chapin, R. M."
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Donovan, J."
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1959"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "It's An Interesting World In An Interesting Time."
+                },
+                {
+                  "label": "Pub Reference",
+                  "value": "Hornsby, Picturing America, p. 245, plate 157."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "\"A striking pictorial map of the world from the early years of the Space Race, by TIME Magazine cartographers Robert MacFarlane Chapin and Jeremiah Donovan. The artists use the unusual “armadillo” projection, developed by Erwin Raisz in the 1940s, which enabled them to convey the illusion of Earth as viewed from space, while still depicting the vast majority of its surface. Dozens of vignettes scattered across the map offer a range of cultural, political, and historic references, with some merely stereotypical but many reflective of the times. World leaders are scattered across their respective countries with President Eisenhower in the U.S., Premier Khrushchev in the U.S.S.R., Prime Minister Nehru in India, President Nasser in Egypt. A woman, apparently standing atop the Pacific, holds up a star representing Hawaii’s accession to the Union in August of 1959. Other symbols reflect apartheid in South Africa, the nuclear blast on Bikini Atoll in the Pacific, and tennis star Rod Laver in Australia. The choice of projection also enabled the artists to put terrestrial events in the context of the Space Race, which arguably began in 1955, when both the U.S. and Soviet Union declared their intentions to launch competing artificial satellites. Accordingly, the American Vanguard 1 and Explorer 1 satellites, along with the Soviets’ Sputnik 3, are shown in orbit. The darker side of the Space Race is hinted at by the tiny mushroom clouds of weapons tests in the American West, in the Pacific, and over Siberia. R. M. Chapin and Jeremiah Donovan Mapmaker Robert MacFarlane Chapin graduated from the University of Pennsylvania in 1933 with a degree in architecture. Finding little demand for his training during the Depression, he took a job as a retoucher of photos at Newsweek, where he somehow learned to draw maps. In 1937 he was lured away to run the map department at Newsweek rival TIME, where he worked for the next 33 years. He and his team were extremely prolific, particularly during the Second World War, when they produced four, five and six maps per week to keep up with breaking news. After the War Chapin remained at TIME for another quarter century, during which period he produced numerous maps, including many addressing aspects of the Cold War, a titanic “us vs. them” struggle to which his bold style and liberal use of red were well suited. “The Time-Chapin association, extending over almost two decades, has been one of the major pillars of American journalistic cartography. Chapin maps have established a pattern and style for modern newsmagazine cartography.” (Ristow, p. 384) Chapin’s maps were enormously popular, and they were often enlarged and reprinted in poster format for distribution to schools. Artist Jeremiah Donovan (1916-1982) studied at the Pratt Institute and the Art Student’s League in New York before working as a freelance artist for Time, Inc. in 1946. In 1951 he was hired on as a staff cartographer and artist, and he succeeded Chapin as the head of Time’s cartography department, retiring in 1973. Over his career, more than 1300 of his drawings were published in Time Magazine, and his work was highly sought by commercial firms.\" (Boston Rare Maps, 2025)"
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "16416.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "View"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "64"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "80"
+                },
+                {
+                  "label": "Image No",
+                  "value": "16416001.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/218/16416001.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Chapin, R. M.; Donovan, J."
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~373033~90139743/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~373033~90139743/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~373033~90139743",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 19065,
+                    "height": 15329
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~373033~90139743/canvas/c1"
+                }
+              ],
+              "width": 19065,
+              "height": 15329
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~373033~90139743"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~372235~90139026/manifest",
+      "label": "Global Internet Map 2012",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~372235~90139026/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~372235~90139026/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Global Internet Map 2012",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "TeleGeography, Inc."
+                },
+                {
+                  "label": "Author",
+                  "value": "Blue Coat"
+                },
+                {
+                  "label": "Author",
+                  "value": "Krisetya, Markus"
+                },
+                {
+                  "label": "Author",
+                  "value": "Mauldin, Alan"
+                },
+                {
+                  "label": "Author",
+                  "value": "Lairson, Larry"
+                },
+                {
+                  "label": "Date",
+                  "value": "2012"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Global Internet Map 2012"
+                },
+                {
+                  "label": "Publisher",
+                  "value": "TeleGeography, Inc."
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Washington, D.C."
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Blue Coat"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Washington, D.C."
+                },
+                {
+                  "label": "Type",
+                  "value": "Separate Map"
+                },
+                {
+                  "label": "Note",
+                  "value": "Digital copy only."
+                },
+                {
+                  "label": "World Area",
+                  "value": "World"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Communications"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Internet"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Data Visualization"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Oceans; Seas"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "Global Internet Map 2012"
+                },
+                {
+                  "label": "List No",
+                  "value": "16498.000"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "TeleGeography, Inc."
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Blue Coat"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Krisetya, Markus"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Mauldin, Alan"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Lairson, Larry"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "2012"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Global Internet Map 2012"
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "Gregory Staple coined the term “telegeography” in 1990 to describe the unprecedented new reach and impact of the world’s electronic communications networks. Rather than presaging the \"death of distance\", telegeography held that the rise of digital networks reflected an explosion of place (e.g., myriad new dialing codes, URLs, email addresses) that was dividing traditional social groups and splintering physical geographies of space and time . In 1993, Staple founded TeleGeography, Inc. (TGI) to research and compile reliable country-by-country statistics on the flow of international telephone and data traffic. TGI also began to map the physical infrastructure underlying these communications streams (subsea cables, landing stations, communication satellites, tele-houses).  Building on work published by London’s International Institute of Communications (IIC), where Staple worked in the late 1980’s, TGI issued annual statistical reports with commentary detailing the volume of cross-border telecommunications traffic and network links between over 50 countries - see the reports archive at https://www2.telegeography.com/telegeography-report-archive In 1996, TGI began to publish an annual poster-size map  of the world’s submarine telecommunication cables and landing stations - https://www.davidrumsey.com/luna/servlet/s/i6v93f Some maps also included the footprints of major satellite networks. TGI's 2025 global communications map covers the approximately 600 international subsea cable systems that make up the Internet’s principal electronic backbone - https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~369655~90137030:Submarine-Cable-Map-2025?qvq=q:telegeography;lc:RUMSEY~8~1&mi=37&trs=39   This 2014 Medium post recounts the history of TGI’s first 25 years - https://gregstaple.medium.com/mapping-tomorrow-c340d7dcc03f Map and image are copyright by PriMetrica, Inc. For copies of TeleGeography maps that are still in print, see https://shop.telegeography.com/collections/telecom-maps"
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "16498.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Separate Map"
+                },
+                {
+                  "label": "Image No",
+                  "value": "16498000.jp2"
+                },
+                {
+                  "label": "Authors",
+                  "value": "TeleGeography, Inc.; Blue Coat; Krisetya, Markus; Mauldin, Alan; Lairson, Larry"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~372235~90139026/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~372235~90139026/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~372235~90139026",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 30000,
+                    "height": 21600
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~372235~90139026/canvas/c1"
+                }
+              ],
+              "width": 30000,
+              "height": 21600
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~372235~90139026"
+    }
+  ]
+}
