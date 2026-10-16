@@ -905,6 +905,183 @@
     {
       "@context": "http://iiif.io/api/presentation/2/context.json",
       "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~281807~90054775/manifest",
+      "label": "Confiance ... ses Amputations se Poursuivent Methodiquement (Be reassured, the amputations (of his tentacles) are proceeding methodically.)",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~281807~90054775/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~281807~90054775/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Confiance ... ses Amputations se Poursuivent Methodiquement (Be reassured, the amputations (of his tentacles) are proceeding methodically.)",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "SPK"
+                },
+                {
+                  "label": "Date",
+                  "value": "1942"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Confiance ... ses Amputations se Poursuivent Methodiquement (Be reassured, the amputations (of his tentacles) are proceeding methodically.)"
+                },
+                {
+                  "label": "Type",
+                  "value": "Separate Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "117"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "80"
+                },
+                {
+                  "label": "World Area",
+                  "value": "Europe"
+                },
+                {
+                  "label": "World Area",
+                  "value": "Africa"
+                },
+                {
+                  "label": "Event",
+                  "value": "World War II"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Pictorial map"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Military"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Data Visualization"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Satirical"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "Confiance ... ses Amputations se Poursuivent Methodiquement (Be reassured, the amputations (of his tentacles) are proceeding methodically)."
+                },
+                {
+                  "label": "List No",
+                  "value": "9750.000"
+                },
+                {
+                  "label": "Series No",
+                  "value": "1"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "SPK"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1942"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Confiance ... ses Amputations se Poursuivent Methodiquement (Be reassured, the amputations (of his tentacles) are proceeding methodically)."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "Mounted on heavy paper on muslin. A famous Vichy France / anti-British Nazi Propaganda poster. The image depicts Winston Churchill as a voracious hydra with tentacles grabbing key sites of British involvement in the Second World War. The tentacles are shown being amputated apparently by the German forces and their allies. The image is a fine example of anti-British propaganda produced under the French occupation after Germany defeated France in 1940. The strategic locations singled out on the map are meant to appeal to the emotions of the French people. Fresh in the public consciousness were Britain's controversial campaigns against German expansion in the French colonial sites of Dakar and Mers-el-Kébir, which left many Frenchmen dead."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "9750.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Separate Map"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "1"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "117"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "80"
+                },
+                {
+                  "label": "Image No",
+                  "value": "9750000.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/162/9750000.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "SPK"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~281807~90054775/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~281807~90054775/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~281807~90054775",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 15954,
+                    "height": 23736
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~281807~90054775/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~281807~90054775/list/luna"
+              ],
+              "width": 15954,
+              "height": 23736
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~281807~90054775"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
       "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~368699~90136042/manifest",
       "label": "Africa. A Friendship Map",
       "attribution": "David Rumsey Historical Map Collection",
