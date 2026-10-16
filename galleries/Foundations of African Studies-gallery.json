@@ -1042,6 +1042,199 @@
     },
     {
       "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~317161~90086034/manifest",
+      "label": "Composite Map: Spezial-Karte von Afrika. Sheets 1-10 & Suppl. I-II",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~317161~90086034/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~317161~90086034/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Composite Map: Spezial-Karte von Afrika. Sheets 1-10 & Suppl. I-II",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Habenicht, Hermann"
+                },
+                {
+                  "label": "Date",
+                  "value": "1885"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Composite Map: Spezial-Karte von Afrika. Sheets 1-10 & Suppl. I-II"
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Justus Perthes"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Paris"
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Erhard Fres"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Paris"
+                },
+                {
+                  "label": "Type",
+                  "value": "Composite Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "236"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "203"
+                },
+                {
+                  "label": "Scale 1",
+                  "value": "4,000,000"
+                },
+                {
+                  "label": "Note",
+                  "value": "Composite of 12 folding maps of Africa."
+                },
+                {
+                  "label": "World Area",
+                  "value": "Africa"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "(Composite Map) Spezial-Karte von Afrika ... Entworfen von Hermann Habenicht ... Justus Perthes in Gotha September 1885."
+                },
+                {
+                  "label": "List No",
+                  "value": "13218.042"
+                },
+                {
+                  "label": "Series No",
+                  "value": "42"
+                },
+                {
+                  "label": "Page No",
+                  "value": "Bl 1-10; suppl.I-II"
+                },
+                {
+                  "label": "Engraver or Printer",
+                  "value": "Barich, C."
+                },
+                {
+                  "label": "Engraver or Printer",
+                  "value": "Domann, Bruno"
+                },
+                {
+                  "label": "Engraver or Printer",
+                  "value": "Luddecke, Richard"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Habenicht, Hermann"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1885"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Spezial-Karte von Afrika im Massstab von 1: 4,000,000. (10 Blatt.) Entworfen von Hermann Habenicht ; bearbeitet von demselben, Bruno Domann und Dr. Richard Luddecke. I. Lieferung, ausgegeben bei Gelegenheit der Feier des 100jährigen Bestehens des Hauses Justus Perthes in Gotha September 1885. Die karte erscheint 5 Lieferungen zu 2 Bl. erschienen jede mit 2 karten a 3 mark."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "This Atlas of Africa was developed to commemorate the centennial of Justus Perthes, Geographische Anstalt (Geographical Institute) in Gotha, towards a better understanding of African exploration and mapping at the end of the nineteenth century. It was first published in 1885 (this copy) following the Berlin West Africa Conference of 1884, and went through two further editions by 1892. It Consists of 12 folding maps and an index sheet, comprising ten sectional maps, with map title and legend on sheet 3, and two supplements: 1. Hohen- und Tiefen Ubersicht von Afrika. 2. Ethnographische Ubersicht von Afrika. Issued with a descriptive leaflet accompanying each map, which details how the map was compiled and lists the sources used. Maps show countries, regions, districts, populations, cities, towns, water bodies, rivers, lakes, colonial possessions, roads, railroads, canals, shipping routes, explorers’ itineraries and travel accounts. Bound in half leather brown marbled paper covered boards with with the title \"Spezial Karte von Afrika\" in gilt on spine. Includs color coded key to European possessions in Africa. Flamsteed projection. Relief shown by shading, hachures and spot heights. Prime meridian is Greenwich. Atlas accompanied by 2 inserted sheets issued as supplement to \"Journal des Debats, Politiques et literaires\" including descriptive text. and 3 maps: L'Afrique en 1890; Itineraire du voyage du Capitaine Binger, and Madagascar"
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "13218.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Regional Atlas"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "12"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "60"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "39"
+                },
+                {
+                  "label": "Image No",
+                  "value": "13218042.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/179/13218042.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Habenicht, Hermann"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~317161~90086034/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~317161~90086034/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~317161~90086034",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 30516,
+                    "height": 31109
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~317161~90086034/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~317161~90086034/list/luna"
+              ],
+              "width": 30516,
+              "height": 31109
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~317161~90086034"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
       "@id": "https://purl.stanford.edu/wk210cf6868/iiif/manifest",
       "@type": "sc:Manifest",
       "label": "Africa: Industries and Communications",
