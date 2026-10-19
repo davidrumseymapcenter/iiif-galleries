@@ -179,6 +179,153 @@
     },
     {
       "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "https://purl.stanford.edu/sr558wt3098/iiif/manifest",
+      "@type": "sc:Manifest",
+      "label": "Straube-Plan Berlin",
+      "attribution": "This work has been identified as being free of known restrictions under copyright law, including all related and neighboring rights. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.",
+      "logo": {
+        "@id": "https://stacks.stanford.edu/image/iiif/wy534zh7137/SULAIR_rosette/full/400,/0/default.jpg",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://stacks.stanford.edu/image/iiif/wy534zh7137/SULAIR_rosette",
+          "profile": "http://iiif.io/api/image/2/level2.json"
+        }
+      },
+      "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "seeAlso": {
+        "@id": "https://purl.stanford.edu/sr558wt3098.mods",
+        "format": "application/mods+xml"
+      },
+      "metadata": [
+        {
+          "label": "Available Online",
+          "value": "<a href='https://purl.stanford.edu/sr558wt3098'>https://purl.stanford.edu/sr558wt3098</a>"
+        },
+        {
+          "label": "Title",
+          "value": "Straube-Plan Berlin"
+        },
+        {
+          "label": "Contributor",
+          "value": "Geographisches Institut und Landkarten-Verlag Jul. Straube."
+        },
+        {
+          "label": "Type",
+          "value": "Cartographic image"
+        },
+        {
+          "label": "Type",
+          "value": "Maps"
+        },
+        {
+          "label": "Format",
+          "value": "1 map : color ; 67 x 86 cm, folded in cover 21 x 13 cm"
+        },
+        {
+          "label": "Language",
+          "value": "German"
+        },
+        {
+          "label": "Description",
+          "value": "Accompanied by street index (67 p.)."
+        },
+        {
+          "label": "Subject",
+          "value": "Berlin (Germany)"
+        },
+        {
+          "label": "Subject",
+          "value": "Germany"
+        },
+        {
+          "label": "Subject",
+          "value": "Berlin."
+        },
+        {
+          "label": "Coverage",
+          "value": "Scale 1:22,200."
+        },
+        {
+          "label": "Date",
+          "value": "1900s"
+        },
+        {
+          "label": "Date",
+          "value": "1900s"
+        },
+        {
+          "label": "Identifier",
+          "value": "https://purl.stanford.edu/sr558wt3098"
+        },
+        {
+          "label": "Publisher",
+          "value": "Stich, Druck, u. Verlag vom Geogr. Inst. u. Landkarten-Verlag Jul. Straube"
+        },
+        {
+          "label": "Record published",
+          "value": "2026-07-21"
+        }
+      ],
+      "description": "Accompanied by street index (67 p.).",
+      "thumbnail": {
+        "@id": "https://stacks.stanford.edu/image/iiif/sr558wt3098%2Fsr558wt3098_0001/full/!400,400/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://stacks.stanford.edu/image/iiif/sr558wt3098%2Fsr558wt3098_0001",
+          "profile": "http://iiif.io/api/image/2/level2.json"
+        },
+        "width": 400,
+        "height": 279
+      },
+      "sequences": [
+        {
+          "@id": "https://purl.stanford.edu/sr558wt3098/iiif/manifest#sequence-1",
+          "@type": "sc:Sequence",
+          "label": "Current order",
+          "viewingDirection": "left-to-right",
+          "canvases": [
+            {
+              "@id": "https://purl.stanford.edu/sr558wt3098/iiif/canvas/cocina-fileSet-sr558wt3098-70051477-c732-4e23-9d66-fe9e4255900b",
+              "@type": "sc:Canvas",
+              "label": "Image 1",
+              "height": 17969,
+              "width": 25722,
+              "rendering": [
+                {
+                  "@id": "https://stacks.stanford.edu/file/sr558wt3098/sr558wt3098_0001.jp2",
+                  "label": "Original source file (83.1 MB)",
+                  "format": "image/jp2"
+                }
+              ],
+              "images": [
+                {
+                  "@id": "https://purl.stanford.edu/sr558wt3098/iiif/annotation/https:%2F%2Fcocina.sul.stanford.edu%2Ffile%2Fsr558wt3098-70051477-c732-4e23-9d66-fe9e4255900b%2Fsr558wt3098_0001.jp2",
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "on": "https://purl.stanford.edu/sr558wt3098/iiif/canvas/cocina-fileSet-sr558wt3098-70051477-c732-4e23-9d66-fe9e4255900b",
+                  "resource": {
+                    "@id": "https://stacks.stanford.edu/image/iiif/sr558wt3098%2Fsr558wt3098_0001/full/full/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 17969,
+                    "width": 25722,
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://stacks.stanford.edu/image/iiif/sr558wt3098%2Fsr558wt3098_0001",
+                      "profile": "http://iiif.io/api/image/2/level2.json"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
       "@type": "sc:Manifest",
       "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~381531~90147328/manifest",
       "label": "City map of Berlin",
@@ -361,6 +508,173 @@
     },
     {
       "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "https://purl.stanford.edu/kv544kf5437/iiif/manifest",
+      "@type": "sc:Manifest",
+      "label": "Pharus map of Berlin",
+      "attribution": "This work has been identified as being free of known restrictions under copyright law, including all related and neighboring rights. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.",
+      "logo": {
+        "@id": "https://stacks.stanford.edu/image/iiif/wy534zh7137/SULAIR_rosette/full/400,/0/default.jpg",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://stacks.stanford.edu/image/iiif/wy534zh7137/SULAIR_rosette",
+          "profile": "http://iiif.io/api/image/2/level2.json"
+        }
+      },
+      "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "seeAlso": {
+        "@id": "https://purl.stanford.edu/kv544kf5437.mods",
+        "format": "application/mods+xml"
+      },
+      "metadata": [
+        {
+          "label": "Available Online",
+          "value": "<a href='https://purl.stanford.edu/kv544kf5437'>https://purl.stanford.edu/kv544kf5437</a>"
+        },
+        {
+          "label": "Title",
+          "value": "Pharus map of Berlin"
+        },
+        {
+          "label": "Title",
+          "value": "Everybody once in Berlin : handy guide of Berlin"
+        },
+        {
+          "label": "Contributor",
+          "value": "Pharus-Verlag."
+        },
+        {
+          "label": "Type",
+          "value": "Cartographic image"
+        },
+        {
+          "label": "Type",
+          "value": "Maps"
+        },
+        {
+          "label": "Format",
+          "value": "1 map : color ; 40 x 58 cm"
+        },
+        {
+          "label": "Language",
+          "value": "English"
+        },
+        {
+          "label": "Statement of responsibility",
+          "value": "printed, edited and copyrighted by Pharus-Verlag G.m.b.H., Berlin W.57, Bülowstr. 66."
+        },
+        {
+          "label": "Description",
+          "value": "\"Copyright: Dr. C. Löwe.\""
+        },
+        {
+          "label": "Description",
+          "value": "Indexed \"Short Guide of Berlin\" on verso."
+        },
+        {
+          "label": "Description",
+          "value": "Shows subway lines."
+        },
+        {
+          "label": "Description",
+          "value": "\"Pharus 10-29-1/167a.\""
+        },
+        {
+          "label": "Subject",
+          "value": "Berlin (Germany)"
+        },
+        {
+          "label": "Subject",
+          "value": "Germany"
+        },
+        {
+          "label": "Subject",
+          "value": "Berlin."
+        },
+        {
+          "label": "Coverage",
+          "value": "Scale 1:25,000."
+        },
+        {
+          "label": "Date",
+          "value": "1929"
+        },
+        {
+          "label": "Date",
+          "value": "1929"
+        },
+        {
+          "label": "Identifier",
+          "value": "https://purl.stanford.edu/kv544kf5437"
+        },
+        {
+          "label": "Publisher",
+          "value": "Exhibition, Fair and Travellors' Office of the City of Berlin"
+        },
+        {
+          "label": "Record published",
+          "value": "2026-07-21"
+        }
+      ],
+      "description": "\"Copyright: Dr. C. Löwe.\"",
+      "thumbnail": {
+        "@id": "https://stacks.stanford.edu/image/iiif/kv544kf5437%2Fkv544kf5437_00_0001/full/!400,400/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://stacks.stanford.edu/image/iiif/kv544kf5437%2Fkv544kf5437_00_0001",
+          "profile": "http://iiif.io/api/image/2/level2.json"
+        },
+        "width": 400,
+        "height": 290
+      },
+      "sequences": [
+        {
+          "@id": "https://purl.stanford.edu/kv544kf5437/iiif/manifest#sequence-1",
+          "@type": "sc:Sequence",
+          "label": "Current order",
+          "viewingDirection": "left-to-right",
+          "canvases": [
+            {
+              "@id": "https://purl.stanford.edu/kv544kf5437/iiif/canvas/cocina-fileSet-kv544kf5437-kv544kf5437_1",
+              "@type": "sc:Canvas",
+              "label": "Image 1",
+              "height": 10243,
+              "width": 14140,
+              "rendering": [
+                {
+                  "@id": "https://stacks.stanford.edu/file/kv544kf5437/kv544kf5437_00_0001.jp2",
+                  "label": "Original source file (26 MB)",
+                  "format": "image/jp2"
+                }
+              ],
+              "images": [
+                {
+                  "@id": "https://purl.stanford.edu/kv544kf5437/iiif/annotation/https:%2F%2Fcocina.sul.stanford.edu%2Ffile%2Fkv544kf5437-kv544kf5437_1%2Fkv544kf5437_00_0001.jp2",
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "on": "https://purl.stanford.edu/kv544kf5437/iiif/canvas/cocina-fileSet-kv544kf5437-kv544kf5437_1",
+                  "resource": {
+                    "@id": "https://stacks.stanford.edu/image/iiif/kv544kf5437%2Fkv544kf5437_00_0001/full/full/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 10243,
+                    "width": 14140,
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://stacks.stanford.edu/image/iiif/kv544kf5437%2Fkv544kf5437_00_0001",
+                      "profile": "http://iiif.io/api/image/2/level2.json"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
       "@type": "sc:Manifest",
       "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~249566~5516557/manifest",
       "label": "Mitt Elite durch Berlin (and) Nach Potsdam -Sanssouci",
@@ -535,6 +849,177 @@
         "format": "image/png"
       },
       "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~249566~5516557"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "https://purl.stanford.edu/st216wr9783/iiif/manifest",
+      "@type": "sc:Manifest",
+      "label": "Berlin : mit den 20 Verwaltungsbezirken",
+      "attribution": "This work has been identified as being free of known restrictions under copyright law, including all related and neighboring rights. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.",
+      "logo": {
+        "@id": "https://stacks.stanford.edu/image/iiif/wy534zh7137/SULAIR_rosette/full/400,/0/default.jpg",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://stacks.stanford.edu/image/iiif/wy534zh7137/SULAIR_rosette",
+          "profile": "http://iiif.io/api/image/2/level2.json"
+        }
+      },
+      "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "seeAlso": {
+        "@id": "https://purl.stanford.edu/st216wr9783.mods",
+        "format": "application/mods+xml"
+      },
+      "metadata": [
+        {
+          "label": "Available Online",
+          "value": "<a href='https://purl.stanford.edu/st216wr9783'>https://purl.stanford.edu/st216wr9783</a>"
+        },
+        {
+          "label": "Title",
+          "value": "Berlin : mit den 20 Verwaltungsbezirken"
+        },
+        {
+          "label": "Contributor",
+          "value": "Pharus-Verlag."
+        },
+        {
+          "label": "Type",
+          "value": "Cartographic image"
+        },
+        {
+          "label": "Type",
+          "value": "Maps"
+        },
+        {
+          "label": "Format",
+          "value": "1 map : color ; sheet"
+        },
+        {
+          "label": "Language",
+          "value": "German"
+        },
+        {
+          "label": "Description",
+          "value": "Coordinates approximate."
+        },
+        {
+          "label": "Description",
+          "value": "Legend."
+        },
+        {
+          "label": "Description",
+          "value": "4 inset maps (at scale 1:12,500) continuing main map; one titled \"Fortsetzung von Lichtenrade.\""
+        },
+        {
+          "label": "Description",
+          "value": "Shows woods, railways, stations, roads, various methods of transportation, waterways, topographical features (marshland, sandy areas)."
+        },
+        {
+          "label": "Subject",
+          "value": "Transportation"
+        },
+        {
+          "label": "Subject",
+          "value": "Nineteen forties."
+        },
+        {
+          "label": "Subject",
+          "value": "Germany"
+        },
+        {
+          "label": "Subject",
+          "value": "Berlin"
+        },
+        {
+          "label": "Subject",
+          "value": "Berlin (Germany)"
+        },
+        {
+          "label": "Coverage",
+          "value": "Scale 1:25,000"
+        },
+        {
+          "label": "Coverage",
+          "value": "13°24′40″E -- 13°44′31″E / 52°39′59″N -- 52°22′57″N"
+        },
+        {
+          "label": "Date",
+          "value": "1941"
+        },
+        {
+          "label": "Date",
+          "value": "1941"
+        },
+        {
+          "label": "Identifier",
+          "value": "https://purl.stanford.edu/st216wr9783"
+        },
+        {
+          "label": "Publisher",
+          "value": "Pharus-Plan"
+        },
+        {
+          "label": "Record published",
+          "value": "2026-07-21"
+        }
+      ],
+      "description": "Coordinates approximate.",
+      "thumbnail": {
+        "@id": "https://stacks.stanford.edu/image/iiif/st216wr9783%2Fst216wr9783_0001/full/!400,400/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://stacks.stanford.edu/image/iiif/st216wr9783%2Fst216wr9783_0001",
+          "profile": "http://iiif.io/api/image/2/level2.json"
+        },
+        "width": 307,
+        "height": 400
+      },
+      "sequences": [
+        {
+          "@id": "https://purl.stanford.edu/st216wr9783/iiif/manifest#sequence-1",
+          "@type": "sc:Sequence",
+          "label": "Current order",
+          "viewingDirection": "left-to-right",
+          "canvases": [
+            {
+              "@id": "https://purl.stanford.edu/st216wr9783/iiif/canvas/cocina-fileSet-st216wr9783-st216wr9783_2",
+              "@type": "sc:Canvas",
+              "label": "Image 2",
+              "height": 30130,
+              "width": 23150,
+              "rendering": [
+                {
+                  "@id": "https://stacks.stanford.edu/file/st216wr9783/st216wr9783_0001.jp2",
+                  "label": "Original source file (125 MB)",
+                  "format": "image/jp2"
+                }
+              ],
+              "images": [
+                {
+                  "@id": "https://purl.stanford.edu/st216wr9783/iiif/annotation/https:%2F%2Fcocina.sul.stanford.edu%2Ffile%2Fst216wr9783-st216wr9783_2%2Fst216wr9783_0001.jp2",
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "on": "https://purl.stanford.edu/st216wr9783/iiif/canvas/cocina-fileSet-st216wr9783-st216wr9783_2",
+                  "resource": {
+                    "@id": "https://stacks.stanford.edu/image/iiif/st216wr9783%2Fst216wr9783_0001/full/full/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 30130,
+                    "width": 23150,
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://stacks.stanford.edu/image/iiif/st216wr9783%2Fst216wr9783_0001",
+                      "profile": "http://iiif.io/api/image/2/level2.json"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
     },
     {
       "@context": "http://iiif.io/api/presentation/2/context.json",
