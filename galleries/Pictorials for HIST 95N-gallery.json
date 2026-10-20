@@ -7,6 +7,336 @@
     {
       "@context": "http://iiif.io/api/presentation/2/context.json",
       "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~268110~90042388/manifest",
+      "label": "Covers: Hagstrom's decorative and historical maps",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~268110~90042388/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~268110~90042388/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Covers: Hagstrom's decorative and historical maps",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Hagstrom Company Incorporated"
+                },
+                {
+                  "label": "Date",
+                  "value": "1939"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Covers: Hagstrom's decorative and historical maps"
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Hagstrom Company Incorporated"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "New York"
+                },
+                {
+                  "label": "Type",
+                  "value": "Covers"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "27"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "21"
+                },
+                {
+                  "label": "Note",
+                  "value": "Date estimated. Publisher's brochure in 43 pages. Includes index, maps, text and various drawings."
+                },
+                {
+                  "label": "Reference",
+                  "value": "This item is from the Collection of James Utley MD and was lent to us for scanning."
+                },
+                {
+                  "label": "Subject",
+                  "value": "Pictorial map"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "(Covers to) Hagstrom's decorative and historical maps. Hagstrom Company Incorporated, 311 Broadway, New York, N.Y. (on back cover) \"Maps made for every purpose\"."
+                },
+                {
+                  "label": "List No",
+                  "value": "8165.000"
+                },
+                {
+                  "label": "Series No",
+                  "value": "1"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Hagstrom Company Incorporated"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1939"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Hagstrom's decorative and historical maps. Hagstrom Company Incorporated, 311 Broadway, New York, N.Y. (on back cover) \"Maps made for every purpose\"."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "See note field above."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "8165.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Catalog"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "27"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "21"
+                },
+                {
+                  "label": "Image No",
+                  "value": "8165001.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/136/8165001.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Hagstrom Company Incorporated"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~268110~90042388/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~268110~90042388/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~268110~90042388",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 8423,
+                    "height": 5431
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~268110~90042388/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~268110~90042388/list/luna"
+              ],
+              "width": 8423,
+              "height": 5431
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~268110~90042388"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~268111~90042509/manifest",
+      "label": "Composite text: Hagstrom's decorative and historical maps",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~268111~90042509/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~268111~90042509/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Composite text: Hagstrom's decorative and historical maps",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Hagstrom Company Incorporated"
+                },
+                {
+                  "label": "Date",
+                  "value": "1939"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Composite text: Hagstrom's decorative and historical maps"
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Hagstrom Company Incorporated"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "New York"
+                },
+                {
+                  "label": "Type",
+                  "value": "Composite Text"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "27"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "21"
+                },
+                {
+                  "label": "Note",
+                  "value": "Date estimated. Publisher's brochure in 43 pages. Includes index, maps, text and various drawings."
+                },
+                {
+                  "label": "Reference",
+                  "value": "This item is from the Collection of James Utley MD and was lent to us for scanning and putting online."
+                },
+                {
+                  "label": "Subject",
+                  "value": "Pictorial map"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "(Composite text to) Hagstrom's decorative and historical maps. Hagstrom Company Incorporated, 311 Broadway, New York, N.Y. (on back cover) \"Maps made for every purpose\"."
+                },
+                {
+                  "label": "List No",
+                  "value": "8165.002"
+                },
+                {
+                  "label": "Series No",
+                  "value": "2"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Hagstrom Company Incorporated"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1939"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Hagstrom's decorative and historical maps. Hagstrom Company Incorporated, 311 Broadway, New York, N.Y. (on back cover) \"Maps made for every purpose\"."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "See note field above."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "8165.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Catalog"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "27"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "21"
+                },
+                {
+                  "label": "Image No",
+                  "value": "8165002.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/136/8165002.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Hagstrom Company Incorporated"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~268111~90042509/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~268111~90042509/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~268111~90042509",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 31830,
+                    "height": 31460
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~268111~90042509/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~268111~90042509/list/luna"
+              ],
+              "width": 31830,
+              "height": 31460
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~268111~90042509"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
       "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~345946~90113404/manifest",
       "label": "Makers Of The U.S.A.",
       "attribution": "David Rumsey Historical Map Collection",
@@ -156,175 +486,6 @@
         "format": "image/png"
       },
       "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~345946~90113404"
-    },
-    {
-      "@context": "http://iiif.io/api/presentation/2/context.json",
-      "@type": "sc:Manifest",
-      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~288948~90060506/manifest",
-      "label": "Americans of negro lineage",
-      "attribution": "David Rumsey Historical Map Collection",
-      "service": {
-        "@context": "http://iiif.io/api/search/1/context.json",
-        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~288948~90060506/search",
-        "profile": "http://iiif.io/api/search/1/search"
-      },
-      "sequences": [
-        {
-          "@type": "sc:Sequence",
-          "canvases": [
-            {
-              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~288948~90060506/canvas/c1",
-              "@type": "sc:Canvas",
-              "label": "Americans of negro lineage",
-              "description": "",
-              "metadata": [
-                {
-                  "label": "Author",
-                  "value": "Jefferson, Louise E. (1908-2002)"
-                },
-                {
-                  "label": "Date",
-                  "value": "1946"
-                },
-                {
-                  "label": "Short Title",
-                  "value": "Americans of negro lineage"
-                },
-                {
-                  "label": "Publisher",
-                  "value": "Friendship Press Inc."
-                },
-                {
-                  "label": "Publisher Location",
-                  "value": "New York"
-                },
-                {
-                  "label": "Type",
-                  "value": "Separate Map"
-                },
-                {
-                  "label": "Obj Height cm",
-                  "value": "73"
-                },
-                {
-                  "label": "Obj Width cm",
-                  "value": "95"
-                },
-                {
-                  "label": "Scale 1",
-                  "value": "None shown"
-                },
-                {
-                  "label": "Note",
-                  "value": "Color pictorial map of the United States. Shows places and people important to African American culture in the United States and Southeastern Canada. Includes title cartouche, landmarks, historical notes, and text. On top panel includes vignettes of prominent people in politics, music and literature."
-                },
-                {
-                  "label": "Country",
-                  "value": "United States"
-                },
-                {
-                  "label": "Subject",
-                  "value": "Ethnography; Nationality; Race"
-                },
-                {
-                  "label": "Subject",
-                  "value": "Pictorial map"
-                },
-                {
-                  "label": "Full Title",
-                  "value": "Americans of negro lineage. Louise E. Jefferson. Published by Friendship Press Inc. New York. Copyright 1946, by Louise E. Jefferson. (inset) Negro population in the United States."
-                },
-                {
-                  "label": "List No",
-                  "value": "11278.000"
-                },
-                {
-                  "label": "Publication Author",
-                  "value": "Jefferson, Louise E. (1908-2002)"
-                },
-                {
-                  "label": "Pub Date",
-                  "value": "1946"
-                },
-                {
-                  "label": "Pub Title",
-                  "value": "Americans of negro lineage. Louise E. Jefferson. Published by Friendship Press Inc. New York. Copyright 1946, by Louise E. Jefferson. (inset) Negro population in the United States."
-                },
-                {
-                  "label": "Pub Note",
-                  "value": "See note field above."
-                },
-                {
-                  "label": "Pub List No",
-                  "value": "11278.000"
-                },
-                {
-                  "label": "Pub Type",
-                  "value": "Separate Map"
-                },
-                {
-                  "label": "Pub Height cm",
-                  "value": "73"
-                },
-                {
-                  "label": "Pub Width cm",
-                  "value": "95"
-                },
-                {
-                  "label": "Image No",
-                  "value": "11278000.jp2"
-                },
-                {
-                  "label": "Download 1",
-                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/168/11278000.jp2 target=_blank>Full Image Download in JP2 Format</a>"
-                },
-                {
-                  "label": "Download 2",
-                  "value": "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
-                },
-                {
-                  "label": "Authors",
-                  "value": "Jefferson, Louise E. (1908-2002)"
-                }
-              ],
-              "thumbnail": {
-                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~288948~90060506/full/!96,96/0/default.jpg",
-                "format": "image/jpeg"
-              },
-              "images": [
-                {
-                  "@type": "oa:Annotation",
-                  "motivation": "sc:painting",
-                  "resource": {
-                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~288948~90060506/full/!1024,1024/0/default.jpg",
-                    "@type": "dctypes:Image",
-                    "service": {
-                      "@context": "http://iiif.io/api/image/2/context.json",
-                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~288948~90060506",
-                      "profile": "http://iiif.io/api/image/2/level1.json",
-                      "protocol": "http://iiif.io/api/image"
-                    },
-                    "format": "image/jpeg",
-                    "width": 20294,
-                    "height": 15638
-                  },
-                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~288948~90060506/canvas/c1"
-                }
-              ],
-              "otherContent": [
-                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~288948~90060506/list/luna"
-              ],
-              "width": 20294,
-              "height": 15638
-            }
-          ]
-        }
-      ],
-      "logo": {
-        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
-        "format": "image/png"
-      },
-      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~288948~90060506"
     },
     {
       "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -494,6 +655,332 @@
         "format": "image/png"
       },
       "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~268558~90042825"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~368699~90136042/manifest",
+      "label": "Africa. A Friendship Map",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~368699~90136042/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~368699~90136042/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Africa. A Friendship Map",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Jefferson, Louise E. (1908-2002)"
+                },
+                {
+                  "label": "Date",
+                  "value": "1945"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Africa. A Friendship Map"
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Friendship Press, Inc."
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "New York"
+                },
+                {
+                  "label": "Type",
+                  "value": "Separate Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "73"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "69"
+                },
+                {
+                  "label": "World Area",
+                  "value": "Africa"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Pictorial map"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "Africa. A Friendship Map"
+                },
+                {
+                  "label": "List No",
+                  "value": "16264.000"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Jefferson, Louise E. (1908-2002)"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1945"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Africa. A Friendship Map"
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "\"Louise Jefferson's Iconic Map of Africa A rare pictorial map promoting peaceful relations with Africa and advocating for African self-determination, independence, and self-rule as the era of colonization approached its conclusion. The cartography is simplified, marking major rivers, cities, and tribal regions while serving as a visual narrative of Africa's diverse natural and cultural landscapes. The illustrations bring Africa to life, featuring iconic landscape elements such as the Sahara Desert, the Kalahari, and lush forests, alongside rich fauna, including giraffes, elephants, and camels. Prominent economic activities such as agriculture, fishing, and industries are highlighted, alongside symbols of modernity and progress, including hospitals, schools, and research centers. The inclusion of airplanes, steam engines, and automobiles reflects the continent's integration into global technological advancements. The map emphasizes African agency and accomplishment, reinforcing its positive vision through textual elements. The upper-left inset notes: \"There is hardly a type of responsible position in Africa today that is not being capably filled somewhere on the continent by an African. Africans build, repair, and pilot airplanes, service and operate automobiles, trucks, steam engines, electrical and radio installations. They are teachers, college professors, nurses, doctors, dentists, lawyers, clergymen, engineers and business men.\" Individuals of significance are also depicted, including “Haile Selassie, Emperor of Ethiopia” and “Mina Soga, World Christian,” underscoring both leadership and global contributions of Africans. This celebration of African progress aligns with the mid-twentieth-century movement toward independence and socio-political transformation across the continent. The map is the work of Louise Jefferson, an African American illustrator and pioneering figure in mid-twentieth-century publishing. Jefferson's composition balances traditional artistic elements with emerging socio-economic realities, creating an artifact that is both a historical document and a statement of hope. Louise E. Jefferson Biography The following Biography is excerpted from the Tulane University website: Jefferson was born in Washington, D.C. in 1908 . . . the only child of Louise and Paul Jefferson. Her father was a calligrapher for the United States Treasury, and her mother made a living playing piano and singing aboard cruise ships on the Potomac River. . . Louise began her training at Hunter College in New York City where she studied fine art, and then on to Columbia University where she studied graphic arts. During her time in New York City, Jefferson became involved with the Harlem Artist’s Guild, and is credited as a founding member. She was an active member of the artistic community during the Harlem Renaissance, and she became close friends with poet Langston Hughes, and shared an apartment with Pauli Murray, who would become an influential activist, lawyer, and priest. At the start of her career, Jefferson designed posters for the YWCA in New York City, until she was discovered by the Friendship Press, the publishing branch for the National Council of Churches. By 1942, Jefferson was the Artistic Director for the Friendship Press and she had control of every aspect of the Press’s book productions. While working for Friendship Press, Jefferson also accepted freelance work from publishing companies Doubleday, Macmillan, and Viking, and also from the University presses of Columbia, Oxford, Rutgers, and Syracuse. Jefferson would retire from the Friendship press in 1960, but she remained busy designing book jackets and maps for publishing companies and Universities. Once retired, Jefferson set her sights on the most ambitious project of her life. Over the course of several years, Jefferson made five trips to Africa to do research for what would become her book, The Decorative Arts of Africa. She travelled the continent extensively, visiting Cameroon, the Democratic Republic of the Congo, Egypt, Gambia, Ghana, Guinea, Liberia, Mali, Niger, Nigeria, Senegal, South Africa, Sudan, Uganda, and Zimbabwe. Jefferson used her photographs and drawings from her adventures to create The Decorative Arts of Africa, which was published in 1973. Containing over 300 illustrations, Louise describes her book “as a visual sampling of what the spirit and tempo of the African artist’s role has been in the past and what it continues to be today.” In her later years, Jefferson settled down in the picturesque town of Litchfield Connecticut, where she maintained an art studio and could always be found with her beloved camera, ready to capture a photo at a moment’s notice. She spent the last few years of her life tending to her garden, entertaining friends, and taking snapshots around Litchfield. Louise Jefferson passed away in 2002 at the age of 93.\" (Ruderman, 2025)"
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "16264.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Separate Map"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "73"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "69"
+                },
+                {
+                  "label": "Image No",
+                  "value": "16264000.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/218/16264000.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Jefferson, Louise E. (1908-2002)"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~368699~90136042/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~368699~90136042/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~368699~90136042",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 17319,
+                    "height": 18276
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~368699~90136042/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~368699~90136042/list/luna"
+              ],
+              "width": 17319,
+              "height": 18276
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~368699~90136042"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~288948~90060506/manifest",
+      "label": "Americans of negro lineage",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~288948~90060506/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~288948~90060506/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Americans of negro lineage",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Jefferson, Louise E. (1908-2002)"
+                },
+                {
+                  "label": "Date",
+                  "value": "1946"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Americans of negro lineage"
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Friendship Press Inc."
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "New York"
+                },
+                {
+                  "label": "Type",
+                  "value": "Separate Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "73"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "95"
+                },
+                {
+                  "label": "Scale 1",
+                  "value": "None shown"
+                },
+                {
+                  "label": "Note",
+                  "value": "Color pictorial map of the United States. Shows places and people important to African American culture in the United States and Southeastern Canada. Includes title cartouche, landmarks, historical notes, and text. On top panel includes vignettes of prominent people in politics, music and literature."
+                },
+                {
+                  "label": "Country",
+                  "value": "United States"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Ethnography; Nationality; Race"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Pictorial map"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "Americans of negro lineage. Louise E. Jefferson. Published by Friendship Press Inc. New York. Copyright 1946, by Louise E. Jefferson. (inset) Negro population in the United States."
+                },
+                {
+                  "label": "List No",
+                  "value": "11278.000"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Jefferson, Louise E. (1908-2002)"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1946"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Americans of negro lineage. Louise E. Jefferson. Published by Friendship Press Inc. New York. Copyright 1946, by Louise E. Jefferson. (inset) Negro population in the United States."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "See note field above."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "11278.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Separate Map"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "73"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "95"
+                },
+                {
+                  "label": "Image No",
+                  "value": "11278000.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/168/11278000.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Jefferson, Louise E. (1908-2002)"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~288948~90060506/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~288948~90060506/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~288948~90060506",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 20294,
+                    "height": 15638
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~288948~90060506/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~288948~90060506/list/luna"
+              ],
+              "width": 20294,
+              "height": 15638
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~288948~90060506"
     },
     {
       "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -1544,6 +2031,10 @@
                 {
                   "label": "Authors",
                   "value": "Annand, George; Tull, Roberto; Baker, Susan; Wickser, Josephine Wilhelm; Rand McNally and Company"
+                },
+                {
+                  "label": "local_note",
+                  "value": "[2026-10-20]: Co-authors: Josephine Wickser and Susan Baker"
                 }
               ],
               "thumbnail": {
@@ -1584,160 +2075,6 @@
         "format": "image/png"
       },
       "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~281368~90053953"
-    },
-    {
-      "@context": "http://iiif.io/api/presentation/2/context.json",
-      "@type": "sc:Manifest",
-      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~380776~90146672/manifest",
-      "label": "California Winter Playland",
-      "attribution": "David Rumsey Historical Map Collection",
-      "service": {
-        "@context": "http://iiif.io/api/search/1/context.json",
-        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~380776~90146672/search",
-        "profile": "http://iiif.io/api/search/1/search"
-      },
-      "sequences": [
-        {
-          "@type": "sc:Sequence",
-          "canvases": [
-            {
-              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~380776~90146672/canvas/c1",
-              "@type": "sc:Canvas",
-              "label": "California Winter Playland",
-              "description": "",
-              "metadata": [
-                {
-                  "label": "Author",
-                  "value": "White, Ruth Taylor"
-                },
-                {
-                  "label": "Date",
-                  "value": "1933"
-                },
-                {
-                  "label": "Short Title",
-                  "value": "California Winter Playland"
-                },
-                {
-                  "label": "Publisher",
-                  "value": "California State Automobile Association"
-                },
-                {
-                  "label": "Publisher Location",
-                  "value": "San Francisco"
-                },
-                {
-                  "label": "Type",
-                  "value": "Magazine Map"
-                },
-                {
-                  "label": "Obj Height cm",
-                  "value": "31"
-                },
-                {
-                  "label": "Obj Width cm",
-                  "value": "23"
-                },
-                {
-                  "label": "State/Province",
-                  "value": "California"
-                },
-                {
-                  "label": "Subject",
-                  "value": "Pictorial map"
-                },
-                {
-                  "label": "Full Title",
-                  "value": "California Winter Playland"
-                },
-                {
-                  "label": "List No",
-                  "value": "18027.000"
-                },
-                {
-                  "label": "Publication Author",
-                  "value": "White, Ruth Taylor"
-                },
-                {
-                  "label": "Pub Date",
-                  "value": "1933"
-                },
-                {
-                  "label": "Pub Title",
-                  "value": "California Winter Playland"
-                },
-                {
-                  "label": "Pub Note",
-                  "value": "Cover to the Notice of Annual Meeting of the California State Automobile Association, December 1933."
-                },
-                {
-                  "label": "Pub List No",
-                  "value": "18027.000"
-                },
-                {
-                  "label": "Pub Type",
-                  "value": "Magazine"
-                },
-                {
-                  "label": "Pub Height cm",
-                  "value": "31"
-                },
-                {
-                  "label": "Pub Width cm",
-                  "value": "23"
-                },
-                {
-                  "label": "Image No",
-                  "value": "18027000.jp2"
-                },
-                {
-                  "label": "Download 1",
-                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/222/18027000.jp2 target=_blank>Full Image Download in JP2 Format</a>"
-                },
-                {
-                  "label": "Download 2",
-                  "value": "<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>"
-                },
-                {
-                  "label": "Authors",
-                  "value": "White, Ruth Taylor"
-                }
-              ],
-              "thumbnail": {
-                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~380776~90146672/full/!96,96/0/default.jpg",
-                "format": "image/jpeg"
-              },
-              "images": [
-                {
-                  "@type": "oa:Annotation",
-                  "motivation": "sc:painting",
-                  "resource": {
-                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~380776~90146672/full/!1024,1024/0/default.jpg",
-                    "@type": "dctypes:Image",
-                    "service": {
-                      "@context": "http://iiif.io/api/image/2/context.json",
-                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~380776~90146672",
-                      "profile": "http://iiif.io/api/image/2/level1.json",
-                      "protocol": "http://iiif.io/api/image"
-                    },
-                    "format": "image/jpeg",
-                    "width": 5813,
-                    "height": 7504
-                  },
-                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~380776~90146672/canvas/c1"
-                }
-              ],
-              "width": 5813,
-              "height": 7504
-            }
-          ]
-        }
-      ],
-      "logo": {
-        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
-        "format": "image/png"
-      },
-      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~380776~90146672"
     },
     {
       "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -2285,6 +2622,2936 @@
         "format": "image/png"
       },
       "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~271543~90045381"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~266395~90040796/manifest",
+      "label": "Cape Cod.",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~266395~90040796/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~266395~90040796/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Cape Cod.",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Leonard, Melanie Elisabeth"
+                },
+                {
+                  "label": "Date",
+                  "value": "1926"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Cape Cod."
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Melanie Elisabeth Leonard"
+                },
+                {
+                  "label": "Type",
+                  "value": "Separate Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "62"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "90"
+                },
+                {
+                  "label": "Note",
+                  "value": "Full color. Sights labeled. Roads shown by duel lines of vehicles! Fish border the map."
+                },
+                {
+                  "label": "State/Province",
+                  "value": "Massachusetts"
+                },
+                {
+                  "label": "Region",
+                  "value": "Cape Cod"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Pictorial map"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "A Map of Cape Cod."
+                },
+                {
+                  "label": "List No",
+                  "value": "7981.000"
+                },
+                {
+                  "label": "Series No",
+                  "value": "1"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Leonard, Melanie Elisabeth"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1926"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "A Map of Cape Cod."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "7981.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Separate Map"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "1"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "62"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "90"
+                },
+                {
+                  "label": "Image No",
+                  "value": "7981000.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/136/7981000.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Leonard, Melanie Elisabeth"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~266395~90040796/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~266395~90040796/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~266395~90040796",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 18036,
+                    "height": 12636
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~266395~90040796/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~266395~90040796/list/luna"
+              ],
+              "width": 18036,
+              "height": 12636
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~266395~90040796"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~271583~90045468/manifest",
+      "label": "Campus, Buildings and Idiosyncracies of the University of Minnesota.",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~271583~90045468/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~271583~90045468/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Campus, Buildings and Idiosyncracies of the University of Minnesota.",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Evers, Nadine"
+                },
+                {
+                  "label": "Author",
+                  "value": "May, Elizabeth Paige"
+                },
+                {
+                  "label": "Date",
+                  "value": "1927"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Campus, Buildings and Idiosyncracies of the University of Minnesota."
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Nadine Evers"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Minneapolis"
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Elizabeth Paige May"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Minneapolis"
+                },
+                {
+                  "label": "Type",
+                  "value": "Separate Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "56"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "64"
+                },
+                {
+                  "label": "City",
+                  "value": "Minneapolis (Minn.)"
+                },
+                {
+                  "label": "Region",
+                  "value": "University of Minnesota campus"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Pictorial map"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "A Map Shewing the Campus, the Buildings and the Idiosyncracies of the University of Minnesota."
+                },
+                {
+                  "label": "List No",
+                  "value": "8948.000"
+                },
+                {
+                  "label": "Series No",
+                  "value": "1"
+                },
+                {
+                  "label": "Engraver or Printer",
+                  "value": "Ibidean Company"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Evers, Nadine"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "May, Elizabeth Paige"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1927"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "A Map Shewing the Campus, the Buildings and the Idiosyncracies of the University of Minnesota."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "Clever scale. Mounted on linen."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "8948.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Separate Map"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "1"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "56"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "64"
+                },
+                {
+                  "label": "Image No",
+                  "value": "8948000.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/153/8948000.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Evers, Nadine; May, Elizabeth Paige"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~271583~90045468/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~271583~90045468/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~271583~90045468",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 13253,
+                    "height": 11701
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~271583~90045468/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~271583~90045468/list/luna"
+              ],
+              "width": 13253,
+              "height": 11701
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~271583~90045468"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~372838~90139167/manifest",
+      "label": "A Newe Mapp of Wellesley",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~372838~90139167/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~372838~90139167/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "A Newe Mapp of Wellesley",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Mitchell, Alva Scott"
+                },
+                {
+                  "label": "Author",
+                  "value": "May, Elizabeth Paige"
+                },
+                {
+                  "label": "Date",
+                  "value": "1926"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "A Newe Mapp of Wellesley"
+                },
+                {
+                  "label": "Type",
+                  "value": "Separate Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "54"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "74"
+                },
+                {
+                  "label": "Note",
+                  "value": "Date estimated."
+                },
+                {
+                  "label": "City",
+                  "value": "Wellesley (Massachusetts)"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Pictorial map"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Education"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "A Newe Mapp of Wellesley"
+                },
+                {
+                  "label": "List No",
+                  "value": "16519.000"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Mitchell, Alva Scott"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "May, Elizabeth Paige"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1926"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "A Newe Mapp of Wellesley"
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "This is one of the earliest pictorial maps by Alva Scott Mitchell who subsequently worked under her married name, Alva Scott Garfield Both artists graduated from Wellesley College in 1924"
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "16519.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Separate Map"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "54"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "74"
+                },
+                {
+                  "label": "Image No",
+                  "value": "16519000.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/218/16519000.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Mitchell, Alva Scott; May, Elizabeth Paige"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~372838~90139167/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~372838~90139167/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~372838~90139167",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 12757,
+                    "height": 9413
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~372838~90139167/canvas/c1"
+                }
+              ],
+              "width": 12757,
+              "height": 9413
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~372838~90139167"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~323518~90092717/manifest",
+      "label": "Wheaton College.",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~323518~90092717/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~323518~90092717/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Wheaton College.",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Mitchell, Alva Scott"
+                },
+                {
+                  "label": "Author",
+                  "value": "May, Elizabeth Paige"
+                },
+                {
+                  "label": "Author",
+                  "value": "Colby, Beatrice Adelaide"
+                },
+                {
+                  "label": "Date",
+                  "value": "1930"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Wheaton College."
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Wheaton College"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Norton (Mass.)"
+                },
+                {
+                  "label": "Type",
+                  "value": "Separate Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "46"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "51"
+                },
+                {
+                  "label": "Note",
+                  "value": "Colored bird's-eye view, showing Wheaton College. Includes college seals, as well as vignettes of significant buildings and figures within the college history. Descriptive text throughout. Decorative border and title cartouche. Dotted with mythical creatures, such as a sea serpent with a cat's head in the lake. Four directions labeled in margins of map, in Latin. Map 46 x 51 cm, on sheet 55 x 74 cm. (Date, publisher, and place of publication estimated.)"
+                },
+                {
+                  "label": "City",
+                  "value": "Norton (Mass.)"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Pictorial map"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Education"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "Wheaton College in the Old Colony, Norton, Mass., & the adjacent realms of House-in-the-Pines and The Hedges. \"What is it but a map of busy life, it's fluctuations, and its vast concerns?\" ~ Cowper. Plotted & executed by Alva Scott Mitchell and Elizabeth Paige May with Beatrice Adelaide Colby, 30, as accessory before the fact."
+                },
+                {
+                  "label": "List No",
+                  "value": "14028.000"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Mitchell, Alva Scott"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "May, Elizabeth Paige"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Colby, Beatrice Adelaide"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1930"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Wheaton College in the Old Colony, Norton, Mass., & the adjacent realms of House-in-the-Pines and The Hedges. \"What is it but a map of busy life, it's fluctuations, and its vast concerns?\" ~ Cowper. Plotted & executed by Alva Scott Mitchell and Elizabeth Paige May with Beatrice Adelaide Colby, 30, as accessory before the fact."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "14028.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Separate Map"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "46"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "51"
+                },
+                {
+                  "label": "Image No",
+                  "value": "14028000.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/185/14028000.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Mitchell, Alva Scott; May, Elizabeth Paige; Colby, Beatrice Adelaide"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~323518~90092717/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~323518~90092717/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~323518~90092717",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 14678,
+                    "height": 11036
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~323518~90092717/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~323518~90092717/list/luna"
+              ],
+              "width": 14678,
+              "height": 11036
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~323518~90092717"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~267159~90041650/manifest",
+      "label": "Plan de Paris. Drawn by Ilonka Karasz",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~267159~90041650/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~267159~90041650/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Plan de Paris. Drawn by Ilonka Karasz",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Karasz, Ilonka"
+                },
+                {
+                  "label": "Date",
+                  "value": "1927"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Plan de Paris. Drawn by Ilonka Karasz"
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Washington Square Bookshop"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "New York, NY"
+                },
+                {
+                  "label": "Type",
+                  "value": "Separate Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "72"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "93"
+                },
+                {
+                  "label": "Scale 1",
+                  "value": "None shown"
+                },
+                {
+                  "label": "Note",
+                  "value": "Pictorial map, mounted on heavy paper. Karasz's design and the vivid color printing used for this map of Paris are especially unusual and striking. All of the principal avenues of the City are clearly depicted and appear heightened with gold color finish that enhances the sense of decorative \"old style\" luxuriance that pervades the whole composition. Title cartouche includes two winged cherubs hold a banner title top center whilst a pair of red curtains are drawn back to reveal a detailed plan of the City of Paris. Map extending from Montmatre in the North to Chatillon, Bvd Jourdan and the vestiges of the southern City walls in the south, to Nanterre and Courbevoie in the West and Vincennes in the East, All of the major parks and gardens of the City and its immediate environs are equally attractively delineated with their trees and principal features. Shows historic sites and buildings in detailed three dimensional vignettes. A roundel inset lower left shows Marie Antoinette as a bucolic shepherdess beside a fine view of the gardens and facade of the Chateau of Versailles, and compass rose on the lower right. Index panels to the left and right sides of the map as well as the bottom denote the principal monuments, museums, churches, and sites of historic interest, as well as shops, bookshops, art galleries, banks, bars and restaurants. The lower border of panels showing historical scenes."
+                },
+                {
+                  "label": "City",
+                  "value": "Paris (France)"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Pictorial map"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "Plan de Paris. Drawn by Ilonka Karasz in the year of nineteen hundred and twenty seven. Published by the Washington Square Book Shop at 27 West 8th Str., New York City."
+                },
+                {
+                  "label": "List No",
+                  "value": "8091.000"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Karasz, Ilonka"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1927"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Plan de Paris. Drawn by Ilonka Karasz in the year of nineteen hundred and twenty seven. Published by the Washington Square Book Shop at 27 West 8th Str., New York City."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "See note field above."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "8091.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Separate Map"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "72"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "93"
+                },
+                {
+                  "label": "Image No",
+                  "value": "8091000.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/136/8091000.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Karasz, Ilonka"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~267159~90041650/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~267159~90041650/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~267159~90041650",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 18652,
+                    "height": 14612
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~267159~90041650/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~267159~90041650/list/luna"
+              ],
+              "width": 18652,
+              "height": 14612
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~267159~90041650"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~268145~90042390/manifest",
+      "label": "Text Page: Picture history maps. Designed by Elizabeth Shurtleff",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~268145~90042390/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~268145~90042390/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Text Page: Picture history maps. Designed by Elizabeth Shurtleff",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Shurtleff, Elizabeth"
+                },
+                {
+                  "label": "Author",
+                  "value": "The Graphic History Association"
+                },
+                {
+                  "label": "Date",
+                  "value": "1930"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Text Page: Picture history maps. Designed by Elizabeth Shurtleff"
+                },
+                {
+                  "label": "Type",
+                  "value": "Text Page"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "24"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "31"
+                },
+                {
+                  "label": "Note",
+                  "value": "Date estimated. Publisher's brochure, 24x31, folded to 24x15.5. With cover, text and 3 maps on verso."
+                },
+                {
+                  "label": "Reference",
+                  "value": "This item is from the Collection of James Utley MD and was lent to us for scanning and putting online."
+                },
+                {
+                  "label": "Subject",
+                  "value": "Pictorial map"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "(Text page to) Picture history maps. Designed by Elizabeth Shurtleff, published by The Graphic History Association. 20 Christopher Street, New York City. (on verso map and text) The Bermuda Island."
+                },
+                {
+                  "label": "List No",
+                  "value": "8164.002"
+                },
+                {
+                  "label": "Series No",
+                  "value": "2"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Shurtleff, Elizabeth"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "The Graphic History Association"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1930"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Picture history maps. Designed by Elizabeth Shurtleff, published by The Graphic History Association. 20 Christopher Street, New York City. (on verso map and text) The Bermuda Island."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "See note field above."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "8164.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Catalog"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "24"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "16"
+                },
+                {
+                  "label": "Image No",
+                  "value": "8164002.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/136/8164002.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "The Graphic History Association; Shurtleff, Elizabeth"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~268145~90042390/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~268145~90042390/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~268145~90042390",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 6117,
+                    "height": 4810
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~268145~90042390/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~268145~90042390/list/luna"
+              ],
+              "width": 6117,
+              "height": 4810
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~268145~90042390"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~260715~5522991/manifest",
+      "label": "Map of Massachusetts, The Old Bay State.",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~260715~5522991/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~260715~5522991/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Map of Massachusetts, The Old Bay State.",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Shurtleff, Elizabeth"
+                },
+                {
+                  "label": "Date",
+                  "value": "1930"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Map of Massachusetts, The Old Bay State."
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Graphic History Association"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "New York"
+                },
+                {
+                  "label": "Type",
+                  "value": "Separate Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "70"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "98"
+                },
+                {
+                  "label": "Note",
+                  "value": "Heavily illustrated map and borders highlights the history of the state with colorful illustrations of places, people and events from colonial days, both on the map and in the decorative border. At the left and right edges are the arms of the educational institutions of the state. Particularly bold and attractive are the images of the many sailing boats offshore. At lower right is the island of Nantucket, with the Pequod sailing close by, the lookout calling \"Have you seen Moby Dick, Captain Ahab!!\""
+                },
+                {
+                  "label": "State/Province",
+                  "value": "Massachusetts"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Pictorial map"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "Map of Massachusetts, The Old Bay State. A Picture History Map"
+                },
+                {
+                  "label": "List No",
+                  "value": "8518.000"
+                },
+                {
+                  "label": "Series No",
+                  "value": "1"
+                },
+                {
+                  "label": "Engraver or Printer",
+                  "value": "The Tudor Press, Inc."
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Shurtleff, Elizabeth"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1930"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Map of Massachusetts, The Old Bay State."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "Approved by the Tercentenary Conference of City and Town Committees. Mounted on linen."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "8518.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Separate Map"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "1"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "70"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "98"
+                },
+                {
+                  "label": "Image No",
+                  "value": "8518000"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D5005/8518000.sid target=_blank>Full Image Download in MrSID Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Shurtleff, Elizabeth"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~260715~5522991/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~260715~5522991/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~260715~5522991",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 19633,
+                    "height": 14281
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~260715~5522991/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~260715~5522991/list/luna"
+              ],
+              "width": 19633,
+              "height": 14281
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~260715~5522991"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~272160~90045963/manifest",
+      "label": "New Hampshire.",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~272160~90045963/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~272160~90045963/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "New Hampshire.",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Shurtleff, Elizabeth"
+                },
+                {
+                  "label": "Author",
+                  "value": "McMillin, Helen F."
+                },
+                {
+                  "label": "Date",
+                  "value": "1926"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "New Hampshire."
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Elizabeth Shurtleff"
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Helen F. McMillin"
+                },
+                {
+                  "label": "Type",
+                  "value": "Separate Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "86"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "60"
+                },
+                {
+                  "label": "Scale 1",
+                  "value": "350,000"
+                },
+                {
+                  "label": "State/Province",
+                  "value": "New Hampshire"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Pictorial map"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "Map of the State of New Hampshire ... Designed, Drawn, and Published by Elizabeth Shurtleff & Helen F. McMillin."
+                },
+                {
+                  "label": "List No",
+                  "value": "8907.000"
+                },
+                {
+                  "label": "Series No",
+                  "value": "1"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Shurtleff, Elizabeth"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "McMillin, Helen F."
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1926"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Map of the State of New Hampshire ... Designed, Drawn, and Published by Elizabeth Shurtleff & Helen F. McMillin."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "Color."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "8907.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Separate Map"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "1"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "86"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "60"
+                },
+                {
+                  "label": "Image No",
+                  "value": "8907000.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/153/8907000.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Shurtleff, Elizabeth; McMillin, Helen F."
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~272160~90045963/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~272160~90045963/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~272160~90045963",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 12130,
+                    "height": 17196
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~272160~90045963/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~272160~90045963/list/luna"
+              ],
+              "width": 12130,
+              "height": 17196
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~272160~90045963"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~276135~90049371/manifest",
+      "label": "Highways and byways of Girl Scouting. Girl Scouts Inc.",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~276135~90049371/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~276135~90049371/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Highways and byways of Girl Scouting. Girl Scouts Inc.",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Shurtleff, Elizabeth"
+                },
+                {
+                  "label": "Author",
+                  "value": "McMillin, Helen F."
+                },
+                {
+                  "label": "Date",
+                  "value": "1927"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Highways and byways of Girl Scouting. Girl Scouts Inc."
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Girl Scouts,Inc."
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "New York City"
+                },
+                {
+                  "label": "Type",
+                  "value": "Separate Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "73"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "84"
+                },
+                {
+                  "label": "Scale 1",
+                  "value": "None shown"
+                },
+                {
+                  "label": "Note",
+                  "value": "Pictorial map of the United States, mounted on linen, with title cartouche and a decorative border enumerating the Girl Scout laws. Showing roads, trails, locations of Girl Scout camps and activities. Includes decorative compass rose with the north oriented to the top margin."
+                },
+                {
+                  "label": "Country",
+                  "value": "United States"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Pictorial map"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "Highways and byways of Girl Scouting. Girl Scouts Inc. 670 Lexington avenue, New York City. Copyright by Girl Scouts Inc. 1927. Planned and executed by Elizabeth Shurtleff and Helen F. McMillin."
+                },
+                {
+                  "label": "List No",
+                  "value": "9902.000"
+                },
+                {
+                  "label": "Engraver or Printer",
+                  "value": "Shurtleff, Elizabeth"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "McMillin, Helen F."
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1927"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Highways and byways of Girl Scouting. Girl Scouts Inc. 670 Lexington avenue, New York City. Copyright by Girl Scouts Inc. 1927. Planned and executed by Elizabeth Shurtleff and Helen F. McMillin."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "See note field above."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "9902.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Separate Map"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "73"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "84"
+                },
+                {
+                  "label": "Image No",
+                  "value": "9902000.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/162/9902000.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Shurtleff, Elizabeth ; McMillin, Helen F."
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~276135~90049371/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~276135~90049371/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~276135~90049371",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 19142,
+                    "height": 15176
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~276135~90049371/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~276135~90049371/list/luna"
+              ],
+              "width": 19142,
+              "height": 15176
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~276135~90049371"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~296100~90067586/manifest",
+      "label": "Star Map.",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~296100~90067586/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~296100~90067586/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Star Map.",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Shurtleff, Elizabeth"
+                },
+                {
+                  "label": "Date",
+                  "value": "1930"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Star Map."
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Hagstrom Company"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "New York"
+                },
+                {
+                  "label": "Type",
+                  "value": "Separate Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "47"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "69"
+                },
+                {
+                  "label": "Note",
+                  "value": "Date estimated. A pictorial celestial map. Instructions under the title explain how to hold the map to identify the constellations in the night sky. With strong colors in the style of other Shurtleff pictorial maps. Another edition was published by the Graphic History Association in the same year (Worldcat). A folded version was accompanied by an envelope."
+                },
+                {
+                  "label": "Subject",
+                  "value": "Celestial"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Pictorial map"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "Star Map. Face South, And Raise Map Over Head, To Place Constellations.Guide to Star Magnitudes."
+                },
+                {
+                  "label": "List No",
+                  "value": "10097.000"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Shurtleff, Elizabeth"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1930"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Star Map. Face South, And Raise Map Over Head, To Place Constellations.Guide to Star Magnitudes."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "10097.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Separate Map"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "47"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "69"
+                },
+                {
+                  "label": "Image No",
+                  "value": "10097000.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/171/10097000.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Shurtleff, Elizabeth"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~296100~90067586/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~296100~90067586/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~296100~90067586",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 14489,
+                    "height": 10119
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~296100~90067586/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~296100~90067586/list/luna"
+              ],
+              "width": 14489,
+              "height": 10119
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~296100~90067586"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~306108~90076465/manifest",
+      "label": "Map of memorials of a famous woman Frances E. Willard",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~306108~90076465/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~306108~90076465/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Map of memorials of a famous woman Frances E. Willard",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Randall, Ida Schmid"
+                },
+                {
+                  "label": "Author",
+                  "value": "Woman's Christian Temperance Union."
+                },
+                {
+                  "label": "Date",
+                  "value": "1938"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Map of memorials of a famous woman Frances E. Willard"
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Woman's Christian Temperance Union."
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "U.S."
+                },
+                {
+                  "label": "Type",
+                  "value": "Fabric Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "72"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "94"
+                },
+                {
+                  "label": "Scale 1",
+                  "value": "None shown"
+                },
+                {
+                  "label": "Note",
+                  "value": "The Willard Centenary Souvenir cloth map of the United States. One of 8,800 produced for the 1939 centenary of Frances Willard’s birth, the Founder and president of Woman's Christian Temperance Union from 1879 until her death in 1898. The maps were advertised in the Union Signal, the WCTU’s national weekly newspaper, starting in mid-1938, and went on sale for the first time at the National WCTU Convention in San Francisco in August, 1938. The “cut” from which the map was printed was produced by Mr. M. Hermas of Evanston, and the maps were produced by Waverly Fabrics, in New York. Pictorial map printed in brown on rectangle of cream-colored cotton. Drawn by Ida Schmid Randall, artist, architect, and cartographer and was produced by the WCTU to commemorate the 1939 centenary of Willard’s birth. Includes sketch of Willard as a young woman is at the center top and seal of the National Woman's Christian Temperance Union at the center bottom. Map showing state boundaries with location of structure that had been named in honor of Frances E. Willard. Includes vignettes of buildings at the upper and lower panels and full listing of all 263 buildings, statues, plaques, trees, drinking-fountains, and stained-glass windows, schools and parks in both sides."
+                },
+                {
+                  "label": "Country",
+                  "value": "United States"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Pictorial map"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "Map of memorials of a famous woman Frances E. Willard. Author Ida Schmid Randall. Copyright by National Woman's Christian Temperance Union. August 1st 1938."
+                },
+                {
+                  "label": "List No",
+                  "value": "11766.000"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Randall, Ida Schmid"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Woman's Christian Temperance Union."
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1938"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Map of memorials of a famous woman Frances E. Willard. Author Ida Schmid Randall. Copyright by National Woman's Christian Temperance Union. August 1st 1938."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "See note field above."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "11766.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Fabric Map"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "72"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "94"
+                },
+                {
+                  "label": "Image No",
+                  "value": "11766000.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/179/11766000.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Randall, Ida Schmid; Woman's Christian Temperance Union."
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~306108~90076465/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~306108~90076465/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~306108~90076465",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 11698,
+                    "height": 9134
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~306108~90076465/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~306108~90076465/list/luna"
+              ],
+              "width": 11698,
+              "height": 9134
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~306108~90076465"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~269024~90043065/manifest",
+      "label": "California.",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~269024~90043065/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~269024~90043065/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "California.",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Hader, Berta Hoerner (1890-1976)"
+                },
+                {
+                  "label": "Author",
+                  "value": "Hader, Elmer Stanley (1889-1973"
+                },
+                {
+                  "label": "Date",
+                  "value": "1932"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "California."
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Harper & Brothers Publishers"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "New York"
+                },
+                {
+                  "label": "Type",
+                  "value": "Atlas Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "31"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "23"
+                },
+                {
+                  "label": "State/Province",
+                  "value": "California"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Pictorial map"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "California."
+                },
+                {
+                  "label": "List No",
+                  "value": "8763.058"
+                },
+                {
+                  "label": "Series No",
+                  "value": "58"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Hader, Berta Hoerner (1890-1976)"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Hader, Elmer Stanley (1889-1973"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1932"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Berta and Elmer Hader's Picture Book of the States."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "Responsible for illustrating and writing dozens of children's books, Berta and Elmer Hader also did book covers for John Steinbeck and worked for several prominent magazines."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "8763.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "National Atlas"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "28"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "24"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "32"
+                },
+                {
+                  "label": "Image No",
+                  "value": "8763058.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/153/8763058.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Hader, Berta Hoerner (1890-1976); Hader, Elmer Stanley (1889-1973"
+                },
+                {
+                  "label": "local_note",
+                  "value": "[2026-10-20]: Part of an atlas of states. PLN= 8763.000"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~269024~90043065/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~269024~90043065/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~269024~90043065",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 4604,
+                    "height": 6154
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~269024~90043065/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~269024~90043065/list/luna"
+              ],
+              "width": 4604,
+              "height": 6154
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~269024~90043065"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~319880~90088965/manifest",
+      "label": "Chinatown San Francisco",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~319880~90088965/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~319880~90088965/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Chinatown San Francisco",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Chun, Ethel"
+                },
+                {
+                  "label": "Date",
+                  "value": "1939"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Chinatown San Francisco"
+                },
+                {
+                  "label": "Publisher",
+                  "value": "California Chinese Pioneer Historical Society"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "San Francisco"
+                },
+                {
+                  "label": "Type",
+                  "value": "Pocket Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "44"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "57"
+                },
+                {
+                  "label": "Note",
+                  "value": "Pictorial souvenir map of Chinatown."
+                },
+                {
+                  "label": "Reference",
+                  "value": "Picturing America, S. Hornsby."
+                },
+                {
+                  "label": "City",
+                  "value": "San Francisco"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Pictorial map"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "Chinatown San Francisco. Ethel Chun. 1939. (on verso) The story of San Francisco Chinatown."
+                },
+                {
+                  "label": "List No",
+                  "value": "13363.001"
+                },
+                {
+                  "label": "Series No",
+                  "value": "1"
+                },
+                {
+                  "label": "Engraver or Printer",
+                  "value": "California Chinese Pioneer Historical Society"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Chun, Ethel"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1939"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "China Town San Francisco. Ethel Chun. 1939. (on verso) The story of San Francisco China Town."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "Pictorial souvenir map of Chinatown. Drawn in traditional Chinese color scheme by Ethel Chun, Hawaiian-Chinese artist, depicting the chaos of Chinatown to the average American tourist. Published for the California Chinese Pioneer Historical Society. Includes a small inset of San Francisco, showing the 1939 Exposition on Treasure Island, in lower left corner in the lower left. Map shows streets, buildings and the most interesting places in San Francisco's Chinatown. Oriented with north towards upper right. On verso text and illustration \"The story of San Francisco's Chinatown\" is a short history of Chinatown from the Gold Rush onwards, with list of 33 places of interest, folded into self mailing envelope with return address, 22x14."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "13363.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Pocket Map"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "14"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "22"
+                },
+                {
+                  "label": "Image No",
+                  "value": "13363001.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/179/13363001.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Chun, Ethel"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~319880~90088965/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~319880~90088965/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~319880~90088965",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 11346,
+                    "height": 8828
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~319880~90088965/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~319880~90088965/list/luna"
+              ],
+              "width": 11346,
+              "height": 8828
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~319880~90088965"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~271886~90045676/manifest",
+      "label": "America - a nation of one people from many countries",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~271886~90045676/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~271886~90045676/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "America - a nation of one people from many countries",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Bourne, Emma"
+                },
+                {
+                  "label": "Author",
+                  "value": "The Council Against Intolerance in America"
+                },
+                {
+                  "label": "Date",
+                  "value": "1940"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "America - a nation of one people from many countries"
+                },
+                {
+                  "label": "Publisher",
+                  "value": "The Council Against Intolerance in America"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "New York"
+                },
+                {
+                  "label": "Type",
+                  "value": "Separate Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "85"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "133"
+                },
+                {
+                  "label": "Scale 1",
+                  "value": "4,000,000"
+                },
+                {
+                  "label": "Note",
+                  "value": "Pictorial map of the United States depicting the great ethnic and religious diversity throughout the nation, illustrated with people at work, famous buildings, factories, agriculture, livestock, oil wells, and ore mines. Long red ribbons wind across the landscape showing settlement clusters of various ethnic groups. Two insets lists of nationalities pointing to Americans from, and the densely populated in the Northeast. A large inset on lower left, lists famous names under the headings Literature, Science, Industry, and The Arts, with their professions and ethnic background, statistical list including members of various religious groups, noted \"These statistics are taken from the official yearbooks of the three major religious groups\". A large illustration of the head of a Native American off the coast of Florida bears the caption, “With the exception of the Indian all Americans or their forefathers came here from other countries. This map shows where they live, what they do, and what their religion is.”"
+                },
+                {
+                  "label": "Country",
+                  "value": "United States"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Pictorial map"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Ethnography; Nationality; Race"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "America - a nation of one people from many countries. Emma Bourne. Issued by The Council Against Intolerance in America. 17 East 42nd. Street, New York City 17. Copyright 1940. Made in U.S.A."
+                },
+                {
+                  "label": "List No",
+                  "value": "8212.000"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Bourne, Emma"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "The Council Against Intolerance in America"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1940"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "America - a nation of one people from many countries. Emma Bourne. Issued by The Council Against Intolerance in America. 17 East 42nd. Street, New York City 17. Copyright 1940. Made in U.S.A."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "See note field above."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "8212.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Separate Map"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "85"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "133"
+                },
+                {
+                  "label": "Image No",
+                  "value": "8212000.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/153/8212000.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Bourne, Emma; The Council Against Intolerance in America"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~271886~90045676/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~271886~90045676/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~271886~90045676",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 26822,
+                    "height": 17804
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~271886~90045676/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~271886~90045676/list/luna"
+              ],
+              "width": 26822,
+              "height": 17804
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~271886~90045676"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~299751~90070728/manifest",
+      "label": "Covers: Country Gentlewoman. February, 1948. United States.",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~299751~90070728/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~299751~90070728/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Covers: Country Gentlewoman. February, 1948. United States.",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Crisp, Mary Ellen"
+                },
+                {
+                  "label": "Date",
+                  "value": "1948"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Covers: Country Gentlewoman. February, 1948. United States."
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Country Gentlewoman"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Philadelphia"
+                },
+                {
+                  "label": "Type",
+                  "value": "Covers"
+                },
+                {
+                  "label": "Type",
+                  "value": "Separate Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "36"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "28"
+                },
+                {
+                  "label": "Note",
+                  "value": "Text indicates map was available in pattern form for embroidery."
+                },
+                {
+                  "label": "Country",
+                  "value": "United States"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Pictorial map"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "(Covers to) Country Gentlewoman. February, 1948. (United States)."
+                },
+                {
+                  "label": "List No",
+                  "value": "12360.001"
+                },
+                {
+                  "label": "Series No",
+                  "value": "1"
+                },
+                {
+                  "label": "Page No",
+                  "value": "covers"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Crisp, Mary Ellen"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1948"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Country Gentlewoman. February, 1948. United States."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "Mary Ellen Crisp was best known for her pictorial embroidered murals."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "12360.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Separate Map"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "1"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "36"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "28"
+                },
+                {
+                  "label": "Image No",
+                  "value": "12360001.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/171/12360001.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Crisp, Mary Ellen"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~299751~90070728/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~299751~90070728/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~299751~90070728",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 5442,
+                    "height": 7084
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~299751~90070728/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~299751~90070728/list/luna"
+              ],
+              "width": 5442,
+              "height": 7084
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~299751~90070728"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~347385~90114851/manifest",
+      "label": "The United States : The land and the people = Les Etats-Unis : Le pays et ses habitants = De Verenigde Staten : Het land en her volk.",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~347385~90114851/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~347385~90114851/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "The United States : The land and the people = Les Etats-Unis : Le pays et ses habitants = De Verenigde Staten : Het land en her volk.",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Ronin, Mary"
+                },
+                {
+                  "label": "Date",
+                  "value": "1958"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "The United States : The land and the people = Les Etats-Unis : Le pays et ses habitants = De Verenigde Staten : Het land en her volk."
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Expo (International Exhibitions Bureau) (1958 : Brussels, Belgium)"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Washington D.C."
+                },
+                {
+                  "label": "Type",
+                  "value": "Separate Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "47"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "67"
+                },
+                {
+                  "label": "Note",
+                  "value": "Pictorial map of the United States, featuring the national and ancestral origins of its people. Souvenir map from the United States Pavilion of the Brussels Universal and International Exhibition of 1958. Also shows political boundaries, natural resources, topography, bodies of water, drainage and coastlines. Relief shown with shading. Includes a compass rose with north oriented toward top of sheet, as well as descriptive text. With three inset maps: Alaska -- Hawaii -- Puerto Rico and the Virgin Islands. Title and text appears in parallel English, French and Dutch. Colored lithograph. Map is 47 x 67 cm, on sheet 48 x 69 cm. Verso has a plan for the United States Pavilion."
+                },
+                {
+                  "label": "Country",
+                  "value": "United States"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Ethnography; Nationality; Race"
+                },
+                {
+                  "label": "Subject",
+                  "value": "World's Fair"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Pictorial map"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "The United States : The land and the people = Les Etats-Unis : Le pays et ses habitants = De Verenigde Staten : Het land en her volk. Mary Ronin. Printed in Holland."
+                },
+                {
+                  "label": "List No",
+                  "value": "14464.001"
+                },
+                {
+                  "label": "Series No",
+                  "value": "1"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Ronin, Mary"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1958"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "The United States : The land and the people = Les Etats-Unis : Le pays et ses habitants = De Verenigde Staten : Het land en her volk. Mary Ronin. Printed in Holland."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "The United States : The land and the people = Les Etats-Unis : Le pays et ses habitants = De Verenigde Staten : Het land en her volk. Mary Ronin. Printed in Holland, by Mary Ronin. (Presumably published in Washington D.C.) Pictorial map of the United States, featuring the national and ancestral origins of its people. Souvenir map from the United States Pavilion of the Brussels Universal and International Exhibition of 1958. Title and text appears in parallel English, French and Dutch. Verso has a plan for the United States Pavilion. Colored lithograph."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "14464.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Separate Map"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "2"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "23"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "11"
+                },
+                {
+                  "label": "Image No",
+                  "value": "14464001.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/199/14464001.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Ronin, Mary"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~347385~90114851/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~347385~90114851/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~347385~90114851",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 16394,
+                    "height": 11594
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~347385~90114851/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~347385~90114851/list/luna"
+              ],
+              "width": 16394,
+              "height": 11594
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~347385~90114851"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~342601~90110851/manifest",
+      "label": "A Nation of Immigrants.",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~342601~90110851/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~342601~90110851/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "A Nation of Immigrants.",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Passal, Daniela"
+                },
+                {
+                  "label": "Author",
+                  "value": "Kennedy, John F."
+                },
+                {
+                  "label": "Date",
+                  "value": "1959"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "A Nation of Immigrants."
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Anti-Defamation League"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "New York"
+                },
+                {
+                  "label": "Type",
+                  "value": "Book Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "42"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "55"
+                },
+                {
+                  "label": "Country",
+                  "value": "United States"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Pictorial map"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Ethnography; Nationality; Race"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "A Nation of Immigrants."
+                },
+                {
+                  "label": "List No",
+                  "value": "15132.001"
+                },
+                {
+                  "label": "Series No",
+                  "value": "1"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Passal, Daniela"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Kennedy, John F."
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1959"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "A Nation of Immigrants"
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "\"\"The immigrants we welcome today and tomorrow will carry on this tradition and help us to retain, reinvigorate and strengthen the American spirit.\" Important vintage pictorial map by Daniela Passal, issued as a companion to John F. Kennedy's A Nation of Immigrants pamphlet in 1959. The map attempts to communicate the diversity of America's population through ethnic caricature: in Missouri, a German man in lederhosen lifts a stein of beer; in California, a Chinese man with a Fu Manchu does the same with a cup of tea; in New York, a rabbi uses a shofar and an Italian man in a tuxedo sings into a microphone. There is an additional series of images intended to reflect the industries of the states: cars in Michigan; cows and beer in Wisconsin; an atom in New Mexico. Strikingly absent from the map is a mention of Africa or Africa slavery; the two figures working cotton fields in the South are both white, and the area is interspersed with mentions of English and French immigration but none of African. A black man is shown playing a trumpet in Alabama. Surrounding the map is a list of ethnicities, Armenians through Portuguese, though again, \"Africans\" is conspicuously absent. The map includes the following explanation of its publication: \"This map is designed as a companion piece to John F. Kennedy's pamphlet, \"A Nation of Immigrants.\" Additional copies of this map may be obtained ( @ 25¢ each ) from the Anti-Defamation League of B'nai B'rith, 515 Madison Avenue, New York 22, N.Y.\" In the lower-left corner is a small explanatory essay: The United States of America is, indeed, a nation of immigrants--a democratic society of more than 170 million individuals composed almost entirely of immigrants or the descendants of immigrants. All told, some forty million immigrants have come to our shores since the beginning of American history... These are some of yesterday's immigrants who have supplied a continuous flow of creative abilities and ideas that have enriched our nation. The immigrants we welcome today and tomorrow will carry on this tradition and help us to retain, reinvigorate and strengthen the American spirit. Rarity Though the map cannot have been especially rare when it was produced, it is not seen often on the market today; this is the first time we have offered the map for sale. OCLC locates a single separate example at the University of Minnesota. It would appear that Harvard University also has an example.\" (Ruderman 2021)"
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "15132.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Geography Book"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "23"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "15"
+                },
+                {
+                  "label": "Image No",
+                  "value": "15132001.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/199/15132001.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Passal, Daniela ; Kennedy, John F."
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~342601~90110851/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~342601~90110851/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~342601~90110851",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 13122,
+                    "height": 10176
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~342601~90110851/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~342601~90110851/list/luna"
+              ],
+              "width": 13122,
+              "height": 10176
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~342601~90110851"
     }
   ]
 }
