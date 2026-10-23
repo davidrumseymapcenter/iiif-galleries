@@ -1,0 +1,1560 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@type": "sc:Collection",
+  "@id": "https://iiif-gallery-builder.example.org/Fundamentals of GIS",
+  "label": "Fundamentals of GIS",
+  "items": [
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "https://purl.stanford.edu/xx067gv7489/iiif/manifest",
+      "@type": "sc:Manifest",
+      "label": "Die vielgestaltige Schweiz. Svizzera dai mille volti. La Suisse en images. Exploring Switzerland. Unter leitung von Prof. Ed. Imhof dargestellt von Otto M. Muller. Herausgegeben von der Schweiz. Zentrale fur Verkehrsforderung in Zurich. Edite par l'Office General Suisse du Tourisme a Zurich. Gedruckt in der Schweiz. Imprime en Suisse. Hallwag, Bern. Stampato in Svizzera. printed in Switzerland. Hallwag, Berne. (on verso cover title) Exploring Switzerland. Published by the Swiss National Tourist Office. Pictorial guide - map for tourists. Designed by Prof. Ed. Imhof. Drawn by Otto Muller. Copyright Hallwag, Berne",
+      "attribution": "Property rights reside with the repository, Copyright (c) Stanford University.  Images may be reproduced or transmitted, but not for commercial use. For commercial use or commercial republication, contact rumseymapcenter@stanford.edu This work is licensed under a Creative Commons License. By downloading any images from this site, you agree to the terms of that license. ",
+      "logo": {
+        "@id": "https://stacks.stanford.edu/image/iiif/wy534zh7137/SULAIR_rosette/full/400,/0/default.jpg",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://stacks.stanford.edu/image/iiif/wy534zh7137/SULAIR_rosette",
+          "profile": "http://iiif.io/api/image/2/level2.json"
+        }
+      },
+      "license": "https://creativecommons.org/licenses/by-nc-sa/3.0/legalcode",
+      "seeAlso": {
+        "@id": "https://purl.stanford.edu/xx067gv7489.mods",
+        "format": "application/mods+xml"
+      },
+      "metadata": [
+        {
+          "label": "Available Online",
+          "value": "<a href='https://purl.stanford.edu/xx067gv7489'>https://purl.stanford.edu/xx067gv7489</a>"
+        },
+        {
+          "label": "Title",
+          "value": "Die vielgestaltige Schweiz. Svizzera dai mille volti. La Suisse en images. Exploring Switzerland. Unter leitung von Prof. Ed. Imhof dargestellt von Otto M. Muller. Herausgegeben von der Schweiz. Zentrale fur Verkehrsforderung in Zurich. Edite par l'Office General Suisse du Tourisme a Zurich. Gedruckt in der Schweiz. Imprime en Suisse. Hallwag, Bern. Stampato in Svizzera. printed in Switzerland. Hallwag, Berne. (on verso cover title) Exploring Switzerland. Published by the Swiss National Tourist Office. Pictorial guide - map for tourists. Designed by Prof. Ed. Imhof. Drawn by Otto Muller. Copyright Hallwag, Berne"
+        },
+        {
+          "label": "Contributor",
+          "value": "Müller, Otto M."
+        },
+        {
+          "label": "Contributor",
+          "value": "Imhof, Eduard."
+        },
+        {
+          "label": "Contributor",
+          "value": "Jenny, Hans."
+        },
+        {
+          "label": "Contributor",
+          "value": "Swiss National Tourist Office."
+        },
+        {
+          "label": "Type",
+          "value": "Cartographic image"
+        },
+        {
+          "label": "Type",
+          "value": "Maps"
+        },
+        {
+          "label": "Type",
+          "value": "Pictorial maps"
+        },
+        {
+          "label": "Type",
+          "value": "Tourist maps."
+        },
+        {
+          "label": "Type",
+          "value": "Aerial views"
+        },
+        {
+          "label": "Format",
+          "value": "1 map ; 21 x 15 cm"
+        },
+        {
+          "label": "Language",
+          "value": "German"
+        },
+        {
+          "label": "Description",
+          "value": "Detailed color pictorial map, 75.5x116, on sheet 79x118, folded in self cover 21x15, surrounded by notes and illustration of flowers, with the compass rose in the center. Shows buildings. landmarks, peoples, animals, roads, railroads, waterways, churches, tourist attractions, geographical features and places of interest. Relief shown pictorially. Panel title, text: Art treasures in Switzerland: A short guide by Hans Jenny, and illustrations on verso."
+        },
+        {
+          "label": "Description",
+          "value": "Pocket Map."
+        },
+        {
+          "label": "Description",
+          "value": "Pub list no.: 8126.000."
+        },
+        {
+          "label": "Subject",
+          "value": "Pictorial maps"
+        },
+        {
+          "label": "Subject",
+          "value": "20th century."
+        },
+        {
+          "label": "Subject",
+          "value": "Switzerland"
+        },
+        {
+          "label": "Subject",
+          "value": "Tourist maps"
+        },
+        {
+          "label": "Subject",
+          "value": "Bird's-eye views"
+        },
+        {
+          "label": "Coverage",
+          "value": "Scale 1:325,000."
+        },
+        {
+          "label": "Date",
+          "value": "1939"
+        },
+        {
+          "label": "Date",
+          "value": "1939"
+        },
+        {
+          "label": "Identifier",
+          "value": "https://purl.stanford.edu/xx067gv7489"
+        },
+        {
+          "label": "Publisher",
+          "value": "Hallwag-Verlag"
+        },
+        {
+          "label": "Relation",
+          "value": "David Rumsey Map Collection at Stanford University Libraries"
+        },
+        {
+          "label": "Record published",
+          "value": "2026-07-21"
+        }
+      ],
+      "description": "Detailed color pictorial map, 75.5x116, on sheet 79x118, folded in self cover 21x15, surrounded by notes and illustration of flowers, with the compass rose in the center. Shows buildings. landmarks, peoples, animals, roads, railroads, waterways, churches, tourist attractions, geographical features and places of interest. Relief shown pictorially. Panel title, text: Art treasures in Switzerland: A short guide by Hans Jenny, and illustrations on verso.",
+      "thumbnail": {
+        "@id": "https://stacks.stanford.edu/image/iiif/db035vm8503%2F8126001/full/!400,400/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://stacks.stanford.edu/image/iiif/db035vm8503%2F8126001",
+          "profile": "http://iiif.io/api/image/2/level2.json"
+        },
+        "width": 293,
+        "height": 400
+      },
+      "sequences": [
+        {
+          "@id": "https://purl.stanford.edu/xx067gv7489/iiif/manifest#sequence-1",
+          "@type": "sc:Sequence",
+          "label": "Current order",
+          "viewingDirection": "left-to-right",
+          "canvases": [
+            {
+              "@id": "https://purl.stanford.edu/xx067gv7489/iiif/canvas/cocina-fileSet-hm535cn8328-hm535cn8328_1",
+              "@type": "sc:Canvas",
+              "label": "Die vielgestaltige Schweiz. Svizzera dai mille volti. La Suisse en images. Exploring\n   Switzerland. Unter leitung von Prof. Ed. Imhof dargestellt von Otto M. Muller. Herausgegeben von\n   der Schweiz. Zentrale fur Verkehrsforderung in Zurich. Edite par l'Office General Suisse du\n   Tourisme a Zurich. Gedruckt in der Schweiz. Imprime en Suisse. Hallwag, Bern. Stampato in\n   Svizzera. printed in Switzerland. Hallwag, Berne. (on verso cover title) Exploring Switzerland.\n   Published by the Swiss National Tourist Office. Pictorial guide - map for tourists. Designed by\n   Prof. Ed. Imhof. Drawn by Otto Muller. Copyright Hallwag, Berne",
+              "height": 15644,
+              "width": 23426,
+              "rendering": [
+                {
+                  "@id": "https://stacks.stanford.edu/file/hm535cn8328/8126003.jp2",
+                  "label": "Original source file (65.8 MB)",
+                  "format": "image/jp2"
+                }
+              ],
+              "images": [
+                {
+                  "@id": "https://purl.stanford.edu/xx067gv7489/iiif/annotation/https:%2F%2Fcocina.sul.stanford.edu%2Ffile%2Fhm535cn8328-hm535cn8328_1%2F8126003.jp2",
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "on": "https://purl.stanford.edu/xx067gv7489/iiif/canvas/cocina-fileSet-hm535cn8328-hm535cn8328_1",
+                  "resource": {
+                    "@id": "https://stacks.stanford.edu/image/iiif/hm535cn8328%2F8126003/full/full/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 15644,
+                    "width": 23426,
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://stacks.stanford.edu/image/iiif/hm535cn8328%2F8126003",
+                      "profile": "http://iiif.io/api/image/2/level2.json"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~267441~90041892/manifest",
+      "label": "Imperial Airways Map of Empire & European Air Routes.",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~267441~90041892/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~267441~90041892/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Imperial Airways Map of Empire & European Air Routes.",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Moholy-Nagy, Laszlo"
+                },
+                {
+                  "label": "Author",
+                  "value": "Imperial Airways Ltd."
+                },
+                {
+                  "label": "Date",
+                  "value": "1937"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Imperial Airways Map of Empire & European Air Routes."
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Imperial Airways Ltd."
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "London"
+                },
+                {
+                  "label": "Type",
+                  "value": "Separate Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "65"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "101"
+                },
+                {
+                  "label": "Note",
+                  "value": "This extraordinary world map by noted Bauhaus designer and artist, Laszlo Moholy-Nagy, draws on the pioneering information design work of Harry Beck and his London subway maps, here used to show the routes of Imperial Airways and associated airlines. What is special about the map is the combining of the more standard world map with air routes shown, with the abstract version in Beck's style of the entire route system, in an overlaid diagram floating above the Americas and the southern Pacific ocean. To further complicate the design, Moholy-Nagy uses Stanford maps with their more standard map conventions to delineate the countries that made up the British empire in 1937. The remainder of the world is left abstract. This is a very unusual map and very rare. Moholy-Nagy's name is not printed on the map, but the attribution comes from Borchardt-Hume, \"Albers and Moholy-Nagy: From the Bauhaus to the New World,\" 2006 Tate Publications, London. Clearly shows the British Empire and air routes. Inset shows frequency of service and miles from London for Europe, Africa, Asia and Australia/New Zealand."
+                },
+                {
+                  "label": "Reference",
+                  "value": "Borchardt-Hume, \"Albers and Moholy-Nagy: From the Bauhaus to the New World,\" 2006, Tate Publications, London, p.58."
+                },
+                {
+                  "label": "World Area",
+                  "value": "World"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Airlines"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Pictorial map"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Transit"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Data Visualization"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "Imperial Airways Map of Empire & European Air Routes. ... Published by Imperial Airways Ltd. I A/P/61-1M 4/37."
+                },
+                {
+                  "label": "List No",
+                  "value": "8717.000"
+                },
+                {
+                  "label": "Series No",
+                  "value": "1"
+                },
+                {
+                  "label": "Engraver or Printer",
+                  "value": "Curwen Press Ltd."
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Moholy-Nagy, Laszlo"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Imperial Airways Ltd."
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1937"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Imperial Airways Map of Empire & European Air Routes. ... Published by Imperial Airways Ltd. I A/P/61-1M 4/37."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "This extraordinary world map by noted Bauhaus designer and artist, Laszlo Moholy-Nagy, draws on the pioneering information design work of Harry Beck and his London subway maps, here used to show the routes of Imperial Airways and associated airlines. What is special about the map is the combining of the more standard world map with air routes shown, with the abstract version in Beck's style of the entire route system, in an overlaid diagram floating above the Americas and the southern Pacific ocean. To further complicate the design, Moholy-Nagy uses Stanford maps with their more standard map conventions to delineate the countries that made up the British empire in 1937. The remainder of the world is left abstract. This is a very unusual map and very rare. Moholy-Nagy's name is not printed on the map, but the attribution comes from Borchardt-Hume, \"Albers and Moholy-Nagy: From the Bauhaus to the New World,\" 2006 Tate Publications, London. Clearly shows the British Empire and air routes. Inset shows frequency of service and miles from London for Europe, Africa, Asia and Australia/New Zealand."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "8717.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Separate Map"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "1"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "65"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "101"
+                },
+                {
+                  "label": "Image No",
+                  "value": "8717000.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/136/8717000.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Moholy-Nagy, Laszlo; Imperial Airways Ltd."
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~267441~90041892/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~267441~90041892/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~267441~90041892",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 20088,
+                    "height": 13140
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~267441~90041892/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~267441~90041892/list/luna"
+              ],
+              "width": 20088,
+              "height": 13140
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~267441~90041892"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "https://purl.stanford.edu/kn610dc0757/iiif/manifest",
+      "@type": "sc:Manifest",
+      "label": "Map of London's Underground Railways. Underground. A new design for an old map. We should welcome your comments. Please write to Publicity Manager, 55, Broadway, Westminster, S.W.1 Waterlow & Sons Limited, London, Dunstable & Watford. (750M - 1-33)",
+      "attribution": "Property rights reside with the repository, Copyright (c) Stanford University.  Images may be reproduced or transmitted, but not for commercial use. For commercial use or commercial republication, contact rumseymapcenter@stanford.edu This work is licensed under a Creative Commons License. By downloading any images from this site, you agree to the terms of that license. ",
+      "logo": {
+        "@id": "https://stacks.stanford.edu/image/iiif/wy534zh7137/SULAIR_rosette/full/400,/0/default.jpg",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://stacks.stanford.edu/image/iiif/wy534zh7137/SULAIR_rosette",
+          "profile": "http://iiif.io/api/image/2/level2.json"
+        }
+      },
+      "license": "https://creativecommons.org/licenses/by-nc-sa/3.0/legalcode",
+      "seeAlso": {
+        "@id": "https://purl.stanford.edu/kn610dc0757.mods",
+        "format": "application/mods+xml"
+      },
+      "metadata": [
+        {
+          "label": "Available Online",
+          "value": "<a href='https://purl.stanford.edu/kn610dc0757'>https://purl.stanford.edu/kn610dc0757</a>"
+        },
+        {
+          "label": "Title",
+          "value": "Map of London's Underground Railways. Underground. A new design for an old map. We should welcome your comments. Please write to Publicity Manager, 55, Broadway, Westminster, S.W.1 Waterlow & Sons Limited, London, Dunstable & Watford. (750M - 1-33)"
+        },
+        {
+          "label": "Contributor",
+          "value": "Beck, Henry Charles."
+        },
+        {
+          "label": "Contributor",
+          "value": "London Transport."
+        },
+        {
+          "label": "Contributor",
+          "value": "Waterlow & Sons Limited."
+        },
+        {
+          "label": "Type",
+          "value": "Cartographic image"
+        },
+        {
+          "label": "Type",
+          "value": "Maps"
+        },
+        {
+          "label": "Type",
+          "value": "Pictorial maps"
+        },
+        {
+          "label": "Format",
+          "value": "1 map ; 15 x 21 cm."
+        },
+        {
+          "label": "Language",
+          "value": "English"
+        },
+        {
+          "label": "Description",
+          "value": "Pocket Map."
+        },
+        {
+          "label": "Description",
+          "value": "This the first edition of the first year of issue of Beck's famous map of the London Underground railways, the first such map to use an entirely schematic and largely non geographical design for the railway system. This map is considered to be a landmark of twentieth century information design. See our 8727.000 for the second edition later in 1933."
+        },
+        {
+          "label": "Description",
+          "value": "Pub list no.: 8691.000."
+        },
+        {
+          "label": "Provenance",
+          "value": "David Rumsey Map Collection"
+        },
+        {
+          "label": "Subject",
+          "value": "Pictorial maps"
+        },
+        {
+          "label": "Subject",
+          "value": "20th century."
+        },
+        {
+          "label": "Subject",
+          "value": "England"
+        },
+        {
+          "label": "Subject",
+          "value": "London"
+        },
+        {
+          "label": "Subject",
+          "value": "Subways"
+        },
+        {
+          "label": "Subject",
+          "value": "London (England)"
+        },
+        {
+          "label": "Date",
+          "value": "1933"
+        },
+        {
+          "label": "Date",
+          "value": "1933"
+        },
+        {
+          "label": "Identifier",
+          "value": "https://purl.stanford.edu/kn610dc0757"
+        },
+        {
+          "label": "Publisher",
+          "value": "London Transport"
+        },
+        {
+          "label": "Relation",
+          "value": "David Rumsey Map Collection at Stanford University Libraries"
+        },
+        {
+          "label": "Record published",
+          "value": "2026-07-21"
+        }
+      ],
+      "description": "Pocket Map.",
+      "thumbnail": {
+        "@id": "https://stacks.stanford.edu/image/iiif/zb188dx1373%2F8691001/full/!400,400/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://stacks.stanford.edu/image/iiif/zb188dx1373%2F8691001",
+          "profile": "http://iiif.io/api/image/2/level2.json"
+        },
+        "width": 202,
+        "height": 400
+      },
+      "sequences": [
+        {
+          "@id": "https://purl.stanford.edu/kn610dc0757/iiif/manifest#sequence-1",
+          "@type": "sc:Sequence",
+          "label": "Current order",
+          "viewingDirection": "left-to-right",
+          "canvases": [
+            {
+              "@id": "https://purl.stanford.edu/kn610dc0757/iiif/canvas/cocina-fileSet-jw294rk5309-jw294rk5309_1",
+              "@type": "sc:Canvas",
+              "label": "Map of London's Underground Railways",
+              "height": 3316,
+              "width": 4684,
+              "rendering": [
+                {
+                  "@id": "https://stacks.stanford.edu/file/jw294rk5309/8691003.jp2",
+                  "label": "Original source file (2.81 MB)",
+                  "format": "image/jp2"
+                }
+              ],
+              "images": [
+                {
+                  "@id": "https://purl.stanford.edu/kn610dc0757/iiif/annotation/https:%2F%2Fcocina.sul.stanford.edu%2Ffile%2Fjw294rk5309-jw294rk5309_1%2F8691003.jp2",
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "on": "https://purl.stanford.edu/kn610dc0757/iiif/canvas/cocina-fileSet-jw294rk5309-jw294rk5309_1",
+                  "resource": {
+                    "@id": "https://stacks.stanford.edu/image/iiif/jw294rk5309%2F8691003/full/full/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 3316,
+                    "width": 4684,
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://stacks.stanford.edu/image/iiif/jw294rk5309%2F8691003",
+                      "profile": "http://iiif.io/api/image/2/level2.json"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "https://purl.stanford.edu/ff461dh7805/iiif/manifest",
+      "@type": "sc:Manifest",
+      "label": "Statistical Atlas Of The United States (1890 Census). Based Upon Results Of The Eleventh Census. By Henry Gannett. Department Of The Interior, Census Office. Robert P. Porter, Superintendent ... Carroll D. Wright, Commissioner of Labor in Charge ... Washington: Government Printing Office. 1898. (seal) Department Of The Interior",
+      "attribution": "Property rights reside with the repository, Copyright (c) Stanford University.  Images may be reproduced or transmitted, but not for commercial use. For commercial use or commercial republication, contact rumseymapcenter@stanford.edu This work is licensed under a Creative Commons License. By downloading any images from this site, you agree to the terms of that license. ",
+      "logo": {
+        "@id": "https://stacks.stanford.edu/image/iiif/wy534zh7137/SULAIR_rosette/full/400,/0/default.jpg",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://stacks.stanford.edu/image/iiif/wy534zh7137/SULAIR_rosette",
+          "profile": "http://iiif.io/api/image/2/level2.json"
+        }
+      },
+      "license": "https://creativecommons.org/licenses/by-nc-sa/3.0/legalcode",
+      "seeAlso": {
+        "@id": "https://purl.stanford.edu/ff461dh7805.mods",
+        "format": "application/mods+xml"
+      },
+      "metadata": [
+        {
+          "label": "Available Online",
+          "value": "<a href='https://purl.stanford.edu/ff461dh7805'>https://purl.stanford.edu/ff461dh7805</a>"
+        },
+        {
+          "label": "Title",
+          "value": "Statistical Atlas Of The United States (1890 Census). Based Upon Results Of The Eleventh Census. By Henry Gannett. Department Of The Interior, Census Office. Robert P. Porter, Superintendent ... Carroll D. Wright, Commissioner of Labor in Charge ... Washington: Government Printing Office. 1898. (seal) Department Of The Interior"
+        },
+        {
+          "label": "Contributor",
+          "value": "Gannett, Henry, 1846-1914."
+        },
+        {
+          "label": "Contributor",
+          "value": "Bien, Julius & Co."
+        },
+        {
+          "label": "Contributor",
+          "value": "United States. Census Office."
+        },
+        {
+          "label": "Type",
+          "value": "Cartographic image"
+        },
+        {
+          "label": "Type",
+          "value": "Atlases"
+        },
+        {
+          "label": "Type",
+          "value": "Maps"
+        },
+        {
+          "label": "Type",
+          "value": "Statistical maps."
+        },
+        {
+          "label": "Format",
+          "value": "1 atlas : 57 maps ; 54 x 43 cm"
+        },
+        {
+          "label": "Language",
+          "value": "English"
+        },
+        {
+          "label": "Description",
+          "value": "Bound in half leather marbled paper covered boards with red leather label titled \"House Miscellaneous Documents 1st Session, 52d Congress, 1891-'92, Vol. 50-Part 19. Eleventh Census of the United States 1890. Statistical Atlas\" in gold."
+        },
+        {
+          "label": "Description",
+          "value": "References: Schwartz & Ehrenberg p319."
+        },
+        {
+          "label": "Description",
+          "value": "Statistical Atlas."
+        },
+        {
+          "label": "Description",
+          "value": "Pub list no.: 1873.000."
+        },
+        {
+          "label": "Subject",
+          "value": "Atlases"
+        },
+        {
+          "label": "Subject",
+          "value": "19th century."
+        },
+        {
+          "label": "Subject",
+          "value": "United States"
+        },
+        {
+          "label": "Subject",
+          "value": "Statistical maps"
+        },
+        {
+          "label": "Subject",
+          "value": "Census"
+        },
+        {
+          "label": "Subject",
+          "value": "Maps"
+        },
+        {
+          "label": "Date",
+          "value": "1898"
+        },
+        {
+          "label": "Date",
+          "value": "1898"
+        },
+        {
+          "label": "Identifier",
+          "value": "https://purl.stanford.edu/ff461dh7805"
+        },
+        {
+          "label": "Publisher",
+          "value": "U.S. Census Office"
+        },
+        {
+          "label": "Relation",
+          "value": "David Rumsey Map Collection at Stanford University Libraries"
+        },
+        {
+          "label": "Record published",
+          "value": "2026-07-14"
+        }
+      ],
+      "description": "Bound in half leather marbled paper covered boards with red leather label titled \"House Miscellaneous Documents 1st Session, 52d Congress, 1891-'92, Vol. 50-Part 19. Eleventh Census of the United States 1890. Statistical Atlas\" in gold.",
+      "thumbnail": {
+        "@id": "https://stacks.stanford.edu/image/iiif/zt253wr4790%2F1873a/full/!400,400/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://stacks.stanford.edu/image/iiif/zt253wr4790%2F1873a",
+          "profile": "http://iiif.io/api/image/2/level2.json"
+        },
+        "width": 400,
+        "height": 253
+      },
+      "sequences": [
+        {
+          "@id": "https://purl.stanford.edu/ff461dh7805/iiif/manifest#sequence-1",
+          "@type": "sc:Sequence",
+          "label": "Current order",
+          "viewingDirection": "left-to-right",
+          "canvases": [
+            {
+              "@id": "https://purl.stanford.edu/ff461dh7805/iiif/canvas/cocina-fileSet-jf243pv1904-jf243pv1904_1",
+              "@type": "sc:Canvas",
+              "label": "28. The predominating sex: 1890. Julius Bien & Co. Lith., N.Y.\n            (1898)",
+              "height": 6700,
+              "width": 10356,
+              "rendering": [
+                {
+                  "@id": "https://stacks.stanford.edu/file/jf243pv1904/1873009.jp2",
+                  "label": "Original source file (12.5 MB)",
+                  "format": "image/jp2"
+                }
+              ],
+              "images": [
+                {
+                  "@id": "https://purl.stanford.edu/ff461dh7805/iiif/annotation/https:%2F%2Fcocina.sul.stanford.edu%2Ffile%2Fjf243pv1904-jf243pv1904_1%2F1873009.jp2",
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "on": "https://purl.stanford.edu/ff461dh7805/iiif/canvas/cocina-fileSet-jf243pv1904-jf243pv1904_1",
+                  "resource": {
+                    "@id": "https://stacks.stanford.edu/image/iiif/jf243pv1904%2F1873009/full/full/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 6700,
+                    "width": 10356,
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://stacks.stanford.edu/image/iiif/jf243pv1904%2F1873009",
+                      "profile": "http://iiif.io/api/image/2/level2.json"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~309502~90079343/manifest",
+      "label": "Statistical Diagram: VI. Exposition Universelle de 1889. Recettes Brutes des Theatres et Spectacles des Paris de 1878 a 1889.",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~309502~90079343/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~309502~90079343/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Statistical Diagram: VI. Exposition Universelle de 1889. Recettes Brutes des Theatres et Spectacles des Paris de 1878 a 1889.",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Ministere des Travaux Publics"
+                },
+                {
+                  "label": "Author",
+                  "value": "Cheysson, Émile"
+                },
+                {
+                  "label": "Date",
+                  "value": "1890"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Statistical Diagram: VI. Exposition Universelle de 1889. Recettes Brutes des Theatres et Spectacles des Paris de 1878 a 1889."
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Imprimie Nationale"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Paris"
+                },
+                {
+                  "label": "Type",
+                  "value": "Statistical Diagram"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "34"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "68"
+                },
+                {
+                  "label": "Note",
+                  "value": "Graph type: half coxcomb, bar."
+                },
+                {
+                  "label": "Country",
+                  "value": "France"
+                },
+                {
+                  "label": "City",
+                  "value": "Paris (France)"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Recreation"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Data Visualization"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "(Statistical Diagram) VI. Exposition Universelle de 1889. Recettes Brutes des Theatres et Spectacles des Paris de 1878 a 1889. (World Fair of 1889: Gross earnings of the theatres and spectacles of Paris from 1878 to 1889.)"
+                },
+                {
+                  "label": "List No",
+                  "value": "12520.040"
+                },
+                {
+                  "label": "Series No",
+                  "value": "40"
+                },
+                {
+                  "label": "Page No",
+                  "value": "26"
+                },
+                {
+                  "label": "Engraver or Printer",
+                  "value": "A. Simon"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Ministere des Travaux Publics"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Cheysson, Émile"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1890"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Ministere des Travaux Publics. Album de Statistique Graphique de 1889. Paris. Imprimerie Nationale. M DCCC XC."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "This atlas is one in a series of annual or biannual editions; we have from the period 1879 - 1900. In French. Most maps have a detailed inset showing the map's theme as it applies to the vicinity of Paris. The maps were inspired by the earlier work of Charles Joseph Minard (see our copies of 15 of his maps/diagrams). Émile Cheysson created these Albums of Statistics for the French Ministry of Public Works."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "12520.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "National Atlas"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "20"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "35"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "27"
+                },
+                {
+                  "label": "Image No",
+                  "value": "12520040.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/179/12520040.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Ministere des Travaux Publics; Cheysson, Émile"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~309502~90079343/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~309502~90079343/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~309502~90079343",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 13580,
+                    "height": 6205
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~309502~90079343/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~309502~90079343/list/luna"
+              ],
+              "width": 13580,
+              "height": 6205
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~309502~90079343"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "https://purl.stanford.edu/hs598bn8889/iiif/manifest",
+      "@type": "sc:Manifest",
+      "label": "Topographical Atlas Projected To Illustrate United States Geographical Surveys West Of The 100th Meridian Of Longitude Prosecuted In Accordance With Acts Of Congress Under The Authority Of The Honorable The Secretary Of War, And The Direction Of Brig. Genl. A.A. Humphreys, Chief Of Engineers, U.S. Army. Embracing Results Of the Different Expeditions Under The Command Of 1st Lieut. Geo. M. Wheeler, Corps Of Engineers. Julius Bien, lith",
+      "attribution": "Property rights reside with the repository, Copyright (c) Stanford University.  Images may be reproduced or transmitted, but not for commercial use. For commercial use or commercial republication, contact rumseymapcenter@stanford.edu This work is licensed under a Creative Commons License. By downloading any images from this site, you agree to the terms of that license. ",
+      "logo": {
+        "@id": "https://stacks.stanford.edu/image/iiif/wy534zh7137/SULAIR_rosette/full/400,/0/default.jpg",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://stacks.stanford.edu/image/iiif/wy534zh7137/SULAIR_rosette",
+          "profile": "http://iiif.io/api/image/2/level2.json"
+        }
+      },
+      "license": "https://creativecommons.org/licenses/by-nc-sa/3.0/legalcode",
+      "seeAlso": {
+        "@id": "https://purl.stanford.edu/hs598bn8889.mods",
+        "format": "application/mods+xml"
+      },
+      "metadata": [
+        {
+          "label": "Available Online",
+          "value": "<a href='https://purl.stanford.edu/hs598bn8889'>https://purl.stanford.edu/hs598bn8889</a>"
+        },
+        {
+          "label": "Title",
+          "value": "Topographical Atlas Projected To Illustrate United States Geographical Surveys West Of The 100th Meridian Of Longitude Prosecuted In Accordance With Acts Of Congress Under The Authority Of The Honorable The Secretary Of War, And The Direction Of Brig. Genl. A.A. Humphreys, Chief Of Engineers, U.S. Army. Embracing Results Of the Different Expeditions Under The Command Of 1st Lieut. Geo. M. Wheeler, Corps Of Engineers. Julius Bien, lith"
+        },
+        {
+          "label": "Title",
+          "value": "Topographical atlas--geographical and geological explorations and surveys west of the 100th meridian"
+        },
+        {
+          "label": "Title",
+          "value": "Geographical explorations and surveys west of the 100th meridian topographical atlas"
+        },
+        {
+          "label": "Title",
+          "value": "Geological atlas--geographical explorations and surveys west of the 100th meridian"
+        },
+        {
+          "label": "Contributor",
+          "value": "Wheeler, George M. (George Montague), 1842-1905."
+        },
+        {
+          "label": "Contributor",
+          "value": "United States.  Army.  Corps of Engineers."
+        },
+        {
+          "label": "Type",
+          "value": "Cartographic image"
+        },
+        {
+          "label": "Type",
+          "value": "Atlas factices."
+        },
+        {
+          "label": "Type",
+          "value": "Maps"
+        },
+        {
+          "label": "Type",
+          "value": "Topographic maps."
+        },
+        {
+          "label": "Format",
+          "value": "1 atlas (135 sheets) : maps (some folded) (some col.) ; 49 x 61 cm"
+        },
+        {
+          "label": "Language",
+          "value": "English"
+        },
+        {
+          "label": "Description",
+          "value": "A collection of 135 Topographical and Geological Atlas sheets. An almost complete collection of all the Wheeler survey maps originally owned by the Salt Lake Mining Institute. We have since added maps to make it nearly a complete set, following the listing in P1281 (which lists 179 sheets). Many of the sheets in the original Salt Lake Mining Institute set have the signature of Ovando Hollister, an important figure in western mining history."
+        },
+        {
+          "label": "Description",
+          "value": "References: P1281."
+        },
+        {
+          "label": "Description",
+          "value": "David Rumsey Map Center set contains covers (6 copies), legend, signs (2 copies) skeleton map, index map, progress maps (10 copies from different years), drainage maps (2 copies).  Set includes maps covering the same area highlighting topography, land classification, geology, mining, and economics."
+        },
+        {
+          "label": "Description",
+          "value": "Pub list no.: 2738.000."
+        },
+        {
+          "label": "Subject",
+          "value": "Atlases"
+        },
+        {
+          "label": "Subject",
+          "value": "19th century."
+        },
+        {
+          "label": "Subject",
+          "value": "United States"
+        },
+        {
+          "label": "Subject",
+          "value": "West"
+        },
+        {
+          "label": "Subject",
+          "value": "Topographic maps"
+        },
+        {
+          "label": "Subject",
+          "value": "U.S. War Dept."
+        },
+        {
+          "label": "Subject",
+          "value": "Maps"
+        },
+        {
+          "label": "Subject",
+          "value": "Irrigation"
+        },
+        {
+          "label": "Subject",
+          "value": "Colorado"
+        },
+        {
+          "label": "Subject",
+          "value": "Colorado River"
+        },
+        {
+          "label": "Subject",
+          "value": "West (U.S.)"
+        },
+        {
+          "label": "Subject",
+          "value": "Colorado River (Colo.-Mexico)"
+        },
+        {
+          "label": "Subject",
+          "value": "West of 100th Meridian"
+        },
+        {
+          "label": "Date",
+          "value": "1873"
+        },
+        {
+          "label": "Date",
+          "value": "1873 - 1878"
+        },
+        {
+          "label": "Identifier",
+          "value": "https://purl.stanford.edu/hs598bn8889"
+        },
+        {
+          "label": "Publisher",
+          "value": "The Corps"
+        },
+        {
+          "label": "Relation",
+          "value": "David Rumsey Map Collection at Stanford University Libraries"
+        },
+        {
+          "label": "Record published",
+          "value": "2026-07-14"
+        }
+      ],
+      "description": "A collection of 135 Topographical and Geological Atlas sheets. An almost complete collection of all the Wheeler survey maps originally owned by the Salt Lake Mining Institute. We have since added maps to make it nearly a complete set, following the listing in P1281 (which lists 179 sheets). Many of the sheets in the original Salt Lake Mining Institute set have the signature of Ovando Hollister, an important figure in western mining history.",
+      "thumbnail": {
+        "@id": "https://stacks.stanford.edu/image/iiif/xy851xn7907%2F2738A/full/!400,400/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://stacks.stanford.edu/image/iiif/xy851xn7907%2F2738A",
+          "profile": "http://iiif.io/api/image/2/level2.json"
+        },
+        "width": 400,
+        "height": 320
+      },
+      "sequences": [
+        {
+          "@id": "https://purl.stanford.edu/hs598bn8889/iiif/manifest#sequence-1",
+          "@type": "sc:Sequence",
+          "label": "Current order",
+          "viewingDirection": "left-to-right",
+          "canvases": [
+            {
+              "@id": "https://purl.stanford.edu/hs598bn8889/iiif/canvas/cocina-fileSet-qp682cr5496-qp682cr5496_1",
+              "@type": "sc:Canvas",
+              "label": "Topographical Map Of The Yosemite Valley And Vicinity. Preliminary Edition. Part Of\n   East Central California. Mountain Drawing by J.E. Weyss; Lettering by J. Franke. From\n   Topographical Plat by Lt. Macomb, Nov. 30, 1883. Julius Bien & Co. Photo. lith. Expeditions\n   Of 1878-79, Under the Command of Capt. Geo. M. Wheeler, Corps of Engineers, U.S. Army. U.S.\n   Geographical Surveys West Of The 100th Meridian",
+              "height": 5791,
+              "width": 7267,
+              "rendering": [
+                {
+                  "@id": "https://stacks.stanford.edu/file/qp682cr5496/2738110.jp2",
+                  "label": "Original source file (7.56 MB)",
+                  "format": "image/jp2"
+                }
+              ],
+              "images": [
+                {
+                  "@id": "https://purl.stanford.edu/hs598bn8889/iiif/annotation/https:%2F%2Fcocina.sul.stanford.edu%2Ffile%2Fqp682cr5496-qp682cr5496_1%2F2738110.jp2",
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "on": "https://purl.stanford.edu/hs598bn8889/iiif/canvas/cocina-fileSet-qp682cr5496-qp682cr5496_1",
+                  "resource": {
+                    "@id": "https://stacks.stanford.edu/image/iiif/qp682cr5496%2F2738110/full/full/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 5791,
+                    "width": 7267,
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://stacks.stanford.edu/image/iiif/qp682cr5496%2F2738110",
+                      "profile": "http://iiif.io/api/image/2/level2.json"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "https://purl.stanford.edu/wh501vr2559/iiif/manifest",
+      "@type": "sc:Manifest",
+      "label": "Pascaarte van alle de Zècusten van Evropa : Men vintse te coop tot Amsterdam, o't Water inde vergulde Sonnewisser",
+      "attribution": "Property rights reside with the repository, Copyright (c) Stanford University.  Images may be reproduced or transmitted, but not for commercial use. For commercial use or commercial republication, contact rumseymapcenter@stanford.edu This work is licensed under a Creative Commons License. By downloading any images from this site, you agree to the terms of that license.",
+      "logo": {
+        "@id": "https://stacks.stanford.edu/image/iiif/wy534zh7137/SULAIR_rosette/full/400,/0/default.jpg",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://stacks.stanford.edu/image/iiif/wy534zh7137/SULAIR_rosette",
+          "profile": "http://iiif.io/api/image/2/level2.json"
+        }
+      },
+      "license": "https://creativecommons.org/licenses/by-nc-sa/3.0/legalcode",
+      "seeAlso": {
+        "@id": "https://purl.stanford.edu/wh501vr2559.mods",
+        "format": "application/mods+xml"
+      },
+      "metadata": [
+        {
+          "label": "Available Online",
+          "value": "<a href='https://purl.stanford.edu/wh501vr2559'>https://purl.stanford.edu/wh501vr2559</a>"
+        },
+        {
+          "label": "Title",
+          "value": "Pascaarte van alle de Zècusten van Evropa : Men vintse te coop tot Amsterdam, o't Water inde vergulde Sonnewisser"
+        },
+        {
+          "label": "Title",
+          "value": "Europe"
+        },
+        {
+          "label": "Contributor",
+          "value": "Blaeu, Willem Janszoon, 1571-1638."
+        },
+        {
+          "label": "Type",
+          "value": "Cartographic image"
+        },
+        {
+          "label": "Type",
+          "value": "Portolan charts."
+        },
+        {
+          "label": "Type",
+          "value": "Maps."
+        },
+        {
+          "label": "Format",
+          "value": "1 chart : copperplate engraving on vellum ; 68.5 x 87 cm"
+        },
+        {
+          "label": "Language",
+          "value": "Dutch"
+        },
+        {
+          "label": "Statement of responsibility",
+          "value": "nieulycx beschreven door Willem Ians Blauw"
+        },
+        {
+          "label": "Description",
+          "value": "Coordinates approximate and based on Greenwich meridian"
+        },
+        {
+          "label": "Description",
+          "value": "Latitude scale in mid-ocean, 22°N - 80°N"
+        },
+        {
+          "label": "Description",
+          "value": "Bar scales on map in German, Spanish, English, and French miles"
+        },
+        {
+          "label": "Description",
+          "value": "Map oriented with west at the top"
+        },
+        {
+          "label": "Description",
+          "value": "Compass roses: map includes one primary compass rose situated above Cornwall, U.K. and sixteen secondary compass roses. Of the secondary compass roses, 3 are fully drawn and 3 are half-circles"
+        },
+        {
+          "label": "Description",
+          "value": "Detailed coats of arms overlay their respective countries: \"Hispan\", \"Vrancriick\", \"Duytschland\", \"Noorwegen\", \"Sweden\", and \"Barbaria\""
+        },
+        {
+          "label": "Description",
+          "value": "Eastern Mediterranean is inset to the coast of Morocco"
+        },
+        {
+          "label": "Description",
+          "value": "Animals on map: pairs of bears, goats, and elephants, and a single fish. A ship drifts off the western coast of Morocco. Two Indigenous peoples with a canoe stand on the coast of Greenland"
+        },
+        {
+          "label": "Description",
+          "value": "Four cartouches decorate each corner, each containing scale bars"
+        },
+        {
+          "label": "Description",
+          "value": "Decorative cartouche at bottom center has 2 figures on either side of an astrolabe globe, with the words \"INDEFESSUS AGENDO\" below"
+        },
+        {
+          "label": "Description",
+          "value": "Collector's note: \"The first edition Willem Blaeu's exceedingly rare, separately issued and large-format sea chart of Europe. This large and sumptuously decorative chart is one of the rarest and most historically important monuments of Dutch Baroque cartography, and a milestone in the career of the celebrated mapmaker Willem Jansz Blaeu. It is also exceedingly rare in the first edition, with no examples recorded in British or American institutional collections. Blaeu's chart captures the entire coastlines of Europe and the shores of the Mediterranean Sea. The coverage of the main part of the chart commences in the northeast at Novaya Zemlya, then follows the intricate European coastline past Norway, into the Baltic Sea, then down through the North Sea and the Atlantic littoral, through the Pillars of Hercules to take all of the Mediterranean Sea west of Corfu, along with the adjacent coastlines of North Africa. It also extends deep into the North Atlantic to feature Iceland, Greenland, Spitsbergen and the Azores. The latter is important as the location of the Prime Meridian of Longitude (before it was changed later in the century to 'Pico' in Tenerife, and then to Greenwich in the 19th Century), and an important marker for ships sailing to the West Indies and South America. A beautiful inset in the lower left of the chart details the shorelines of the Eastern Mediterranean. The chart is oriented with the west towards the top and assumes a Portolan-style appearance, with sparing geographic detail in the interior, but neat and tightly clustered place names along the littoral, while the seas are traversed by rhumblines, emanating from compass roses. The interior areas are adorned with the elaborate national coats of arms of various nations, including those of Russia, Sweden, Denmark-Norway, the Holy Roman Empire, England, France, Spain and the Ottoman Empire. Four scale cartouches adorn the corners, while a magnificent title cartouche, topped by Blaeu's symbol of an armillary sphere and with his motto \"Indefessus Agendo\" ('Act Steadily') graces the lower-center of the chart. The seas are further embellished with sailing ships and seals, while on the land roam Inuit hunters, goats, bears and elephants. Importantly, the chart is one of the earliest maps to include details of the waters around Greenland and the Davis Strait, on the west coast of the island, after the 1612 map of Hessel Gerritsz, a cartographer closely associated with Blaeu. Blaeu also makes a step forward in omitting the mythical island of 'Friesland', which was still included on many contemporary charts. While most of the coastlines of Europe are well charted and fully familiar to the modern eye, the Russian Arctic coastline, in the lower right of the chart, remains partially undefined. The chart presents the most advanced knowledge of the region, largely based on the recent charting done by Dutch explorers. In particular, Blaeu shows the western coasts of Novaya Zemlya, discovered by Willem Barentsz in the 1590s, although he is cautiously silent on whether or not the landform is an island. Blaeu based much of the cartography of the present chart on a chart he made in 1606, although the Pascaarte van alle de Zecusten van Europa is much larger and more detailed. Blaeu devised the chart to take advantage of major events that were occurring with respect to the Dutch Republic's growing global ambitions. In 1621, the year that this chart was produced, the Dutch West India Company (the WIC) was formed in an effort to acquire commercial colonies in the Americas. The Company's mariners vitally needed such an omnibus chart that would guide their ships in approaching and clearing European inland waters, while being able to sail down between the Canaries and Azores to take advantage of the trade winds, and so to sail down towards the West Indies. In a short matter of time, the WIC founded New Amsterdam (1624, modern New York), conquered much of Northern Brazil (starting in 1630), and acquired Caribbean Islands such as Curaçao and part of Saint Martin (1630). To further assist the WIC, Blaeu published his West Indische Paskaert later the same year. Another major interest was the Noordsche Compagnie (the Northern Company), established in 1614, which held a monopoly on all Dutch trade in the Arctic, which was primarily centered on whaling and fishing. The chart's progressive delineation of Arctic Russia and Scandinavia, Spitsbergen, Iceland and Greenland would have been most useful. As the finest general sea chart of Europe made during its era, Blaeu's chart also had important military strategic value. In 1621, the Twelve Years' Truce in the Eighty Years' War (1568-1648) expired and the Dutch Republic and Spain renewed their epic conflict. Leading officials of the government of the Dutch Stadhouder, Prince Maurits of Orange-Nassau, as well as senior naval commanders, would certainly have consulted copies of the chart when planning their missions. Indeed, over the coming years the Dutch Navy came into combat with the Armada Real in wide variety of places, from the Mediterranean to the North Sea, so an accurate panoptic view of the continent would have been most beneficial. Blaeu's magnificent chart thus acted as a 'calling card' for the WIC, the Noordische Company and the Dutch Navy, which ensured Blaeu a tremendous amount of business for the rest of his days. Blaeu's chart proved to be highly influential and was copied many times over the next three generations, including editions by Anthonie Jacobsz, Pieter Goos, Justus Danckerts, as well as by Blaeu's own grandchildren Willem II, Pieter and Joan. Frederick De Wit also made a version of the chart, which cut off the region that included Greenland, which was copied by Renard and Ottens. Perhaps most notably and fittingly, Blaeu's Pascaarte van alle de Zecusten van Europa was used by the great painter Vermeer as the backdrop to his painting 'The Geographer' (1669), which today resides in the Städel Museum in Frankfurt. Willem Jansz Blaeu (1571-1638) was the most important mapmaker of the 17th Century, and was responsible, more than any other figure, for the ascension of Dutch cartography to a globally dominant position. Blaeu, originally from Alkmaar, north of Amsterdam, apprenticed from 1594 to 1596 under the legendary Danish astronomer Tycho Brahe at his observatory on Ven Island, near Copenhagen. Upon his return to the Netherlands, Blaeu started a business making charts, globes and nautical instruments. His timing was impeccable, as the Dutch economy, based on maritime trade, was booming and there was an insatiable demand for high quality sea charts and nautical kits. Notably, in 1596, the Dutch made their first voyage to the East Indies, which soon led to the establishment of the Dutch East India Company (1602). The VOC would be one of Blaeu's anchor clients and, in 1633, he would be appointed to be the Company's official hydrographer. Blaeu's sea atlas of European waters, Het Licht der Zee-vaert (1608) was revolutionary, being the first broadly accurate maritime atlas. He went on to create magnificent wall maps, large-format charts and eventually terrestrial atlases, all decorated with the finest Dutch Baroque artistry. In particular, the Pascaarte van alle de Zecusten van Europa helped to establish Blaeu's supremacy in the highly competitive Dutch cartography market. Towards the end of his life, Blaeu published the Atlas Novus (1635), a grand production that was later expanded by his son, Joan Blaeu (1598-1673), who grew the Blaeu business into the largest geographic publishing house in history. The Pascaarte van alle de Zecusten van Europa was during its time a practical working sea chart. The map tended to be heavily used aboard ship, accounting for its low survival rate. It was printed on both paper and on vellum (as with the present example). Both types are exceedingly rare, with only 8 institutional examples known (6 on vellum and only 2 printed on paper). Gunther Schilder notes that of these examples none resides in American or British collections. The institutions which record examples are: Universiteitsbibliotheek Amsterdam; Stadsarchief Antwerpen; Staatsbibliothek zu Berlin; Nationalbibliothek Budapest; Hessesche Landesbibliothek, Darmstadt; Badische Landesbibliothek, Karlsruhe; Bibliotheque Nationale de France; Herzogin Anna Amalia-Bibliothek, Weimar; and the Stopp Collection.\" (Ruderman, 2021)"
+        },
+        {
+          "label": "Description",
+          "value": "Pub list no. 10798.000."
+        },
+        {
+          "label": "Subject",
+          "value": "Europe"
+        },
+        {
+          "label": "Coverage",
+          "value": "Scale approximately [1:2682240]"
+        },
+        {
+          "label": "Coverage",
+          "value": "57°33′00″W -- 48°36′00″E / 76°09′00″N -- 23°17′00″N"
+        },
+        {
+          "label": "Date",
+          "value": "1625"
+        },
+        {
+          "label": "Date",
+          "value": "1625"
+        },
+        {
+          "label": "Identifier",
+          "value": "https://purl.stanford.edu/wh501vr2559"
+        },
+        {
+          "label": "Publisher",
+          "value": "Willem Janszoon Blaeu"
+        },
+        {
+          "label": "Relation",
+          "value": "David Rumsey Map Collection at Stanford University Libraries"
+        },
+        {
+          "label": "Record published",
+          "value": "2026-07-21"
+        }
+      ],
+      "description": "Coordinates approximate and based on Greenwich meridian",
+      "thumbnail": {
+        "@id": "https://stacks.stanford.edu/image/iiif/wh501vr2559%2F10798000/full/!400,400/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://stacks.stanford.edu/image/iiif/wh501vr2559%2F10798000",
+          "profile": "http://iiif.io/api/image/2/level2.json"
+        },
+        "width": 400,
+        "height": 316
+      },
+      "sequences": [
+        {
+          "@id": "https://purl.stanford.edu/wh501vr2559/iiif/manifest#sequence-1",
+          "@type": "sc:Sequence",
+          "label": "Current order",
+          "viewingDirection": "left-to-right",
+          "canvases": [
+            {
+              "@id": "https://purl.stanford.edu/wh501vr2559/iiif/canvas/cocina-fileSet-wh501vr2559-wh501vr2559_1",
+              "@type": "sc:Canvas",
+              "label": "Image 1",
+              "height": 14486,
+              "width": 18330,
+              "rendering": [
+                {
+                  "@id": "https://stacks.stanford.edu/file/wh501vr2559/10798000.jp2",
+                  "label": "Original source file (343 MB)",
+                  "format": "image/jp2"
+                }
+              ],
+              "images": [
+                {
+                  "@id": "https://purl.stanford.edu/wh501vr2559/iiif/annotation/https:%2F%2Fcocina.sul.stanford.edu%2Ffile%2F15e8e8f7-7209-41ac-945b-d2ce7f229af8",
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "on": "https://purl.stanford.edu/wh501vr2559/iiif/canvas/cocina-fileSet-wh501vr2559-wh501vr2559_1",
+                  "resource": {
+                    "@id": "https://stacks.stanford.edu/image/iiif/wh501vr2559%2F10798000/full/full/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 14486,
+                    "width": 18330,
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://stacks.stanford.edu/image/iiif/wh501vr2559%2F10798000",
+                      "profile": "http://iiif.io/api/image/2/level2.json"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "https://purl.stanford.edu/np593hr6132/iiif/manifest",
+      "@type": "sc:Manifest",
+      "label": "Theatrum Orbis Terrarum. (Colophon) Auctoris aere & cura impressum absolutumque apud Aegid. Coppenium Diest, Antverpiae M.D.LXX",
+      "attribution": "Property rights reside with the repository, Copyright (c) Stanford University.  Images may be reproduced or transmitted, but not for commercial use. For commercial use or commercial republication, contact rumseymapcenter@stanford.edu This work is licensed under a Creative Commons License. By downloading any images from this site, you agree to the terms of that license. ",
+      "logo": {
+        "@id": "https://stacks.stanford.edu/image/iiif/wy534zh7137/SULAIR_rosette/full/400,/0/default.jpg",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://stacks.stanford.edu/image/iiif/wy534zh7137/SULAIR_rosette",
+          "profile": "http://iiif.io/api/image/2/level2.json"
+        }
+      },
+      "license": "https://creativecommons.org/licenses/by-nc-sa/3.0/legalcode",
+      "seeAlso": {
+        "@id": "https://purl.stanford.edu/np593hr6132.mods",
+        "format": "application/mods+xml"
+      },
+      "metadata": [
+        {
+          "label": "Available Online",
+          "value": "<a href='https://purl.stanford.edu/np593hr6132'>https://purl.stanford.edu/np593hr6132</a>"
+        },
+        {
+          "label": "Title",
+          "value": "Theatrum Orbis Terrarum. (Colophon) Auctoris aere & cura impressum absolutumque apud Aegid. Coppenium Diest, Antverpiae M.D.LXX"
+        },
+        {
+          "label": "Contributor",
+          "value": "Ortelius, Abraham, 1527-1598."
+        },
+        {
+          "label": "Contributor",
+          "value": "Hogenberg, Frans."
+        },
+        {
+          "label": "Type",
+          "value": "Cartographic image"
+        },
+        {
+          "label": "Type",
+          "value": "World atlases."
+        },
+        {
+          "label": "Type",
+          "value": "Maps"
+        },
+        {
+          "label": "Type",
+          "value": "World maps."
+        },
+        {
+          "label": "Type",
+          "value": "Early maps."
+        },
+        {
+          "label": "Format",
+          "value": "1 atlas : 53 maps ; 42 x 30 cm"
+        },
+        {
+          "label": "Language",
+          "value": "Latin"
+        },
+        {
+          "label": "Description",
+          "value": "First edition of the first atlas of the world. From Koeman: \"The unique position held by Ortelius' Theatrum in the history of cartography is to be attributed primarily to its qualification as 'the world's first regularly produced atlas.' Its great commercial success 'enabled it to make so great a contribution to geographical culture throughout Europe in the later 16th century.' (Skelton). Shape and contents set the standards for later atlases, when the centre of the map-trade moved from Antwerp to Amsterdam. The characteristic feature of the Theatrum is, that it consists of two elements, forming a unitary whole: text and maps. This concept for a \"Theatre of the world\" was followed through the 17th century. Before Ortelius, no one and done this and thus, the chorus of praise which arose as a result of this - and the excellent text - was far from slight... Another important aspect of the Theatrum is that it was the first undertaking of its kind to reduce the best available maps to a uniform format. To that end, maps of various formats and styles had to be generalized just like the modern atlas-publisher of today would do. In selecting maps for his compilation, Ortelius was guided by his critical spirit and his encyclopaedic knowledge of maps. But Ortelius did more that the atlas-makers of today: he mentioned the names of the authors of the original maps and added a great many names of other cartographers and geographers to it... Abraham Ortelius drew all his maps in manuscript before passing them to the engravers... Ortelius stated that nearly all the plates were cut by Frans Hogenberg and his assistants.\" The Theatrum went through many editions in Latin, German, French, Dutch, Spanish, English, and Italian. Van der Krogt lists 37 editions, with the last edition published in 1641, long after Ortelius' death in 1598. Uncolored. Text in Latin."
+        },
+        {
+          "label": "Description",
+          "value": "References: Koeman Ort 1B; Van der Krogt 31:001B (with colophon 31:001C). See Dr. Marcel van den Broecke web site for excellent listing of all Ortelius maps http://orteliusmaps.com/ortindexnumber.html"
+        },
+        {
+          "label": "Description",
+          "value": "World Atlas."
+        },
+        {
+          "label": "Description",
+          "value": "Pub list no.: 10000.000."
+        },
+        {
+          "label": "Provenance",
+          "value": "David Rumsey Map Collection"
+        },
+        {
+          "label": "Subject",
+          "value": "Atlases"
+        },
+        {
+          "label": "Subject",
+          "value": "World maps"
+        },
+        {
+          "label": "Date",
+          "value": "1570"
+        },
+        {
+          "label": "Date",
+          "value": "1570"
+        },
+        {
+          "label": "Identifier",
+          "value": "https://purl.stanford.edu/np593hr6132"
+        },
+        {
+          "label": "Publisher",
+          "value": "Gielis Coppens van Diest"
+        },
+        {
+          "label": "Relation",
+          "value": "David Rumsey Map Collection at Stanford University Libraries"
+        },
+        {
+          "label": "Record published",
+          "value": "2026-07-21"
+        }
+      ],
+      "description": "First edition of the first atlas of the world. From Koeman: \"The unique position held by Ortelius' Theatrum in the history of cartography is to be attributed primarily to its qualification as 'the world's first regularly produced atlas.' Its great commercial success 'enabled it to make so great a contribution to geographical culture throughout Europe in the later 16th century.' (Skelton). Shape and contents set the standards for later atlases, when the centre of the map-trade moved from Antwerp to Amsterdam. The characteristic feature of the Theatrum is, that it consists of two elements, forming a unitary whole: text and maps. This concept for a \"Theatre of the world\" was followed through the 17th century. Before Ortelius, no one and done this and thus, the chorus of praise which arose as a result of this - and the excellent text - was far from slight... Another important aspect of the Theatrum is that it was the first undertaking of its kind to reduce the best available maps to a uniform format. To that end, maps of various formats and styles had to be generalized just like the modern atlas-publisher of today would do. In selecting maps for his compilation, Ortelius was guided by his critical spirit and his encyclopaedic knowledge of maps. But Ortelius did more that the atlas-makers of today: he mentioned the names of the authors of the original maps and added a great many names of other cartographers and geographers to it... Abraham Ortelius drew all his maps in manuscript before passing them to the engravers... Ortelius stated that nearly all the plates were cut by Frans Hogenberg and his assistants.\" The Theatrum went through many editions in Latin, German, French, Dutch, Spanish, English, and Italian. Van der Krogt lists 37 editions, with the last edition published in 1641, long after Ortelius' death in 1598. Uncolored. Text in Latin.",
+      "thumbnail": {
+        "@id": "https://stacks.stanford.edu/image/iiif/dq403qd7316%2F10000001/full/!400,400/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://stacks.stanford.edu/image/iiif/dq403qd7316%2F10000001",
+          "profile": "http://iiif.io/api/image/2/level2.json"
+        },
+        "width": 400,
+        "height": 277
+      },
+      "sequences": [
+        {
+          "@id": "https://purl.stanford.edu/np593hr6132/iiif/manifest#sequence-1",
+          "@type": "sc:Sequence",
+          "label": "Current order",
+          "viewingDirection": "left-to-right",
+          "canvases": [
+            {
+              "@id": "https://purl.stanford.edu/np593hr6132/iiif/canvas/cocina-fileSet-hg446zm6747-hg446zm6747_1",
+              "@type": "sc:Canvas",
+              "label": "Typus Orbis Terrarum. Franciscus Hogenbergus sculpsit. Cum Privilegio. Quid ei potest\n   videri magnum in rebus humanis, cui aeternitas omnis, totiusque magnitudo. Cicero",
+              "height": 7106,
+              "width": 10079,
+              "rendering": [
+                {
+                  "@id": "https://stacks.stanford.edu/file/hg446zm6747/10000011.jp2",
+                  "label": "Original source file (12.9 MB)",
+                  "format": "image/jp2"
+                }
+              ],
+              "images": [
+                {
+                  "@id": "https://purl.stanford.edu/np593hr6132/iiif/annotation/https:%2F%2Fcocina.sul.stanford.edu%2Ffile%2Fhg446zm6747-hg446zm6747_1%2F10000011.jp2",
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "on": "https://purl.stanford.edu/np593hr6132/iiif/canvas/cocina-fileSet-hg446zm6747-hg446zm6747_1",
+                  "resource": {
+                    "@id": "https://stacks.stanford.edu/image/iiif/hg446zm6747%2F10000011/full/full/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 7106,
+                    "width": 10079,
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://stacks.stanford.edu/image/iiif/hg446zm6747%2F10000011",
+                      "profile": "http://iiif.io/api/image/2/level2.json"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
