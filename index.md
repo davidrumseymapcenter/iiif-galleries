@@ -10,6 +10,7 @@ layout: default
 
 <ul class="gallery-list">
 <li><a href="https://davidrumseymapcenter.github.io/set-builder/presentation.html?file=https://raw.githubusercontent.com/davidrumseymapcenter/iiif-galleries/main/galleries/African Archive Beyond Colonialism-gallery.json" target="_blank">African Archive Beyond Colonialism</a></li>
+<li><a href="https://davidrumseymapcenter.github.io/set-builder/presentation.html?file=https://raw.githubusercontent.com/davidrumseymapcenter/iiif-galleries/main/galleries/African Archive Beyond Colonization-gallery.json" target="_blank">African Archive Beyond Colonization</a></li>
 <li><a href="https://davidrumseymapcenter.github.io/set-builder/presentation.html?file=https://raw.githubusercontent.com/davidrumseymapcenter/iiif-galleries/main/galleries/American West S26-gallery.json" target="_blank">American West S26</a></li>
 <li><a href="https://davidrumseymapcenter.github.io/set-builder/presentation.html?file=https://raw.githubusercontent.com/davidrumseymapcenter/iiif-galleries/main/galleries/Ancient Rome and Its Legacies-gallery.json" target="_blank">Ancient Rome and Its Legacies</a></li>
 <li><a href="https://davidrumseymapcenter.github.io/set-builder/presentation.html?file=https://raw.githubusercontent.com/davidrumseymapcenter/iiif-galleries/main/galleries/Art Maps David Rumsey and DRMC-gallery.json" target="_blank">Art Maps David Rumsey and DRMC</a></li>
