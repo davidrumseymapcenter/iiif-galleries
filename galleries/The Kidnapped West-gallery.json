@@ -1,0 +1,1108 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@type": "sc:Collection",
+  "@id": "https://iiif-gallery-builder.example.org/The Kidnapped West",
+  "label": "The Kidnapped West",
+  "items": [
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~281298~90054077/manifest",
+      "label": "Nr. 7. Deutsche Kolonisation im Osten. II. Auf Slavischem Boden. (German colonization in Slavic east.)",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~281298~90054077/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~281298~90054077/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Nr. 7. Deutsche Kolonisation im Osten. II. Auf Slavischem Boden. (German colonization in Slavic east.)",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Langhans, Paul"
+                },
+                {
+                  "label": "Date",
+                  "value": "1897"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Nr. 7. Deutsche Kolonisation im Osten. II. Auf Slavischem Boden. (German colonization in Slavic east.)"
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Justus Perthes"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Gotha"
+                },
+                {
+                  "label": "Type",
+                  "value": "Atlas Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "36"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "43"
+                },
+                {
+                  "label": "Scale 1",
+                  "value": "3,700,000"
+                },
+                {
+                  "label": "Country",
+                  "value": "Russia"
+                },
+                {
+                  "label": "Country",
+                  "value": "Ukraine"
+                },
+                {
+                  "label": "Country",
+                  "value": "Latvia"
+                },
+                {
+                  "label": "Country",
+                  "value": "Lithuania"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Ethnography; Nationality; Race"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "Nr. 7. Deutsche Kolonisation im Osten. II. Auf Slavischem Boden. (German colonization in the east. II on Slavic soil.)"
+                },
+                {
+                  "label": "List No",
+                  "value": "8772.015"
+                },
+                {
+                  "label": "Series No",
+                  "value": "15"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Langhans, Paul"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1897"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Deutscher Kolonial-Atlas. 30 Karten mit 300 Nebenkarten, entworfen, bearbeitet und herausgegeben von Paul Langhans. (German colonial atlas. 30 maps with 300 In addition to maps, designed, edited and published by Paul Langhans.) Gotha: Justus Perthus. 1897."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "Langhans was a promoter of German settlement in all parts of the globe and this atlas delineates in a cartographically sophisticated manner the extent of those settlements. As a thematic atlas it is very important, although it is not in Robinson or Espenhorst. Quarter bound with dark maroon covers and gilt lettering, \"Deutscher Kolonial-Atlas von Paul Langhans\" with logo of eagle perched on globe. Gilt lettering on spine, \"P. Langhans, Deutscher Kolonial-Atlas\". Text sections include list of source maps."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "8772.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "World Atlas"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "30"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "40"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "27"
+                },
+                {
+                  "label": "Image No",
+                  "value": "8772015.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/162/8772015.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Langhans, Paul"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~281298~90054077/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~281298~90054077/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~281298~90054077",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 10363,
+                    "height": 7780
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~281298~90054077/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~281298~90054077/list/luna"
+              ],
+              "width": 10363,
+              "height": 7780
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~281298~90054077"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~281292~90054071/manifest",
+      "label": "Nr. 1. Verbreitung der Deutschen ueber die Erde. (Spreading of the Germans About the Earth.)",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~281292~90054071/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~281292~90054071/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Nr. 1. Verbreitung der Deutschen ueber die Erde. (Spreading of the Germans About the Earth.)",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Langhans, Paul"
+                },
+                {
+                  "label": "Date",
+                  "value": "1892"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Nr. 1. Verbreitung der Deutschen ueber die Erde. (Spreading of the Germans About the Earth.)"
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Justus Perthes"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Gotha"
+                },
+                {
+                  "label": "Type",
+                  "value": "Atlas Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "36"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "43"
+                },
+                {
+                  "label": "Scale 1",
+                  "value": "96,000,000"
+                },
+                {
+                  "label": "World Area",
+                  "value": "World"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Ethnography; Nationality; Race"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "Nr. 1. Verbreitung der Deutschen ueber die Erde. (Spreading of the Germans About the Earth.)"
+                },
+                {
+                  "label": "List No",
+                  "value": "8772.009"
+                },
+                {
+                  "label": "Series No",
+                  "value": "9"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Langhans, Paul"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1897"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Deutscher Kolonial-Atlas. 30 Karten mit 300 Nebenkarten, entworfen, bearbeitet und herausgegeben von Paul Langhans. (German colonial atlas. 30 maps with 300 In addition to maps, designed, edited and published by Paul Langhans.) Gotha: Justus Perthus. 1897."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "Langhans was a promoter of German settlement in all parts of the globe and this atlas delineates in a cartographically sophisticated manner the extent of those settlements. As a thematic atlas it is very important, although it is not in Robinson or Espenhorst. Quarter bound with dark maroon covers and gilt lettering, \"Deutscher Kolonial-Atlas von Paul Langhans\" with logo of eagle perched on globe. Gilt lettering on spine, \"P. Langhans, Deutscher Kolonial-Atlas\". Text sections include list of source maps."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "8772.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "World Atlas"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "30"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "40"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "27"
+                },
+                {
+                  "label": "Image No",
+                  "value": "8772009.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/162/8772009.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Langhans, Paul"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~281292~90054071/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~281292~90054071/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~281292~90054071",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 10287,
+                    "height": 7778
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~281292~90054071/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~281292~90054071/list/luna"
+              ],
+              "width": 10287,
+              "height": 7778
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~281292~90054071"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~373609~90140332/manifest",
+      "label": "Polacy na kresach. = Polen in den Grenzländern. = Polonais dans les pays limirrophes. : Polskie dzieci w pruskiej szkole ludowej = Polnische Schulkinder in Preußen = Enfants polonais fréq. les Écoles prim. en Prusse ...",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~373609~90140332/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~373609~90140332/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Polacy na kresach. = Polen in den Grenzländern. = Polonais dans les pays limirrophes. : Polskie dzieci w pruskiej szkole ludowej = Polnische Schulkinder in Preußen = Enfants polonais fréq. les Écoles prim. en Prusse ...",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Romer, Eugeniusz, 1871-1954"
+                },
+                {
+                  "label": "Date",
+                  "value": "1913"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Polacy na kresach. = Polen in den Grenzländern. = Polonais dans les pays limirrophes. : Polskie dzieci w pruskiej szkole ludowej = Polnische Schulkinder in Preußen = Enfants polonais fréq. les Écoles prim. en Prusse ..."
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Gebethner & Wolff"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Warsaw"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Krakow"
+                },
+                {
+                  "label": "Type",
+                  "value": "Atlas Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "26"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "30"
+                },
+                {
+                  "label": "Scale 1",
+                  "value": "1,525,000"
+                },
+                {
+                  "label": "Note",
+                  "value": "Four maps representing parts of current-day Poland, Czech Republic, Lithuania, and Russia (in the first two maps), and Poland, Belarus, and Ukraine (second map). The individual titles translate to, \"Poles in the borderlands. -- Land acquisitions of the Colonization Commission 1886-1913. -- Roman Catholic in the Chełm Governorate : 1905. -- Roman Catholic in the Chełm Governorate : 1909.\" Maps also shows political boundaries, cities, bodies of water, drainage, coastlines, and islands. Each map includes latitudinal and longitudinal lines, and a legend. The titles to the left and right are translations in German and French, respectively. Color lithograph. Together, maps are 26 x 30 cm, on sheet 32 x 34 cm."
+                },
+                {
+                  "label": "Country",
+                  "value": "Poland"
+                },
+                {
+                  "label": "Country",
+                  "value": "Czech Republic"
+                },
+                {
+                  "label": "Country",
+                  "value": "Lithuania"
+                },
+                {
+                  "label": "Country",
+                  "value": "Russia"
+                },
+                {
+                  "label": "Country",
+                  "value": "Belarus"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Ethnography; Nationality; Race"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Population"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Data Visualization"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "Polacy na kresach. = Polen in den Grenzländern. = Polonais dans les pays limirrophes. : Polskie dzieci w pruskiej szkole ludowej = Polnische Schulkinder in Preußen = Enfants polonais fréq. les Écoles prim. en Prusse. -- Nabytki ziemskie Komisyi Koloniza- cyjnej 1886-1913 = Ländereien der Ansiedlungs- kommission = Domaines de la Commission de Colonisation. -- Rzym-kat. w Guberni Chełmskiej = Röm.-kath. im Gouvernement Chelm = Cath. rom. au Gouvernement de Chełm : 1905. -- 1909. Opracował E. Romer. G. Freytag & Berndt, Wiedeń."
+                },
+                {
+                  "label": "List No",
+                  "value": "14535.042"
+                },
+                {
+                  "label": "Series No",
+                  "value": "42"
+                },
+                {
+                  "label": "Page No",
+                  "value": "XII"
+                },
+                {
+                  "label": "Engraver or Printer",
+                  "value": "Freytag und Berndt"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Romer, Eugeniusz, 1871-1954"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1916"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Geograficzno-statystyczne atlas Polski redagowany i opracowany przez Dra Eugeniusza Romera, profesora geografii Uniwersytetu Iwowskiego, e współudziałem licznych współpracowników. Nakładem Polskich Spółek Oszczędności i Pożyczek pozostających pod Patronatem Wydziału Krajowego. 1916. Warszawa i Kraków. Gebethnera i Wolffa. Zakład Kartograficzny Freytaga i Berndta. Drukarnia A. Holzhausena. = Geographisch-statistischer Atlas von Polen redigiert von Dr. Eugen von Romer, Professor der Erdkunde an der Universität in Lemberg unter Mitwirkung mehrerer Fachmänner. Herausgegeben von den Polnischen Spar- und Vorschuß-Vereinen unter dem Patronate des galizischen Landesausschusses. = Atlas de Pologne (géographie et statistique) rédigé et publié par Eugène de Romer, docteur és lettres, Professeur de géographie à l'Université de Léopol, en collaboration avec plusieurs savants. Édité par les Associations polonaises d'épargne et de crédit sous les auspices de la Diète provinciale de la Galicie."
+                },
+                {
+                  "label": "Pub Reference",
+                  "value": "https://www.bn.org.pl/aktualnosci/241-geograficzno-statystyczny-atlas-polski-eugeniusza-romera-czyli-mapy-w-walce-o-wolna-polske.html"
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "Geograficzno-statystyczne atlas Polski = Geographisch-statistischer Atlas von Polen = Atlas de Pologne (géographie et statistique), by Eugeniusz Romer (1871-1954). Published by Gebethner & Wolff in Warsaw, 1916. Title translates to, “Geographical and statistical atlas of Poland edited and developed by Dr Eugeniusz Romer, professor of geography at the University of Iwów, with the participation of numerous collaborators.\" Bound with a red vinyl cover with a linen spine and linen corners with yellow stripes. Atlas is comprised of 52 maps, some accompanied by diagrams. Topics range from geology and climate to historical borders, industry, agriculture, population growth, religion, language and literacy. The volume includes a title page, table of contents, errata, preface, and extensive descriptive text associated with the maps and diagrams. Text appears in Polish, with parallel translations in German and French. “Eugeniusz Romer is considered the creator of modern Polish cartography. Born in Lviv on 3 February 1871, he received his education at the Jagiellonian University, with Alfred Kirchoff in Halle and in his native Lviv, where he obtained a doctorate and habilitation at the Jan Kazimierz University. He worked as a teacher for many years. In 1904, he developed an innovative Geography for the first grade of secondary schools, and four years later he published the Geographical Atlas, which became the foundation of Polish school cartography. In 1911, he became a full professor and head of the Department of Geography at the University of Lviv. After the war, in 1945–1946, he headed the Department of Geography and the Institute of Geography at the Jagiellonian University, and until 1952 he consulted the work of the Cartographic Institute of his name in Wrocław. At the end of his life, he had over 800 of his own works and reviews, 60 atlases, 140 maps and 4 globes. One of his greatest achievements is considered to be the Geographical and Statistical Atlas of Poland [...] The atlas, like the Military and Political Map of Poland (1916), was an extremely important tool in justifying Polish territorial aspirations at the peace conferences in Paris and Riga.” Historical notes courtesy of The National Library of Poland. Last accessed January 23, 2025: https://www.bn.org.pl/aktualnosci/241-geograficzno-statystyczny-atlas-polski-eugeniusza-romera-czyli-mapy-w-walce-o-wolna-polske.html"
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "14535.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Statistical Atlas"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "52"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "34"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "36"
+                },
+                {
+                  "label": "Image No",
+                  "value": "14535042.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/218/14535042.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Romer, Eugeniusz, 1871-1954"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~373609~90140332/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~373609~90140332/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~373609~90140332",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 6564,
+                    "height": 6686
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~373609~90140332/canvas/c1"
+                }
+              ],
+              "width": 6564,
+              "height": 6686
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~373609~90140332"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~370884~90138389/manifest",
+      "label": "Composite: 1-12 Magyarország néprajzi térképe település és lélekszám szerint | Ethnographical Map of Hungary",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~370884~90138389/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~370884~90138389/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Composite: 1-12 Magyarország néprajzi térképe település és lélekszám szerint | Ethnographical Map of Hungary",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Bátky, Zsigmond"
+                },
+                {
+                  "label": "Author",
+                  "value": "Kogutowicz, Károly"
+                },
+                {
+                  "label": "Date",
+                  "value": "1919"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Composite: 1-12 Magyarország néprajzi térképe település és lélekszám szerint | Ethnographical Map of Hungary"
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Magyar Földrajzi Intézet"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Budapest"
+                },
+                {
+                  "label": "Type",
+                  "value": "Composite Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "197"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "272"
+                },
+                {
+                  "label": "Scale 1",
+                  "value": "300,000"
+                },
+                {
+                  "label": "Country",
+                  "value": "Hungary"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Ethnography; Nationality; Race"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "(Composite map of) 1-12 Magyarország néprajzi térképe település és lélekszám szerint | Ethnographical Map of Hungary"
+                },
+                {
+                  "label": "List No",
+                  "value": "16400.013"
+                },
+                {
+                  "label": "Series No",
+                  "value": "13"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Bátky, Zsigmond"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Kogutowicz, Károly"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1919"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Magyarország néprajzi térképe település és lélekszám szerint | Ethnographical Map of Hungary"
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "\"One of the Most Important Ethnographic Maps Ever Produced and a Masterpiece of Persuasive Cartography. Rare 12-Sheet Map Prepared to Advocate Hungary’s Position at the End of WWI. Fantastic ethnographic map of Hungary prepared as part of an official effort to advocate for maintaining the country’s pre-WWI borders in the face of post-war peace treaties. Everything on this map is carefully crafted to bolster Hungary’s negotiating position that it should be allowed to continue occupying the whole of Carpathian Europe. The boldest color on the map – red – is reserved for ethnic Hungarians, and immediately stands out among the other colors. The map also eschews traditional ethnographic representations, where the dominant population in each area is colored, and opts to show each 100, 500, or 1,000 people of each ethnicity with a single, proportionally sized circle. This choice is not by accident – with ethnic Hungarians concentrated in cities, the traditional representation would reduce the amount of red on the map. The authors justified this choice as follows: The geographical, economic, etnohgraphical [sic] and cultural significance and importance of tis mode of constructing the map seems to be obvious, and it need only be said that in this way the large uninhabited spaces in the wooded highlands automatically remain empty, while the spacious plains wich [sic] if another mode of designing the map is employed seem uninhabited are thikly [sic] sprinkled with populous habitations. This is one of two great maps made by the Hungarian Geographical Society as part of this post-war effort. In the other of the two maps, made by the future Hungarian prime minister Pal Teleki (see our 10678.000), the map is colored in like a traditional ethnographic map, but with the area represented by each color on the map proportional to the total population of each ethnic group (see our 10993.000 for the 1940 edition of this map). This meant that regions with high populations, such as Budapest, would get a \"fair representation,\" spilling into neighboring regions, while underpopulated areas would be left blank or encroached upon. Again, on that map, red was chosen to represent Hungarians, giving that map the eponym the “Red Map.” Together, the two maps worked in concert – Teleki’s map was a quick and small representation that could be reproduced easily and distributed widely to make its point, while this larger map could be used for working committees and academics to precisely locate the distribution of the relevant ethnic populations and locate precise areas where boundaries favorable to Hungary could be drawn. This map was designed by Zsigmond Bátky and Károly Kogutowicz, two of the most prominent Hungarian cartographers of their day. Bátky was librarian at the Hungarian National Museum, while Kogutowicz was head of the Hungarian Geographical Institute. The map shows twelve different ethnicities, which they call: Magyars, Germans, Slovaks, Poles, Ruthenians, Bohemians, Serviens Croatians, Slovenians, Others, Roumanians, and Boulgarians. Data comes from the 1910 Austro-Hungarian census. The map’s design is decidedly Art Deco, reflecting design tendencies in Europe at the time. The work relies not only on the central map to make its point. Over a dozen inset maps, text boxes, and graphical charts further the Hungarian cause, highlighting various features including the rapid growth of the Hungarian population compared to other ethnicities, the predominance of the Hungarian language, and the concentration of Hungarians in towns and cities. Along with the aforementioned “red map,” this map was a key source for over twenty years. Despite the failure of Hungarians to successfully advocate for maintaining the borders of the Kingdom of Hungary, irredentists continued to press for a return to pre-WWII borders. The information on this map was reproduced on many other maps throughout the 1920s, and the map saw a revival in the late 1930s with the rise of Hungarian nationalism and the so-called “map wars” fought between Romania and Hungary. These were partially resolved by the “Vienna Awards,” where Nazi Germany almost unilaterally returned pre-war lands to Hungary, who demanded all lands with a pre-war population that was at least half Hungarian be returned. The map continued to be used until it was superseded by a 1940 census and updated maps. A report from the Ball State University Library notes that a copy of this map bears marks indicating that it was used at Versailles: The maps were of the Hungarian portion of the Austrian-Hungarian Empire dated 1919. One of the maps had specific notations indicating it had been used at the Peace Conference in Versailles, France following World War I. Stout remembers reading “American Commission to Negotiate Peace” stamped on the map. (The Treaty of Trianon was organized as part of the Peace Conference at Versailles in order to determine the borders of Hungary and was signed in June of 1920, so the American delegation may have used these maps as a resource for the peace negotiations). Rarity We locate seven examples of the map through WorldCat at the BnF, Sorbonne, National Library of Scotland, Hungarian Academy of Sciences, Syracuse University, University of Wisconsin, Milwaukee, and Ball State University. We also trace an incomplete set at the National Archives of Hungary and note that the RGS received a set from the Hungarian Geographical Society in 1921. We find reference to a copy in the LOC from 1983 but were unable to locate that copy in cataloging. We locate only a single example of the map that has traded. A joined copy of the map sold at Központi Antikvárium (Auction 143, Lot 90) in 2017 for 1,725,000 HUF, or approximately $6,380 at the time. The Treaty of Trianon The Treaty of Trianon is sometimes called the most traumatic event in Hungarian history over the past century by Magyar nationalists (curiously ignoring the atrocities of WWII and the Soviet occupation). Negotiated as part of the Paris Peace Talks, the treaty set the terms of surrender for the Kingdom of Hungary and was named after the Grand Trianon Palace at Versailles. While the Treaty of Trianon is frequently overshadowed by the more famous Treaty of Versailles, signed between the Allies and the Kingdom of Germany, it would become a defining factor in interwar Central European politics. The terms of the treaty were effectively dictated by the victorious powers. Though not as harsh as those imposed on Germany, the treaty still had profound consequences for Hungary. Among its many provisions, the Hungarian military was reduced to just 35,000 soldiers, and the Hungarian navy was disbanded. However, the most painful aspect for Hungarians was the loss of territory. The treaty led to a dramatic reduction in Hungary's land, causing the country's population to shrink by 64% and relegating many ethnic Hungarians to minority status in neighboring countries. Even more contentious was the fact that these decisions were made following only a single plebiscite, which was limited to resolving a small border dispute with Austria. This violated the principle of self-determination, which the victorious powers had strongly advocated. As a result, many Hungarians were left enraged by the enormous loss of territory, which severely diminished Hungary's influence on the European stage after the war and set the stage for Hungary joining the Axis in the Second World War. Károly Kogutowicz Károly Kogutowicz was born on February 14, 1886, in Budapest, to Manó Kogutowicz, the founder of a Hungarian mapmaking company and the first director of the Hungarian Geographical Institute. After his father’s death, Károly took over the leadership of his company and the Institute, modernizing both. During World War I, he served as an aerial photo interpreter, but after the war, he lost his stake in the company his father had founded. Despite this setback, Károly continued his academic career, eventually becoming a professor at the University of Szeged and holding various significant positions, including rector. Kogutowicz is best known for his contributions to Hungarian ethnography, particularly in the creation of detailed ethnographic and geographical maps. As with Bátky, this map represents a high point in his career, being one of the most detailed and influential maps of its kind. Kogutowicz also published a notable geographical map in 1927 and continued playing a key role in the development of ethnographic cartography later in his life. His work also extended beyond mapping and he contributed to academic research on landscape, population, and settlement geography, and advised on practical agricultural methods. Zsigmond Bátky Zsigmond Bátky was a prominent Hungarian ethnographer, geographer, and folk culture expert. He completed his education in Budapest, earning a doctorate in geography in 1900. From 1896, Bátky worked at the Hungarian National Museum’s ethnographic department and library, becoming its director in 1920, a position he held for 15 years. Bátky was involved in significant ethnographic research, particularly in folk architecture, Hungarian peasant houses, and heating systems. His studies are remembered for contributuing greatly to the development of Hungarian ethnography.\" (Ruderman, 2025)"
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "16400.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Separate Map"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "71"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "90"
+                },
+                {
+                  "label": "Image No",
+                  "value": "16400013.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/218/16400013.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Bátky, Zsigmond ; Kogutowicz, Károly"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~370884~90138389/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~370884~90138389/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~370884~90138389",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 46392,
+                    "height": 33000
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~370884~90138389/canvas/c1"
+                }
+              ],
+              "width": 46392,
+              "height": 33000
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~370884~90138389"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~306800~5521470/manifest",
+      "label": "World War I Map (German), Nr. 225. Military Events. February 5, 1919.",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~306800~5521470/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~306800~5521470/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "World War I Map (German), Nr. 225. Military Events. February 5, 1919.",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Mayer, Rudolf"
+                },
+                {
+                  "label": "Date",
+                  "value": "1919"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "World War I Map (German), Nr. 225. Military Events. February 5, 1919."
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Der Kriegshilfe Munchen N.W (War Help)"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Munchen"
+                },
+                {
+                  "label": "Type",
+                  "value": "Atlas Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "36"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "63"
+                },
+                {
+                  "label": "Country",
+                  "value": "Germany"
+                },
+                {
+                  "label": "Country",
+                  "value": "France"
+                },
+                {
+                  "label": "Country",
+                  "value": "Belgium"
+                },
+                {
+                  "label": "Country",
+                  "value": "Netherlands"
+                },
+                {
+                  "label": "Region",
+                  "value": "Europe, Central"
+                },
+                {
+                  "label": "Event",
+                  "value": "World War I"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "Nr. 225. Der Woechentlichen Voelkerkriegskarten 1914-1919 vorher Woechentliche Kriegsschauplatzkarte. 5. Febuar 1919. (The Weekly People's 1914-1919 War Maps, previously Weekly Battlefield Map, February 5, 1919)."
+                },
+                {
+                  "label": "List No",
+                  "value": "7821.475"
+                },
+                {
+                  "label": "Series No",
+                  "value": "475"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Mayer, Rudolf"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1919"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Die Militarischen Ereignisse im Volkerkrieg 1914-1919 in wochentlichen Karten mit Chronik zu dauernder Erinnerung von der Kriegshilfe Muchen N.W. dem Kriegsfuersorgeamt Wien Ueberlassen. (Military Events in the People's War, 1914-1919, in Weekly Maps for Everlasting Memory provided to the War Welfare Department Vienna by the War Welfare Department Munich N.W.)."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "A contemporaneous World War I seven volume German work, consisting of 226 weekly maps (typically each map sheet is subdivided into several parts) and textual progress reports describing the various war fronts. The maps and texts describing the Theaters of War include: Oceans and Colonies; Turkish-Russian (Holy War); Serbia; Western Front; Eastern Front. There also is a weekly update of political news. In the liners of volumes 1 though 5 there are calls to arms (text of speeches) by Emperor Franz Joseph and Emperor Kaiser Wilhelm II; noticeably absent in the final two volumes. Dates are weekly from the beginning of September 1914 through February 12, 1919. Seven maroon cloth covered volumes with gilt lettering and black border. All sheets double-sided - predominantly maps on front side, mostly text on verso; they are scanned as two images. Most maps in color. Show battle lines, towns, cities, roads, railroads, rivers, canals, political divisions. Town and city names color coded to show which army controls them. Reproduction is prohibited. D.R.O.M. all rights reserved. Published and distributed by (Kriegshilfe) War Help Office, Munchen. Co-distribution by Hilfsbund, Berlin. Sales in Austria-Hungary the Kriegsfursorgeamt, Vienna."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "7821.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Military Atlas"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "226"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "36"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "25"
+                },
+                {
+                  "label": "Image No",
+                  "value": "7821475"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D5005/7821475.sid target=_blank>Full Image Download in MrSID Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Mayer, Rudolf"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~306800~5521470/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~306800~5521470/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~306800~5521470",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 8183,
+                    "height": 5737
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~306800~5521470/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~306800~5521470/list/luna"
+              ],
+              "width": 8183,
+              "height": 5737
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~306800~5521470"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~345619~90113075/manifest",
+      "label": "Rozpad koloniální soustavy po Druhé Svétové Válce = The collapse of the colonial system after the Second World War",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~345619~90113075/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~345619~90113075/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Rozpad koloniální soustavy po Druhé Svétové Válce = The collapse of the colonial system after the Second World War",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Československá akademie věd."
+                },
+                {
+                  "label": "Author",
+                  "value": "Klíma, Jan"
+                },
+                {
+                  "label": "Date",
+                  "value": "1965"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Rozpad koloniální soustavy po Druhé Svétové Válce = The collapse of the colonial system after the Second World War"
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Naše vojsko - MNO"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Praha"
+                },
+                {
+                  "label": "Type",
+                  "value": "Atlas Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "35"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "55"
+                },
+                {
+                  "label": "Scale 1",
+                  "value": "60,000,000"
+                },
+                {
+                  "label": "Note",
+                  "value": "Map of the world, with text, tables and legend. Showing the end of western colonial system after the WW II."
+                },
+                {
+                  "label": "World Area",
+                  "value": "World"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Historical"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "Rozpad koloniální soustavy po Druhé Svétové Válce. Československý vojenský atlas."
+                },
+                {
+                  "label": "List No",
+                  "value": "13684.288"
+                },
+                {
+                  "label": "Series No",
+                  "value": "288"
+                },
+                {
+                  "label": "Page No",
+                  "value": "366-367"
+                },
+                {
+                  "label": "Engraver or Printer",
+                  "value": "Czechoslovakia. Ministerstvo národní obrany."
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Československá akademie věd."
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Klíma, Jan"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1966"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Ministerstvo národní obrany. Československá akademie věd. Československý vojenský atlas̊. Naše vojsko - MNO; Praha 1965."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "Czechoslovakian military atlas. Published in 2 volumes, The atlas published in 1965, and the name list published in 1966, this might be one of the most complex post WW2 atlases produced in Europe. The 210 000 names in the separately published in 256 pages, name register prove the amount of data present in the atlas is enormous. Bound in red covers with title in gilt on front cover and spine. The atlas is in 376 pages, in red covers and paper colored dust covers with map of the world and title on front sheet and spine. Atlas divided into two main sections, first part includes world geographical, political, physical and statistical maps, and the second part depicting military historical and the geographical anatomy of the most important battles of history as well as showing battle formations and war strategies from many thousand years B.C. until the Cuban revolution in 1959. Atlas includes color maps, descriptive text, index to and 2 sheets of legends, with separate loose sheets of legend and Supplement to the Map of Asia- Language Division of the Czechoslovak Socialist Republic p. 161. Atlas provides a rich assortment of thematic as well as hundreds of physical and political maps,depicting in full detail the topography, coastlines, islands. water system, administrative divisions, roads, railroads, subways, agriculture, industry, energy, population and economic development, Relief shown by gradient tints, shadings, contours and spot heights. Depth shown by bathymetric tints, isolines. Most maps include descriptive text, tables and diagrams. Military historical maps showing political boundaries and battle grounds, military bases. Arrows and text pointing out the diversion of planes and warships to the strategic places. Atlas printed in the amount of 15 000 copies, it was officially distributed among military commanders. Although it is no surprise the military part of this atlas is affected by communistic propaganda to a rather high degree, it doesn’t make the cartographic part any less an admirable achievement. Around 300 people from Czechoslovakian Ministry of Defense, Charles University in Prague and Czech Academy of Science participated in making of this atlas, including Jane Klim, Editor in-Chief, Josef Paxa, Deputy of the editorial board, Bohuslav Simak, Editor of the Geographical section, Karel Blazek, Military historical section, and Josef Vlastnk, technical editor. Cartographically processed by the Military Cartographic Institute in Bánská Bystrica and the Military Geographical Institute in Prague."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "13684.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Military Atlas"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "367"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "42"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "31"
+                },
+                {
+                  "label": "Image No",
+                  "value": "13684288.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/199/13684288.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Československá akademie věd.; Klíma, Jan"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~345619~90113075/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~345619~90113075/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~345619~90113075",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 10919,
+                    "height": 7215
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~345619~90113075/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~345619~90113075/list/luna"
+              ],
+              "width": 10919,
+              "height": 7215
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~345619~90113075"
+    }
+  ]
+}
