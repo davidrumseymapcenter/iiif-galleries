@@ -1,0 +1,2926 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@type": "sc:Collection",
+  "@id": "https://iiif-gallery-builder.example.org/Informal Imperialism",
+  "label": "Informal Imperialism",
+  "items": [
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~289765~90061373/manifest",
+      "label": "On the routes of the flying clipper ships : [in Latin America]",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~289765~90061373/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~289765~90061373/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "On the routes of the flying clipper ships : [in Latin America]",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Thompson, Kenneth W."
+                },
+                {
+                  "label": "Author",
+                  "value": "Pan American Airways Corporation"
+                },
+                {
+                  "label": "Date",
+                  "value": "1941"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "On the routes of the flying clipper ships : [in Latin America]"
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Pan American Airways Corporation"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "New York"
+                },
+                {
+                  "label": "Type",
+                  "value": "Separate Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "55"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "43"
+                },
+                {
+                  "label": "Scale 1",
+                  "value": "None shown"
+                },
+                {
+                  "label": "Note",
+                  "value": "Pictorial map of North and South America, on sheet 55x43. Covers from San Francisco to south of Buenos Aires. showing the routes of Pan American Airways \"Flying Clipper Ship\" routes, an commercial airline service in operation from 1931 to 1946. The fleet began in 1931 with routes between the U.S. and the Caribbean and South America, and expanded to flights across the Pacific after November 1935, which left from San Francisco. The map decorated with pictorial representations of the people, products and places with which the air service facilitated trade, and a row of flags of the nations of Latin America and the Caribbean forming a border at the bottom. Air routes are marked with heavy brown lines and black dots for the cities served. Around the coastlines are historical notes related to European exploration and colonization. A cartouche at the top bears the title within the form of a partially unrolled chart, superimposed over a pale blue Pan American Airways logo. Relief shown pictorially and by spot heights. On verso text and 2 views of the clippers that pioneered the airways over the Pacific and Atlantic Oceans \"Over sea\", and overland airways \"Over land\"."
+                },
+                {
+                  "label": "Region",
+                  "value": "Latin America"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Airlines"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Pictorial map"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "On the routes of the flying clipper ships : [in Latin America]. Kenneth W Thompson. (on verso) Only \"via Pan American\" can you travel abroad the famous fleet of The flying clipper ships the world's finest aircraft."
+                },
+                {
+                  "label": "List No",
+                  "value": "11146.001"
+                },
+                {
+                  "label": "Series No",
+                  "value": "1"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Thompson, Kenneth W."
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Pan American Airways Corporation"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1941"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "On the routes of the flying clipper ships : [in Latin America]. Kenneth W Thompson. (on verso) Only \"via Pan American\" can you travel abroad the famous fleet of The flying clipper ships the world's finest aircraft."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "See note field above."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "11146.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Separate Map"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "55"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "43"
+                },
+                {
+                  "label": "Image No",
+                  "value": "11146001.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/168/11146001.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Thompson, Kenneth W.; Pan American Airways Corporation"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~289765~90061373/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~289765~90061373/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~289765~90061373",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 8590,
+                    "height": 11058
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~289765~90061373/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~289765~90061373/list/luna"
+              ],
+              "width": 8590,
+              "height": 11058
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~289765~90061373"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~289766~90061372/manifest",
+      "label": "Only \"via Pan American\" can you travel abroad the famous fleet of The flying clipper ships",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~289766~90061372/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~289766~90061372/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Only \"via Pan American\" can you travel abroad the famous fleet of The flying clipper ships",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Thompson, Kenneth W."
+                },
+                {
+                  "label": "Author",
+                  "value": "Pan American Airways Corporation"
+                },
+                {
+                  "label": "Date",
+                  "value": "1941"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Only \"via Pan American\" can you travel abroad the famous fleet of The flying clipper ships"
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Pan American Airways Corporation"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "New York"
+                },
+                {
+                  "label": "Type",
+                  "value": "View"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "55"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "43"
+                },
+                {
+                  "label": "Note",
+                  "value": "Pictorial map of North and South America, on sheet 55x43. Covers from San Francisco to south of Buenos Aires. showing the routes of Pan American Airways \"Flying Clipper Ship\" routes, an commercial airline service in operation from 1931 to 1946. The fleet began in 1931 with routes between the U.S. and the Caribbean and South America, and expanded to flights across the Pacific after November 1935, which left from San Francisco. The map decorated with pictorial representations of the people, products and places with which the air service facilitated trade, and a row of flags of the nations of Latin America and the Caribbean forming a border at the bottom. Air routes are marked with heavy brown lines and black dots for the cities served. Around the coastlines are historical notes related to European exploration and colonization. A cartouche at the top bears the title within the form of a partially unrolled chart, superimposed over a pale blue Pan American Airways logo. Relief shown pictorially and by spot heights. On verso text and 2 views of the clippers that pioneered the airways over the Pacific and Atlantic Oceans \"Over sea\", and overland airways \"Over land\"."
+                },
+                {
+                  "label": "Region",
+                  "value": "Latin America"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Airlines"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Pictorial map"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "Only \"via Pan American\" can you travel abroad the famous fleet of The flying clipper ships the world's finest aircraft. (on verso) On the routes of the flying clipper ships : [in Latin America]. Kenneth W Thompson."
+                },
+                {
+                  "label": "List No",
+                  "value": "11146.002"
+                },
+                {
+                  "label": "Series No",
+                  "value": "2"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Thompson, Kenneth W."
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Pan American Airways Corporation"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1941"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "On the routes of the flying clipper ships : [in Latin America]. Kenneth W Thompson. (on verso) Only \"via Pan American\" can you travel abroad the famous fleet of The flying clipper ships the world's finest aircraft."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "See note field above."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "11146.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Separate Map"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "55"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "43"
+                },
+                {
+                  "label": "Image No",
+                  "value": "11146002.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/168/11146002.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Thompson, Kenneth W.; Pan American Airways Corporation"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~289766~90061372/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~289766~90061372/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~289766~90061372",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 8626,
+                    "height": 11058
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~289766~90061372/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~289766~90061372/list/luna"
+              ],
+              "width": 8626,
+              "height": 11058
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~289766~90061372"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~291133~90062707/manifest",
+      "label": "Dans Tous Les Ciels. Air France",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~291133~90062707/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~291133~90062707/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Dans Tous Les Ciels. Air France",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Boucher, Lucien (1889-1971)"
+                },
+                {
+                  "label": "Date",
+                  "value": "1940"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Dans Tous Les Ciels. Air France"
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Perceval"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Paris"
+                },
+                {
+                  "label": "Type",
+                  "value": "Ephemera"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "7"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "7"
+                },
+                {
+                  "label": "Scale 1",
+                  "value": "None shown"
+                },
+                {
+                  "label": "Note",
+                  "value": "Color circular pictorial map of the world, with 4 insets at the corners in crystal square ashtray. Used in first class aboard Air France or airport lounges. Map by Lucien Boucher, printed by Perceval for Air France. Ashtray is also marked by Gerrer S.A. Mulhouse at the lower margin. Insets showing Air France service routes to Europe, Africa, America, the Middle East, and Southeast Asia. Small drawings throughout represent destinations with monuments, genre scenes or animals. Date estimated."
+                },
+                {
+                  "label": "World Area",
+                  "value": "World"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "Dans Tous Les Ciels. Air France. D'Apres Lucien Boucher. Perceval, Paris. Gerrer S.A. Mulhouse. (insets) Europe. Orient. Extreme Orient. (with) Afrique. Amerique."
+                },
+                {
+                  "label": "List No",
+                  "value": "11448.001"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Boucher, Lucien (1889-1971)"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1940"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Dans Tous Les Ciels. Air France. D'Apres Lucien Boucher. Perceval, Paris. Gerrer S.A. Mulhouse. (insets) Europe. Orient. Extreme Orient. (with) Afrique. Amerique."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "See note field above."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "11448.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Ephemera"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "7"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "7"
+                },
+                {
+                  "label": "Image No",
+                  "value": "11448001.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/168/11448001.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Boucher, Lucien (1889-1971)"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~291133~90062707/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~291133~90062707/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~291133~90062707",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 3778,
+                    "height": 3761
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~291133~90062707/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~291133~90062707/list/luna"
+              ],
+              "width": 3778,
+              "height": 3761
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~291133~90062707"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~268568~90042856/manifest",
+      "label": "Air France Worldwide Routes",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~268568~90042856/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~268568~90042856/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Air France Worldwide Routes",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Boucher, Lucien (1889-1971)"
+                },
+                {
+                  "label": "Author",
+                  "value": "Air France"
+                },
+                {
+                  "label": "Date",
+                  "value": "1953"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Air France Worldwide Routes"
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Air France"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Paris"
+                },
+                {
+                  "label": "Type",
+                  "value": "Ephemera"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "28"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "46"
+                },
+                {
+                  "label": "Note",
+                  "value": "An example of Boucher's maps being used for as a folder for flight documents by Air France. Here shown with the flaps open."
+                },
+                {
+                  "label": "World Area",
+                  "value": "World"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Pictorial map"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "(Air France Worldwide Routes)."
+                },
+                {
+                  "label": "List No",
+                  "value": "8712.000"
+                },
+                {
+                  "label": "Engraver or Printer",
+                  "value": "Perceval"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Boucher, Lucien (1889-1971)"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Air France"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1953"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "(Air France Worldwide Routes)."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "A folder with pockets, made for use by Air France passengers and intended as a keepsake. Full color. Known by Air France as Mr. Planosphere, Lucien Boucher created airline world map poster designs between 1934 and 1962."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "8712.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Ephemera"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "1"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "28"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "23"
+                },
+                {
+                  "label": "Image No",
+                  "value": "8712000.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/153/8712000.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Boucher, Lucien (1889-1971); Air France"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~268568~90042856/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~268568~90042856/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~268568~90042856",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 12796,
+                    "height": 7106
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~268568~90042856/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~268568~90042856/list/luna"
+              ],
+              "width": 12796,
+              "height": 7106
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~268568~90042856"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~374797~90141205/manifest",
+      "label": "Air France. Sur Les Ailes D'Air France Decouvrez Le Monde A Votre Tour.",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~374797~90141205/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~374797~90141205/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Air France. Sur Les Ailes D'Air France Decouvrez Le Monde A Votre Tour.",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Boucher, Lucien (1889-1971)"
+                },
+                {
+                  "label": "Date",
+                  "value": "1952"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Air France. Sur Les Ailes D'Air France Decouvrez Le Monde A Votre Tour."
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Perceval"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Paris"
+                },
+                {
+                  "label": "Type",
+                  "value": "Separate Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "35"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "57"
+                },
+                {
+                  "label": "World Area",
+                  "value": "World"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Pictorial map"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Airlines"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "Air France. Sur Les Ailes D'Air France Decouvrez Le Monde A Votre Tour. Boucher, Lucien. Printed in France - Perceval, Paris. (Reference) 382/P/7-52. (with inset)."
+                },
+                {
+                  "label": "List No",
+                  "value": "16761.000"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Boucher, Lucien (1889-1971)"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1852"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Air France. Sur Les Ailes D'Air France Decouvrez Le Monde A Votre Tour. Boucher, Lucien. Printed in France - Perceval, Paris. (Reference) 382/P/7-52. (with inset)."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "Similar to our 8594.000 but with slight route differences."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "16761.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Separate Map"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "35"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "57"
+                },
+                {
+                  "label": "Image No",
+                  "value": "16761000.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/222/16761000.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Boucher, Lucien (1889-1971)"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~374797~90141205/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~374797~90141205/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~374797~90141205",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 17044,
+                    "height": 12198
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~374797~90141205/canvas/c1"
+                }
+              ],
+              "width": 17044,
+              "height": 12198
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~374797~90141205"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~372296~90139135/manifest",
+      "label": "Carte Figurative et Approximative des Grands Ports du Globe",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~372296~90139135/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~372296~90139135/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Carte Figurative et Approximative des Grands Ports du Globe",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Minard, Charles Joseph, 1781-1870"
+                },
+                {
+                  "label": "Date",
+                  "value": "1861"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Carte Figurative et Approximative des Grands Ports du Globe"
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Régnier et Dourdet"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Paris"
+                },
+                {
+                  "label": "Type",
+                  "value": "Separate Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "56"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "75"
+                },
+                {
+                  "label": "World Area",
+                  "value": "World"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Data Visualization"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "Carte Figurative et Approximative des Grands Ports du Globe"
+                },
+                {
+                  "label": "List No",
+                  "value": "16389.000"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Minard, Charles Joseph, 1781-1870"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1861"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Carte Figurative et Approximative des Grands Ports du Globe"
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "\"This remarkable map was published by Charles-Joseph Minard on August 25, 1861. The present example, signed by Minard at the bottom of the Note Explicative, is the second known example of the first state of his world map of global trade. This was Minard's second world map, following his 1858 map entitled Carte figurative et approximative représentant pour l'année 1858 les émigrants du globe. As with many of his works, this figurative statistical map employs scaled visual elements—in this case, proportional circles—to communicate complex numerical data. Here, Minard uses these circles to represent the tonnage of ships entering and exiting major global ports over the course of a year, thereby visualizing the relative importance of maritime commerce hubs in the mid-19th century. Each red circle on the map corresponds to a specific port, with the area of the circle proportional to the total tonnage of maritime traffic (in units of thousands of tons). The tonnage figure is written inside the circle. Directly below each circle is a single digit, indicating the last numeral of the year from which the data was taken. For instance, a “8” under a circle signifies data from 1858. The label of the corresponding port is placed just above the circle. Minard assumes symmetry in port traffic, treating inbound and outbound tonnage as equal when only partial data was available. Minard’s Note explicative, positioned at the upper right of the map, describes the sources and limitations of the data. He notes the difficulty of assembling comparable statistics from around the world and outlines his reliance on: French and British customs records, The Annales du Commerce extérieur (semi-official French trade publications), The Dictionnaire du Commerce et de la Navigation, Correspondence from French and foreign engineers, and Accounts from recent global voyages. However, Minard highlights a particular challenge in representing Chinese ports. Due to the dominance of coastal trade using junks—often small vessels ranging from 5 to 700 tons—estimating accurate annual tonnage was especially difficult. He acknowledges that Chinese port data is the most uncertain in the compilation. This 1861 global port map extends Minard’s pioneering approach to graphic information design, pushing beyond France and Europe to render a comparative visualization of global trade infrastructure. It reveals, for example, the supremacy of London and Liverpool in maritime commerce, the significant roles of New York and Calcutta, and the extensive network of colonial and trade ports across Africa, the Americas, Asia, and Oceania. By combining geographical space with scaled economic data, Minard created a compelling and elegant synthesis of statistical geography. This work stands as an early and influential example of data-driven cartography, predating modern information visualization by more than a century. The map is very rare. OCLC locates a single example of the first state: Bibliotheque National de France. OCLC locates 3 examples of the second state: Bibliotheque Municipal de Lyon, Bibliotheque National de France, Ecole National des Pontes et Chaussees. The map is known in 2 states: Dated 25 Aout 1861 Dated 13 September 1863 Charles-Joseph Minard Biography Charles-Joseph Minard (1781–1870) was a distinguished French civil engineer best known for his pioneering work in the field of information graphics, particularly the visual representation of statistical data on geographic maps. His most enduring legacy lies in the development of thematic and flow maps that translated complex datasets into comprehensible visual formats. Born in Dijon on 27 March 1781, Minard was the son of Pierre Étienne Minard, a court clerk and school officer, and Bénigne Boiteux. A precocious child, he was reading and writing by the age of four and enrolled in anatomy courses by age six. His father’s early encouragement led to Minard's admission to the prestigious École Polytechnique at just fifteen. He continued his studies in civil engineering at the École nationale des ponts et chaussées. Minard's engineering career began in earnest in 1810 when he was dispatched to ports in Antwerp and Zeeland, where he resolved critical construction issues with early applications of steam-powered pumps. Over the ensuing decades, he supervised dam, canal, and bridge projects throughout Europe. His reputation earned him an appointment as superintendent of the School of Bridges and Roads in 1830 and later as inspector and then inspector general of the Corps of Bridges. After retiring in 1851, Minard turned his attention to statistical research, producing a remarkable series of visual studies that demonstrated his unique ability to merge quantitative analysis with spatial representation. Minard began developing thematic graphics as early as 1825, but it was in the 1840s, amid growing interest in railway infrastructure, that he found a compelling outlet for his methods. He devised bar and area charts to analyze passenger and freight movement, revealing insights into traffic flows between urban centers and smaller intermediate stations. In 1845, he introduced his first flow map—depicting road traffic between Dijon and Mulhouse—employing proportional bands to represent traffic volume. This method, which prefigured what would later be termed Sankey diagrams, became a hallmark of his work. Over the following decades, Minard produced over 50 thematic maps illustrating flows of goods and people, including wine exports, coal shipments, and transnational migration. Among these, his 1869 map of Napoleon’s 1812 Russian campaign is widely regarded as his magnum opus. This graphic portrays the size of Napoleon’s army in relation to time, distance, direction, temperature, and geography—all in a single cohesive visual. Praised for its clarity and emotional resonance, it has been hailed by information theorists such as Edward Tufte and Étienne-Jules Marey as perhaps the greatest statistical graphic ever created. Minard’s work attracted significant recognition during his lifetime. Eugène Rouher, Napoleon III’s secretary of public works, supported the distribution of his maps and included one in the background of his official portrait. Today, Minard is revered as a foundational figure in the evolution of data graphics. His legacy, enshrined in the collections of institutions such as the École des Ponts ParisTech, continues to influence the disciplines of information design, statistical cartography, and visual communication.\" (Ruderman, 2025)"
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "16389.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Separate Map"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "56"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "75"
+                },
+                {
+                  "label": "Image No",
+                  "value": "16389000.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/218/16389000.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Minard, Charles Joseph, 1781-1870"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~372296~90139135/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~372296~90139135/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~372296~90139135",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 21397,
+                    "height": 15654
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~372296~90139135/canvas/c1"
+                }
+              ],
+              "width": 21397,
+              "height": 15654
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~372296~90139135"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~356016~90122920/manifest",
+      "label": "Carte des voies de communication établies dans le Monde entier, au moyen de la vapeur et de l'électricité; \"World's Steam and Electric Map\"",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~356016~90122920/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~356016~90122920/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Carte des voies de communication établies dans le Monde entier, au moyen de la vapeur et de l'électricité; \"World's Steam and Electric Map\"",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Chatelain, Anatole Julien (1817 - 1898)"
+                },
+                {
+                  "label": "Date",
+                  "value": "1862"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Carte des voies de communication établies dans le Monde entier, au moyen de la vapeur et de l'électricité; \"World's Steam and Electric Map\""
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Erhard Schieble"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Paris"
+                },
+                {
+                  "label": "Type",
+                  "value": "Case Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "120"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "160"
+                },
+                {
+                  "label": "World Area",
+                  "value": "World"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Communications"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Transportation"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "Carte des voies de communication établies dans le Monde entier, au moyen de la vapeur et de l'électricité; \"World's Steam and Electric Map\" Avec indications des Postes Consulaires de France sur le Globe dressée d’après les documents officiels très récents par Anatole Chatelain Ex-Chef du Bureau de la Statistique au Ministère des Affaires Étrangères et dédiée a S.M. l’Empereur."
+                },
+                {
+                  "label": "List No",
+                  "value": "15798.002"
+                },
+                {
+                  "label": "Series No",
+                  "value": "2"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Chatelain, Anatole Julien (1817 - 1898)"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1862"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Carte des voies de communication établies dans le Monde entier, au moyen de la vapeur et de l'électricité; \"World's Steam and Electric Map\" Avec indications des Postes Consulaires de France sur le Globe dressée d’après les documents officiels très récents par Anatole Chatelain Ex-Chef du Bureau de la Statistique au Ministère des Affaires Étrangères et dédiée a S.M. l’Empereur."
+                },
+                {
+                  "label": "Pub Reference",
+                  "value": "Österreichisches Staatsarchiv (Vienna): AT-OeStA/KA KPS KS A VI Thematisch 2; Mittheilungen aus Justus Perthes' Geographischer Anstalt, band 9 (1863), p. 80; Österreichische Militärische Zeitschrift von V. Streffleur, III Jahrgang, vierter band (1862), p. 398; Cf. [re: 1863 ed.:] V.A. MALTE BRUN, ‘Carte des voies de communication’‚ Annales des voyages, de la géographie, de l'histoire et de l'archéologie, année 1864, tome premier (1864), pp. 231-3."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "\"Lithograph with original hand colour, dissected into 32 sections and amounted upon original linen, inscribed to the right of tile in mss.: “A S.E. Monsieur le Comte de Chasseloupe-Laubat, Hommage de l’Auteur, tres respecteux, [with hand-stamped signature of Chatelain in blue ink], Xbre 1862”, publisher’s pastedown label to verso, folding into original maroon cloth slipcase bearing gilt short title to spine. The exceedingly rare first edition of the mandarin, dramatist and cartographer Anatole Chatelain’s monumental and beautifully rendered world map showing all major railways, steamships routes, telegraph lines (both terrestrial and submarine), and canals/navigable inland routes; the finest such map made during the ‘Age of Steam and Electricity’ and the era of Jules Verne’s ‘Around the World in Eighty Days’, which saw a revolution in global transportation and communications with transformative social, economic and military ramifications; the present example having an august provenance, bearing the mss. inscription of the author to Prosper de Chasseloupe-Laubat, the ultra-powerful French Minister of the Navy & Colonies, who was the driving force behind France’s aggressive colonial expansion and a preeminent promoter of infrastructure development on five continents. The advent of steam power and electricity during the mid-19th century totally revolutionized global transportation and communications. Steam ships and trains slashed travel times from months to weeks, or even days, while telegraph lines allowed messages to be delivered almost instantly over thousands of kms, correspondence which previously took months. These developments had a transformative impact upon social behavior, colonialism, cross-cultural exchange, the economy, military affairs and geopolitics worldwide. The spirit of the new stream-electricity revolution was best captured in prose by Jules Verne’s epic bestseller Le tour du monde en quatre-vingts jours (1872), first published in English as Around the World in Eighty Days (1873), whereby a circumnavigation in that short period of time was by then possible, while previously such a tour would have taken years. At the height of the stream-electricity revolution, France, ruled by the ultra-expansionist Emperor Napoleon III (to whom the map is dedicated in the title), was a key mover of events. At this time, Anatole Chatelain, a senior French fonctionnaire, who moonlighted as a cartographer and dramatist, created an amazing map that, just as Verne would later capture in words, would graphically express the revolution perhaps better than any other work. The highly attractive, very large-format production (1.2 x 1.6 metres / approx. 4 x 5 feet!) showcases the entire world on Mercator’s Projection, with each country and colony outlined in its own bright hues, most being colour-coded by nationality possession (as explained in the ‘Signes et Conventions’ register, lower right), while the coastlines are outlined in a lively blue tone. The map features a vast wealth of information on transportation and communications, as explained in the ‘Légende’, including railways (lines tinted in ochre); steamship lines on ocean and lakes (lines tinted in red) along with notes showing their frequency (weekly, etc.), prices and route distances, while large flags are used to identify the ownership of the steamship lines (France, Russia, Netherlands, Brazil, Britain, Prussia, Belgium, Chile, USA, Ottoman Empire, Portugal, Austria, Denmark, Egypt, Japan, Italy, Sweden, Bremen, Imperial Russian American Company (Alaska), Spain, Norway, Hamburg, and the Hudson’s Bay Company (Canada)). Navigable inland waterways are represented by bold green lines, while steamship lines running on navigable rivers and canals are represented by lines tinted either green or brown. Telegraph lines in operation (tinted in blue) are showcased, along with lines both under construction and planned. The map also shows caravan routes and horse/stagecoach routes (crossed lines), as well as the tracks of key modern explorers (arrowed lines). Additionally, major overland routes across isthmuses between key bodies of water are represented by brown-tinted double lines. The geography of the world is well mapped, save for parts of interior of Africa, the Canadian Arctic Archipelago and Antarctica, which remain somewhat enigmatic. The map shows an awareness of many recent and ongoing key events of migration that were in good part enabled by the steam-electricity revolution, including the California Gold Rush (1848-55), the Victoria Gold Rush, in Australia (1851-69) and the Fraser Valley Gold Rush, in British Columbia (commenced 1858). Interestingly, the map also shows the survey routes for the Transatlantic Telegraph Cable, a connection that was first opened (tentatively) in 1858 but would not become practically operable until 1866. Also notable, is the route of the telegraph line that runs from Missouri to San Francisco, being the The frequency of the services, the duration of the journeys have been indicated whenever this could be done without harming clarity. It is easy to understand what interest there is for merchants, businessmen and people of the world, such a map which neatly summarizes so much diverse data. the whole world; because M. Anatole Châtelain took care to indicate using the ingenious notation of national flags the radius of activity or action of each of the great powers of the world. This planisphere thus presents the current assessment of the political situation, maritime, and commercial of all peoples. This work, which cost its author so much care, and whose dedication the Emperor was kind enough to accept, was favorably received by the public in France and in England. He was honored with a unique medal at the last international exhibition in London; it was the object in Paris of several ministerial subscriptions. It was an obligation for the author to bring to his work the corrections, the improvements, which would be announced to him, he did it with a loyalty and an eagerness which we hasten to announce; and each of the successive printings testifies to M. A. Châtelain's desire to take into account the observations made to him. It is not our intention to compare this map, as has been done in Germany, with the remarkable planisphere published since in Gotha by MM. Hermann Berghaus and Stülpnagel; the parallel is not possible with an exclusively geographical and scientific map, which leaves nothing to be desired, like this last map, in which the rigorous representation of the globe in its most complete details was moreover the main objective point, while that in the map of M. A. Châtelain, the geographical layout was only the means and the indication of the general ways of communication, the dominant idea. It is undoubtedly this striking and synoptic character of the movement of international communications that Mr. A. Châtelain managed to give to his map which more particularly fixed the attention of the international jury, and earned him a deserved distinction. Anatole Julien Chatelain: Mandarin, Dramatist and Mapmaker Anatole Julien Chatelain (1817 - 1898) was a senior French government official who moonlighted as cartographer and playwright. He served as the editor of publications for the French Department of Agriculture and Commerce (1849–7) and was subsequently the Chief of the Bureau of Statistics at the Ministry of Foreign Affairs (1855-8). He ended his civil service career as the Chief of the Bureau of the Ministry of Public Instruction (Education). Chatelain was long fascinated with statistic and the graphic representation of data, and his official duties gave him privileged access to the best intelligence from around the word. In addition to creating and editing the various editions of the Carte des voies de communication établies dans le Monde (1862-96), Chatelain made an atlas of the early historical development of the French railway system, Atlas chronologique des chemins de fer de France dressé par Anatole Chatelain, d'après les documents du bureau de la Statistique des chemins de fer (1855), as well as a railway map of the country, Carte des chemins de fer de France et des pays limitrophes (1858). best communication route across America in the era before the completion of the Central Pacific Railway in 1869. In Egypt, one can see the route of the under-construction Suez Canal that would transform global transportation upon its completion in 1869. The map features insets, in the lower corners, that detail the transport-communication systems in the Eastern USA-Canada and Europe, while an inset, in the top centre, showcases the system in Great Britain. Indicative of France’s grandiose global ambitions, the map labels the locations of French consulate-generals (double-tipped black flags), consulates (black flags) and vice-consulates (white flags) all around the world, a system which had been greatly expanded during the reign of Napoleon III. Chatelain welcomed advice from the public on how to improve the map, as a note in the lower margin, given in both French and English reads: “The gentlemen who interest themselves in the important movement brought forward in the present map, are requested to send their remarks on any successive addition or rectification, to Mr. Anatole Chatelain at the Ministry of State in Paris”. Accordingly, Chatelain regularly produced updated editions of the map over the next three decades. Today, all the editions are rare to extremely rare, having been expensive, ‘boutiquey’ productions with limited print runs. We can trace editions issued in 1862 (represented by the present example), 1863, 1867, 1869, 1874, 1876, 1880, 1884, 1889, 1895 and 1896, with the editions from 1876 onwards bearing the title headlined as the ‘Planisphère Chatelain’. The esteemed geographer and cartographer, Victor-Adolphe Malte-Brun (1816 - 1889), wrote a description and glowing review of the second edition (of 1863) of Chatelain’s map, after witnessing its presentation at a meeting of the Société de Géographie in Paris: This beautiful map which was deposited by the Senator Count Walewski on the desk of the Société de Géographie, at the last general assembly of April 15, and which was the object of very flattering attention on the part of of the members of the learned association, is no less than 1.10 high by 1.55 wide. It is a planisphere erected on the Mercator projection, on a scale of approximately 1/280,000,000. The author has proposed to highlight the means of action of human power on the entire globe, with the help of these two marvelous agents which will mark the nineteenth century in the eyes of posterity, steam and electricity. He has therefore shown on his map the lines of communication established by means of steam, that is to say, the railways and the regular lines of steam navigation on the oceans, the inland seas, the lakes, the rivers, the journeys resulting from the most remarkable commercial, scientific or military expeditions; and communication channels established by means of electricity: land or submarine electric telegraph lines; finally, the most important means of communication, not served by steam or electricity, such as the great lines of fluvial communication, the routes followed by the great caravans, the currents of emigration, the explorations of the principal modern travelers and the a thousand accidents that mark transcontinental viability in the New World. An August Provenance: Prosper de Chasseloup-Laubat – Architect of French Global Expansion The present example of the map has a fine provenance, coming from the library of the French nobleman and top-flight politician, Prosper de Chasseloupe-Laubat, the 4th Marquis of Chasseloup-Laubat, who would have been a long-time acquaintance of Chatelain. The work is inscribed in manuscript by Chatelain to the marquis (just to the right of the title), “A S.E. Monsieur le Comte de Chasseloupe-Laubat, Hommage de l’Auteur, très respecteux, Anatole Chatelain [with the signature provided as a handstamp in blue ink], Xbre [Decmber] 1862”. Prosper de Chasseloupe-Laubat (1805-73) was a political heavyweight and one of Emperor Napoléon III’s most trusted associates. He had previously served as the French Navy Minister (briefly, in 1851) and subsequently became the Minister for Algeria & the Colonies (1859-60). From 1860 to 1867, he held the new the ultra-powerful combined portfolio of Minister of the Navy & Colonies (1860-7), whereupon he spearheaded the consolidation of French colonial expansion in Africa and Southern Vietnam, as well as contributing to grand overseas military adventures such as the French Intervention in Mexico (1862-7). Additionally, he encouraged French foreign investment in countries the world over and was a globally significant promoter of infrastructure development, backing the creation of railways and telegraph lines on five continents, and such mega-projects as the Suez Canal. Chasseloupe-Laubat was a noted bibliophile and highly carto-literate, and one can be certain that he would have spent a great deal of time pouring over the present work, especially as he had a hand in many of the transport and communication systems represented on the map. A Note on Rarity All editions of the map are rare, with the early editions being extremely uncommon, having been expensive, ‘boutiquey’ productions made in only small print runs. We can trace only a single institutional example of the present first edition of the map, held by the Österreichisches Staatsarchiv (Vienna), while we cannot trace any sales records for any other examples.\" (Alexander Johnson/Dasa Pahor, 2023)"
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "15798.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Case Map"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "32"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "22"
+                },
+                {
+                  "label": "Image No",
+                  "value": "15798002.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/205/15798002.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Chatelain, Anatole Julien (1817 - 1898)"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~356016~90122920/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~356016~90122920/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~356016~90122920",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 38886,
+                    "height": 29175
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~356016~90122920/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~356016~90122920/list/luna"
+              ],
+              "width": 38886,
+              "height": 29175
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~356016~90122920"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~263456~5524255/manifest",
+      "label": "World Flight Routes (all in Japanese).",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~263456~5524255/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~263456~5524255/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "World Flight Routes (all in Japanese).",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Osaka Mainichi Shinbun"
+                },
+                {
+                  "label": "Date",
+                  "value": "1930"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "World Flight Routes (all in Japanese)."
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Osaka Mainichi Shinbun"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Osaka"
+                },
+                {
+                  "label": "Type",
+                  "value": "Separate Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "77"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "107"
+                },
+                {
+                  "label": "Note",
+                  "value": "Conquering the skies board game (all in Japanese). A sugoroku game (a Japanese game which might be compared to backgammon) of graphically striking design encouraging players to make their way around the world along aviation routes of various types (e.g. the Zeppelin route.) Japan lies at the center, with countries identified by national flags. Around the border of the map are black and white images of people, animals, and historical buildings relating to the different stops along the way. The text boxes at the bottom give directions for playing the game, and important things for children to learn. It was a New Years newspaper supplement to Mainichi Shinbun, dated Showa 5 (1930). Text in Japanese. The subtitle on the right reads: Educational Games for a New Age; the subtitle on the left reads:New Years Supplement to Osaka Mainichi Newspaper. Map title: World Flight Routes. Lower right: Directions for playing. \"The easiest way\" \"Here are instructions for the easiest way to play. Around the map are assembled the world's interesting and well-known places. Most likely, these are all places that everyone wishes they could visit sometime. Departing from Osaka [1] and moving to all the places in order of 2, 3, 4, you then return to Tokyo [52]. The player who reaches there first is the winner. \"Throw the dice and proceed as many places as the number you cast...\" Upper right text informs players of distances between locations, with basic geographic facts. The legend, toward the bottom of the map oval, shows 5 types of red lines & 1 square: 1. Well-known large aircraft route (refers to zeppelin, seen center of map) 2. First-class limited time route 3. Liner air route 4. Air route already mastered/controlled/conquered 5. Planned route. Main localities [red square inside black square]."
+                },
+                {
+                  "label": "World Area",
+                  "value": "World"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Airlines"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "World Flight Routes (all in Japanese)."
+                },
+                {
+                  "label": "List No",
+                  "value": "7926.000"
+                },
+                {
+                  "label": "Series No",
+                  "value": "1"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Osaka Mainichi Shinbun"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1930"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "World Flight Routes (all in Japanese)."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "Color. See Note field."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "7926.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Game"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Separate Map"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "1"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "28"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "39"
+                },
+                {
+                  "label": "Image No",
+                  "value": "7926000"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D5005/7926000.sid target=_blank>Full Image Download in MrSID Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Osaka Mainichi Shinbun"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~263456~5524255/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~263456~5524255/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~263456~5524255",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 21164,
+                    "height": 15336
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~263456~5524255/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~263456~5524255/list/luna"
+              ],
+              "width": 21164,
+              "height": 15336
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~263456~5524255"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~260708~5522989/manifest",
+      "label": "A Map of Air Mail & Passenger Routes in the United States.",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~260708~5522989/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~260708~5522989/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "A Map of Air Mail & Passenger Routes in the United States.",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Byron Weston Company"
+                },
+                {
+                  "label": "Date",
+                  "value": "1930"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "A Map of Air Mail & Passenger Routes in the United States."
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Byron Weston Company"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Dalton"
+                },
+                {
+                  "label": "Type",
+                  "value": "Separate Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "73"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "96"
+                },
+                {
+                  "label": "Note",
+                  "value": "Shows the nascent air mail and passenger routes with air and rail connections. Highlights of early aviation history are noted in text banners with pictographic illustrations. The portraits of aviation pioneers Orville Wright and Charles Lindbergh, along with their aircraft, are featured in the upper corners of the poster. Galleons and sea monsters link these early routes to the explorers and explorations of the past. Brilliant red decorative border."
+                },
+                {
+                  "label": "Country",
+                  "value": "United States"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Airlines"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Pictorial map"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "A Map of Air Mail & Passenger Routes. Prepared by Byron Weston Company, Manufacturers of Highest Grade Record and Ledger Papers. Dalton, Massachusetts and Printed on Weston's Linen Ledger. (c) B.W. Co. 1930."
+                },
+                {
+                  "label": "List No",
+                  "value": "8516.000"
+                },
+                {
+                  "label": "Series No",
+                  "value": "1"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Byron Weston Company"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1930"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "A Map of Air Mail & Passenger Routes. Prepared by Byron Weston Company, Manufacturers of Highest Grade Record and Ledger Papers. Dalton, Massachusetts and Printed on Weston's Linen Ledger. (c) B.W. Co. 1930."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "Mounted on linen."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "8516.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Separate Map"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "1"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "73"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "96"
+                },
+                {
+                  "label": "Image No",
+                  "value": "8516000"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D5005/8516000.sid target=_blank>Full Image Download in MrSID Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Byron Weston Company"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~260708~5522989/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~260708~5522989/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~260708~5522989",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 17074,
+                    "height": 13456
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~260708~5522989/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~260708~5522989/list/luna"
+              ],
+              "width": 17074,
+              "height": 13456
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~260708~5522989"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~373670~90140417/manifest",
+      "label": "Covers to: Aviation Atlas, 1935-1936.",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~373670~90140417/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~373670~90140417/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Covers to: Aviation Atlas, 1935-1936.",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Gulf Oil Corporation"
+                },
+                {
+                  "label": "Date",
+                  "value": "1935"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Covers to: Aviation Atlas, 1935-1936."
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Gulf Oil Corporation"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Pittsburgh"
+                },
+                {
+                  "label": "Type",
+                  "value": "Covers"
+                },
+                {
+                  "label": "Type",
+                  "value": "Title Page"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "34"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "26"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "(Covers to) Aviation Atlas, 1935-1936. Presented with the Compliments of Gulf Oil Corporation of Pennsylvania, Gulf Refining Company - Fourth Edition."
+                },
+                {
+                  "label": "List No",
+                  "value": "12017.001"
+                },
+                {
+                  "label": "Series No",
+                  "value": "1"
+                },
+                {
+                  "label": "Page No",
+                  "value": "cover"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Gulf Oil Corporation"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1935"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Aviation Atlas, 1935-1936. Presented with the Compliments of Gulf Oil Corporation of Pennsylvania, Gulf Refining Company - Fourth Edition."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "12017.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "World Atlas"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "11"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "34"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "26"
+                },
+                {
+                  "label": "Image No",
+                  "value": "12017001.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/218/12017001.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Gulf Oil Corporation"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~373670~90140417/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~373670~90140417/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~373670~90140417",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 6467,
+                    "height": 8311
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~373670~90140417/canvas/c1"
+                }
+              ],
+              "width": 6467,
+              "height": 8311
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~373670~90140417"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~373675~90140426/manifest",
+      "label": "Ships of the Air",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~373675~90140426/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~373675~90140426/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Ships of the Air",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Gulf Oil Corporation"
+                },
+                {
+                  "label": "Date",
+                  "value": "1935"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Ships of the Air"
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Gulf Oil Corporation"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Pittsburgh"
+                },
+                {
+                  "label": "Type",
+                  "value": "View"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "34"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "51"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Airlines"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "Ships of the Air"
+                },
+                {
+                  "label": "List No",
+                  "value": "12017.006"
+                },
+                {
+                  "label": "Series No",
+                  "value": "6"
+                },
+                {
+                  "label": "Page No",
+                  "value": "4-5"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Gulf Oil Corporation"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1935"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Aviation Atlas, 1935-1936. Presented with the Compliments of Gulf Oil Corporation of Pennsylvania, Gulf Refining Company - Fourth Edition."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "12017.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "World Atlas"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "11"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "34"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "26"
+                },
+                {
+                  "label": "Image No",
+                  "value": "12017006.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/218/12017006.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Gulf Oil Corporation"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~373675~90140426/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~373675~90140426/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~373675~90140426",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 12798,
+                    "height": 8638
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~373675~90140426/canvas/c1"
+                }
+              ],
+              "width": 12798,
+              "height": 8638
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~373675~90140426"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~373679~90140422/manifest",
+      "label": "Rand McNally Historical Flight Map of the World.",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~373679~90140422/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~373679~90140422/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Rand McNally Historical Flight Map of the World.",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Gulf Oil Corporation"
+                },
+                {
+                  "label": "Author",
+                  "value": "Rand McNally Company"
+                },
+                {
+                  "label": "Date",
+                  "value": "1935"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Rand McNally Historical Flight Map of the World."
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Gulf Oil Corporation"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Pittsburgh"
+                },
+                {
+                  "label": "Type",
+                  "value": "Atlas Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "33"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "49"
+                },
+                {
+                  "label": "Scale 1",
+                  "value": "85,916,000"
+                },
+                {
+                  "label": "World Area",
+                  "value": "World"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Airlines"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "Rand McNally Historical Flight Map of the World."
+                },
+                {
+                  "label": "List No",
+                  "value": "12017.010"
+                },
+                {
+                  "label": "Series No",
+                  "value": "10"
+                },
+                {
+                  "label": "Page No",
+                  "value": "12-13"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Gulf Oil Corporation"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1935"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Aviation Atlas, 1935-1936. Presented with the Compliments of Gulf Oil Corporation of Pennsylvania, Gulf Refining Company - Fourth Edition."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "12017.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "World Atlas"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "11"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "34"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "26"
+                },
+                {
+                  "label": "Image No",
+                  "value": "12017010.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/218/12017010.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Gulf Oil Corporation; Rand McNally Company"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~373679~90140422/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~373679~90140422/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~373679~90140422",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 12617,
+                    "height": 8523
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~373679~90140422/canvas/c1"
+                }
+              ],
+              "width": 12617,
+              "height": 8523
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~373679~90140422"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~356060~90122960/manifest",
+      "label": "Flight Information. Your BCPA (British Commonwealth Pacific Airlines) Flight Across the Pacific.",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~356060~90122960/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~356060~90122960/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Flight Information. Your BCPA (British Commonwealth Pacific Airlines) Flight Across the Pacific.",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "British Commonwealth Pacific Airlines Limited"
+                },
+                {
+                  "label": "Date",
+                  "value": "1949"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Flight Information. Your BCPA (British Commonwealth Pacific Airlines) Flight Across the Pacific."
+                },
+                {
+                  "label": "Publisher",
+                  "value": "F.H. Johnston Publishing Co. Pty. Ltd."
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "(Sydney)"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Sydney"
+                },
+                {
+                  "label": "Publisher",
+                  "value": "British Commonwealth Pacific Airlines Limited"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "(Sydney)"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Sydney"
+                },
+                {
+                  "label": "Type",
+                  "value": "Covers"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "26"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "12"
+                },
+                {
+                  "label": "Note",
+                  "value": "Date estimated. Cover folder in three panels with pockets."
+                },
+                {
+                  "label": "Subject",
+                  "value": "Airlines"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "Flight Information. Your BCPA (British Commonwealth Pacific Airlines) Flight Across the Pacific."
+                },
+                {
+                  "label": "List No",
+                  "value": "12417.001"
+                },
+                {
+                  "label": "Series No",
+                  "value": "1"
+                },
+                {
+                  "label": "Page No",
+                  "value": "cover out/inside"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "British Commonwealth Pacific Airlines Limited"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1949"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Flight Information. Your BCPA (British Commonwealth Pacific Airlines) Flight Across the Pacific."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "Date estimated."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "12417.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Ephemera"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "7"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "26"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "12"
+                },
+                {
+                  "label": "Image No",
+                  "value": "12417001.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/205/12417001.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "British Commonwealth Pacific Airlines Limited"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~356060~90122960/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~356060~90122960/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~356060~90122960",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 5108,
+                    "height": 5156
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~356060~90122960/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~356060~90122960/list/luna"
+              ],
+              "width": 5108,
+              "height": 5156
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~356060~90122960"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~356062~90122957/manifest",
+      "label": "View: The BCPA 300 m.p.h. DC-6 \"Resolution,\" now flying the \"Southern Cross\" Route/",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~356062~90122957/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~356062~90122957/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "View: The BCPA 300 m.p.h. DC-6 \"Resolution,\" now flying the \"Southern Cross\" Route/",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "British Commonwealth Pacific Airlines Limited"
+                },
+                {
+                  "label": "Date",
+                  "value": "1949"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "View: The BCPA 300 m.p.h. DC-6 \"Resolution,\" now flying the \"Southern Cross\" Route/"
+                },
+                {
+                  "label": "Publisher",
+                  "value": "F.H. Johnston Publishing Co. Pty. Ltd."
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "(Sydney)"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Sydney"
+                },
+                {
+                  "label": "Publisher",
+                  "value": "British Commonwealth Pacific Airlines Limited"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "(Sydney)"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Sydney"
+                },
+                {
+                  "label": "Type",
+                  "value": "View"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "9"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "14"
+                },
+                {
+                  "label": "Note",
+                  "value": "Date estimated. Postcard."
+                },
+                {
+                  "label": "Subject",
+                  "value": "Airlines"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "(View) The BCPA 300 m.p.h. DC-6 \"Resolution,\" now flying the \"Southern Cross\" Route/"
+                },
+                {
+                  "label": "List No",
+                  "value": "12417.002"
+                },
+                {
+                  "label": "Series No",
+                  "value": "2"
+                },
+                {
+                  "label": "Page No",
+                  "value": "postcard"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "British Commonwealth Pacific Airlines Limited"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1949"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Flight Information. Your BCPA (British Commonwealth Pacific Airlines) Flight Across the Pacific."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "Date estimated."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "12417.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Ephemera"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "7"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "26"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "12"
+                },
+                {
+                  "label": "Image No",
+                  "value": "12417002.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/205/12417002.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "British Commonwealth Pacific Airlines Limited"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~356062~90122957/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~356062~90122957/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~356062~90122957",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 5920,
+                    "height": 1926
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~356062~90122957/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~356062~90122957/list/luna"
+              ],
+              "width": 5920,
+              "height": 1926
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~356062~90122957"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~356066~90122963/manifest",
+      "label": "BCPA British Commonwealth Pacific Airlines.",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~356066~90122963/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~356066~90122963/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "BCPA British Commonwealth Pacific Airlines.",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "British Commonwealth Pacific Airlines Limited"
+                },
+                {
+                  "label": "Date",
+                  "value": "1949"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "BCPA British Commonwealth Pacific Airlines."
+                },
+                {
+                  "label": "Publisher",
+                  "value": "F.H. Johnston Publishing Co. Pty. Ltd."
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "(Sydney)"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Sydney"
+                },
+                {
+                  "label": "Publisher",
+                  "value": "British Commonwealth Pacific Airlines Limited"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "(Sydney)"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Sydney"
+                },
+                {
+                  "label": "Type",
+                  "value": "Separate Map"
+                },
+                {
+                  "label": "Type",
+                  "value": "Text Page"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "43"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "55"
+                },
+                {
+                  "label": "Scale 1",
+                  "value": "36,000,000"
+                },
+                {
+                  "label": "Note",
+                  "value": "Date estimated."
+                },
+                {
+                  "label": "World Area",
+                  "value": "Pacific"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Airlines"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "BCPA British Commonwealth Pacific Airlines."
+                },
+                {
+                  "label": "List No",
+                  "value": "12417.007"
+                },
+                {
+                  "label": "Series No",
+                  "value": "7"
+                },
+                {
+                  "label": "Page No",
+                  "value": "verso"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "British Commonwealth Pacific Airlines Limited"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1949"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Flight Information. Your BCPA (British Commonwealth Pacific Airlines) Flight Across the Pacific."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "Date estimated."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "12417.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Ephemera"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "7"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "26"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "12"
+                },
+                {
+                  "label": "Image No",
+                  "value": "12417007.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/205/12417007.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "British Commonwealth Pacific Airlines Limited"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~356066~90122963/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~356066~90122963/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~356066~90122963",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 11333,
+                    "height": 8641
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~356066~90122963/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~356066~90122963/list/luna"
+              ],
+              "width": 11333,
+              "height": 8641
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~356066~90122963"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~272321~90046132/manifest",
+      "label": "Afrique.",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~272321~90046132/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~272321~90046132/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Afrique.",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Liozu, Jacque"
+                },
+                {
+                  "label": "Date",
+                  "value": "1951"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Afrique."
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Pan American"
+                },
+                {
+                  "label": "Type",
+                  "value": "Ephemera"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "22"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "16"
+                },
+                {
+                  "label": "Scale 1",
+                  "value": "67,000,000"
+                },
+                {
+                  "label": "Note",
+                  "value": "Date estimated."
+                },
+                {
+                  "label": "World Area",
+                  "value": "Africa"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Pictorial map"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "Afrique."
+                },
+                {
+                  "label": "List No",
+                  "value": "9040.001"
+                },
+                {
+                  "label": "Series No",
+                  "value": "1"
+                },
+                {
+                  "label": "Page No",
+                  "value": "map"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Liozu, Jacque"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1951"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Afrique."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "Date estimated."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "9040.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Ephemera"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "1"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "16"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "22"
+                },
+                {
+                  "label": "Image No",
+                  "value": "9040001.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/162/9040001.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Liozu, Jacque"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~272321~90046132/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~272321~90046132/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~272321~90046132",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 3304,
+                    "height": 4536
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~272321~90046132/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~272321~90046132/list/luna"
+              ],
+              "width": 3304,
+              "height": 4536
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~272321~90046132"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~272322~90046133/manifest",
+      "label": "Text: Rainbow Service.",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~272322~90046133/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~272322~90046133/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Text: Rainbow Service.",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Liozu, Jacque"
+                },
+                {
+                  "label": "Date",
+                  "value": "1951"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Text: Rainbow Service."
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Pan American"
+                },
+                {
+                  "label": "Type",
+                  "value": "Ephemera"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "22"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "32"
+                },
+                {
+                  "label": "Note",
+                  "value": "Date estimated."
+                },
+                {
+                  "label": "World Area",
+                  "value": "Africa"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Pictorial map"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "(Text) Rainbow Service."
+                },
+                {
+                  "label": "List No",
+                  "value": "9040.002"
+                },
+                {
+                  "label": "Series No",
+                  "value": "2"
+                },
+                {
+                  "label": "Page No",
+                  "value": "menu"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Liozu, Jacque"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1951"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Afrique."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "Date estimated."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "9040.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Ephemera"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "1"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "16"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "22"
+                },
+                {
+                  "label": "Image No",
+                  "value": "9040002.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/162/9040002.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Liozu, Jacque"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~272322~90046133/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~272322~90046133/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~272322~90046133",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 6348,
+                    "height": 4532
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~272322~90046133/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~272322~90046133/list/luna"
+              ],
+              "width": 6348,
+              "height": 4532
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~272322~90046133"
+    }
+  ]
+}
