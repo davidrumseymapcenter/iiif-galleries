@@ -918,6 +918,1076 @@
     {
       "@context": "http://iiif.io/api/presentation/2/context.json",
       "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~331034~90099487/manifest",
+      "label": "RSFSR. Politiko-Administrativnaya karta",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~331034~90099487/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~331034~90099487/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "RSFSR. Politiko-Administrativnaya karta",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Gorkin, Aleksandr Fedorovich"
+                },
+                {
+                  "label": "Author",
+                  "value": "Kutafʹev, S. A."
+                },
+                {
+                  "label": "Date",
+                  "value": "1939"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "RSFSR. Politiko-Administrativnaya karta"
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Nauchno-izdatelskim Institutm Bolshogo"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Moscow"
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Glavnoe upravlenie geodezii i kartografii"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Moscow"
+                },
+                {
+                  "label": "Type",
+                  "value": "Atlas Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "45"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "84"
+                },
+                {
+                  "label": "Scale 1",
+                  "value": "10,000,000"
+                },
+                {
+                  "label": "Note",
+                  "value": "Folded map of the political and administrative divisions of Russian Soviet Federative Socialist Republic. With inset map of Moskva."
+                },
+                {
+                  "label": "Country",
+                  "value": "Russia"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Administrative and political divisions"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "RSFSR. Politiko-Administrativnaya karta. (to accompany) Bolshoi Sovietskii Atlas Mira II. Moskva 1939."
+                },
+                {
+                  "label": "List No",
+                  "value": "11008.201"
+                },
+                {
+                  "label": "Series No",
+                  "value": "201"
+                },
+                {
+                  "label": "Page No",
+                  "value": "Vol. II. 13-15"
+                },
+                {
+                  "label": "Engraver or Printer",
+                  "value": "Shmidt, O. Y."
+                },
+                {
+                  "label": "Engraver or Printer",
+                  "value": "Baranova, A, N."
+                },
+                {
+                  "label": "Engraver or Printer",
+                  "value": "Shaposhnikova, B. M."
+                },
+                {
+                  "label": "Engraver or Printer",
+                  "value": "Motylev, V.E."
+                },
+                {
+                  "label": "Engraver or Printer",
+                  "value": "Sautina, I.V."
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Gorkin, Aleksandr Fedorovich"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Kutafʹev, S. A."
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1939"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Bolshoi Sovetskii Atlas Mira I : Proletarii vsekh stran, soediniaites. Moskva 1937. Bolshoi Sovietskii Atlas Mira II : Proletarii vsekh stran soyedinyaytes'. Moskva 1939. Pod obshchei red. A. F. Gorkin; O. Y. Shmidt; V. E. Motylev; M. V. Nikitin; B. M. Direktor instituta V.E. Motylev. Shaposhnikov. Izdan po postanovleniyu Tsentralnogo Ispolnitelnogo kommiteta i Soveta Narodnikh Komissarov Soiuza SSR ot 17 Dekabri 1933 g. Nauchno-izdatelskim Institutm Bolshogo Sovetskogo Atlasa Mira pri TSIK SSSR."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "The Great Soviet Atlas of the world was issued in two volumes. Prepared under the cooperative editorship of A. F. Gorkin ... Director of the Scientific editorial institute; O. Y. Shmidta; A. N. Baranova; V. E. Motylev; I. V. Sautina; B. M. Shaposhnikova. and S. A. Kytafev managing editor of volume II. Issued by Narodnikh Komissarov Soiuza SSR and Glavnym Upravleniyem Geodezii i Kartografii pri SNK SSSR. Both volumes contain color thematic and historical maps, index of geographical names, contents, text, tables and diagrams. Includes vignette of Stalin and Lenin stamped above title. Bound in blue calico bindings, with title \"Bolshoi Sovietskii Atlas Mira I” and \"Bolshoi Sovietskii Atlas Mira II\" with embossed insignia of the Soviet Union stamped on top. On the spine is the same title under a five-pointed star with a world map. Maps are full color, various sizes, some double page or larger, each with cover title, Include legend, diagram, tables, graded circle symbols and notes. Volume I contains 168 maps of the world, printed in 1937, with supplementary index of place names of the first volume, printed in 1940. Maps show political and administrative boundaries, populations, nationalities, religions, agriculture of various types, mining, power developments, industry, economic, climatic, forestry, transport and communications, trade, explorations and colonies, and maps of the World War. Volume II contains 143 maps of Russia in 2 parts, printed in 1939. Part I: plates 9-133: Economic survey and physical maps of individual republics and regions of the USSR. Part II. Plates 134-143: Maps on the history of the Russian Civil War. City plans showing city districts, street names, city blocks, landmarks, parks, public buildings, fortress, railroads, canals and waterways. Relief shown by contours, spot heights and gradient tints. Depth shown by isolines and soundings and bathymetric tints."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "11008.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "World Atlas"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "211"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "52"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "36"
+                },
+                {
+                  "label": "Image No",
+                  "value": "11008201.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/190/11008201.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Gorkin, Aleksandr Fedorovich; Kutafʹev, S. A."
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~331034~90099487/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~331034~90099487/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~331034~90099487",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 21226,
+                    "height": 12328
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~331034~90099487/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~331034~90099487/list/luna"
+              ],
+              "width": 21226,
+              "height": 12328
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~331034~90099487"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~247106~5515280/manifest",
+      "label": "Covers: Global atlas of the World at War",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~247106~5515280/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~247106~5515280/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Covers: Global atlas of the World at War",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Matthews-Northrup Division"
+                },
+                {
+                  "label": "Author",
+                  "value": "J.W. Clement Co."
+                },
+                {
+                  "label": "Date",
+                  "value": "1943"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Covers: Global atlas of the World at War"
+                },
+                {
+                  "label": "Publisher",
+                  "value": "World Publishing Company"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Cleveland and New York"
+                },
+                {
+                  "label": "Type",
+                  "value": "Covers"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "35"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "27"
+                },
+                {
+                  "label": "Note",
+                  "value": "1 atlas, 48 p., 35 maps and illustration, maps mostly colored. Includes Gazetteer-index, maps of: Military actions of World War II, March 11, 1938-June, 1943. , and list of incorporated cities in the United States. Illustrated color covers are heavy paper printed with \"The New Matthews-Northrup global atlas of the world at war. With invasion maps that cover all possible points of invasion. Follow every phase of the Global War on: Global maps that show you its scope. Geo-Political maps that reveal its background. Military Action maps that trace all major military movements.\" Back cover includes advertisements, and No. 674 on the right lower corner."
+                },
+                {
+                  "label": "Event",
+                  "value": "World War II"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "(Covers to) The New Matthews-Northrup Global atlas of the World at War. Cartography and manufacturing by J. W. Clement Co., Matthews-Northrup Works, Buffalo, N.Y. Copyright, 1943, by the World Publishing Company. (on verso) Published in the United States of America."
+                },
+                {
+                  "label": "List No",
+                  "value": "5963.001"
+                },
+                {
+                  "label": "Series No",
+                  "value": "1"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Matthews-Northrup Division"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "J.W. Clement Co."
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1943"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "The New Matthews-Northrup Global atlas of the World at War. Cartography and manufacturing by J. W. Clement Co., Matthews-Northrup Works, Buffalo, N.Y. Copyright, 1943, by the World Publishing Company. (on verso) Published in the United States of America."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "1 atlas, 48 p., 35 maps and illustration, maps mostly colored. Includes Gazetteer-index, maps of: Military actions of World War II, March 11, 1938-June, 1943. , and list of incorporated cities in the United States. Illustrated color covers are heavy paper printed with \"The New Matthews-Northrup global atlas of the world at war. With invasion maps that cover all possible points of invasion. Follow every phase of the Global War on: Global maps that show you its scope. Geo-Political maps that reveal its background. Military Action maps that trace all major military movements.\" Back cover includes advertisements, and No. 674 on the right lower corner."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "5963.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "World Atlas"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "35"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "35"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "27"
+                },
+                {
+                  "label": "Image No",
+                  "value": "5963001"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D5005/5963001.sid target=_blank>Full Image Download in MrSID Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Matthews-Northrup Division; J.W. Clement Co."
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~247106~5515280/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~247106~5515280/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~247106~5515280",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 10583,
+                    "height": 6934
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~247106~5515280/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~247106~5515280/list/luna"
+              ],
+              "width": 10583,
+              "height": 6934
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~247106~5515280"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~247161~5515304/manifest",
+      "label": "Southern Central Europe",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~247161~5515304/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~247161~5515304/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Southern Central Europe",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Matthews-Northrup Division"
+                },
+                {
+                  "label": "Author",
+                  "value": "J.W. Clement Co."
+                },
+                {
+                  "label": "Date",
+                  "value": "1943"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Southern Central Europe"
+                },
+                {
+                  "label": "Publisher",
+                  "value": "World Publishing Company"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Cleveland and New York"
+                },
+                {
+                  "label": "Type",
+                  "value": "Atlas Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "32"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "24"
+                },
+                {
+                  "label": "Scale 1",
+                  "value": "4,300,000"
+                },
+                {
+                  "label": "Note",
+                  "value": "Full color map. Showing capitals of countries, and railroads. Relief shown by shadings. Prime meridian is Greenwich."
+                },
+                {
+                  "label": "World Area",
+                  "value": "Europe"
+                },
+                {
+                  "label": "Event",
+                  "value": "World War II"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "South Central Europe. Copyright, J.W. Clement Co., Matthews-Northrup Works, Buffalo, N.Y."
+                },
+                {
+                  "label": "List No",
+                  "value": "5963.025"
+                },
+                {
+                  "label": "Series No",
+                  "value": "25"
+                },
+                {
+                  "label": "Page No",
+                  "value": "29"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Matthews-Northrup Division"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "J.W. Clement Co."
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1943"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "The New Matthews-Northrup Global atlas of the World at War. Cartography and manufacturing by J. W. Clement Co., Matthews-Northrup Works, Buffalo, N.Y. Copyright, 1943, by the World Publishing Company. (on verso) Published in the United States of America."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "1 atlas, 48 p., 35 maps and illustration, maps mostly colored. Includes Gazetteer-index, maps of: Military actions of World War II, March 11, 1938-June, 1943. , and list of incorporated cities in the United States. Illustrated color covers are heavy paper printed with \"The New Matthews-Northrup global atlas of the world at war. With invasion maps that cover all possible points of invasion. Follow every phase of the Global War on: Global maps that show you its scope. Geo-Political maps that reveal its background. Military Action maps that trace all major military movements.\" Back cover includes advertisements, and No. 674 on the right lower corner."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "5963.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "World Atlas"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "35"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "35"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "27"
+                },
+                {
+                  "label": "Image No",
+                  "value": "5963025"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D5005/5963025.sid target=_blank>Full Image Download in MrSID Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Matthews-Northrup Division; J.W. Clement Co."
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~247161~5515304/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~247161~5515304/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~247161~5515304",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 5179,
+                    "height": 6808
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~247161~5515304/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~247161~5515304/list/luna"
+              ],
+              "width": 5179,
+              "height": 6808
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~247161~5515304"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~366189~90133407/manifest",
+      "label": "Covers: Шестилетний план восстановления Варшавы : Графическое оформление, диаграммы, планы и макеты выполнены на основе материалов и проектов бюро по планированию Варшавы.",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~366189~90133407/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~366189~90133407/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Covers: Шестилетний план восстановления Варшавы : Графическое оформление, диаграммы, планы и макеты выполнены на основе материалов и проектов бюро по планированию Варшавы.",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Bierut, Bolesław, 1892-1956"
+                },
+                {
+                  "label": "Date",
+                  "value": "1951"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Covers: Шестилетний план восстановления Варшавы : Графическое оформление, диаграммы, планы и макеты выполнены на основе материалов и проектов бюро по планированию Варшавы."
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Książka i Wiedza"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Warsaw"
+                },
+                {
+                  "label": "Type",
+                  "value": "Covers"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "34"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "26"
+                },
+                {
+                  "label": "Note",
+                  "value": "Covers to Шестилетний план восстановления Варшавы : Графическое оформление, диаграммы, планы и макеты выполнены на основе материалов и проектов бюро по планированию Варшавы. Title translates to: Six-year plan for the reconstruction of Warsaw : Graphic design, diagrams, plans and layouts based on materials and projects of the Warsaw Planning Office. Sewn binding. Bound in board with cream colored fabric, gilt cover and spine title each with decorative borders. Emblem at the bottom of the spine is that of the publisher, Książka i Wiedza, Warsaw."
+                },
+                {
+                  "label": "Full Title",
+                  "value": "(Covers to) Шестилетний план восстановления Варшавы : Графическое оформление, диаграммы, планы и макеты выполнены на основе материалов и проектов бюро по планированию Варшавы."
+                },
+                {
+                  "label": "List No",
+                  "value": "14513.001"
+                },
+                {
+                  "label": "Series No",
+                  "value": "1"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Bierut, Bolesław, 1892-1956"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1951"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Болеслав Берут. Шестилетний план восстановления Варшавы : Графическое оформление, диаграммы, планы и макеты выполнены на основе материалов и проектов бюро по планированию Варшавы. Ксенжка и Ведза."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "Шестилетний план восстановления Варшавы : Графическое оформление, диаграммы, планы и макеты выполнены на основе материалов и проектов бюро по планированию Варшавы, by Bolesław Bierut. Published by Książka i Wiedza in Warsaw, in 1951. Title translates to: Six-year plan for the reconstruction of Warsaw : Graphic design, diagrams, plans and layouts based on materials and projects of the Warsaw Planning Office. This multi-media book illustrates the report on the Soviet-led initiative to rebuild Warsaw, Poland, after the destruction caused by the Second World War. This report was given at the Warsaw Conference of the Polish United Workers Party on July 3rd, 1949. In addition to diagrams and plans, the book also includes photographic views, drawings, and maps. Maps show roads, districts, and drainage, as well as plans for the reconstruction of central Warsaw. Bound in board with cream colored fabric, gilt cover and spine title, each with decorative borders. Emblem at the bottom of the spine is that of the publisher, Książka i Wiedza, Warsaw. First and only edition. One of the last photo-books of the Stalin era, it provides a glimpse of Warsaw during the period of post-war reconstruction and development. The book itself is a classic example of its genre: large format, gold embossing, coated paper, little text, many photographs, diagrams and graphs - demonstrating the advantages of the socialist model over capitalism. One of the book’s main techniques is the comparison of the same sites photographed in 1945 - the first post-war year - and again after 1949, when the achievements of rebuilding became visible. A highlight of the book are 25 fold-out sheets, which depict views and plans of an imagined future Warsaw in 1955, with the sister skyscrapers to the seven Moscow high-rises, the Stalinist Empire architectural style. A comparison technique is also used here: on the back of the folding sheets are photographs depicting streets, squares, or districts in 1949, with the fold-out showing a drawing of the same site as proposed by the Six-Year Plan. The book includes plans for the design of the metro. Intended for completion by 1955, it was actually launched 40 years later, in 1995. Few of the other proposals were implemented. The book serves as a vivid illustration of late Stalinist USSR, and the intentions of the Soviet Empire for the countries of the Eastern Bloc. The historical significance of this book is due, in part, to its author, Boleslaw Bierut (1892-1956), who was a Polish communist activist and politician, leader of communist-ruled Poland from 1947 until 1956. He was President of the State National Council from 1944 to 1947, President of Poland from 1947 to 1952, General Secretary of the Central Committee of the Polish United Workers' Party from 1948 to 1956, and Prime Minister of Poland from 1952 to 1954.  Titles given for the views are largely taken from the accompanying descriptive text, which are presented as captions."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "14513.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "City Atlas"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "23"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "34"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "26"
+                },
+                {
+                  "label": "Image No",
+                  "value": "14513001.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/213/14513001.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Bierut, Bolesław, 1892-1956"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~366189~90133407/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~366189~90133407/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~366189~90133407",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 12392,
+                    "height": 7345
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~366189~90133407/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~366189~90133407/list/luna"
+              ],
+              "width": 12392,
+              "height": 7345
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~366189~90133407"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~366450~90133571/manifest",
+      "label": "No. 12. План центра города.",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~366450~90133571/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~366450~90133571/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "No. 12. План центра города.",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Bierut, Bolesław, 1892-1956"
+                },
+                {
+                  "label": "Date",
+                  "value": "1951"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "No. 12. План центра города."
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Książka i Wiedza"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Warsaw"
+                },
+                {
+                  "label": "Type",
+                  "value": "Atlas Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "33"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "24"
+                },
+                {
+                  "label": "Note",
+                  "value": "Map representing Warsaw. Title translates to: Plan of the city center. Map shows roads, buildings, and drainage. Includes a legend, a compass rose with north oriented toward top of sheet, and a bar scale given in meters. Printed in color. Map is 33 x 24 cm, on sheet 33 x 25 cm."
+                },
+                {
+                  "label": "City",
+                  "value": "Warsaw (Poland)"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "No. 12. План центра города."
+                },
+                {
+                  "label": "List No",
+                  "value": "14513.169"
+                },
+                {
+                  "label": "Series No",
+                  "value": "169"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Bierut, Bolesław, 1892-1956"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1951"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Болеслав Берут. Шестилетний план восстановления Варшавы : Графическое оформление, диаграммы, планы и макеты выполнены на основе материалов и проектов бюро по планированию Варшавы. Ксенжка и Ведза."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "Шестилетний план восстановления Варшавы : Графическое оформление, диаграммы, планы и макеты выполнены на основе материалов и проектов бюро по планированию Варшавы, by Bolesław Bierut. Published by Książka i Wiedza in Warsaw, in 1951. Title translates to: Six-year plan for the reconstruction of Warsaw : Graphic design, diagrams, plans and layouts based on materials and projects of the Warsaw Planning Office. This multi-media book illustrates the report on the Soviet-led initiative to rebuild Warsaw, Poland, after the destruction caused by the Second World War. This report was given at the Warsaw Conference of the Polish United Workers Party on July 3rd, 1949. In addition to diagrams and plans, the book also includes photographic views, drawings, and maps. Maps show roads, districts, and drainage, as well as plans for the reconstruction of central Warsaw. Bound in board with cream colored fabric, gilt cover and spine title, each with decorative borders. Emblem at the bottom of the spine is that of the publisher, Książka i Wiedza, Warsaw. First and only edition. One of the last photo-books of the Stalin era, it provides a glimpse of Warsaw during the period of post-war reconstruction and development. The book itself is a classic example of its genre: large format, gold embossing, coated paper, little text, many photographs, diagrams and graphs - demonstrating the advantages of the socialist model over capitalism. One of the book’s main techniques is the comparison of the same sites photographed in 1945 - the first post-war year - and again after 1949, when the achievements of rebuilding became visible. A highlight of the book are 25 fold-out sheets, which depict views and plans of an imagined future Warsaw in 1955, with the sister skyscrapers to the seven Moscow high-rises, the Stalinist Empire architectural style. A comparison technique is also used here: on the back of the folding sheets are photographs depicting streets, squares, or districts in 1949, with the fold-out showing a drawing of the same site as proposed by the Six-Year Plan. The book includes plans for the design of the metro. Intended for completion by 1955, it was actually launched 40 years later, in 1995. Few of the other proposals were implemented. The book serves as a vivid illustration of late Stalinist USSR, and the intentions of the Soviet Empire for the countries of the Eastern Bloc. The historical significance of this book is due, in part, to its author, Boleslaw Bierut (1892-1956), who was a Polish communist activist and politician, leader of communist-ruled Poland from 1947 until 1956. He was President of the State National Council from 1944 to 1947, President of Poland from 1947 to 1952, General Secretary of the Central Committee of the Polish United Workers' Party from 1948 to 1956, and Prime Minister of Poland from 1952 to 1954.  Titles given for the views are largely taken from the accompanying descriptive text, which are presented as captions."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "14513.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "City Atlas"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "23"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "34"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "26"
+                },
+                {
+                  "label": "Image No",
+                  "value": "14513169.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/213/14513169.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Bierut, Bolesław, 1892-1956"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~366450~90133571/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~366450~90133571/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~366450~90133571",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 5540,
+                    "height": 7135
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~366450~90133571/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~366450~90133571/list/luna"
+              ],
+              "width": 5540,
+              "height": 7135
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~366450~90133571"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~333348~90101504/manifest",
+      "label": "U.S.S.R. our vast home",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~333348~90101504/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~333348~90101504/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "U.S.S.R. our vast home",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Vneshtorgizdat"
+                },
+                {
+                  "label": "Date",
+                  "value": "1958"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "U.S.S.R. our vast home"
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Vneshtorgizdat"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Moscow"
+                },
+                {
+                  "label": "Type",
+                  "value": "Pocket Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "33"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "44"
+                },
+                {
+                  "label": "Country",
+                  "value": "Russia"
+                },
+                {
+                  "label": "Region",
+                  "value": "North Pole"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Pictorial map"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Industry"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Agriculture"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "U.S.S.R. our vast home. Vneshtorgizdat, Zakaz No. B-951-44. (cover title) U.S.S.R. Our country. 1958 Bruxelles, U.R.S.S."
+                },
+                {
+                  "label": "List No",
+                  "value": "13588.003"
+                },
+                {
+                  "label": "Series No",
+                  "value": "3"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Vneshtorgizdat"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1958"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "U.S.S.R. our vast home. Vneshtorgizdat, Zakaz No. B-951-44. (cover title) U.S.S.R. Our country. 1958 Bruxelles, U.R.S.S."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "Pictorial color map of the Soviet Union, 33x44 on sheet 57x44, folded to 23x12, promoting the country, intended for distribution at the 1958 world's fair in Brussels. Shows major cities, agriculture, industry, power plants, oil fields, mining, roads, bridges and landmarks. Relief shown by shadings and pictorially. Includes text and illustrations on both sides."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "13588.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Pocket Map"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "23"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "12"
+                },
+                {
+                  "label": "Image No",
+                  "value": "13588003.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/195/13588003.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Vneshtorgizdat"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~333348~90101504/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~333348~90101504/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~333348~90101504",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 10648,
+                    "height": 13738
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~333348~90101504/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~333348~90101504/list/luna"
+              ],
+              "width": 10648,
+              "height": 13738
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~333348~90101504"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
       "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~345619~90113075/manifest",
       "label": "Rozpad koloniální soustavy po Druhé Svétové Válce = The collapse of the colonial system after the Second World War",
       "attribution": "David Rumsey Historical Map Collection",
