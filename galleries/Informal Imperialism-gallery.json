@@ -2016,6 +2016,183 @@
     {
       "@context": "http://iiif.io/api/presentation/2/context.json",
       "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~275361~90048568/manifest",
+      "label": "Panair of Brazil. In the Heaven of Three Continents. Bandeirante Fleet.",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~275361~90048568/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~275361~90048568/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Panair of Brazil. In the Heaven of Three Continents. Bandeirante Fleet.",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Eymonnet"
+                },
+                {
+                  "label": "Date",
+                  "value": "1947"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Panair of Brazil. In the Heaven of Three Continents. Bandeirante Fleet."
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Panair do Brasil"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Rio de Janeiro"
+                },
+                {
+                  "label": "Type",
+                  "value": "Separate Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "65"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "76"
+                },
+                {
+                  "label": "World Area",
+                  "value": "Europe"
+                },
+                {
+                  "label": "World Area",
+                  "value": "South America"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Pictorial map"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Airlines"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "Panair do Brasil. Nos Ceus de Tres Continentes. A Frota Bandeirante. (Panair of Brazil. In the Heaven of Three Continents. Bandeirante Fleet.)"
+                },
+                {
+                  "label": "List No",
+                  "value": "9609.000"
+                },
+                {
+                  "label": "Series No",
+                  "value": "1"
+                },
+                {
+                  "label": "Engraver or Printer",
+                  "value": "Maua-Rio"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Eymonnet"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1947"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Panair do Brasil. Nos Ceus de Tres Continentes. A Frota Bandeirante. (Panair of Brazil. In the Heaven of Three Continents. Bandeirante Fleet.)"
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "Shows air routes including South America, New York, Europe, and the Mediterranean. Mounted on linen. Liberal use of gold color."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "9609.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Separate Map"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "1"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "65"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "76"
+                },
+                {
+                  "label": "Image No",
+                  "value": "9609000.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/162/9609000.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Eymonnet"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~275361~90048568/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~275361~90048568/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~275361~90048568",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 14995,
+                    "height": 12818
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~275361~90048568/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~275361~90048568/list/luna"
+              ],
+              "width": 14995,
+              "height": 12818
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~275361~90048568"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
       "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~356060~90122960/manifest",
       "label": "Flight Information. Your BCPA (British Commonwealth Pacific Airlines) Flight Across the Pacific.",
       "attribution": "David Rumsey Historical Map Collection",
@@ -2921,6 +3098,183 @@
         "format": "image/png"
       },
       "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~272322~90046133"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~272449~90046214/manifest",
+      "label": "Air India route map (hand fan)",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~272449~90046214/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~272449~90046214/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Air India route map (hand fan)",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Air India"
+                },
+                {
+                  "label": "Date",
+                  "value": "1960"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Air India route map (hand fan)"
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Air India"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "India"
+                },
+                {
+                  "label": "Type",
+                  "value": "Separate Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "24"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "25"
+                },
+                {
+                  "label": "Scale 1",
+                  "value": "None shown"
+                },
+                {
+                  "label": "Note",
+                  "value": "Date estimated. Promotional rare paper hand fan 24x25, with wooden handle, 16 cm. Colored in gold, blue, and orange, with gold borders. Elaborate colored illustration on verso. Show Air India routes to five continents, to New York, Europe, East Africa, Asia and Australia."
+                },
+                {
+                  "label": "World Area",
+                  "value": "World"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Pictorial map"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Airlines"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "Air India route map (hand fan) . (Color illustration on verso)."
+                },
+                {
+                  "label": "List No",
+                  "value": "8187.000"
+                },
+                {
+                  "label": "Series No",
+                  "value": "1"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Air India"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1960"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Air India route map (hand fan) . (Color illustration on verso)."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "See note field above."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "8187.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Advertisement"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Separate Map"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "25"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "24"
+                },
+                {
+                  "label": "Image No",
+                  "value": "8187000.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/162/8187000.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Air India"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~272449~90046214/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~272449~90046214/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~272449~90046214",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 11392,
+                    "height": 8240
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~272449~90046214/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~272449~90046214/list/luna"
+              ],
+              "width": 11392,
+              "height": 8240
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~272449~90046214"
     }
   ]
 }
