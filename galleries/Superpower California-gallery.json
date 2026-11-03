@@ -1,0 +1,3963 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@type": "sc:Collection",
+  "@id": "https://iiif-gallery-builder.example.org/Superpower California",
+  "label": "Superpower California",
+  "items": [
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~296148~90067635/manifest",
+      "label": "Granata Nova et California",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~296148~90067635/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~296148~90067635/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Granata Nova et California",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Wytfliet, Corneille"
+                },
+                {
+                  "label": "Author",
+                  "value": "Magini, Giovanni Antonio"
+                },
+                {
+                  "label": "Date",
+                  "value": "1597"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Granata Nova et California"
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Francois Fabri"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Douay : Chez Francois Fabri"
+                },
+                {
+                  "label": "Type",
+                  "value": "Atlas Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "30"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "19"
+                },
+                {
+                  "label": "Scale 1",
+                  "value": "16,500,000"
+                },
+                {
+                  "label": "Note",
+                  "value": "Uncolored engraved double page map of California, Baja California the Southwestern U.S. Includes decorative title cartouche. Shows the coast of California, cities, towns, landmarks, rivers and mountains. Relief shown pictorially."
+                },
+                {
+                  "label": "Reference",
+                  "value": "Philip Burden, The Mapping of North America, p. 125-132."
+                },
+                {
+                  "label": "World Area",
+                  "value": "North America"
+                },
+                {
+                  "label": "Country",
+                  "value": "Mexico"
+                },
+                {
+                  "label": "State/Province",
+                  "value": "California"
+                },
+                {
+                  "label": "State/Province",
+                  "value": "U.S. West"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "Granata Nova et California. (to accompany) Histoire universelle des Indes occidentales et orientales, et de la conversion des Indiens : divisee en trois parties par Cornille Wytfliet & Anthoine Magin & autres historiens. Premiere Partie. A Douay, Chez Francois Fabri, l'An 1611."
+                },
+                {
+                  "label": "List No",
+                  "value": "11622.048"
+                },
+                {
+                  "label": "Series No",
+                  "value": "48"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Wytfliet, Corneille"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Magini, Giovanni Antonio"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1611"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Histoire universelle des Indes occidentales et orientales, et de la conversion des Indiens : divisee en trois parties par Cornille Wytfliet & Anthoine Magin & autres historiens. Premiere Partie. A Douay, Chez Francois Fabri, l'An 1611."
+                },
+                {
+                  "label": "Pub Reference",
+                  "value": "Philip Burden, The Mapping of North America, p. 125-132."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "Wyfliet's atlas is the first atlas devoted entirely to maps of the Americas, (the New world), was first published in Latin as Descriptionis Ptolemaicae augmentum in 1597, and later published in Latin editions in 1598 and 1603. Then translated into French and combined with the work of Magini’s description of the West and East Indies and Japan, published under the present title in 1605 and further editions published in 1607 and 1611. This is 3rd edition of “Histoire Universelle des Indes occidentales et orientales ...” in French: by Cornille Wytfliet & Anthoine Magin & other historians, divided into 2 books and in three parts, published at Douay, at Francois Fabri, in 1611. Part 1: Histoire universelle des Indes occidentales: Universal History of the West Indies. Part 2: Histoire universelle des Indes orientales : Universal History of the East Indies. Part 3: La suite de l'Histoire des Indes orientales, de la conversion des Indies: The continuation of the history of the East Indies, the conversion of the Indians, each part with engraved decorative title page. Atlas includes indexes, tables and 23 double-page engraved maps. All maps dated 1597, except Canada, 1607; Virginia, 1611; and Limes occidentale, 1607. The first map (a double-hemisphere world map) is based on Mercator's influential map of 1587. Then follows maps of South America (the north coast of South America with the Caribbean islands, Hispaniola, Cuba and Jamaica, Chile, Peru, Brazil, Colombia, Central America, and maps of North America. In addition to the large double-page maps there are also four small maps on one double-page sheet in Magini's supplement showing the East Indies, Japan, China and the Philippines. Bound in full calf, spine gilt with title “Histoire des Indes” in gilt on spine."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "11622.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "World Atlas"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "23"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "31"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "20"
+                },
+                {
+                  "label": "Image No",
+                  "value": "11622048.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/171/11622048.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Wytfliet, Corneille; Magini, Giovanni Antonio"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~296148~90067635/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~296148~90067635/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~296148~90067635",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 8679,
+                    "height": 6407
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~296148~90067635/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~296148~90067635/list/luna"
+              ],
+              "width": 8679,
+              "height": 6407
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~296148~90067635"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~287250~90059685/manifest",
+      "label": "The North part of America",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~287250~90059685/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~287250~90059685/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "The North part of America",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Date",
+                  "value": "1625"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "The North part of America"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Separate Map"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Briggs, Henry, 1561-1630, Elstracke, Renold, active 1590-1630, Purchas, Samuel, 1577?-1626"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~287250~90059685/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~287250~90059685/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~287250~90059685",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 9148,
+                    "height": 7864
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~287250~90059685/canvas/c1"
+                }
+              ],
+              "width": 9148,
+              "height": 7864
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~287250~90059685"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~299062~90070085/manifest",
+      "label": "Passage Par Terre A La Californie Decouvert par le Rev Pere Eusebe-Francois Kino",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~299062~90070085/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~299062~90070085/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Passage Par Terre A La Californie Decouvert par le Rev Pere Eusebe-Francois Kino",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Kino, Eusebio Francisco Kino (1645–1711)"
+                },
+                {
+                  "label": "Author",
+                  "value": "Duhalde, Jean Baptiste"
+                },
+                {
+                  "label": "Author",
+                  "value": "Picolo, Francesco Maria"
+                },
+                {
+                  "label": "Author",
+                  "value": "Inselin"
+                },
+                {
+                  "label": "Date",
+                  "value": "1705"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Passage Par Terre A La Californie Decouvert par le Rev Pere Eusebe-Francois Kino"
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Nicolas le Clerc"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Paris"
+                },
+                {
+                  "label": "Type",
+                  "value": "Book Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "25"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "22"
+                },
+                {
+                  "label": "Scale 1",
+                  "value": "5,046,409"
+                },
+                {
+                  "label": "Note",
+                  "value": "Folded copper engraved map, on sheet 24.5x21.5, with 40+1 pages of explanatory text, extends south on the peninsula to Loreto and Cinaloa and north to Colorado River, showing Kino's discoveries, place names, settlements, rivers and mountains. Relief shown pictorially."
+                },
+                {
+                  "label": "Country",
+                  "value": "Mexico"
+                },
+                {
+                  "label": "State/Province",
+                  "value": "California"
+                },
+                {
+                  "label": "Region",
+                  "value": "Baja California (Mexico)"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Historical"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "Passage Par Terre A La Californie Decouvert par le Rev Pere Eusebe-Francois Kino Jesuite depuis 1698 jusqua 1701 ou l'on voit encore les Nouvelles Missions des PP. de la Compage. de Jesus. Gravee par Inseln. (to accompany) Lettres edifiantes et curieuses ecrites des missions etrangeres par quelques Missionnaires de la Compagnie de Jesus: V. Recueil. Paris, Chez Nicolas le Clerc, M. DCCv (1705). Avex approbation & privilege du Roy."
+                },
+                {
+                  "label": "List No",
+                  "value": "11561.004"
+                },
+                {
+                  "label": "Series No",
+                  "value": "4"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Kino, Eusebio Francisco Kino (1645–1711)"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Duhalde, Jean Baptiste"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Picolo, Francesco Maria"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Inselin"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1705"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Lettres edifiantes et curieuses ecrites des missions etrangeres par quelques Missionnaires de la Compagnie de Jesus: V. Recueil. Paris, Chez Nicolas le Clerc, M. DCCv (1705). Avex approbation & privilege du Roy. (with map) Passage Par Terre A La Californie Decouvert par le Rev Pere Eusebe-Francois Kino Jesuite depuis 1698 jusqua 1701 ou l'on voit encore les Nouvelles Missions des PP. de la Compage. de Jesus. Gravee par Inseln."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "7th. edition, 1884 printing of new and improved Sohr-Berghaus Hand atlas of the world. New revision by F. Handtke. Glogau. Published by Carl Flemming, printed in 1878, 1879, 1880, 1881, 1883, 1884, 1886. The 7th. comprehensive edition includes 100 chrome lithographs mostly outline, partially colored or some full colored maps, some double-sheet, includes general maps, maps of European countries, regional maps of other European countries, maps for the other continents; and regional maps for the other continents. Maps are not dated; publication year only on title page; name of cartographer on 14 out of 100 maps, name of engraver on 1 map only. Maps showing seas, bays, ports, rivers, islands, mountains, cities, townships, villages, roads, railroads, telegraph cables, forts, mines, canals etc., including explanation, legend, tables and color coded key to colonies and European possessions. Prime meridians are Ferro, Paris and Greenwich. Relief shown by hachures. Bound into half leather brown covered boards with title “Sohr-Berghaus Hand atlas der neuen Erdbeschreibung in 100 blattern.” stamped on the front cover in gold. The name of Sohr is a pseudonym, probably of the editor of the atlas, F. (Friedrich) Handtke. The famous geographer Heinrich Berghaus had made a minor contribution to the atlas back in 1847. Carl Flemming, publisher of the atlas, used this to mention Berghaus' name prominently on the atlas title page. Berghaus protested against this abuse of his name, but the atlas has kept its name of Sohr-Berghaus ever since."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "11561.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Book Map"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "1"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "16"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "10"
+                },
+                {
+                  "label": "Image No",
+                  "value": "11561004.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/171/11561004.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Kino, Eusebio Francisco Kino (1645–1711); Duhalde, Jean Baptiste; Picolo, Francesco Maria; Inselin"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~299062~90070085/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~299062~90070085/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~299062~90070085",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 3618,
+                    "height": 4045
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~299062~90070085/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~299062~90070085/list/luna"
+              ],
+              "width": 3618,
+              "height": 4045
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~299062~90070085"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~266391~90040762/manifest",
+      "label": "Map of Sacramento River and Bay of San Pablo with Harbor of San Francisco.",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~266391~90040762/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~266391~90040762/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Map of Sacramento River and Bay of San Pablo with Harbor of San Francisco.",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Wilkes, Charles"
+                },
+                {
+                  "label": "Date",
+                  "value": "1841"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Map of Sacramento River and Bay of San Pablo with Harbor of San Francisco."
+                },
+                {
+                  "label": "Publisher",
+                  "value": "(U.S. Navy)"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "(Washington D.C.)"
+                },
+                {
+                  "label": "Type",
+                  "value": "Chart Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "61"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "41"
+                },
+                {
+                  "label": "Scale 1",
+                  "value": "300,000"
+                },
+                {
+                  "label": "Note",
+                  "value": "This is a very rare separate issue of this map. It is unnumbered. Numbered issues were printed in the 1858 Atlas Vol. II of Vol. XXIII of the Wilkes Expedition publications, Hydrography. of which only 100 copies were printed. Inset map is based on Beechy's survey of the harbor. The 1858 publication date is estimated only, this map might have been issued earlier, although at this time it is impossible to know. The map is dated 1841 and was likely drawn then and based on surveys at that time."
+                },
+                {
+                  "label": "Region",
+                  "value": "San Francisco Bay"
+                },
+                {
+                  "label": "Region",
+                  "value": "Sacramento River"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Nautical Charts"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Navigation"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "Map of Sacramento River and Bay of San Pablo with Harbor of San Francisco by the U.S. Ex. Ex. (Exploring Expedition) 1841."
+                },
+                {
+                  "label": "List No",
+                  "value": "7961.000"
+                },
+                {
+                  "label": "Series No",
+                  "value": "1"
+                },
+                {
+                  "label": "Engraver or Printer",
+                  "value": "Sherman & Smith"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Wilkes, Charles"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1858"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Map of Sacramento River and Bay of San Pablo with Harbor of San Francisco by the U.S. Ex. Ex. (Exploring Expedition) 1841."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "7961.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Chart Map"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "1"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "61"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "41"
+                },
+                {
+                  "label": "Image No",
+                  "value": "7961000.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/136/7961000.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Wilkes, Charles"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~266391~90040762/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~266391~90040762/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~266391~90040762",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 11836,
+                    "height": 15826
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~266391~90040762/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~266391~90040762/list/luna"
+              ],
+              "width": 11836,
+              "height": 15826
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~266391~90040762"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~1788~210001/manifest",
+      "label": "Carte De La Cote De L'Amerique.",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~1788~210001/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~1788~210001/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Carte De La Cote De L'Amerique.",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Duflot de Mofras, Eugene"
+                },
+                {
+                  "label": "Date",
+                  "value": "1844"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Carte De La Cote De L'Amerique."
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Arthus Bertrand"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Paris"
+                },
+                {
+                  "label": "Type",
+                  "value": "Atlas Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "54"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "89"
+                },
+                {
+                  "label": "Scale 1",
+                  "value": "5,555,555"
+                },
+                {
+                  "label": "Note",
+                  "value": "Map in outline color with copious notes throughout California. Mines, ports, Indian settlements, forts, and missions are shown."
+                },
+                {
+                  "label": "Reference",
+                  "value": "P1457; Wheat 474; Harlow 28, 29; Verner 43; Howes D542 (\"c\"); Streeter 3323; Graff 1169; Sabin 21144."
+                },
+                {
+                  "label": "Country",
+                  "value": "Mexico"
+                },
+                {
+                  "label": "State/Province",
+                  "value": "California"
+                },
+                {
+                  "label": "State/Province",
+                  "value": "Oregon"
+                },
+                {
+                  "label": "State/Province",
+                  "value": "U.S. West"
+                },
+                {
+                  "label": "State/Province",
+                  "value": "Washington"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "Carte De La Cote De L'Amerique Sur L'Ocean Pacifique Septentrional Le Territoire De L'Oregon, Les Californies, La Mer Vermeille, Partie des Territoires de la Compagnie de la Baie d'Hudson, Et De L'Amerique Russe. Dressee par Mr. Duflot de Mofras, Attache a la Legation de France a Mexico; Pour servir a l'intelligence de son Voyage d'exploration Publie Par Ordre Du Roi, sous les Auspices De Mr. Le Marechal Duc De Dalmatie, Mr. Le Ministre Des Affaires Etrangeres. Paris, 1844. Le plan grave par Jacobs. L'ecriture gravee par Hacq. Publie par Arthus Bertrand."
+                },
+                {
+                  "label": "List No",
+                  "value": "4119.001"
+                },
+                {
+                  "label": "Series No",
+                  "value": "5"
+                },
+                {
+                  "label": "Engraver or Printer",
+                  "value": "Hacq."
+                },
+                {
+                  "label": "Engraver or Printer",
+                  "value": "Jacobs, S."
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Duflot de Mofras, Eugene"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1844"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Exploration Du Territoire De L'Oregon, Des Californies Et De La Mer Vermeille, Executee Pendant Les Annees 1840, 1841 Et 1842, Par M. Duflot De Mofras, Attache A La Legation De France A Mexico. Ouvrage Publie Par Ordre Du Roi, Sous Les Auspices De M. Le Marechal Soult, Duc De Dalmatie, President du Conseil, Et De M. Le Ministre Des Affaires Etrangeres. Tome Premier. Paris, Arthus Bertrand, Editeur, Libraire De La Societe De Geographie, Rue Hautefeuille, No. 23. 1844. Paris. - Typographie de Firmin Didot Freres, rue Jacob, 56 ... Tome Second ... Atlas (with map) Carte De La Cote De L'Amerique Sur L'Ocean Pacifique Septentrional comprenant Le Territoire De L'Oregon, Les Californies, La Mer Vermeille ..."
+                },
+                {
+                  "label": "Pub Reference",
+                  "value": "P1457; Wheat 474; Harlow 28, 29; Verner 43; Howes D542 (\"c\"); Streeter 3323; Graff 1169; Sabin 21144."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "Considered to be the best book on California prior to the American occupation. Wheat calls the large map \"a landmark...It made these western regions known in European official circles...his highly original map has much to commend it.\" Wheat neglects to mention the similarities between this map and the John Arrowsmith Map of British North America, 1837 edition. While not a copy of the Arrowsmith, it clearly followed the Arrowsmith map in most areas. The atlas volume contains, in addition to the large map, plans of ports from Acapulco to the Aleutians, including San Diego, Santa Barbara, Monterey, San Francisco, and the mouth of the Columbia. The chart of San Francisco Bay is based on Beechey's chart of 1833, improved by de Mofras' own explorations, particularly in the north bay. This copy belonged to the Prince of Coburg, with a presentation inscription from the author. The large map is hand painted in outline color, all others are without color. Covers of the volumes are half leather dark green cloth covered boards with a crown embossed on the front in gilt. The title \"De Mofras. Mexique. Californie. Oregon. 1\" is stamped in gilt on the spine of volume one, \"... 2\" on volume two, and \"...Atlas\" on the atlas. Rare."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "4119.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Exploration Book"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "22"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "53"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "35"
+                },
+                {
+                  "label": "Image No",
+                  "value": "4119001"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D0021/4119001.sid target=_blank>Full Image Download in MrSID Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Duflot de Mofras, Eugene"
+                },
+                {
+                  "label": "Collection",
+                  "value": "Rumsey Collection"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~1788~210001/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~1788~210001/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~1788~210001",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 7845,
+                    "height": 12553
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~1788~210001/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~1788~210001/list/luna"
+              ],
+              "width": 7845,
+              "height": 12553
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~1788~210001"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~240675~5512312/manifest",
+      "label": "Vue du Port De Monterey Capitale de la Nouvelle Californie.",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~240675~5512312/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~240675~5512312/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Vue du Port De Monterey Capitale de la Nouvelle Californie.",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Duflot de Mofras, Eugene"
+                },
+                {
+                  "label": "Date",
+                  "value": "1844"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Vue du Port De Monterey Capitale de la Nouvelle Californie."
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Arthus Bertrand"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Paris"
+                },
+                {
+                  "label": "Type",
+                  "value": "View"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "11"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "15"
+                },
+                {
+                  "label": "Reference",
+                  "value": "P1457; Wheat 474; Harlow 28, 29; Verner 43; Howes D542 (\"c\"); Streeter 3323; Graff 1169; Sabin 21144."
+                },
+                {
+                  "label": "World Area",
+                  "value": "Central America"
+                },
+                {
+                  "label": "Country",
+                  "value": "Canada"
+                },
+                {
+                  "label": "Country",
+                  "value": "Mexico"
+                },
+                {
+                  "label": "State/Province",
+                  "value": "California"
+                },
+                {
+                  "label": "State/Province",
+                  "value": "Oregon"
+                },
+                {
+                  "label": "State/Province",
+                  "value": "Washington"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "Vue du Port De Monterey Capitale de la Nouvelle Californie."
+                },
+                {
+                  "label": "List No",
+                  "value": "4119.017"
+                },
+                {
+                  "label": "Series No",
+                  "value": "25"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Duflot de Mofras, Eugene"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1844"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Exploration Du Territoire De L'Oregon, Des Californies Et De La Mer Vermeille, Executee Pendant Les Annees 1840, 1841 Et 1842, Par M. Duflot De Mofras, Attache A La Legation De France A Mexico. Ouvrage Publie Par Ordre Du Roi, Sous Les Auspices De M. Le Marechal Soult, Duc De Dalmatie, President du Conseil, Et De M. Le Ministre Des Affaires Etrangeres. Tome Premier. Paris, Arthus Bertrand, Editeur, Libraire De La Societe De Geographie, Rue Hautefeuille, No. 23. 1844. Paris. - Typographie de Firmin Didot Freres, rue Jacob, 56 ... Tome Second ... Atlas (with map) Carte De La Cote De L'Amerique Sur L'Ocean Pacifique Septentrional comprenant Le Territoire De L'Oregon, Les Californies, La Mer Vermeille ..."
+                },
+                {
+                  "label": "Pub Reference",
+                  "value": "P1457; Wheat 474; Harlow 28, 29; Verner 43; Howes D542 (\"c\"); Streeter 3323; Graff 1169; Sabin 21144."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "Considered to be the best book on California prior to the American occupation. Wheat calls the large map \"a landmark...It made these western regions known in European official circles...his highly original map has much to commend it.\" Wheat neglects to mention the similarities between this map and the John Arrowsmith Map of British North America, 1837 edition. While not a copy of the Arrowsmith, it clearly followed the Arrowsmith map in most areas. The atlas volume contains, in addition to the large map, plans of ports from Acapulco to the Aleutians, including San Diego, Santa Barbara, Monterey, San Francisco, and the mouth of the Columbia. The chart of San Francisco Bay is based on Beechey's chart of 1833, improved by de Mofras' own explorations, particularly in the north bay. This copy belonged to the Prince of Coburg, with a presentation inscription from the author. The large map is hand painted in outline color, all others are without color. Covers of the volumes are half leather dark green cloth covered boards with a crown embossed on the front in gilt. The title \"De Mofras. Mexique. Californie. Oregon. 1\" is stamped in gilt on the spine of volume one, \"... 2\" on volume two, and \"...Atlas\" on the atlas. Rare."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "4119.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Exploration Book"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "22"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "53"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "35"
+                },
+                {
+                  "label": "Image No",
+                  "value": "4119017"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D5005/4119017.sid target=_blank>Full Image Download in MrSID Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Duflot de Mofras, Eugene"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~240675~5512312/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~240675~5512312/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~240675~5512312",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 4716,
+                    "height": 3068
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~240675~5512312/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~240675~5512312/list/luna"
+              ],
+              "width": 4716,
+              "height": 3068
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~240675~5512312"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~210~20057/manifest",
+      "label": "A Map Of The United States Of Mexico.",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~210~20057/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~210~20057/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "A Map Of The United States Of Mexico.",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Tanner, Henry S."
+                },
+                {
+                  "label": "Date",
+                  "value": "1847"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "A Map Of The United States Of Mexico."
+                },
+                {
+                  "label": "Publisher",
+                  "value": "H.S. Tanner"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Philadelphia"
+                },
+                {
+                  "label": "Type",
+                  "value": "Pocket Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "58"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "72"
+                },
+                {
+                  "label": "Scale 1",
+                  "value": "5,195,520"
+                },
+                {
+                  "label": "Note",
+                  "value": "This edition adds an inset map of \"Harbor of Vera Cruz,\" and \"Dates of Battles\" listing seven battles of the Mexican War beginning with Palo Alto May 8, 1846 and ending with Vera Cruz, March 22 to 27, 1847. Gen Kearny's route from Ft. Leavenworth to Santa Fe is shown and labeled, along with other routes of battle (unlabeled) running from Texas south to La Puebla, Mexico. This is the last edition published by Tanner, according to Martin. It is the best edition in terms of showing the events of the Mexican War. See our 1846, third edition, #2822. Folded into dark brown cloth covers 15.5x10 with \"Tanner's Travelling Map of Mexico\" stamped in gold. Full color."
+                },
+                {
+                  "label": "Reference",
+                  "value": "Martin/Ristow p207-8 (A la Carte)."
+                },
+                {
+                  "label": "Country",
+                  "value": "Mexico"
+                },
+                {
+                  "label": "State/Province",
+                  "value": "Texas"
+                },
+                {
+                  "label": "Event",
+                  "value": "Mexican U.S. War"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "A Map Of The United States Of Mexico, As organized and defined by the several Acts of the Congress of that Republic. Constructed from a great variety of Printed and Manuscript Documents by H.S. Tanner. Fifth edition, 1847. Published by H.S. Tanner. Entered ... 1846, by H.S. Tanner ... New York. (inset) Map Of The Roads &c. From Vera Cruz & Alvarado To Mexico. (inset) Harbor Of Vera Cruz."
+                },
+                {
+                  "label": "List No",
+                  "value": "5158.001"
+                },
+                {
+                  "label": "Series No",
+                  "value": "2"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Tanner, Henry S."
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1847"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "A Map Of The United States Of Mexico, As organized and defined by the several Acts of the Congress of that Republic. Constructed from a great variety of Printed and Manuscript Documents by H.S. Tanner. Fifth edition, 1847. Published by H.S. Tanner. Entered ... 1846, by H.S. Tanner ... New York. (inset) Map Of The Roads &c. From Vera Cruz & Alvarado To Mexico. (inset) Harbor Of Vera Cruz."
+                },
+                {
+                  "label": "Pub Reference",
+                  "value": "Martin/Ristow p207-8 (A la Carte)."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "See note field above."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "5158.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Pocket Map"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "1"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "16"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "10"
+                },
+                {
+                  "label": "Image No",
+                  "value": "5158001"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D0002/5158001.sid target=_blank>Full Image Download in MrSID Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Tanner, Henry S."
+                },
+                {
+                  "label": "Collection",
+                  "value": "Rumsey Collection"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~210~20057/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~210~20057/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~210~20057",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 9401,
+                    "height": 7652
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~210~20057/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~210~20057/list/luna"
+              ],
+              "width": 9401,
+              "height": 7652
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~210~20057"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~3235~430110/manifest",
+      "label": "Map of the Valley of the Sacramento including the Gold Region.",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~3235~430110/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~3235~430110/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Map of the Valley of the Sacramento including the Gold Region.",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Bidwell, John, 1819-1900"
+                },
+                {
+                  "label": "Author",
+                  "value": "Larkin, Thomas Oliver, 1802-1858"
+                },
+                {
+                  "label": "Date",
+                  "value": "1848"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Map of the Valley of the Sacramento including the Gold Region."
+                },
+                {
+                  "label": "Publisher",
+                  "value": "J.H. Bufford & Co."
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "N.P."
+                },
+                {
+                  "label": "Type",
+                  "value": "Case Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "52"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "44"
+                },
+                {
+                  "label": "Note",
+                  "value": "Escala de 15 Leguas Spanish (linear scale). Lithograph, 21 3/8\"x 17 1/4\", full color. Scale about ---. Folded in cloth case, 5\"x 3 1/4\", blind stamped, \"Gold Region\" in gilt on front cover; on verso of front cover, printed paper label, in gilt, reading, \"A Correct Survey of the Gold Region California.\" The map shows Ranchos in the Central Valley and along the American river has \"Gold Region\" on both sides. Signature in ink on verso front cover, \"Stickney & Thaxter\". Contained in red leather drop case, gilt trim, title in gilt on spine. Original in Warren Heckrotte Collection, which is the source of description and notes."
+                },
+                {
+                  "label": "Reference",
+                  "value": "Wheat, C.I. Maps of the Calif. gold region, 49 (reproduction); Wheat. 25 California Maps, 4; Streeter 2526 (reproduction)"
+                },
+                {
+                  "label": "State/Province",
+                  "value": "California"
+                },
+                {
+                  "label": "Region",
+                  "value": "Sacramento River Valley (Calif.)"
+                },
+                {
+                  "label": "Event",
+                  "value": "California Gold Rush"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "Map of the Valley of the Sacramento including the Gold Region. This map is a correct tracing of the map of Bidwell, Land Surveyor, by Thos. O. Larkin Esq: late Consul of the U.S. for California; and by him stated to be the best reference in California. Entered according to act of Congress in the year 1848 by J.H. Bufford & Co. in the Clerks office for the District Court of Massachusetts. Table of Distances (distances by sea to California and points in between)"
+                },
+                {
+                  "label": "List No",
+                  "value": "5583.000"
+                },
+                {
+                  "label": "Series No",
+                  "value": "1"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Bidwell, John, 1819-1900"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Larkin, Thomas Oliver, 1802-1858"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1848"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Map of the Valley of the Sacramento including the Gold Region. This map is a correct tracing of the map of Bidwell, Land Surveyor, by Thos. O. Larkin Esq: late Consul of the U.S. for California; and by him stated to be the best reference in California. Entered according to act of Congress in the year 1848 by J.H. Bufford & Co. in the Clerks office for the District Court of Massachusetts. Table of Distances (distances by sea to California and points in between)"
+                },
+                {
+                  "label": "Pub Reference",
+                  "value": "Wheat, C.I. Maps of the Calif. gold region, 49 (reproduction); Wheat. 25 California Maps, 4; Streeter 2526 (reproduction)"
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "See note field above."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "5583.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Case Map"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "1"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "52"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "44"
+                },
+                {
+                  "label": "Image No",
+                  "value": "5583000"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D0043/5583000.sid target=_blank>Full Image Download in MrSID Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Bidwell, John, 1819-1900 ; Larkin, Thomas Oliver, 1802-1858"
+                },
+                {
+                  "label": "Collection",
+                  "value": "Rumsey Collection"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~3235~430110/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~3235~430110/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~3235~430110",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 5841,
+                    "height": 7180
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~3235~430110/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~3235~430110/list/luna"
+              ],
+              "width": 5841,
+              "height": 7180
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~3235~430110"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~222688~5505777/manifest",
+      "label": "Map Of Mexico, Texas, Old And New California, And Yucatan",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~222688~5505777/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~222688~5505777/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Map Of Mexico, Texas, Old And New California, And Yucatan",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "House & Brown"
+                },
+                {
+                  "label": "Date",
+                  "value": "1849"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Map Of Mexico, Texas, Old And New California, And Yucatan"
+                },
+                {
+                  "label": "Publisher",
+                  "value": "House & Brown"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Hartford"
+                },
+                {
+                  "label": "Type",
+                  "value": "Separate Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "47"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "60"
+                },
+                {
+                  "label": "Scale 1",
+                  "value": "7,286,400"
+                },
+                {
+                  "label": "Note",
+                  "value": "This map is similar to Mitchell's \"Map of Mexico\" but it is focused on the California Gold Region, which has been colored bright yellow. Because most of the California cartography is closer to 1847 when the map was copyrighted, Wheat says \"this is an example of the rather common practice of 'doctoring up' old maps for sale to the gold-seekers.\" Full color map. Includes text, references, table of distances, and view of Castle of San Juan d'Ulloa. Shows locations of some battlefields in the U.S. War with Mexico. Relief shown by hachures. Prime meridians are Washington, D.C. and Greenwich."
+                },
+                {
+                  "label": "Reference",
+                  "value": "Wheat Gold 97."
+                },
+                {
+                  "label": "Country",
+                  "value": "Mexico"
+                },
+                {
+                  "label": "State/Province",
+                  "value": "California"
+                },
+                {
+                  "label": "State/Province",
+                  "value": "Texas"
+                },
+                {
+                  "label": "Event",
+                  "value": "Mexican U.S. War"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "Map Of Mexico, Texas, Old And New California, And Yucatan. Showing the principal Cities and Towns, Travelling Routes &c. Hartford: Published By House & Brown. 1849. Entered ... 1847 by House & Brown ... (inset map) Plan Of Operations At The Battle Of Monterey On The 21st, 22nd, & 23rd Sept. 1846. (inset) Map Of Vera Cruz And San Juan De Ulloa. (Lith. Of E.B.) & E.C. Kellogg, Hartford, Conn."
+                },
+                {
+                  "label": "List No",
+                  "value": "4651.000"
+                },
+                {
+                  "label": "Series No",
+                  "value": "1"
+                },
+                {
+                  "label": "Engraver or Printer",
+                  "value": "Kellogg, E.B. & E.C."
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "House & Brown"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1849"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Map Of Mexico, Texas, Old And New California, And Yucatan. Showing the principal Cities and Towns, Travelling Routes &c. Hartford: Published By House & Brown. 1849. Entered ... 1847 by House & Brown ... (inset map) Plan Of Operations At The Battle Of Monterey On The 21st, 22nd, & 23rd Sept. 1846. (inset) Map Of Vera Cruz And San Juan De Ulloa. (Lith. Of E.B.) & E.C. Kellogg, Hartford, Conn."
+                },
+                {
+                  "label": "Pub Reference",
+                  "value": "Wheat Gold 97."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "This map is similar to Mitchell's \"Map of Mexico\" but it is focused on the California Gold Region, which has been colored bright yellow. Because most of the California cartography is closer to 1847 when the map was copyrighted, Wheat says \"this is an example of the rather common practice of 'doctoring up' old maps for sale to the gold-seekers.\""
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "4651.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Separate Map"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "47"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "60"
+                },
+                {
+                  "label": "Image No",
+                  "value": "4651000"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D5005/4651000.sid target=_blank>Full Image Download in MrSID Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "House & Brown"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~222688~5505777/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~222688~5505777/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~222688~5505777",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 8233,
+                    "height": 6166
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~222688~5505777/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~222688~5505777/list/luna"
+              ],
+              "width": 8233,
+              "height": 6166
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~222688~5505777"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~221127~5505133/manifest",
+      "label": "The World, on Mercator's Projection",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~221127~5505133/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~221127~5505133/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "The World, on Mercator's Projection",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Burr, David H"
+                },
+                {
+                  "label": "Author",
+                  "value": "Haven, J."
+                },
+                {
+                  "label": "Date",
+                  "value": "1850"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "The World, on Mercator's Projection"
+                },
+                {
+                  "label": "Publisher",
+                  "value": "J. Haven"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Boston"
+                },
+                {
+                  "label": "Type",
+                  "value": "Separate Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "53"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "59"
+                },
+                {
+                  "label": "Scale 1",
+                  "value": "75,000,000"
+                },
+                {
+                  "label": "Note",
+                  "value": "Appears to be a reissue of earlier Burr map. This map was probably published by Burr c1842 (Wilkes' track prominently displayed, Oregon boundary not settled in original map) and then used by Haven, with added insets of the RR route, and by cutting the map down the middle of Asia to put North America in the center (see dateline joint). California is colored yellow (no mention of gold other than this hint) and the Gila River boundary is drawn in red (on his copy Wheat says that California is shown as part of Mexico). See the James B. Moore map of 1850 for a similar promotion of the U.S. as the new \"center\" of the Europe/Asia trade, using the proposed transcontinental railroad as the link. In outline color. Includes text, explanatory keys and table of distances."
+                },
+                {
+                  "label": "Reference",
+                  "value": "Wheat Gold 158."
+                },
+                {
+                  "label": "World Area",
+                  "value": "World"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "The World, on Mercator's Projection: By David H. Burr. Showing the different Routes to California, and distance by each; Routes of different Navigators, Route of the contemplated Pacific R.Road, Distances to China, Europe, &c. Published by J. Haven, 86 State St. Boston; 1850. Entered ... 1850 by John Hansen ... Massachusetts. (with) two inset maps: Map of the Nicaragaua Route and A Map of the Proposed Rail Road from St. Louis To The Bay Of St. Francisco, Compiled from the Maps and Reports of Col. Fremont, by W.L. Dearborn, Civil Engineer."
+                },
+                {
+                  "label": "List No",
+                  "value": "0112.000"
+                },
+                {
+                  "label": "Series No",
+                  "value": "1"
+                },
+                {
+                  "label": "Engraver or Printer",
+                  "value": "Dearborn, W.L."
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Burr, David H"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Haven, J."
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1850"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "The World, on Mercator's Projection: By David H. Burr. Showing the different Routes to California, and distance by each; Routes of different Navigators, Route of the contemplated Pacific R.Road, Distances to China, Europe, &c. Published by J. Haven, 86 State St. Boston; 1850. Entered ... 1850 by John Hansen ... Massachusetts. (with) two inset maps: Map of the Nicaragaua Route and A Map of the Proposed Rail Road from St. Louis To The Bay Of St. Francisco, Compiled from the Maps and Reports of Col. Fremont, by W.L. Dearborn, Civil Engineer."
+                },
+                {
+                  "label": "Pub Reference",
+                  "value": "Wheat Gold 158."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "Appears to be a reissue of earlier Burr map. This map was probably published by Burr c1842 (Wilkes' track prominently displayed, Oregon boundary not settled in original map) and then used by Haven, with added insets of the RR route, and by cutting the map down the middle of Asia to put North America in the center (see dateline joint). California is colored yellow (no mention of gold other than this hint) and the Gila River boundary is drawn in red (on his copy Wheat says that California is shown as part of Mexico). See the James B. Moore map of 1850 for a similar promotion of the U.S. as the new \"center\" of the Europe/Asia trade, using the proposed transcontinental railroad as the link. In outline color."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "0112.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Separate Map"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "53"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "59"
+                },
+                {
+                  "label": "Image No",
+                  "value": "0112000"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D5005/0112000.sid target=_blank>Full Image Download in MrSID Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Burr, David H; Haven, J."
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~221127~5505133/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~221127~5505133/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~221127~5505133",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 7332,
+                    "height": 6786
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~221127~5505133/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~221127~5505133/list/luna"
+              ],
+              "width": 7332,
+              "height": 6786
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~221127~5505133"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~240858~5512421/manifest",
+      "label": "General Chart, Embracing Surveys of the Bays of San Francisco and San Pablo.",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~240858~5512421/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~240858~5512421/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "General Chart, Embracing Surveys of the Bays of San Francisco and San Pablo.",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Ringgold, Cadwalader."
+                },
+                {
+                  "label": "Date",
+                  "value": "1851"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "General Chart, Embracing Surveys of the Bays of San Francisco and San Pablo."
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Jno. T. Towers"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Washington"
+                },
+                {
+                  "label": "Type",
+                  "value": "Chart Map"
+                },
+                {
+                  "label": "Type",
+                  "value": "Pocket Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "51"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "76"
+                },
+                {
+                  "label": "Scale 1",
+                  "value": "246,000"
+                },
+                {
+                  "label": "Note",
+                  "value": "Shows specific locations and general layouts of Vallejo, Benicia, Martinez, New York (Antioch, California), Sacramento, Boston (California), Stockton, Stanislaus City, and San Joaquin. River distances shown in small table."
+                },
+                {
+                  "label": "Reference",
+                  "value": "Cowen p533; cf Howes R303."
+                },
+                {
+                  "label": "Region",
+                  "value": "Sacramento-San Joaquin Delta"
+                },
+                {
+                  "label": "Region",
+                  "value": "Farallon Islands"
+                },
+                {
+                  "label": "Region",
+                  "value": "San Francisco Bay"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "General Chart, Embracing Surveys of the Bays of San Francisco and San Pablo, Straits of Carquines and Suisun Bay, and the Sacramento and San Joaquin Rivers to the Cities of Sacramento and San Joaquin, California, by Cadwalader Ringgold, Commmander, U.S. Navy, 1850. Constructed, Projected and Drawn by Fred D. Stuart, Hydrographer, late of the U.S. Ex Ex, Assisted by Chas Everett Jr., Draughtman. Executed at the request of the undersigned citizens of California ... and Inscribed to William H. Aspiwall Esq., City of New Your."
+                },
+                {
+                  "label": "List No",
+                  "value": "2590.005"
+                },
+                {
+                  "label": "Series No",
+                  "value": "5"
+                },
+                {
+                  "label": "Engraver or Printer",
+                  "value": "Stuart, Fred D."
+                },
+                {
+                  "label": "Engraver or Printer",
+                  "value": "Everett, Chas. Jr."
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Ringgold, Cadwalader."
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1851"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "A Series of Charts, With Sailing Directions, Embracing Surveys of the Farallones, Entrance to the Bay of San Francisco ... State of California. By Cadwalader Ringgold, Commander, U.S. Navy. Washington: Printed by Jno. T. Towers, 1851. (on verso) Entered ... 1851, by Cadwalader Ringgold ... District of Columbia."
+                },
+                {
+                  "label": "Pub Reference",
+                  "value": "Cowen p533; cf Howes R303."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "1st edition, Cowen gives precedence. Issued before the larger edition of 1851 (see our 4658.000) , this is in the form of a pocket map with only the uncolored general chart of the bay, but with the 48 pages of text printed on pages small enough to fit into the pocket map covers. No views, as issued."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "2590.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Chart Atlas"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Pocket Map"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "1"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "15"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "9"
+                },
+                {
+                  "label": "Image No",
+                  "value": "2590005"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D5005/2590005.sid target=_blank>Full Image Download in MrSID Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Ringgold, Cadwalader."
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~240858~5512421/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~240858~5512421/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~240858~5512421",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 15101,
+                    "height": 10224
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~240858~5512421/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~240858~5512421/list/luna"
+              ],
+              "width": 15101,
+              "height": 10224
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~240858~5512421"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~24355~890046/manifest",
+      "label": "General chart, San Francisco Bay.",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~24355~890046/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~24355~890046/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "General chart, San Francisco Bay.",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Ringgold, Cadwalader, 1802-1867"
+                },
+                {
+                  "label": "Author",
+                  "value": "Stuart, F. D. (Fred. D.)"
+                },
+                {
+                  "label": "Date",
+                  "value": "1852"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "General chart, San Francisco Bay."
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Jno. T. Towers"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Washington"
+                },
+                {
+                  "label": "Type",
+                  "value": "Chart Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "51"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "76"
+                },
+                {
+                  "label": "Scale 1",
+                  "value": "246,000"
+                },
+                {
+                  "label": "Note",
+                  "value": "Lithographed map. Relief shown by hachures and spot heights; depths shown by soundings and isolines. \"Executed at the request of the undersigned citizens of the State of California ... and inscribed to William H. Aspinwall, Esq., City of New York.\" Includes table of distances by river from San Francisco."
+                },
+                {
+                  "label": "Reference",
+                  "value": "Rowell, J. List of printed maps of California, p. 22."
+                },
+                {
+                  "label": "State/Province",
+                  "value": "California"
+                },
+                {
+                  "label": "Region",
+                  "value": "Sacramento River (Calif.)"
+                },
+                {
+                  "label": "Region",
+                  "value": "San Francisco Bay Area (Calif.)"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "General chart embracing surveys of the Farallones, entrance to the Bay of San Francisco, bays of San Francisco and San Pablo, Straits of Carquines and Suisun Bay and the Sacramento and San Joaquin rivers to the cities of Sacramento and San Joaquin, California by Cadwalader Ringgold, Commander, U.S. Navy. 1850. Constructed, projected and drawn by Fred. D. Stuart, hydrographer, late of the U.S. Ex. Ex., assisted by Chas. Everett, Jr., draughtsman. Entered ... 1851, by Cadwalader Ringgold ... District of Columbia."
+                },
+                {
+                  "label": "List No",
+                  "value": "4658.010"
+                },
+                {
+                  "label": "Series No",
+                  "value": "11"
+                },
+                {
+                  "label": "Engraver or Printer",
+                  "value": "Everett, Charles"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Ringgold, Cadwalader, 1802-1867"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1852"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "A Series of charts, with sailing directions, embracing surveys of the Farallones, entrance to the Bay of San Francisco ... State of California... Third edition, with additions."
+                },
+                {
+                  "label": "Pub Reference",
+                  "value": "Howes R303; Cowen p533; Dougal, W.H. Off for California."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "The third edition, with Ringgold's inscription: \"To, Mr. Geo. Harrington... with the respects of the author.\" We cannot find any changes between this and the fourth edition. Cover title: Memoir and maps of California, Ringgold, U.S. Navy, 1851."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "4658.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Chart Map"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "6"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "29"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "20"
+                },
+                {
+                  "label": "Image No",
+                  "value": "4658010"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D0089/4658010.sid target=_blank>Full Image Download in MrSID Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Ringgold, Cadwalader, 1802-1867; Stuart, F. D. (Fred. D.)"
+                },
+                {
+                  "label": "Collection",
+                  "value": "Rumsey Collection"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~24355~890046/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~24355~890046/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~24355~890046",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 9784,
+                    "height": 6588
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~24355~890046/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~24355~890046/list/luna"
+              ],
+              "width": 9784,
+              "height": 6588
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~24355~890046"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~222619~5505709/manifest",
+      "label": "Map of the United States, 1852",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~222619~5505709/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~222619~5505709/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Map of the United States, 1852",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Wentworth, Horace"
+                },
+                {
+                  "label": "Author",
+                  "value": "(Case Tiffany)"
+                },
+                {
+                  "label": "Date",
+                  "value": "1852"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Map of the United States, 1852"
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Horace Wentworth"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Boston"
+                },
+                {
+                  "label": "Type",
+                  "value": "Separate Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "60"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "78"
+                },
+                {
+                  "label": "Scale 1",
+                  "value": "7,600,000"
+                },
+                {
+                  "label": "Note",
+                  "value": "Similar to the 1851 issue by Case Tiffany that appeared in Croom's Pictorial History of the United States, here with the addition of twelve portraits of U.S. Presidents in the border. Probably issued by Wentworth as a separate. Map is in full color by state. With an oval portrait of George Washington under the title and a view of the \"Capital at Washington\" in the Gulf of Mexico. Includes explanatory key to Capital towns, towns, missionaries, forts, canals, military posts, mines, and railroads. Relief shown by hachures."
+                },
+                {
+                  "label": "Reference",
+                  "value": "Wheat 768"
+                },
+                {
+                  "label": "Country",
+                  "value": "United States"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "Map of the United States. Published By Horace Wentworth, 86 Washington Str. Boston. 1852."
+                },
+                {
+                  "label": "List No",
+                  "value": "3928.000"
+                },
+                {
+                  "label": "Series No",
+                  "value": "1"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Wentworth, Horace"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "(Case Tiffany)"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1852"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Map of the United States. Published By Horace Wentworth, 86 Washington Str. Boston. 1852."
+                },
+                {
+                  "label": "Pub Reference",
+                  "value": "Wheat 768"
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "Similar to the 1851 issue by Case Tiffany that appeared in Croom's Pictorial History of the United States, here with the addition of twelve portraits of U.S. Presidents in the border. Probably issued by Wentworth as a separate. Full color."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "3928.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Separate Map"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "60"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "78"
+                },
+                {
+                  "label": "Image No",
+                  "value": "3928000"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D5005/3928000.sid target=_blank>Full Image Download in MrSID Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Wentworth, Horace; (Case Tiffany"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~222619~5505709/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~222619~5505709/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~222619~5505709",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 9642,
+                    "height": 7543
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~222619~5505709/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~222619~5505709/list/luna"
+              ],
+              "width": 9642,
+              "height": 7543
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~222619~5505709"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~228452~5507659/manifest",
+      "label": "United States, Canada, Mexico, West Indies with Central America",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~228452~5507659/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~228452~5507659/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "United States, Canada, Mexico, West Indies with Central America",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Atwood, J.M."
+                },
+                {
+                  "label": "Author",
+                  "value": "Thayer, Bridgman & Fanning"
+                },
+                {
+                  "label": "Date",
+                  "value": "1853"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "United States, Canada, Mexico, West Indies with Central America"
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Thayer, Bridgman & Fanning"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "New York"
+                },
+                {
+                  "label": "Type",
+                  "value": "Pocket Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "54"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "64"
+                },
+                {
+                  "label": "Scale 1",
+                  "value": "12,500,000"
+                },
+                {
+                  "label": "Note",
+                  "value": "Reissue, without his name, of Atwood's 1851 map of similar title (#2365). The table of distances is expanded and the map includes more of South America but less of Canada than the 1851 edition. Both this map and the 1851 map probably come from an earlier edition of the 1854 \"North America and Europe...\" by Ensign, Bridgman & Fanning, engraved by J.M. Atwood (#2878). Wheat Gold 258 is the 1854 edition of this map, published by Ensign, Bridgman & Fanning. Map has outline color, and is folded into embossed dark green cloth covers 14x9 with title \"Map Of The United-States Canada Mexico Central America And The West India Islands\" stamped in gold. Prime meridian is Greenwich. Relief shown by hachures."
+                },
+                {
+                  "label": "Reference",
+                  "value": "Wheat Gold 258 (1854 edition)."
+                },
+                {
+                  "label": "World Area",
+                  "value": "West Indies"
+                },
+                {
+                  "label": "Country",
+                  "value": "Canada"
+                },
+                {
+                  "label": "Country",
+                  "value": "United States"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Roads"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "Map Of The United States, Canada, Mexico And The West Indies with Central America, Showing all the routes to California with a table of Distances. New York, Thayer, Bridgman & Fanning, 156, William St. cor. of Ann St. 1853. D. McLellan, Lithogr. 26 Spruce St. N.Y."
+                },
+                {
+                  "label": "List No",
+                  "value": "3209.002"
+                },
+                {
+                  "label": "Series No",
+                  "value": "2"
+                },
+                {
+                  "label": "Engraver or Printer",
+                  "value": "McLellan, D."
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Atwood, J.M."
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Thayer, Bridgman & Fanning"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1853"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Map Of The United States, Canada, Mexico And The West Indies with Central America, Showing all the routes to California with a table of Distances. New York, Thayer, Bridgman & Fanning, 156, William St. cor. of Ann St. 1853. D. McLellan, Lithogr. 26 Spruce St. N.Y."
+                },
+                {
+                  "label": "Pub Reference",
+                  "value": "Wheat Gold 258 (1854 edition)."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "See note field above."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "3209.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Pocket Map"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "14"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "9"
+                },
+                {
+                  "label": "Image No",
+                  "value": "3209002"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D5005/3209002.sid target=_blank>Full Image Download in MrSID Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Thayer, Bridgman & Fanning; Atwood, J.M."
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~228452~5507659/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~228452~5507659/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~228452~5507659",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 10624,
+                    "height": 8849
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~228452~5507659/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~228452~5507659/list/luna"
+              ],
+              "width": 10624,
+              "height": 8849
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~228452~5507659"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~3379~430108/manifest",
+      "label": "Official map of the State of California.",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~3379~430108/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~3379~430108/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Official map of the State of California.",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Eddy, William M."
+                },
+                {
+                  "label": "Date",
+                  "value": "1854"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Official map of the State of California."
+                },
+                {
+                  "label": "Publisher",
+                  "value": "R.A. Eddy"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Marysville"
+                },
+                {
+                  "label": "Type",
+                  "value": "Pocket Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "127"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "98"
+                },
+                {
+                  "label": "Scale 1",
+                  "value": "1,140,480"
+                },
+                {
+                  "label": "Note",
+                  "value": "Lithograph, 49 3/4\"x 38 1/2\" plus floral border. Scale18 miles to an inch. Inset : 19 3/8\"x 15 1/2\", scale about 2 1/4 miles to an inch. Full color. Once folded, now flattened and backed with rice paper. Folder, 6 1/4\"x 4 1/4\" (15 x 12 cm.), rebacked, leather covered, blind stamped, title in gilt on front cover; verso front cover leaf of text advertising Colton's maps. In ink on leaf : Genl [name not decipherable] from Wm M Ed[dy ]. This matches signature on Eddy's Surveryor General's Report for 1852. According to Wheat, Eddy died in March, 1854. Wheat states that map was not yet ready in March 1854 but does not give reason. However, Eddy as Surveyor General states in his report dated Dec. 15, 1853 that he has received a few copies of the map and more were soon expected. My copy is signed by Eddy on verso of cover.  Acquired from the Warren Heckrotte Collection, which is the source of description and notes."
+                },
+                {
+                  "label": "Reference",
+                  "value": "Wheat. Maps of the California Gold Region, 257; Wheat. 25 California Maps, 19; Rowell. List of printed maps of California, p. 9."
+                },
+                {
+                  "label": "State/Province",
+                  "value": "California"
+                },
+                {
+                  "label": "Region",
+                  "value": "San Francisco Bay Area (Calif.)"
+                },
+                {
+                  "label": "Event",
+                  "value": "California Gold Rush"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "Approved and declared to be the official map of the State of California by an act of the Legislature passed March 25th 1853. Compiled by W.M. Eddy State Surveyor General. Published for R.A. Eddy, Marysville, California by J.H. Colton, No. 86 Cedar St. New York 1854. Authorities --- (with inset:) San Francisco and Adjoining Bays. Engraved on stone by Schedler & Liebler, 129 William St. New York. Printed by D. McLellan, 26 Spruce St. N.Y. Entered according to act of Congress in the year 1853 by Wm. M. Eddy in the Clerk's Office of the District Court of the United States for the Northern District of California."
+                },
+                {
+                  "label": "List No",
+                  "value": "5582.001"
+                },
+                {
+                  "label": "Series No",
+                  "value": "2"
+                },
+                {
+                  "label": "Engraver or Printer",
+                  "value": "McClellan, D."
+                },
+                {
+                  "label": "Engraver or Printer",
+                  "value": "Schedler & Liebler"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Eddy, William M."
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1854"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Approved and declared to be the official map of the State of California by an act of the Legislature passed March 25th 1853. Compiled by W.M. Eddy State Surveyor General. Published for R.A. Eddy, Marysville, California by J.H. Colton, No. 86 Cedar St. New York 1854. Authorities --- (with inset:) San Francisco and Adjoining Bays. Engraved on stone by Schedler & Liebler, 129 William St. New York. Printed by D. McLellan, 26 Spruce St. N.Y. Entered according to act of Congress in the year 1853 by Wm. M. Eddy in the Clerk's Office of the District Court of the United States for the Northern District of California."
+                },
+                {
+                  "label": "Pub Reference",
+                  "value": "Wheat. Maps of the California Gold Region, 257; Wheat. 25 California Maps, 19; Rowell. List of printed maps of California, p. 9."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "See note field above."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "5582.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Pocket Map"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "1"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "127"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "98"
+                },
+                {
+                  "label": "Image No",
+                  "value": "5582001"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D0043/5582001.sid target=_blank>Full Image Download in MrSID Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Eddy, William M."
+                },
+                {
+                  "label": "Collection",
+                  "value": "Rumsey Collection"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~3379~430108/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~3379~430108/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~3379~430108",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 12192,
+                    "height": 13963
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~3379~430108/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~3379~430108/list/luna"
+              ],
+              "width": 12192,
+              "height": 13963
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~3379~430108"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~370317~90137697/manifest",
+      "label": "Birds Eye View of the City of Sacramento State Capital of California 1870",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~370317~90137697/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~370317~90137697/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Birds Eye View of the City of Sacramento State Capital of California 1870",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Koch, Augustus"
+                },
+                {
+                  "label": "Date",
+                  "value": "1870"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Birds Eye View of the City of Sacramento State Capital of California 1870"
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Britton & Rey"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "San Francisco"
+                },
+                {
+                  "label": "Type",
+                  "value": "View"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "74"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "84"
+                },
+                {
+                  "label": "State/Province",
+                  "value": "California"
+                },
+                {
+                  "label": "City",
+                  "value": "Sacramento (Calif.)"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "Birds Eye View of the City of Sacramento State Capital of California 1870"
+                },
+                {
+                  "label": "List No",
+                  "value": "16361.000"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Koch, Augustus"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1870"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Birds Eye View of the City of Sacramento State Capital of California 1870"
+                },
+                {
+                  "label": "Pub Reference",
+                  "value": "Reps, Views and Viewmakers, 213 (evidently the first state, without reference to Snow & Roos as the publisher); Reps, Cities on Stone, page 96."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "\"Extremely Rare Augustus Koch Bird's Eye of the Capital of California. Superb three-stone lithographed view of Sacramento, California, produced in 1870 by the master view maker Augustus Koch. The view is projected with east at the top, the Sacramento River in the foreground, and the American River in the background. Sacramento had been substantially rebuilt after the devastating flood of 1862, and this view is evidence of how far the city had come in 8 years. The view is characteristic of Koch's excellent compositional skills and his attention to detail; every building is rendered individually, with many numbered (corresponding to a 78-item key), down to the train with \"emigrant car\" written on passenger cars, and names on some of the riverboats. The key is one of the more interesting aspects of the view, as it gives a detailed cross-section of what constituted an important public building in Sacramento at the time. For instance, there are six fire engine companies listed: I Confidence Fire Engine House; II Protection Fire Engine House; III Sacramento Engine Company; IV Eureka Engine Company; V Knickerbocker Engine Company; VI Young America Engine Company. In 1872, these would amalgamate into the first paid fire fighting force west of the Mississippi. This view was completed at the beginning of Koch's career. Koch began producing views in 1868, and for the first two years of his career focused exclusively on Iowa. In 1870, he moved west, making one view in Utah, one in Wyoming, and three in California, including the present title. Koch's output would eventually reach 110 views produced between 1868 and 1898, making this part of the first 10% of his output. Reps (Views and Viewmarks, page 185), says of Koch: Koch drew his cities with considerable care, consistently depicting his subjects as if seen from high viewpoints. The horizon lines appear close to the tops of the images, and the body of each print is thus full of urban detail. Koch also used a distinctive format, making his horizontal dimension not much greater than the vertical... He seems to have drawn with substantial accuracy. Rarity Reps (Views and Viewmakers 213) lists only three examples: Amon Carter Museum; UC Berkeley; California State Library. The second state, with Snow & Roos as the publisher, is held by only the California State Library.\" (Ruderman, 2025)"
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "16361.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "View"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "74"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "84"
+                },
+                {
+                  "label": "Image No",
+                  "value": "16361000.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/218/16361000.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Koch, Augustus"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~370317~90137697/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~370317~90137697/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~370317~90137697",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 21776,
+                    "height": 19512
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~370317~90137697/canvas/c1"
+                }
+              ],
+              "width": 21776,
+              "height": 19512
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~370317~90137697"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~3329~360047/manifest",
+      "label": "Map exhibiting the salt marsh ... lands adjacent to the bays of San Francisco and San Pablo.",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~3329~360047/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~3329~360047/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Map exhibiting the salt marsh ... lands adjacent to the bays of San Francisco and San Pablo.",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Arnold, T. J. (Thomas Jefferson), d. 1878"
+                },
+                {
+                  "label": "Author",
+                  "value": "California. Board of State Harbor Commissioners for San Francisco Harbor"
+                },
+                {
+                  "label": "Date",
+                  "value": "1874"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Map exhibiting the salt marsh ... lands adjacent to the bays of San Francisco and San Pablo."
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Britton & Rey"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "San Francisco"
+                },
+                {
+                  "label": "Type",
+                  "value": "Chart Map"
+                },
+                {
+                  "label": "Type",
+                  "value": "Wall Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "62"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "172"
+                },
+                {
+                  "label": "Scale 1",
+                  "value": "50,000"
+                },
+                {
+                  "label": "Note",
+                  "value": "This map shows the shoreline property sold by the state to private parties and \"now subject to reclamation\" (i.e. ready to be filled). The Vogdes map is probably later. An unusual view of the bay, with east at the top; shows water depths. With black top and bottom rollers. With full printed color in subtle tan shades. Printed on 2 sheets. David Rumsey copy mounted as one sheet, backed with cloth."
+                },
+                {
+                  "label": "Reference",
+                  "value": "cf Vogdes p 237 (A Map with a similar but different title, no date, same scale)"
+                },
+                {
+                  "label": "State/Province",
+                  "value": "California"
+                },
+                {
+                  "label": "City",
+                  "value": "Oakland (Calif.)"
+                },
+                {
+                  "label": "City",
+                  "value": "San Francisco (Calif.)"
+                },
+                {
+                  "label": "Region",
+                  "value": "San Francisco Bay (Calif.)"
+                },
+                {
+                  "label": "Region",
+                  "value": "San Pablo Bay (Calif.)"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "Map exhibiting the salt marsh, tide and submerged lands disposed of by the State of California in and adjacent to the bays of San Francisco and San Pablo and now subject to reclamation. Prepared from maps of the U.S. Coast Survey & official records by order of the Board of State Harbor Commissioners for the United States Commissioners on San Francisco Harbor. By T.J. Arnold, engineer of the sea wall. 1874. U.S. Commissioners Rear Admiral John Rodgers, Major G.H. Mendell, Prof. George Davidson. State Harbor Commissioners Samuel Soule, T.D. Mathewson, D.C. McRuer. Britton Rey & Co. Lith. S.F."
+                },
+                {
+                  "label": "List No",
+                  "value": "4469.000"
+                },
+                {
+                  "label": "Series No",
+                  "value": "1"
+                },
+                {
+                  "label": "Engraver or Printer",
+                  "value": "Britton & Rey"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Arnold, T. J. (Thomas Jefferson), d. 1878"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "California. Board of State Harbor Commissioners for San Francisco Harbor"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1874"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Map exhibiting the salt marsh, tide and submerged lands disposed of by the State of California in and adjacent to the bays of San Francisco and San Pablo and now subject to reclamation. Prepared from maps of the U.S. Coast Survey & official records by order of the Board of State Harbor Commissioners for the United States Commissioners on San Francisco Harbor. By T.J. Arnold, engineer of the sea wall. 1874. U.S. Commissioners Rear Admiral John Rodgers, Major G.H. Mendell, Prof. George Davidson. State Harbor Commissioners Samuel Soule, T.D. Mathewson, D.C. McRuer. Britton Rey & Co. Lith. S.F."
+                },
+                {
+                  "label": "Pub Reference",
+                  "value": "cf Vogdes p 237 (A Map with a similar but different title, no date, same scale)"
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "See note field above."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "4469.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Chart Map"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Wall Map"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "1"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "62"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "172"
+                },
+                {
+                  "label": "Image No",
+                  "value": "4469000"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D0036/4469000.sid target=_blank>Full Image Download in MrSID Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Arnold, T. J. (Thomas Jefferson), d. 1878; California. Board of State Harbor Commissioners for San Francisco Harbor"
+                },
+                {
+                  "label": "Collection",
+                  "value": "Rumsey Collection"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~3329~360047/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~3329~360047/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~3329~360047",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 21361,
+                    "height": 8450
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~3329~360047/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~3329~360047/list/luna"
+              ],
+              "width": 21361,
+              "height": 8450
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~3329~360047"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~31952~1151333/manifest",
+      "label": "7. Rank, cities 1790-1890.",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~31952~1151333/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~31952~1151333/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "7. Rank, cities 1790-1890.",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Attributed Author",
+                  "value": "Gannett, Henry, 1846-1914"
+                },
+                {
+                  "label": "Attributed Author",
+                  "value": "United States. Census Office"
+                },
+                {
+                  "label": "Date",
+                  "value": "1898"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "7. Rank, cities 1790-1890."
+                },
+                {
+                  "label": "Publisher",
+                  "value": "U.S. Census Office"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Washington"
+                },
+                {
+                  "label": "Type",
+                  "value": "Statistical Diagram"
+                },
+                {
+                  "label": "Type",
+                  "value": "Timeline"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "44"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "68"
+                },
+                {
+                  "label": "Note",
+                  "value": "Color lithographed chart."
+                },
+                {
+                  "label": "Country",
+                  "value": "United States"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Statistical"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Data Visualization"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "23. Rank of the most populous cities at each census: 1790-1890. Julius Bien & Co. Lith., N.Y. (1898)"
+                },
+                {
+                  "label": "List No",
+                  "value": "1873.007"
+                },
+                {
+                  "label": "Series No",
+                  "value": "13"
+                },
+                {
+                  "label": "Page No",
+                  "value": "Pl. 7"
+                },
+                {
+                  "label": "Engraver or Printer",
+                  "value": "Julius Bien & Co."
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Gannett, Henry, 1846-1914"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "United States. Census Office"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1898"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Statistical atlas of the United States, based upon results of the Eleventh Census (1890). By Henry Gannett. Washington: Government Printing Office. 1898. (At head of title:) Department of the Interior, Census Office. Robert P. Porter, Superintendent ... Carroll D. Wright, Commissioner of Labor in Charge ... (seal) Department of the Interior."
+                },
+                {
+                  "label": "Pub Reference",
+                  "value": "Schwartz & Ehrenberg p319; P1333; LeGear 410; P-Maps 945."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "See note field above."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "1873.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Statistical Atlas"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "57"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "54"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "43"
+                },
+                {
+                  "label": "Image No",
+                  "value": "1873007"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D0116/1873007.sid target=_blank>Full Image Download in MrSID Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Gannett, Henry, 1846-1914; United States. Census Office"
+                },
+                {
+                  "label": "Collection",
+                  "value": "Rumsey Collection"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~31952~1151333/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~31952~1151333/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~31952~1151333",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 10354,
+                    "height": 6700
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~31952~1151333/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~31952~1151333/list/luna"
+              ],
+              "width": 10354,
+              "height": 6700
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~31952~1151333"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~31954~1151335/manifest",
+      "label": "9. Predominating sex 1890.",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~31954~1151335/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~31954~1151335/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "9. Predominating sex 1890.",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Attributed Author",
+                  "value": "Gannett, Henry, 1846-1914"
+                },
+                {
+                  "label": "Attributed Author",
+                  "value": "United States. Census Office"
+                },
+                {
+                  "label": "Date",
+                  "value": "1898"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "9. Predominating sex 1890."
+                },
+                {
+                  "label": "Publisher",
+                  "value": "U.S. Census Office"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Washington"
+                },
+                {
+                  "label": "Type",
+                  "value": "Atlas Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "46"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "72"
+                },
+                {
+                  "label": "Scale 1",
+                  "value": "7,000,000"
+                },
+                {
+                  "label": "Note",
+                  "value": "Color lithographed map."
+                },
+                {
+                  "label": "Country",
+                  "value": "United States"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Statistical"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Data Visualization"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "28. The predominating sex: 1890. Julius Bien & Co. Lith., N.Y. (1898)"
+                },
+                {
+                  "label": "List No",
+                  "value": "1873.009"
+                },
+                {
+                  "label": "Series No",
+                  "value": "15"
+                },
+                {
+                  "label": "Page No",
+                  "value": "Pl. 9"
+                },
+                {
+                  "label": "Engraver or Printer",
+                  "value": "Julius Bien & Co."
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Gannett, Henry, 1846-1914"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "United States. Census Office"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1898"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Statistical atlas of the United States, based upon results of the Eleventh Census (1890). By Henry Gannett. Washington: Government Printing Office. 1898. (At head of title:) Department of the Interior, Census Office. Robert P. Porter, Superintendent ... Carroll D. Wright, Commissioner of Labor in Charge ... (seal) Department of the Interior."
+                },
+                {
+                  "label": "Pub Reference",
+                  "value": "Schwartz & Ehrenberg p319; P1333; LeGear 410; P-Maps 945."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "See note field above."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "1873.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Statistical Atlas"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "57"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "54"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "43"
+                },
+                {
+                  "label": "Image No",
+                  "value": "1873009"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D0116/1873009.sid target=_blank>Full Image Download in MrSID Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Gannett, Henry, 1846-1914; United States. Census Office"
+                },
+                {
+                  "label": "Collection",
+                  "value": "Rumsey Collection"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~31954~1151335/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~31954~1151335/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~31954~1151335",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 10356,
+                    "height": 6700
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~31954~1151335/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~31954~1151335/list/luna"
+              ],
+              "width": 10356,
+              "height": 6700
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~31954~1151335"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~32037~1151385/manifest",
+      "label": "59. Navigable rivers, routes 1890.",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~32037~1151385/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~32037~1151385/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "59. Navigable rivers, routes 1890.",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Attributed Author",
+                  "value": "Gannett, Henry, 1846-1914"
+                },
+                {
+                  "label": "Attributed Author",
+                  "value": "United States. Census Office"
+                },
+                {
+                  "label": "Date",
+                  "value": "1898"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "59. Navigable rivers, routes 1890."
+                },
+                {
+                  "label": "Publisher",
+                  "value": "U.S. Census Office"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Washington"
+                },
+                {
+                  "label": "Type",
+                  "value": "Atlas Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "47"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "72"
+                },
+                {
+                  "label": "Scale 1",
+                  "value": "7,000,000"
+                },
+                {
+                  "label": "Note",
+                  "value": "Color lithographed map."
+                },
+                {
+                  "label": "Country",
+                  "value": "United States"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Rivers"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Shipping"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "370. Navigable rivers and principal transportation routes on the sea coast and Great Lakes: 1890. Julius Bien & Co. Lith., N.Y. (1898)"
+                },
+                {
+                  "label": "List No",
+                  "value": "1873.059"
+                },
+                {
+                  "label": "Series No",
+                  "value": "65"
+                },
+                {
+                  "label": "Page No",
+                  "value": "Pl. 59"
+                },
+                {
+                  "label": "Engraver or Printer",
+                  "value": "Julius Bien & Co."
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Gannett, Henry, 1846-1914"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "United States. Census Office"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1898"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Statistical atlas of the United States, based upon results of the Eleventh Census (1890). By Henry Gannett. Washington: Government Printing Office. 1898. (At head of title:) Department of the Interior, Census Office. Robert P. Porter, Superintendent ... Carroll D. Wright, Commissioner of Labor in Charge ... (seal) Department of the Interior."
+                },
+                {
+                  "label": "Pub Reference",
+                  "value": "Schwartz & Ehrenberg p319; P1333; LeGear 410; P-Maps 945."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "See note field above."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "1873.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Statistical Atlas"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "57"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "54"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "43"
+                },
+                {
+                  "label": "Image No",
+                  "value": "1873059"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D0116/1873059.sid target=_blank>Full Image Download in MrSID Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Gannett, Henry, 1846-1914; United States. Census Office"
+                },
+                {
+                  "label": "Collection",
+                  "value": "Rumsey Collection"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~32037~1151385/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~32037~1151385/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~32037~1151385",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 10386,
+                    "height": 6700
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~32037~1151385/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~32037~1151385/list/luna"
+              ],
+              "width": 10386,
+              "height": 6700
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~32037~1151385"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~32038~1151386/manifest",
+      "label": "60. Railroad systems 1890.",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~32038~1151386/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~32038~1151386/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "60. Railroad systems 1890.",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Attributed Author",
+                  "value": "Gannett, Henry, 1846-1914"
+                },
+                {
+                  "label": "Attributed Author",
+                  "value": "United States. Census Office"
+                },
+                {
+                  "label": "Date",
+                  "value": "1898"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "60. Railroad systems 1890."
+                },
+                {
+                  "label": "Publisher",
+                  "value": "U.S. Census Office"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Washington"
+                },
+                {
+                  "label": "Type",
+                  "value": "Atlas Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "47"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "72"
+                },
+                {
+                  "label": "Scale 1",
+                  "value": "7,000,000"
+                },
+                {
+                  "label": "Note",
+                  "value": "Color lithographed map."
+                },
+                {
+                  "label": "Country",
+                  "value": "United States"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Railroad"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "372. Railroad systems of the United States: 1890. Julius Bien & Co. Lith., N.Y. (1898)"
+                },
+                {
+                  "label": "List No",
+                  "value": "1873.060"
+                },
+                {
+                  "label": "Series No",
+                  "value": "66"
+                },
+                {
+                  "label": "Page No",
+                  "value": "Pl. 60"
+                },
+                {
+                  "label": "Engraver or Printer",
+                  "value": "Julius Bien & Co."
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Gannett, Henry, 1846-1914"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "United States. Census Office"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1898"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Statistical atlas of the United States, based upon results of the Eleventh Census (1890). By Henry Gannett. Washington: Government Printing Office. 1898. (At head of title:) Department of the Interior, Census Office. Robert P. Porter, Superintendent ... Carroll D. Wright, Commissioner of Labor in Charge ... (seal) Department of the Interior."
+                },
+                {
+                  "label": "Pub Reference",
+                  "value": "Schwartz & Ehrenberg p319; P1333; LeGear 410; P-Maps 945."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "See note field above."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "1873.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Statistical Atlas"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "57"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "54"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "43"
+                },
+                {
+                  "label": "Image No",
+                  "value": "1873060"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D0116/1873060.sid target=_blank>Full Image Download in MrSID Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Gannett, Henry, 1846-1914; United States. Census Office"
+                },
+                {
+                  "label": "Collection",
+                  "value": "Rumsey Collection"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~32038~1151386/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~32038~1151386/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~32038~1151386",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 10410,
+                    "height": 6694
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~32038~1151386/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~32038~1151386/list/luna"
+              ],
+              "width": 10410,
+              "height": 6694
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~32038~1151386"
+    }
+  ]
+}
