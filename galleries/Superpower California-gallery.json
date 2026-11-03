@@ -825,6 +825,10 @@
                 {
                   "label": "Collection",
                   "value": "Rumsey Collection"
+                },
+                {
+                  "label": "local_note",
+                  "value": "[2026-11-03]: State Capital = Monterey 1774-1849"
                 }
               ],
               "thumbnail": {
@@ -1014,6 +1018,10 @@
                 {
                   "label": "Authors",
                   "value": "Duflot de Mofras, Eugene"
+                },
+                {
+                  "label": "local_note",
+                  "value": "[2026-11-03]: State Capital = Monterey 1774-1849"
                 }
               ],
               "thumbnail": {
@@ -1203,6 +1211,10 @@
                 {
                   "label": "Collection",
                   "value": "Rumsey Collection"
+                },
+                {
+                  "label": "local_note",
+                  "value": "[2026-11-03]: State Capital = Monterey 1774-1849"
                 }
               ],
               "thumbnail": {
@@ -1814,12 +1826,12 @@
     {
       "@context": "http://iiif.io/api/presentation/2/context.json",
       "@type": "sc:Manifest",
-      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~240858~5512421/manifest",
-      "label": "General Chart, Embracing Surveys of the Bays of San Francisco and San Pablo.",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~24224~880048/manifest",
+      "label": "California, Oregon, Utah, New Mexico.",
       "attribution": "David Rumsey Historical Map Collection",
       "service": {
         "@context": "http://iiif.io/api/search/1/context.json",
-        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~240858~5512421/search",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~24224~880048/search",
         "profile": "http://iiif.io/api/search/1/search"
       },
       "sequences": [
@@ -1827,142 +1839,130 @@
           "@type": "sc:Sequence",
           "canvases": [
             {
-              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~240858~5512421/canvas/c1",
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~24224~880048/canvas/c1",
               "@type": "sc:Canvas",
-              "label": "General Chart, Embracing Surveys of the Bays of San Francisco and San Pablo.",
+              "label": "California, Oregon, Utah, New Mexico.",
               "description": "",
               "metadata": [
                 {
-                  "label": "Author",
-                  "value": "Ringgold, Cadwalader."
+                  "label": "Attributed Author",
+                  "value": "Mitchell, Samuel Augustus"
                 },
                 {
                   "label": "Date",
-                  "value": "1851"
+                  "value": "1850"
                 },
                 {
                   "label": "Short Title",
-                  "value": "General Chart, Embracing Surveys of the Bays of San Francisco and San Pablo."
+                  "value": "California, Oregon, Utah, New Mexico."
                 },
                 {
                   "label": "Publisher",
-                  "value": "Jno. T. Towers"
+                  "value": "Thomas, Cowperthwait & Co."
                 },
                 {
                   "label": "Publisher Location",
-                  "value": "Washington"
+                  "value": "Philadelphia"
                 },
                 {
                   "label": "Type",
-                  "value": "Chart Map"
-                },
-                {
-                  "label": "Type",
-                  "value": "Pocket Map"
+                  "value": "Atlas Map"
                 },
                 {
                   "label": "Obj Height cm",
-                  "value": "51"
+                  "value": "41"
                 },
                 {
                   "label": "Obj Width cm",
-                  "value": "76"
+                  "value": "33"
                 },
                 {
                   "label": "Scale 1",
-                  "value": "246,000"
+                  "value": "6,600,000"
                 },
                 {
                   "label": "Note",
-                  "value": "Shows specific locations and general layouts of Vallejo, Benicia, Martinez, New York (Antioch, California), Sacramento, Boston (California), Stockton, Stanislaus City, and San Joaquin. River distances shown in small table."
+                  "value": "Unlike earlier 1850 ed. (with title \"Oregon, Upper California & New Mexico\"), this divides the area into California, Oregon, Utah Territory and New Mexico (all shown in full color) for the first time. \"Gold Region\" is shown but not specially colored as in earlier 1850 ed. Relief shown by hachures and spot heights. Shows Indian tribes. Prime meridians: Greenwich and Washington."
                 },
                 {
                   "label": "Reference",
-                  "value": "Cowen p533; cf Howes R303."
+                  "value": "Wheat, C.I. Maps of the Calif. gold region, 168; Wheat, C.I. Mapping the transmississippi West, 684; Moffat, R.M. Printed maps of Utah to 1900, 22."
                 },
                 {
-                  "label": "Region",
-                  "value": "Sacramento-San Joaquin Delta"
+                  "label": "State/Province",
+                  "value": "California"
                 },
                 {
-                  "label": "Region",
-                  "value": "Farallon Islands"
+                  "label": "State/Province",
+                  "value": "Oregon"
                 },
                 {
-                  "label": "Region",
-                  "value": "San Francisco Bay"
+                  "label": "State/Province",
+                  "value": "U.S. West"
                 },
                 {
                   "label": "Full Title",
-                  "value": "General Chart, Embracing Surveys of the Bays of San Francisco and San Pablo, Straits of Carquines and Suisun Bay, and the Sacramento and San Joaquin Rivers to the Cities of Sacramento and San Joaquin, California, by Cadwalader Ringgold, Commmander, U.S. Navy, 1850. Constructed, Projected and Drawn by Fred D. Stuart, Hydrographer, late of the U.S. Ex Ex, Assisted by Chas Everett Jr., Draughtman. Executed at the request of the undersigned citizens of California ... and Inscribed to William H. Aspiwall Esq., City of New Your."
+                  "value": "Map of the state of California, the territories of Oregon & Utah, and the chief part of New Mexico. Entered according to Act of Congress in the year 1845 by H.N. Burroughs in the ... District Court of the eastern district of Pennsylvania. (1850)"
                 },
                 {
                   "label": "List No",
-                  "value": "2590.005"
+                  "value": "3802.001"
                 },
                 {
-                  "label": "Series No",
-                  "value": "5"
-                },
-                {
-                  "label": "Engraver or Printer",
-                  "value": "Stuart, Fred D."
+                  "label": "Page No",
+                  "value": "37"
                 },
                 {
                   "label": "Engraver or Printer",
-                  "value": "Everett, Chas. Jr."
+                  "value": "Burroughs, H.N."
                 },
                 {
                   "label": "Publication Author",
-                  "value": "Ringgold, Cadwalader."
+                  "value": "Mitchell, Samuel Augustus"
                 },
                 {
                   "label": "Pub Date",
-                  "value": "1851"
+                  "value": "1850"
                 },
                 {
                   "label": "Pub Title",
-                  "value": "A Series of Charts, With Sailing Directions, Embracing Surveys of the Farallones, Entrance to the Bay of San Francisco ... State of California. By Cadwalader Ringgold, Commander, U.S. Navy. Washington: Printed by Jno. T. Towers, 1851. (on verso) Entered ... 1851, by Cadwalader Ringgold ... District of Columbia."
+                  "value": "A new universal atlas containing maps of the various empires, kingdoms, states and republics of the World. With a special map of each of the United States, plans of cities &c. Comprehended in seventy sheets and forming a series of one hundred and seventeen maps, plans and sections ... Philadelphia, Published by Thomas, Cowperthwait & Co. No. 253 Market Street. 1850. Entered ... 1844, by Carey & Hart ... Pennsylvania. (title page by) J. Knight Sc."
                 },
                 {
                   "label": "Pub Reference",
-                  "value": "Cowen p533; cf Howes R303."
+                  "value": "Phillips, 800."
                 },
                 {
                   "label": "Pub Note",
-                  "value": "1st edition, Cowen gives precedence. Issued before the larger edition of 1851 (see our 4658.000) , this is in the form of a pocket map with only the uncolored general chart of the bay, but with the 48 pages of text printed on pages small enough to fit into the pocket map covers. No views, as issued."
+                  "value": "Late 1850 edition. First edition to have the double page U.S. map by J.H. Young with an inset of the gold region of California. Unusual title page with the printing in gold and the table of contents in red. This is a transition to the full chromo title and contents pages of 1851. Most of the maps have dropped the Mitchell imprint and have no imprint. Maps are in full color. Atlas is bound in half leather marbled paper covered boards with label reading \"Mitchell's Universal Atlas\" in gold."
                 },
                 {
                   "label": "Pub List No",
-                  "value": "2590.000"
+                  "value": "3802.000"
                 },
                 {
                   "label": "Pub Type",
-                  "value": "Chart Atlas"
-                },
-                {
-                  "label": "Pub Type",
-                  "value": "Pocket Map"
+                  "value": "World Atlas"
                 },
                 {
                   "label": "Pub Maps",
-                  "value": "1"
+                  "value": "74"
                 },
                 {
                   "label": "Pub Height cm",
-                  "value": "15"
+                  "value": "45"
                 },
                 {
                   "label": "Pub Width cm",
-                  "value": "9"
+                  "value": "37"
                 },
                 {
                   "label": "Image No",
-                  "value": "2590005"
+                  "value": "3802001"
                 },
                 {
                   "label": "Download 1",
-                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D5005/2590005.sid target=_blank>Full Image Download in MrSID Format</a>"
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D0088/3802001.sid target=_blank>Full Image Download in MrSID Format</a>"
                 },
                 {
                   "label": "Download 2",
@@ -1970,11 +1970,19 @@
                 },
                 {
                   "label": "Authors",
-                  "value": "Ringgold, Cadwalader."
+                  "value": "Mitchell, Samuel Augustus"
+                },
+                {
+                  "label": "Collection",
+                  "value": "Rumsey Collection"
+                },
+                {
+                  "label": "local_note",
+                  "value": "[2026-11-03]: State Capital = San Jose 1849-1851"
                 }
               ],
               "thumbnail": {
-                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~240858~5512421/full/!96,96/0/default.jpg",
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~24224~880048/full/!96,96/0/default.jpg",
                 "format": "image/jpeg"
               },
               "images": [
@@ -1982,26 +1990,26 @@
                   "@type": "oa:Annotation",
                   "motivation": "sc:painting",
                   "resource": {
-                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~240858~5512421/full/!1024,1024/0/default.jpg",
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~24224~880048/full/!1024,1024/0/default.jpg",
                     "@type": "dctypes:Image",
                     "service": {
                       "@context": "http://iiif.io/api/image/2/context.json",
-                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~240858~5512421",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~24224~880048",
                       "profile": "http://iiif.io/api/image/2/level1.json",
                       "protocol": "http://iiif.io/api/image"
                     },
                     "format": "image/jpeg",
-                    "width": 15101,
-                    "height": 10224
+                    "width": 7062,
+                    "height": 8519
                   },
-                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~240858~5512421/canvas/c1"
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~24224~880048/canvas/c1"
                 }
               ],
               "otherContent": [
-                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~240858~5512421/list/luna"
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~24224~880048/list/luna"
               ],
-              "width": 15101,
-              "height": 10224
+              "width": 7062,
+              "height": 8519
             }
           ]
         }
@@ -2010,7 +2018,7 @@
         "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
         "format": "image/png"
       },
-      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~240858~5512421"
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~24224~880048"
     },
     {
       "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -2168,6 +2176,10 @@
                 {
                   "label": "Collection",
                   "value": "Rumsey Collection"
+                },
+                {
+                  "label": "local_note",
+                  "value": "[2026-11-03]: State Capital = Vallejo 1852-1853"
                 }
               ],
               "thumbnail": {
@@ -2349,6 +2361,10 @@
                 {
                   "label": "Authors",
                   "value": "Wentworth, Horace; (Case Tiffany"
+                },
+                {
+                  "label": "local_note",
+                  "value": "[2026-11-03]: State Capital = San Jose 1849-1851"
                 }
               ],
               "thumbnail": {
@@ -2743,6 +2759,10 @@
                 {
                   "label": "Collection",
                   "value": "Rumsey Collection"
+                },
+                {
+                  "label": "local_note",
+                  "value": "[2026-11-03]: State Capital= Benicia 1853-1854"
                 }
               ],
               "thumbnail": {
@@ -2904,6 +2924,10 @@
                 {
                   "label": "Authors",
                   "value": "Koch, Augustus"
+                },
+                {
+                  "label": "local_note",
+                  "value": "[2026-11-03]: State Capital 1869-present"
                 }
               ],
               "thumbnail": {
