@@ -1,0 +1,2823 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@type": "sc:Collection",
+  "@id": "https://iiif-gallery-builder.example.org/Did Women Travel?",
+  "label": "Did Women Travel?",
+  "items": [
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~286826~90059077/manifest",
+      "label": "Vol I (45) Roma.",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~286826~90059077/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~286826~90059077/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Vol I (45) Roma.",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Braun, Georg, 1541-1622"
+                },
+                {
+                  "label": "Author",
+                  "value": "Hogenberg, Franz, 1539-1590"
+                },
+                {
+                  "label": "Date",
+                  "value": "1575"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Vol I (45) Roma."
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Peter von Brachel"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Cologne"
+                },
+                {
+                  "label": "Type",
+                  "value": "Atlas Map"
+                },
+                {
+                  "label": "Type",
+                  "value": "View"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "34"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "49"
+                },
+                {
+                  "label": "Note",
+                  "value": "In this last edition of Volume I, van der Krogt 41:1.1 (1640), the preliminary section is reduced to Braun's forward and the Hittorp letter. The London map/view is not present and instead is found at the beginning of Volume V."
+                },
+                {
+                  "label": "Reference",
+                  "value": "Van der Krogt Vol IV-2: 3614, st. 2"
+                },
+                {
+                  "label": "City",
+                  "value": "Rome (Italy)"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "Vol I (45) Roma."
+                },
+                {
+                  "label": "List No",
+                  "value": "12126.094"
+                },
+                {
+                  "label": "Series No",
+                  "value": "94"
+                },
+                {
+                  "label": "Page No",
+                  "value": "(45)"
+                },
+                {
+                  "label": "Engraver or Printer",
+                  "value": "Novellanus, Simon, d. 1590"
+                },
+                {
+                  "label": "Engraver or Printer",
+                  "value": "Hoefnagel, Joris, 1542-1600"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Braun, Georg, 1541-1622"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Hogenberg, Franz, 1539-1590"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1640"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Civitates Orbis Terrarum."
+                },
+                {
+                  "label": "Pub Reference",
+                  "value": "Koeman B&H 1-6; van der Krogt 41:1.1 (1640). This is van der Krogt's XVIII edition, c. 1640, the last edition of six volumes. Van der Krogt dates the individual volumes as 1 (c. 1640, 11th ed.), 2 (c. 1640, 9th ed.), 3 (c. 1623, 7th ed.), 4 (c. 1635, 7th ed.), 5 (c. 1640, 5th ed.), 6 (c. 1635, 3rd ed.). All six volumes are printed by Peter von Brachel between 1823 and 1640, with the texts reset by him and the plates used generally from first or second editions. We date the volumes, texts and plates separately, using Van der Krogt's listings. There are 546 plans/views of cities on 363 plates. The title for the series of six volumes is taken from the first volume which is general practice. The other five volumes are titled individually. The original publication dates are vol I, 1572; vol II, 1575; vol III, 1581; vol IV, c.1588; vol V, c.1598; vol VI, 1617."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "The Civitates Orbis Terrarum was the first atlas of world cities and one of the most important books published in the late 16th century. Although led by Braun and Hogenberg, the books were created by a large team of writers, engravers, and artists. R.V. Tooley writes: \"The Civitates is one of the great books of the World... it was the first serious attempt to give graphic representations of the main cities of the World, with a wealth of factual detail. In the main, the buildings in each view are shown in elevation, and while the ordinary buildings are stylized, the principal buildings are reproduced from actual drawings on the spot, and these, and the main streets, can be recognized today. Further, the editors gave additional factual information as a deliberately planned policy, such as the heraldic arms of the city, and the nature of the surrounding countryside, whether wooded or arable, grazing land, vineyards, or gardens. The importance of waterways is stressed by the careful delineation of stone bridges, wooden pontoons, flat-bottomed ferries, moles, wharves and jetties; the ports with ocean-going craft, the inland waters with river traffic. Varieties of land travel are depicted, pedestrians, horsemen, wagons, coaches, and palanquins. Small vignettes illustrate the trade, occupations and habits of the locality, agriculture, paper-making and textiles. The law is represented by various forms of punishment, gibbets, wheels, floggings etc. A distinctive feature of the plates is the insertion of large figures in the foreground to illustrate local costume. Those figures are out of proportion necessarily. The general multiplication of detail slightly offends certain commentators who fail to appreciate the purpose of the editors. Their primary aim was not to produce well-balanced landscapes, but to give as much information as possible in a pleasing visual form, in reality a kind of super guide book. This was done so magnificently that the result was an art as decorative as it was informative. The whole forms a wonderful compendium of life in Europe in the sixteenth century. And as city growth in early times, with a few obvious exceptions, was more or less static, even further it gives a visual printed record of mediaeval Europe, and is one of the most valuable sources remaining to the student and historian of these periods.\" (R.V. Tooley, preface to the reproduction edition of Civitates Orbis Terrarum, World Publishing, 1966)"
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "12126.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "World Atlas"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "City Atlas"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "363"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "43"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "31"
+                },
+                {
+                  "label": "Image No",
+                  "value": "12126094.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/166/12126094.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Braun, Georg, 1541-1622; Hogenberg, Franz, 1539-1590"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~286826~90059077/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~286826~90059077/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~286826~90059077",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 11019,
+                    "height": 7444
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~286826~90059077/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~286826~90059077/list/luna"
+              ],
+              "width": 11019,
+              "height": 7444
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~286826~90059077"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~300888~90072084/manifest",
+      "label": "Vol IV (55) Antiquae Urbis Romae (Rome) (lower sheet).",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~300888~90072084/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~300888~90072084/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Vol IV (55) Antiquae Urbis Romae (Rome) (lower sheet).",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Braun, Georg, 1541-1622"
+                },
+                {
+                  "label": "Author",
+                  "value": "Hogenberg, Franz, 1539-1590"
+                },
+                {
+                  "label": "Date",
+                  "value": "1588"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Vol IV (55) Antiquae Urbis Romae (Rome) (lower sheet)."
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Peter von Brachel"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Cologne"
+                },
+                {
+                  "label": "Type",
+                  "value": "Atlas Map"
+                },
+                {
+                  "label": "Type",
+                  "value": "View"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "36"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "50"
+                },
+                {
+                  "label": "Note",
+                  "value": "In this last edition of Volume IV, van der Krogt 41:1.4 (1635), the preliminary matter after the title page is dropped."
+                },
+                {
+                  "label": "Reference",
+                  "value": "Van der Krogt Vol IV-2: 3633, st. 2"
+                },
+                {
+                  "label": "City",
+                  "value": "Rome (Italy)"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "Vol IV (55) Antiquae Urbis Romae (Rome) (lower sheet)."
+                },
+                {
+                  "label": "List No",
+                  "value": "12126.476"
+                },
+                {
+                  "label": "Series No",
+                  "value": "476"
+                },
+                {
+                  "label": "Page No",
+                  "value": "(55)"
+                },
+                {
+                  "label": "Engraver or Printer",
+                  "value": "Novellanus, Simon, d. 1590"
+                },
+                {
+                  "label": "Engraver or Printer",
+                  "value": "Hoefnagel, Joris, 1542-1600"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Braun, Georg, 1541-1622"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Hogenberg, Franz, 1539-1590"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1640"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Civitates Orbis Terrarum."
+                },
+                {
+                  "label": "Pub Reference",
+                  "value": "Koeman B&H 1-6; van der Krogt 41:1.1 (1640). This is van der Krogt's XVIII edition, c. 1640, the last edition of six volumes. Van der Krogt dates the individual volumes as 1 (c. 1640, 11th ed.), 2 (c. 1640, 9th ed.), 3 (c. 1623, 7th ed.), 4 (c. 1635, 7th ed.), 5 (c. 1640, 5th ed.), 6 (c. 1635, 3rd ed.). All six volumes are printed by Peter von Brachel between 1823 and 1640, with the texts reset by him and the plates used generally from first or second editions. We date the volumes, texts and plates separately, using Van der Krogt's listings. There are 546 plans/views of cities on 363 plates. The title for the series of six volumes is taken from the first volume which is general practice. The other five volumes are titled individually. The original publication dates are vol I, 1572; vol II, 1575; vol III, 1581; vol IV, c.1588; vol V, c.1598; vol VI, 1617."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "The Civitates Orbis Terrarum was the first atlas of world cities and one of the most important books published in the late 16th century. Although led by Braun and Hogenberg, the books were created by a large team of writers, engravers, and artists. R.V. Tooley writes: \"The Civitates is one of the great books of the World... it was the first serious attempt to give graphic representations of the main cities of the World, with a wealth of factual detail. In the main, the buildings in each view are shown in elevation, and while the ordinary buildings are stylized, the principal buildings are reproduced from actual drawings on the spot, and these, and the main streets, can be recognized today. Further, the editors gave additional factual information as a deliberately planned policy, such as the heraldic arms of the city, and the nature of the surrounding countryside, whether wooded or arable, grazing land, vineyards, or gardens. The importance of waterways is stressed by the careful delineation of stone bridges, wooden pontoons, flat-bottomed ferries, moles, wharves and jetties; the ports with ocean-going craft, the inland waters with river traffic. Varieties of land travel are depicted, pedestrians, horsemen, wagons, coaches, and palanquins. Small vignettes illustrate the trade, occupations and habits of the locality, agriculture, paper-making and textiles. The law is represented by various forms of punishment, gibbets, wheels, floggings etc. A distinctive feature of the plates is the insertion of large figures in the foreground to illustrate local costume. Those figures are out of proportion necessarily. The general multiplication of detail slightly offends certain commentators who fail to appreciate the purpose of the editors. Their primary aim was not to produce well-balanced landscapes, but to give as much information as possible in a pleasing visual form, in reality a kind of super guide book. This was done so magnificently that the result was an art as decorative as it was informative. The whole forms a wonderful compendium of life in Europe in the sixteenth century. And as city growth in early times, with a few obvious exceptions, was more or less static, even further it gives a visual printed record of mediaeval Europe, and is one of the most valuable sources remaining to the student and historian of these periods.\" (R.V. Tooley, preface to the reproduction edition of Civitates Orbis Terrarum, World Publishing, 1966)"
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "12126.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "World Atlas"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "City Atlas"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "363"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "43"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "31"
+                },
+                {
+                  "label": "Image No",
+                  "value": "12126476.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/171/12126476.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Braun, Georg, 1541-1622; Hogenberg, Franz, 1539-1590"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~300888~90072084/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~300888~90072084/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~300888~90072084",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 11028,
+                    "height": 7546
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~300888~90072084/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~300888~90072084/list/luna"
+              ],
+              "width": 11028,
+              "height": 7546
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~300888~90072084"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~311856~90081590/manifest",
+      "label": "Composite: Naples sheets 1-35",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~311856~90081590/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~311856~90081590/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Composite: Naples sheets 1-35",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Carletti, Niccolò, 1723-1796"
+                },
+                {
+                  "label": "Author",
+                  "value": "Carafa, Giovanni, 1715-1768"
+                },
+                {
+                  "label": "Author",
+                  "value": "Pignatelli, Giovanni"
+                },
+                {
+                  "label": "Date",
+                  "value": "1775"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Composite: Naples sheets 1-35"
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Niccolo Carletti"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Naples"
+                },
+                {
+                  "label": "Type",
+                  "value": "Composite Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "247"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "471"
+                },
+                {
+                  "label": "Scale 1",
+                  "value": "4,000"
+                },
+                {
+                  "label": "Reference",
+                  "value": "Giulio Pane and Vladimiro Valerio (editors), La citta di Napoli ... piante e vedute dal XV al XIX secolo (Napels, 1987), pp. 269-306."
+                },
+                {
+                  "label": "City",
+                  "value": "Naples (Italy)"
+                },
+                {
+                  "label": "Region",
+                  "value": "Naples Region (Italy)"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "(Composite of Naples sheets 1-35) Mappa Topografica della Città di Napoli e de' suoi Contorni"
+                },
+                {
+                  "label": "List No",
+                  "value": "10246.036"
+                },
+                {
+                  "label": "Series No",
+                  "value": "36"
+                },
+                {
+                  "label": "Page No",
+                  "value": "1-35"
+                },
+                {
+                  "label": "Engraver or Printer",
+                  "value": "Aloja, Giuseppe"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Carletti, Niccolò, 1723-1796"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Carafa, Giovanni, 1715-1768"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Pignatelli, Giovanni"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1775"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Mappa Topografica della Città di Napoli e de' suoi Contorni."
+                },
+                {
+                  "label": "Pub Reference",
+                  "value": "In 1776 Carletti published a book about Naples, Topografia universale della città di Napoli, likely to accompany his 1775 map. Online version here https://archive.org/details/gri_33125008673176"
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "Carletti's huge map of Naples was begun in 1750 when financing for the project was secured from the civic tribunal of San Lorenzo. 25 years were spent making the map which was published in 1775. It is considered the most important map of Naples from the 18th century. Originally under the direction of Giovanni Carafa, after his death in 1769 the project was taken over by Giovanni Pignatelli. The entire map was engraved by Giuseppe Aloja and published by Carletti with his corrections and the addition of his accompanying extensive topographical and historical index."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "10246.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "City Atlas"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "35"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "50"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "68"
+                },
+                {
+                  "label": "Image No",
+                  "value": "10246036.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/179/10246036.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=https://www.lizardtech.com/geoviewer/free-download-thanks target=_blank >GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Carletti, Niccolò, 1723-1796; Carafa, Giovanni, 1715-1768; Pignatelli, Giovanni"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~311856~90081590/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~311856~90081590/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~311856~90081590",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 111639,
+                    "height": 58874
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~311856~90081590/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~311856~90081590/list/luna"
+              ],
+              "width": 111639,
+              "height": 58874
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~311856~90081590"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~279580~90052567/manifest",
+      "label": "Venise, ville capitale de la plus celebre et illustre republique de l'Europe",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~279580~90052567/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~279580~90052567/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Venise, ville capitale de la plus celebre et illustre republique de l'Europe",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Fer, Nicolas de, 1646-1720"
+                },
+                {
+                  "label": "Date",
+                  "value": "1725"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Venise, ville capitale de la plus celebre et illustre republique de l'Europe"
+                },
+                {
+                  "label": "Publisher",
+                  "value": "N. De Fer"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Paris"
+                },
+                {
+                  "label": "Type",
+                  "value": "Atlas Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "45"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "69"
+                },
+                {
+                  "label": "Scale 1",
+                  "value": "9,000"
+                },
+                {
+                  "label": "Note",
+                  "value": "Not listed in Pastoureau. With an inset map showing the entrance and area surrounding Venise."
+                },
+                {
+                  "label": "Country",
+                  "value": "Italy"
+                },
+                {
+                  "label": "City",
+                  "value": "Venice (Italy)"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "Venise, ville capitale de la plus celebre et illustre republique de l'Europe"
+                },
+                {
+                  "label": "List No",
+                  "value": "10022.085"
+                },
+                {
+                  "label": "Series No",
+                  "value": "85"
+                },
+                {
+                  "label": "Page No",
+                  "value": "82"
+                },
+                {
+                  "label": "Engraver or Printer",
+                  "value": "Van Loon, H."
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Fer, Nicolas de, 1646-1720"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1748"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Atlas ou Recueil de Cartes Geographiques Dressees Sur les Nouvelles Observations de Mrs. de L'Academie Royale des Sciences Par N. de Fer, Geographe de sa Majeste Catolique et de Monseigneur le Dauphin. A Paris chez l'Auteur dans l'Isle du Palais sur le Quay de l'Orloge a la Sphere Royal, avec privilege du Roy 1709."
+                },
+                {
+                  "label": "Pub Reference",
+                  "value": "Pastoureau FER II C - FER II D."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "Pastoureau describes this large atlas as De Fer's folio atlas. It is described by De Fer in his catalog of 1716 as his highly detailed atlas showing all parts of the world, with all the maps available separately. The collation of the atlas seems to vary by copy - our copy has a title page but no table of contents. Our copy collates to parts of Pastoueau FER II C - FER II D, with our latest map dated 1748. The maps range in date from 1690 to 1748 with most of the maps in the 1700 to 1720 period. All maps are numbered in manuscript. Of special note in our copy is the two sheet map of the Mississippi River which is rare to find with both north and south sheets present."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "10022.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "World Atlas"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "105"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "54"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "41"
+                },
+                {
+                  "label": "Image No",
+                  "value": "10022085.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/162/10022085.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Fer, Nicolas de, 1646-1720"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~279580~90052567/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~279580~90052567/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~279580~90052567",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 17644,
+                    "height": 12848
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~279580~90052567/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~279580~90052567/list/luna"
+              ],
+              "width": 17644,
+              "height": 12848
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~279580~90052567"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~320316~90089428/manifest",
+      "label": "Tom I. No. 18. Nouveau Plan De La Ville De Rome",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~320316~90089428/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~320316~90089428/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Tom I. No. 18. Nouveau Plan De La Ville De Rome",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Chatelain Henri, 1684-1743"
+                },
+                {
+                  "label": "Author",
+                  "value": "Gueudeville, Nicolas"
+                },
+                {
+                  "label": "Date",
+                  "value": "1718"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Tom I. No. 18. Nouveau Plan De La Ville De Rome"
+                },
+                {
+                  "label": "Publisher",
+                  "value": "L'Honore & Chatelain"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Amsterdam"
+                },
+                {
+                  "label": "Type",
+                  "value": "Atlas Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "45"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "53"
+                },
+                {
+                  "label": "Scale 1",
+                  "value": "None shown"
+                },
+                {
+                  "label": "Note",
+                  "value": "Engraved detailed plan of Rome, with insets: Carte des environs de Rome and view od Palais du Pope. Map showing prominent buildings. Includes index to works of art and points of interest."
+                },
+                {
+                  "label": "Reference",
+                  "value": "Phillips 548"
+                },
+                {
+                  "label": "Country",
+                  "value": "Italy"
+                },
+                {
+                  "label": "City",
+                  "value": "Rome (Italy)"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Historical"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "Nouveau Plan De La Ville De Rome Tire Pare Ordre Du Pape Par Matteo Gregoria De Romans Tres Utille Pour Les Voiageurs. No. 18. (to accompany) Atlas Historique ... Tome I. A Amsterdam, chez L'Honore & Chatelain. M DCC XVIII (1718)."
+                },
+                {
+                  "label": "List No",
+                  "value": "13272.066"
+                },
+                {
+                  "label": "Series No",
+                  "value": "66"
+                },
+                {
+                  "label": "Page No",
+                  "value": "No. 18"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Chatelain Henri, 1684-1743"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Gueudeville, Nicolas"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1720"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Atlas Historique, Ou Nouvelle Introduction A l'Histoire, aÌ la Chronologie & aÌ la Geìographie Ancienne & Moderne : Repreìsenteìe dans de Nouvelles Cartes, OuÌ l'on remarque l'Etablissement des Etats & Empires du Monde, leur dureìe, leur chute, & leurs differens Gouvernemens … Par Mr. C.***. Avec des Dissertations sur l'Histoire de chaque Etat. Par Mr. Gueudeville. Amsterdam, chez l’Honore & Chatelain. Tome 1-7."
+                },
+                {
+                  "label": "Pub Reference",
+                  "value": "Phillips 548"
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "First edition of this Historical atlas of the world, with new introduction to history and chronology and updated maps, in 7 volumes, dated 1714-1720. By Henri Abraham Chatelain and descriptive text for volumes I-VI, by Nicolas Gueudeville. Include 308 maps, views and charts, some folded, some double page. Vol. 1-2, 4-5 and 7 have added illustrated title-pages. Vol. 2-3, nouvelle. edition, 1720; Vol. 2 called \"Tome II, Premiere partie\". Vol. 3 called \"Tome II, seconde partie..\" Vol. 7 has title: Supplement a l’Atlas historique ... avec des dissertations sur chaque sujet, par mr. H.P. Limiers ... Tome VII & dernier. Volumes 1-6 covers: T. I. Grece, Romaine, Italie, France, Espagne, Provinces-Unies. T. II. Allemagne, Prusse, Hongrie, Boheme. T. III. Grande Bretagne, Irlande, Suisse, Savoye, Lorraine, Venise. T. IV. Dannemarck, Suede, Pologne, Moscovie, Turquie. T. V. Asie. T. VI. Afrique. Volumes are bound in brown leather covers with gold-embossed on spine and title \"Atlas Historique Tom ...\" stamped in gold. \"Henri Abraham Chatelain, whose \"Atlas Historique\" was one of the most expansive Dutch encyclopedias of the age. First published in 1705, Chatelain's Atlas Historique was part of an immense seven-volume encyclopedia. Although the main focus of the text was geography, the work also included a wealth of historical, political, and genealogical information. The text was compiled by Nicholas Gueudeville and Garillon with a supplement by H.P. de Limiers and the maps were engraved by Chatelain, primarily after maps by De L'Isle. The maps were accompanied by information pertaining to cosmography, geography, history, chronology, genealogy, topography, heraldry, and costumes of the world. The maps in the Atlas Historique were mainly based on those of the French cartographer, Guillaume De L’Isle, but were presented by the Chatelains in an encyclopaedic form. The accompanying text is in French and often is printed in two columns on the page with maps and other illustrations interspersed. Each map and table is numbered consecutively within its volume and all maps bear the privileges of the States of Holland and West-Friesland. An ambitious and beautifully-presented work, the Atlas Historique was intended for the general public, fascinated in the early eighteenth century by the recently conquered colonies and the new discoveries. Distant countries, such as the Americas, Africa, the Middle East, Mongolia, China, Japan, Indonesia, etc., take an important place in this work. In addition to the maps, many of which are based on Guillaume De L'Isle, the plates are after the best travel accounts of the period, such as those of Dapper, Chardin, de Bruyn, Le Hay and other. Other sections deal with the history of the european countries, and covers a wide range of subjects including genealogy, history, cosmography, topography, heraldry and chronology, costume of the world, all illustrated with numerous engraved maps, plates of local inhabitants and heraldic charts of the lineages of the ruling families of the time. The maps, prints and tables required to make up a complete set are listed in detail in each volume. The encyclopaedic nature of the work as a whole is reflected in this six frontispiece. The pages are the work of the celerated mr. Romeijn de Hooghe. and are engraved by J.Goeree, T.Schynyoet and P.Sluyter. New scholarship has suggested the compiler of the atlas, who is identified on the title as \"Mr. C***\" not to be Henri Abraham Châtelain, but Zacharie Châtelain. (See Van Waning's article in the Journal of the International Map Collectors' Society for persuasive evidence of the latter's authorship.)\" (From Paulus Swaen catalog)"
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "13272.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Historical Atlas"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "47"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "30"
+                },
+                {
+                  "label": "Image No",
+                  "value": "13272066.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/179/13272066.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Chatelain Henri, 1684-1743; Gueudeville, Nicolas"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~320316~90089428/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~320316~90089428/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~320316~90089428",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 12177,
+                    "height": 8955
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~320316~90089428/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~320316~90089428/list/luna"
+              ],
+              "width": 12177,
+              "height": 8955
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~320316~90089428"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~320301~90089443/manifest",
+      "label": "Tom I. No. 9. L'Italie dans son premier etablissement sous la republique romaine",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~320301~90089443/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~320301~90089443/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Tom I. No. 9. L'Italie dans son premier etablissement sous la republique romaine",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Chatelain Henri, 1684-1743"
+                },
+                {
+                  "label": "Author",
+                  "value": "Gueudeville, Nicolas"
+                },
+                {
+                  "label": "Date",
+                  "value": "1718"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Tom I. No. 9. L'Italie dans son premier etablissement sous la republique romaine"
+                },
+                {
+                  "label": "Publisher",
+                  "value": "L'Honore & Chatelain"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Amsterdam"
+                },
+                {
+                  "label": "Type",
+                  "value": "Atlas Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "45"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "53"
+                },
+                {
+                  "label": "Scale 1",
+                  "value": "None shown"
+                },
+                {
+                  "label": "Note",
+                  "value": "3 maps on one one sheet: I. Etat De L'Italie Dans Le Commencement De La Republique Romaine. II. Etat De L'Italie Suivant La Division De Cesar Auguste. Etat de l'Italie comme elle est a present. With inset: Rome ancienne et ses environs. Includes two large vignettes at the bottom, showing a Parade of the Ancient Romans and a Papal Ceremony, descriptive text and tables. Relief shown pictorially."
+                },
+                {
+                  "label": "Reference",
+                  "value": "Phillips 548"
+                },
+                {
+                  "label": "Country",
+                  "value": "Italy"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Historical"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "L'Italie dans son premier etablissement sous la republique romaine : dans la division par Cesar Auguste, et ses differents gouvernemens sous les papes. No. 9. (to accompany) Atlas Historique ... Tome I. A Amsterdam, chez L'Honore & Chatelain. M DCC XVIII (1718)."
+                },
+                {
+                  "label": "List No",
+                  "value": "13272.051"
+                },
+                {
+                  "label": "Series No",
+                  "value": "51"
+                },
+                {
+                  "label": "Page No",
+                  "value": "No. 9"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Chatelain Henri, 1684-1743"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Gueudeville, Nicolas"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1720"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Atlas Historique, Ou Nouvelle Introduction A l'Histoire, aÌ la Chronologie & aÌ la Geìographie Ancienne & Moderne : Repreìsenteìe dans de Nouvelles Cartes, OuÌ l'on remarque l'Etablissement des Etats & Empires du Monde, leur dureìe, leur chute, & leurs differens Gouvernemens … Par Mr. C.***. Avec des Dissertations sur l'Histoire de chaque Etat. Par Mr. Gueudeville. Amsterdam, chez l’Honore & Chatelain. Tome 1-7."
+                },
+                {
+                  "label": "Pub Reference",
+                  "value": "Phillips 548"
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "First edition of this Historical atlas of the world, with new introduction to history and chronology and updated maps, in 7 volumes, dated 1714-1720. By Henri Abraham Chatelain and descriptive text for volumes I-VI, by Nicolas Gueudeville. Include 308 maps, views and charts, some folded, some double page. Vol. 1-2, 4-5 and 7 have added illustrated title-pages. Vol. 2-3, nouvelle. edition, 1720; Vol. 2 called \"Tome II, Premiere partie\". Vol. 3 called \"Tome II, seconde partie..\" Vol. 7 has title: Supplement a l’Atlas historique ... avec des dissertations sur chaque sujet, par mr. H.P. Limiers ... Tome VII & dernier. Volumes 1-6 covers: T. I. Grece, Romaine, Italie, France, Espagne, Provinces-Unies. T. II. Allemagne, Prusse, Hongrie, Boheme. T. III. Grande Bretagne, Irlande, Suisse, Savoye, Lorraine, Venise. T. IV. Dannemarck, Suede, Pologne, Moscovie, Turquie. T. V. Asie. T. VI. Afrique. Volumes are bound in brown leather covers with gold-embossed on spine and title \"Atlas Historique Tom ...\" stamped in gold. \"Henri Abraham Chatelain, whose \"Atlas Historique\" was one of the most expansive Dutch encyclopedias of the age. First published in 1705, Chatelain's Atlas Historique was part of an immense seven-volume encyclopedia. Although the main focus of the text was geography, the work also included a wealth of historical, political, and genealogical information. The text was compiled by Nicholas Gueudeville and Garillon with a supplement by H.P. de Limiers and the maps were engraved by Chatelain, primarily after maps by De L'Isle. The maps were accompanied by information pertaining to cosmography, geography, history, chronology, genealogy, topography, heraldry, and costumes of the world. The maps in the Atlas Historique were mainly based on those of the French cartographer, Guillaume De L’Isle, but were presented by the Chatelains in an encyclopaedic form. The accompanying text is in French and often is printed in two columns on the page with maps and other illustrations interspersed. Each map and table is numbered consecutively within its volume and all maps bear the privileges of the States of Holland and West-Friesland. An ambitious and beautifully-presented work, the Atlas Historique was intended for the general public, fascinated in the early eighteenth century by the recently conquered colonies and the new discoveries. Distant countries, such as the Americas, Africa, the Middle East, Mongolia, China, Japan, Indonesia, etc., take an important place in this work. In addition to the maps, many of which are based on Guillaume De L'Isle, the plates are after the best travel accounts of the period, such as those of Dapper, Chardin, de Bruyn, Le Hay and other. Other sections deal with the history of the european countries, and covers a wide range of subjects including genealogy, history, cosmography, topography, heraldry and chronology, costume of the world, all illustrated with numerous engraved maps, plates of local inhabitants and heraldic charts of the lineages of the ruling families of the time. The maps, prints and tables required to make up a complete set are listed in detail in each volume. The encyclopaedic nature of the work as a whole is reflected in this six frontispiece. The pages are the work of the celerated mr. Romeijn de Hooghe. and are engraved by J.Goeree, T.Schynyoet and P.Sluyter. New scholarship has suggested the compiler of the atlas, who is identified on the title as \"Mr. C***\" not to be Henri Abraham Châtelain, but Zacharie Châtelain. (See Van Waning's article in the Journal of the International Map Collectors' Society for persuasive evidence of the latter's authorship.)\" (From Paulus Swaen catalog)"
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "13272.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Historical Atlas"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "47"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "30"
+                },
+                {
+                  "label": "Image No",
+                  "value": "13272051.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/179/13272051.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Chatelain Henri, 1684-1743; Gueudeville, Nicolas"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~320301~90089443/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~320301~90089443/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~320301~90089443",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 12100,
+                    "height": 9014
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~320301~90089443/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~320301~90089443/list/luna"
+              ],
+              "width": 12100,
+              "height": 9014
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~320301~90089443"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~320303~90089441/manifest",
+      "label": "Tom I. No. 11. Roma vetus : plan des antiquitez de Rome",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~320303~90089441/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~320303~90089441/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Tom I. No. 11. Roma vetus : plan des antiquitez de Rome",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Chatelain Henri, 1684-1743"
+                },
+                {
+                  "label": "Author",
+                  "value": "Gueudeville, Nicolas"
+                },
+                {
+                  "label": "Date",
+                  "value": "1718"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Tom I. No. 11. Roma vetus : plan des antiquitez de Rome"
+                },
+                {
+                  "label": "Publisher",
+                  "value": "L'Honore & Chatelain"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Amsterdam"
+                },
+                {
+                  "label": "Type",
+                  "value": "Atlas Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "45"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "28"
+                },
+                {
+                  "label": "Scale 1",
+                  "value": "None shown"
+                },
+                {
+                  "label": "Note",
+                  "value": "Engraved pictorial map of Rome, showing bridges, churches, fountains, and places of interest. Includes alphabetical key to places of interest."
+                },
+                {
+                  "label": "Reference",
+                  "value": "Phillips 548"
+                },
+                {
+                  "label": "City",
+                  "value": "Rome (Italy)"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Historical"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Pictorial map"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "Roma vetus : plan des antiquitez de Rome representes et distinguees suivant la situation de chacun de ses anciens monuments. No. 11. (to accompany) Atlas Historique ... Tome I. A Amsterdam, chez L'Honore & Chatelain. M DCC XVIII (1718)."
+                },
+                {
+                  "label": "List No",
+                  "value": "13272.053"
+                },
+                {
+                  "label": "Series No",
+                  "value": "53"
+                },
+                {
+                  "label": "Page No",
+                  "value": "No. 11"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Chatelain Henri, 1684-1743"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Gueudeville, Nicolas"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1720"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Atlas Historique, Ou Nouvelle Introduction A l'Histoire, aÌ la Chronologie & aÌ la Geìographie Ancienne & Moderne : Repreìsenteìe dans de Nouvelles Cartes, OuÌ l'on remarque l'Etablissement des Etats & Empires du Monde, leur dureìe, leur chute, & leurs differens Gouvernemens … Par Mr. C.***. Avec des Dissertations sur l'Histoire de chaque Etat. Par Mr. Gueudeville. Amsterdam, chez l’Honore & Chatelain. Tome 1-7."
+                },
+                {
+                  "label": "Pub Reference",
+                  "value": "Phillips 548"
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "First edition of this Historical atlas of the world, with new introduction to history and chronology and updated maps, in 7 volumes, dated 1714-1720. By Henri Abraham Chatelain and descriptive text for volumes I-VI, by Nicolas Gueudeville. Include 308 maps, views and charts, some folded, some double page. Vol. 1-2, 4-5 and 7 have added illustrated title-pages. Vol. 2-3, nouvelle. edition, 1720; Vol. 2 called \"Tome II, Premiere partie\". Vol. 3 called \"Tome II, seconde partie..\" Vol. 7 has title: Supplement a l’Atlas historique ... avec des dissertations sur chaque sujet, par mr. H.P. Limiers ... Tome VII & dernier. Volumes 1-6 covers: T. I. Grece, Romaine, Italie, France, Espagne, Provinces-Unies. T. II. Allemagne, Prusse, Hongrie, Boheme. T. III. Grande Bretagne, Irlande, Suisse, Savoye, Lorraine, Venise. T. IV. Dannemarck, Suede, Pologne, Moscovie, Turquie. T. V. Asie. T. VI. Afrique. Volumes are bound in brown leather covers with gold-embossed on spine and title \"Atlas Historique Tom ...\" stamped in gold. \"Henri Abraham Chatelain, whose \"Atlas Historique\" was one of the most expansive Dutch encyclopedias of the age. First published in 1705, Chatelain's Atlas Historique was part of an immense seven-volume encyclopedia. Although the main focus of the text was geography, the work also included a wealth of historical, political, and genealogical information. The text was compiled by Nicholas Gueudeville and Garillon with a supplement by H.P. de Limiers and the maps were engraved by Chatelain, primarily after maps by De L'Isle. The maps were accompanied by information pertaining to cosmography, geography, history, chronology, genealogy, topography, heraldry, and costumes of the world. The maps in the Atlas Historique were mainly based on those of the French cartographer, Guillaume De L’Isle, but were presented by the Chatelains in an encyclopaedic form. The accompanying text is in French and often is printed in two columns on the page with maps and other illustrations interspersed. Each map and table is numbered consecutively within its volume and all maps bear the privileges of the States of Holland and West-Friesland. An ambitious and beautifully-presented work, the Atlas Historique was intended for the general public, fascinated in the early eighteenth century by the recently conquered colonies and the new discoveries. Distant countries, such as the Americas, Africa, the Middle East, Mongolia, China, Japan, Indonesia, etc., take an important place in this work. In addition to the maps, many of which are based on Guillaume De L'Isle, the plates are after the best travel accounts of the period, such as those of Dapper, Chardin, de Bruyn, Le Hay and other. Other sections deal with the history of the european countries, and covers a wide range of subjects including genealogy, history, cosmography, topography, heraldry and chronology, costume of the world, all illustrated with numerous engraved maps, plates of local inhabitants and heraldic charts of the lineages of the ruling families of the time. The maps, prints and tables required to make up a complete set are listed in detail in each volume. The encyclopaedic nature of the work as a whole is reflected in this six frontispiece. The pages are the work of the celerated mr. Romeijn de Hooghe. and are engraved by J.Goeree, T.Schynyoet and P.Sluyter. New scholarship has suggested the compiler of the atlas, who is identified on the title as \"Mr. C***\" not to be Henri Abraham Châtelain, but Zacharie Châtelain. (See Van Waning's article in the Journal of the International Map Collectors' Society for persuasive evidence of the latter's authorship.)\" (From Paulus Swaen catalog)"
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "13272.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Historical Atlas"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "47"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "30"
+                },
+                {
+                  "label": "Image No",
+                  "value": "13272053.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/179/13272053.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Chatelain Henri, 1684-1743; Gueudeville, Nicolas"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~320303~90089441/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~320303~90089441/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~320303~90089441",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 12075,
+                    "height": 8978
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~320303~90089441/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~320303~90089441/list/luna"
+              ],
+              "width": 12075,
+              "height": 8978
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~320303~90089441"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~320319~90089425/manifest",
+      "label": "Tom I. No. 22. Rome ancienne et moderme",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~320319~90089425/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~320319~90089425/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Tom I. No. 22. Rome ancienne et moderme",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Chatelain Henri, 1684-1743"
+                },
+                {
+                  "label": "Author",
+                  "value": "Gueudeville, Nicolas"
+                },
+                {
+                  "label": "Date",
+                  "value": "1718"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Tom I. No. 22. Rome ancienne et moderme"
+                },
+                {
+                  "label": "Publisher",
+                  "value": "L'Honore & Chatelain"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Amsterdam"
+                },
+                {
+                  "label": "Type",
+                  "value": "Atlas Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "45"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "53"
+                },
+                {
+                  "label": "Scale 1",
+                  "value": "None shown"
+                },
+                {
+                  "label": "Note",
+                  "value": "Engraved detailed plan of Rome, showing location of landmarks, fortifications, streets, gardens, colleges, churches and palaces. Includes notes and tables."
+                },
+                {
+                  "label": "Reference",
+                  "value": "Phillips 548"
+                },
+                {
+                  "label": "Country",
+                  "value": "Italy"
+                },
+                {
+                  "label": "City",
+                  "value": "Rome (Italy)"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Historical"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "Rome ancienne et moderme. No. 22. (to accompany) Atlas Historique ... Tome I. A Amsterdam, chez L'Honore & Chatelain. M DCC XVIII (1718)."
+                },
+                {
+                  "label": "List No",
+                  "value": "13272.069"
+                },
+                {
+                  "label": "Series No",
+                  "value": "69"
+                },
+                {
+                  "label": "Page No",
+                  "value": "No. 22"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Chatelain Henri, 1684-1743"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Gueudeville, Nicolas"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1720"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Atlas Historique, Ou Nouvelle Introduction A l'Histoire, aÌ la Chronologie & aÌ la Geìographie Ancienne & Moderne : Repreìsenteìe dans de Nouvelles Cartes, OuÌ l'on remarque l'Etablissement des Etats & Empires du Monde, leur dureìe, leur chute, & leurs differens Gouvernemens … Par Mr. C.***. Avec des Dissertations sur l'Histoire de chaque Etat. Par Mr. Gueudeville. Amsterdam, chez l’Honore & Chatelain. Tome 1-7."
+                },
+                {
+                  "label": "Pub Reference",
+                  "value": "Phillips 548"
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "First edition of this Historical atlas of the world, with new introduction to history and chronology and updated maps, in 7 volumes, dated 1714-1720. By Henri Abraham Chatelain and descriptive text for volumes I-VI, by Nicolas Gueudeville. Include 308 maps, views and charts, some folded, some double page. Vol. 1-2, 4-5 and 7 have added illustrated title-pages. Vol. 2-3, nouvelle. edition, 1720; Vol. 2 called \"Tome II, Premiere partie\". Vol. 3 called \"Tome II, seconde partie..\" Vol. 7 has title: Supplement a l’Atlas historique ... avec des dissertations sur chaque sujet, par mr. H.P. Limiers ... Tome VII & dernier. Volumes 1-6 covers: T. I. Grece, Romaine, Italie, France, Espagne, Provinces-Unies. T. II. Allemagne, Prusse, Hongrie, Boheme. T. III. Grande Bretagne, Irlande, Suisse, Savoye, Lorraine, Venise. T. IV. Dannemarck, Suede, Pologne, Moscovie, Turquie. T. V. Asie. T. VI. Afrique. Volumes are bound in brown leather covers with gold-embossed on spine and title \"Atlas Historique Tom ...\" stamped in gold. \"Henri Abraham Chatelain, whose \"Atlas Historique\" was one of the most expansive Dutch encyclopedias of the age. First published in 1705, Chatelain's Atlas Historique was part of an immense seven-volume encyclopedia. Although the main focus of the text was geography, the work also included a wealth of historical, political, and genealogical information. The text was compiled by Nicholas Gueudeville and Garillon with a supplement by H.P. de Limiers and the maps were engraved by Chatelain, primarily after maps by De L'Isle. The maps were accompanied by information pertaining to cosmography, geography, history, chronology, genealogy, topography, heraldry, and costumes of the world. The maps in the Atlas Historique were mainly based on those of the French cartographer, Guillaume De L’Isle, but were presented by the Chatelains in an encyclopaedic form. The accompanying text is in French and often is printed in two columns on the page with maps and other illustrations interspersed. Each map and table is numbered consecutively within its volume and all maps bear the privileges of the States of Holland and West-Friesland. An ambitious and beautifully-presented work, the Atlas Historique was intended for the general public, fascinated in the early eighteenth century by the recently conquered colonies and the new discoveries. Distant countries, such as the Americas, Africa, the Middle East, Mongolia, China, Japan, Indonesia, etc., take an important place in this work. In addition to the maps, many of which are based on Guillaume De L'Isle, the plates are after the best travel accounts of the period, such as those of Dapper, Chardin, de Bruyn, Le Hay and other. Other sections deal with the history of the european countries, and covers a wide range of subjects including genealogy, history, cosmography, topography, heraldry and chronology, costume of the world, all illustrated with numerous engraved maps, plates of local inhabitants and heraldic charts of the lineages of the ruling families of the time. The maps, prints and tables required to make up a complete set are listed in detail in each volume. The encyclopaedic nature of the work as a whole is reflected in this six frontispiece. The pages are the work of the celerated mr. Romeijn de Hooghe. and are engraved by J.Goeree, T.Schynyoet and P.Sluyter. New scholarship has suggested the compiler of the atlas, who is identified on the title as \"Mr. C***\" not to be Henri Abraham Châtelain, but Zacharie Châtelain. (See Van Waning's article in the Journal of the International Map Collectors' Society for persuasive evidence of the latter's authorship.)\" (From Paulus Swaen catalog)"
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "13272.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Historical Atlas"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "47"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "30"
+                },
+                {
+                  "label": "Image No",
+                  "value": "13272069.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/179/13272069.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Chatelain Henri, 1684-1743; Gueudeville, Nicolas"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~320319~90089425/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~320319~90089425/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~320319~90089425",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 11964,
+                    "height": 8798
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~320319~90089425/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~320319~90089425/list/luna"
+              ],
+              "width": 11964,
+              "height": 8798
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~320319~90089425"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~331221~90099631/manifest",
+      "label": "Dominio Veneto nell' Italia",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~331221~90099631/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~331221~90099631/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Dominio Veneto nell' Italia",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Magini, Giovanni Antonio, 1555-1617"
+                },
+                {
+                  "label": "Author",
+                  "value": "Magini, Fabio, active 1620"
+                },
+                {
+                  "label": "Date",
+                  "value": "1620"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Dominio Veneto nell' Italia"
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Sebastiano Bonomi"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Bologna"
+                },
+                {
+                  "label": "Type",
+                  "value": "Atlas Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "30"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "47"
+                },
+                {
+                  "label": "Scale 1",
+                  "value": "980,000"
+                },
+                {
+                  "label": "Note",
+                  "value": "Dedication: \"Al il.mo S.or mio prone oss.mo il S.or Gio. Francesco Sagredo dell ill.mo S.or Nicolo / Gio. Antonio Magini Padouano math.co dello studio di Bologna.\""
+                },
+                {
+                  "label": "Country",
+                  "value": "Italy"
+                },
+                {
+                  "label": "Region",
+                  "value": "Venice Region (Italy)"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "Dominio Veneto nell' Italia"
+                },
+                {
+                  "label": "List No",
+                  "value": "10688.040"
+                },
+                {
+                  "label": "Series No",
+                  "value": "40"
+                },
+                {
+                  "label": "Page No",
+                  "value": "18"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Magini, Giovanni Antonio, 1555-1617"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Magini, Fabio, active 1620"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1620"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Italia di Gio. Ant. Magini : data in luce da Fabio suo figliuolo al serenissimo Ferdinādo Gonzaga duca di Mantoua edi Monferrato etc."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "\"First edition of the first printed atlas of Italy. Italia. Bologna: Sebastiano Bonomi, 1620. Folio, engraved allegorical title by Olivero Gatto printed within typographical border, 61 engraved maps as called for in index (all but 3 double-page), in fine dark impression, engraved portrait of Magini, text on 15 leaves. Seventeenth-century red morocco, gilt, sides panelled in gilt and blind, gilt edges.The atlas was undertaken by Magini in 1594 and finally completed after his death in 1617 by his son Fabio in 1620. The early maps were engraved by the three Arnoldi brothers, but after the return of the two surviving brothers to Holland in 1603 Magini employed the Englishman Benjamin Wright to complete the engraving. Wright engraved 11 of the maps. The portrait is supplied: it is not called for in this edition, and appeared first in the second edition of 1632. As a cartographer, Magini's life's work was the preparation of Italia or the Atlante geografico d'Italia (Geographic Atlas of Italy). This was intended to include maps of every Italian region with exact nomenclature and historical notes. A major project, its production (begun in 1594) proved expensive and Magini assumed various additional posts in order to fund it, including becoming tutor in mathematics to the sons of Vincenzo I of Gonzaga, Duke of Mantua, a major patron of the arts and sciences. He also served as court astrologer. The Duke of Mantua, to whom the atlas is dedicated, assisted him with this project and allowed for maps of the various states of Italy to be brought to Magini. The governments of Messina and Genoa also assisted Magini financially in this project. Magini did not do any of the mapping himself. Magini first started work on this important atlas in 1594, but publication was beset by a series of problems beyond his control. The initial engraving was entrusted to the Dutchman Arnoldo di Arnoldi, joined in 1600 by his brother Jacobo. However, the same year, Arnoldo was lured away by the promise of higher wages to work for Matteo Florimi in Siena. Jacobo remained in Magini's employ for two more years, but then went to join his brother, only to find Arnoldo had died in the interim. He resumed work for Magini, with his younger brother, but when Jacobo became ill, early in 1603, the two surviving brothers returned to the Netherlands. Magini's attractive atlas provides a comprehensive series of Italian maps for the first part of the 17th century, combining the traditional styles of the Italian map maker with features used in North European mapping, such as the 'Mercator' style wavy lines for the sea patterns.\" (Filip Devroe, 2020). This copy is from the Wardington Library sale, 2005.. The second edition was published in 1630/32, and the third edition was published in 1642. The maps were unchanged between editions, but the text pages were reset. In 1608, In 1608, Magini produced the first wall map of Italy to improve on that of Gastaldi: his meticulously researched and beautifully engraved 8-sheet Italia Nuova was hugely influential: upon its publication, Blaeu promptly copied it to produce his own wall map of Italy; the rest of the mapmaking establishment swiftly followed suit. Consequently, virtually every 17th century map of Italy can be identified as a derivative of Magini's monumental achievement."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "10688.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "National Atlas"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "61"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "41"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "29"
+                },
+                {
+                  "label": "Image No",
+                  "value": "10688040.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/190/10688040.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Magini, Giovanni Antonio, 1555-1617; Magini, Fabio, active 1620"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~331221~90099631/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~331221~90099631/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~331221~90099631",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 12414,
+                    "height": 8504
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~331221~90099631/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~331221~90099631/list/luna"
+              ],
+              "width": 12414,
+              "height": 8504
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~331221~90099631"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~331245~90099656/manifest",
+      "label": "Campagna di Roma, olim Latium",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~331245~90099656/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~331245~90099656/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Campagna di Roma, olim Latium",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Magini, Giovanni Antonio, 1555-1617"
+                },
+                {
+                  "label": "Author",
+                  "value": "Magini, Fabio, active 1620"
+                },
+                {
+                  "label": "Date",
+                  "value": "1620"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Campagna di Roma, olim Latium"
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Sebastiano Bonomi"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Bologna"
+                },
+                {
+                  "label": "Type",
+                  "value": "Atlas Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "35"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "45"
+                },
+                {
+                  "label": "Scale 1",
+                  "value": "250,000"
+                },
+                {
+                  "label": "Country",
+                  "value": "Italy"
+                },
+                {
+                  "label": "Region",
+                  "value": "Rome Region (Italy)"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "Campagna di Roma, olim Latium"
+                },
+                {
+                  "label": "List No",
+                  "value": "10688.064"
+                },
+                {
+                  "label": "Series No",
+                  "value": "64"
+                },
+                {
+                  "label": "Page No",
+                  "value": "42"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Magini, Giovanni Antonio, 1555-1617"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Magini, Fabio, active 1620"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1620"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Italia di Gio. Ant. Magini : data in luce da Fabio suo figliuolo al serenissimo Ferdinādo Gonzaga duca di Mantoua edi Monferrato etc."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "\"First edition of the first printed atlas of Italy. Italia. Bologna: Sebastiano Bonomi, 1620. Folio, engraved allegorical title by Olivero Gatto printed within typographical border, 61 engraved maps as called for in index (all but 3 double-page), in fine dark impression, engraved portrait of Magini, text on 15 leaves. Seventeenth-century red morocco, gilt, sides panelled in gilt and blind, gilt edges.The atlas was undertaken by Magini in 1594 and finally completed after his death in 1617 by his son Fabio in 1620. The early maps were engraved by the three Arnoldi brothers, but after the return of the two surviving brothers to Holland in 1603 Magini employed the Englishman Benjamin Wright to complete the engraving. Wright engraved 11 of the maps. The portrait is supplied: it is not called for in this edition, and appeared first in the second edition of 1632. As a cartographer, Magini's life's work was the preparation of Italia or the Atlante geografico d'Italia (Geographic Atlas of Italy). This was intended to include maps of every Italian region with exact nomenclature and historical notes. A major project, its production (begun in 1594) proved expensive and Magini assumed various additional posts in order to fund it, including becoming tutor in mathematics to the sons of Vincenzo I of Gonzaga, Duke of Mantua, a major patron of the arts and sciences. He also served as court astrologer. The Duke of Mantua, to whom the atlas is dedicated, assisted him with this project and allowed for maps of the various states of Italy to be brought to Magini. The governments of Messina and Genoa also assisted Magini financially in this project. Magini did not do any of the mapping himself. Magini first started work on this important atlas in 1594, but publication was beset by a series of problems beyond his control. The initial engraving was entrusted to the Dutchman Arnoldo di Arnoldi, joined in 1600 by his brother Jacobo. However, the same year, Arnoldo was lured away by the promise of higher wages to work for Matteo Florimi in Siena. Jacobo remained in Magini's employ for two more years, but then went to join his brother, only to find Arnoldo had died in the interim. He resumed work for Magini, with his younger brother, but when Jacobo became ill, early in 1603, the two surviving brothers returned to the Netherlands. Magini's attractive atlas provides a comprehensive series of Italian maps for the first part of the 17th century, combining the traditional styles of the Italian map maker with features used in North European mapping, such as the 'Mercator' style wavy lines for the sea patterns.\" (Filip Devroe, 2020). This copy is from the Wardington Library sale, 2005.. The second edition was published in 1630/32, and the third edition was published in 1642. The maps were unchanged between editions, but the text pages were reset. In 1608, In 1608, Magini produced the first wall map of Italy to improve on that of Gastaldi: his meticulously researched and beautifully engraved 8-sheet Italia Nuova was hugely influential: upon its publication, Blaeu promptly copied it to produce his own wall map of Italy; the rest of the mapmaking establishment swiftly followed suit. Consequently, virtually every 17th century map of Italy can be identified as a derivative of Magini's monumental achievement."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "10688.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "National Atlas"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "61"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "41"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "29"
+                },
+                {
+                  "label": "Image No",
+                  "value": "10688064.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/190/10688064.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Magini, Giovanni Antonio, 1555-1617; Magini, Fabio, active 1620"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~331245~90099656/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~331245~90099656/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~331245~90099656",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 12313,
+                    "height": 8397
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~331245~90099656/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~331245~90099656/list/luna"
+              ],
+              "width": 12313,
+              "height": 8397
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~331245~90099656"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~299197~90073796/manifest",
+      "label": "Prospetto D[ell']alma città di Roma visto dal Monte Gianicolo.",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~299197~90073796/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~299197~90073796/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Prospetto D[ell']alma città di Roma visto dal Monte Gianicolo.",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Vasi, Giuseppe, 1710-1782"
+                },
+                {
+                  "label": "Date",
+                  "value": "1765"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Prospetto D[ell']alma città di Roma visto dal Monte Gianicolo."
+                },
+                {
+                  "label": "Publisher",
+                  "value": "[Giuseppe Vasi]"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "[Rome]"
+                },
+                {
+                  "label": "Type",
+                  "value": "View"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "107"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "267"
+                },
+                {
+                  "label": "Note",
+                  "value": "The panorama is inscribed with an \"Indice delle cose notabili diviso in otto giornate,\" listing 390 monuments and sites, the numbering of which correspond to those in the guidebook that Vasi published in the same year: Indice istorico del gran prospetto di Roma. The dedication to Charles III appears in the lower left corner on an antique slab. To the right of Charles III's coat of arms are printed verses from the 64th epigram by the Roman poet Martial: HINC SEPTEM DOMINOS VIDERE MONTES / ET TOTAM LICET AESTIMARE ROMAN. M. Val. Mart. lib. 4 epig. 64. The view is made of 12 sheets joined and backed on linen."
+                },
+                {
+                  "label": "City",
+                  "value": "Rome (Italy)"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "Prospetto D[ell']alma città di Roma visto dal Monte Gianicolo : f. sotto gli auspicj della Sac. Maestà Cattol. di Carlo III re delle Spagne pio giusto magnifico promotore eccelso delle scienze e delle arti"
+                },
+                {
+                  "label": "List No",
+                  "value": "10105.000"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Vasi, Giuseppe, 1710-1782"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1765"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Prospetto D[ell']alma città di Roma visto dal Monte Gianicolo : f. sotto gli auspicj della Sac. Maestà Cattol. di Carlo III re delle Spagne pio giusto magnifico promotore eccelso delle scienze e delle arti"
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "see note field above."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "10105.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "View"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "107"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "267"
+                },
+                {
+                  "label": "Image No",
+                  "value": "10105000.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/171/10105000.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Vasi, Giuseppe, 1710-1782"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~299197~90073796/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~299197~90073796/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~299197~90073796",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 62520,
+                    "height": 24772
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~299197~90073796/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~299197~90073796/list/luna"
+              ],
+              "width": 62520,
+              "height": 24772
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~299197~90073796"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~301423~90129429/manifest",
+      "label": "Nuova Topografia Di Roma",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~301423~90129429/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~301423~90129429/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Nuova Topografia Di Roma",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Nolli, Giovanni Battista"
+                },
+                {
+                  "label": "Author",
+                  "value": "Pozzi, Stefano"
+                },
+                {
+                  "label": "Date",
+                  "value": "1748"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Nuova Topografia Di Roma"
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Gio. Battista Nolli"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Roma"
+                },
+                {
+                  "label": "Type",
+                  "value": "Wall Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "167"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "204"
+                },
+                {
+                  "label": "Scale 1",
+                  "value": "2,900"
+                },
+                {
+                  "label": "Note",
+                  "value": "Plan of Rome on 12 sheets, here originally assembled as a wall map. Nolli was an Italian architect and surveyor. He began surveying for his Rome map in 1736 and engraved it in 1748. The map was published in response to the commission of Pope Benedict XIV to survey Rome in order to help create demarcations for the 14 traditional rioni or districts. It was by far the most accurate description of Rome produced to date at the time. For decades it continued to be used as a base map for many of the maps of Rome that followed it. Stefano Pozzi engraved the views at the bottom of the map."
+                },
+                {
+                  "label": "Country",
+                  "value": "Italy"
+                },
+                {
+                  "label": "City",
+                  "value": "Rome (Italy)"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "Alla Santita' Di Nostro Signore Papa Benedetto XIV La Nuova Topografia Di Roma Ossequiosamente Offerisce E Dedica L'Umilissimo Servo Giambattista Nolli Comasco."
+                },
+                {
+                  "label": "List No",
+                  "value": "10113.001"
+                },
+                {
+                  "label": "Series No",
+                  "value": "1"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Nolli, Giovanni Battista"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Pozzi, Stefano"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1748"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Alla Santita' Di Nostro Signore Papa Benedetto XIV La Nuova Topografia Di Roma Ossequiosamente Offerisce E Dedica L'Umilissimo Servo Giambattista Nolli Comasco."
+                },
+                {
+                  "label": "Pub Reference",
+                  "value": "View this map in Google Earth https://rumsey3.s3.amazonaws.com/Rome_1748.kmz Requires Google Earth Application https://www.google.com/earth/download/gep/agree.html"
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "See note field above."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "10113.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Wall Map"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "167"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "204"
+                },
+                {
+                  "label": "Image No",
+                  "value": "10113001.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/213/10113001.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Nolli, Giovanni Battista; Pozzi, Stefano"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~301423~90129429/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~301423~90129429/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~301423~90129429",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 34152,
+                    "height": 28378
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~301423~90129429/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~301423~90129429/list/luna"
+              ],
+              "width": 34152,
+              "height": 28378
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~301423~90129429"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~310085~90080100/manifest",
+      "label": "V.1: Libro primo: 1: Porta del Popolo olim Flaminia",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~310085~90080100/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~310085~90080100/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "V.1: Libro primo: 1: Porta del Popolo olim Flaminia",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Vasi, Giuseppe Agostino Pietro, 1710-1782"
+                },
+                {
+                  "label": "Author",
+                  "value": "Bianchini, Giuseppe, 1704-1764"
+                },
+                {
+                  "label": "Date",
+                  "value": "1747"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "V.1: Libro primo: 1: Porta del Popolo olim Flaminia"
+                },
+                {
+                  "label": "Publisher",
+                  "value": "stamperia di Chracas"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Roma"
+                },
+                {
+                  "label": "Type",
+                  "value": "View"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "19"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "29"
+                },
+                {
+                  "label": "Note",
+                  "value": "Engraved view of the ancient Roman gate of the Porta del Popolo."
+                },
+                {
+                  "label": "Reference",
+                  "value": "Early printed books, 4 (2001), nos. 3389-98"
+                },
+                {
+                  "label": "City",
+                  "value": "Rome (Italy)"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "Porta del Popolo olim Flaminia. G. Vasi dis. e inc. 1. (to accompany) Delle magnificenze di Roma antica e moderna : Libro primo ... In Roma MDCCXLVII (1747)."
+                },
+                {
+                  "label": "List No",
+                  "value": "13008.007"
+                },
+                {
+                  "label": "Series No",
+                  "value": "7"
+                },
+                {
+                  "label": "Page No",
+                  "value": "1"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Vasi, Giuseppe Agostino Pietro, 1710-1782"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1761"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Delle magnificenze di Roma antica e moderna. libro primo (-decimo). Da Giuseppe Vasi da Corleone. Pittore Inxisore Architetto e Pastore Arcade … Composta dal P. Giuseppe Bianchini Veronese : prete della Congregazione dell’Oratorio di Roma, ed Accademico antiquatrio. In Roma MDCCXLVII (-MDCCLXI), (1747-1761). Nella Stamperia del Chracas Presso S. Marco Al Corso. Con Licenza de Superiori."
+                },
+                {
+                  "label": "Pub Reference",
+                  "value": "Early printed books, 4 (2001), nos. 3389-98"
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "Vasi’s views of ancient and modern Rome show a personification of Rome in a series of ten books in 3 volumes. Engraved by Vasi, with explanatory text that provides historical and documentary information for each view, written by Vasi and Giuseppe Bianchini in Book I. Published between 1747 and 1761, it consists of 200 plates, 30 inset views and 3 plans in Book I and two plans in Book X. Plate 77 marked 78 in Vol. 2, Book 4. Plate 177 marked 178 in Vol. 3, Book 9. The collection lacks one leaf of text - Pages XXIX and XXX in Vol. 3, Book 10. Books are arranged by themes devoted to a particular architectural aspect of Rome: 1. Gates and walls; 2. Piazzas, obelisks, columns &c.; 3. Basilicas and ancient churches; 4. Palaces and streets; 5. Bridges and buildings on the Tiber; 6. Parish churches; 7. Conventi and clergy houses; 8. Monasteries for women; 9. Colleges, hospitals and pious foundations; 10. Villas and gardens. Engraved views showing towns, landmarks, buildings, plants, shrubs, figures, coaches and animals. The ten title-page vignettes are all unsigned. Each book has a dedication note by Vasi, a preface and index. The publishers were: Stamperia del Chracas; Stamperia di Apollo; Niccolo e Marco Pagliarini and Eredi Barbiellini. Vasi’s Roman vedute became popular outside Italy in the second half of the eighteenth century. In the inscription, Vasi describes himself as ‘painter, engraver, architect and Arcadian shepherd’, or member of the Accademia degli Arcadi. The academy was a literary and social club formed not only by authors and poets, but also by members of the professional classes, ecclesiastics and aristocrats interested in literature and modern science."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "13008.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Geography Book"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "City Atlas"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "202"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "28"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "40"
+                },
+                {
+                  "label": "Image No",
+                  "value": "13008007.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/179/13008007.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Vasi, Giuseppe Agostino Pietro, 1710-1782; Bianchini, Giuseppe, 1704-1764"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~310085~90080100/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~310085~90080100/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~310085~90080100",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 8281,
+                    "height": 5943
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~310085~90080100/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~310085~90080100/list/luna"
+              ],
+              "width": 8281,
+              "height": 5943
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~310085~90080100"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~310088~90080097/manifest",
+      "label": "V.1: Libro primo: 2: Porta Piniciana ot collatina",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~310088~90080097/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~310088~90080097/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "V.1: Libro primo: 2: Porta Piniciana ot collatina",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Vasi, Giuseppe Agostino Pietro, 1710-1782"
+                },
+                {
+                  "label": "Author",
+                  "value": "Bianchini, Giuseppe, 1704-1764"
+                },
+                {
+                  "label": "Date",
+                  "value": "1747"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "V.1: Libro primo: 2: Porta Piniciana ot collatina"
+                },
+                {
+                  "label": "Publisher",
+                  "value": "stamperia di Chracas"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Roma"
+                },
+                {
+                  "label": "Type",
+                  "value": "View"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "19"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "29"
+                },
+                {
+                  "label": "Note",
+                  "value": "Engraved view of the Pincian Gate of the Aurelian Walls in Rome."
+                },
+                {
+                  "label": "Reference",
+                  "value": "Early printed books, 4 (2001), nos. 3389-98"
+                },
+                {
+                  "label": "City",
+                  "value": "Rome (Italy)"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "Porta Piniciana ot collatina. G. Vasi dis. e inc. 2. (to accompany) Delle magnificenze di Roma antica e moderna : Libro primo ... In Roma MDCCXLVII (1747)."
+                },
+                {
+                  "label": "List No",
+                  "value": "13008.010"
+                },
+                {
+                  "label": "Series No",
+                  "value": "10"
+                },
+                {
+                  "label": "Page No",
+                  "value": "2"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Vasi, Giuseppe Agostino Pietro, 1710-1782"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1761"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Delle magnificenze di Roma antica e moderna. libro primo (-decimo). Da Giuseppe Vasi da Corleone. Pittore Inxisore Architetto e Pastore Arcade … Composta dal P. Giuseppe Bianchini Veronese : prete della Congregazione dell’Oratorio di Roma, ed Accademico antiquatrio. In Roma MDCCXLVII (-MDCCLXI), (1747-1761). Nella Stamperia del Chracas Presso S. Marco Al Corso. Con Licenza de Superiori."
+                },
+                {
+                  "label": "Pub Reference",
+                  "value": "Early printed books, 4 (2001), nos. 3389-98"
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "Vasi’s views of ancient and modern Rome show a personification of Rome in a series of ten books in 3 volumes. Engraved by Vasi, with explanatory text that provides historical and documentary information for each view, written by Vasi and Giuseppe Bianchini in Book I. Published between 1747 and 1761, it consists of 200 plates, 30 inset views and 3 plans in Book I and two plans in Book X. Plate 77 marked 78 in Vol. 2, Book 4. Plate 177 marked 178 in Vol. 3, Book 9. The collection lacks one leaf of text - Pages XXIX and XXX in Vol. 3, Book 10. Books are arranged by themes devoted to a particular architectural aspect of Rome: 1. Gates and walls; 2. Piazzas, obelisks, columns &c.; 3. Basilicas and ancient churches; 4. Palaces and streets; 5. Bridges and buildings on the Tiber; 6. Parish churches; 7. Conventi and clergy houses; 8. Monasteries for women; 9. Colleges, hospitals and pious foundations; 10. Villas and gardens. Engraved views showing towns, landmarks, buildings, plants, shrubs, figures, coaches and animals. The ten title-page vignettes are all unsigned. Each book has a dedication note by Vasi, a preface and index. The publishers were: Stamperia del Chracas; Stamperia di Apollo; Niccolo e Marco Pagliarini and Eredi Barbiellini. Vasi’s Roman vedute became popular outside Italy in the second half of the eighteenth century. In the inscription, Vasi describes himself as ‘painter, engraver, architect and Arcadian shepherd’, or member of the Accademia degli Arcadi. The academy was a literary and social club formed not only by authors and poets, but also by members of the professional classes, ecclesiastics and aristocrats interested in literature and modern science."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "13008.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Geography Book"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "City Atlas"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "202"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "28"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "40"
+                },
+                {
+                  "label": "Image No",
+                  "value": "13008010.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/179/13008010.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Vasi, Giuseppe Agostino Pietro, 1710-1782; Bianchini, Giuseppe, 1704-1764"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~310088~90080097/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~310088~90080097/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~310088~90080097",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 8323,
+                    "height": 5943
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~310088~90080097/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~310088~90080097/list/luna"
+              ],
+              "width": 8323,
+              "height": 5943
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~310088~90080097"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~310109~90080076/manifest",
+      "label": "V.1: Libro primo: 7: Porta Maggiore olim Nevia",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~310109~90080076/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~310109~90080076/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "V.1: Libro primo: 7: Porta Maggiore olim Nevia",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Vasi, Giuseppe Agostino Pietro, 1710-1782"
+                },
+                {
+                  "label": "Author",
+                  "value": "Bianchini, Giuseppe, 1704-1764"
+                },
+                {
+                  "label": "Date",
+                  "value": "1747"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "V.1: Libro primo: 7: Porta Maggiore olim Nevia"
+                },
+                {
+                  "label": "Publisher",
+                  "value": "stamperia di Chracas"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Roma"
+                },
+                {
+                  "label": "Type",
+                  "value": "View"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "19"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "29"
+                },
+                {
+                  "label": "Note",
+                  "value": "Engraved view of the gate of Maggior, one of the eastern gates in the Aurelian Walls of Rome."
+                },
+                {
+                  "label": "Reference",
+                  "value": "Early printed books, 4 (2001), nos. 3389-98"
+                },
+                {
+                  "label": "City",
+                  "value": "Rome (Italy)"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "Porta Maggiore olim Nevia. G. Vasi dis. e inc. 7. (to accompany) Delle magnificenze di Roma antica e moderna : Libro primo ... In Roma MDCCXLVII (1747)."
+                },
+                {
+                  "label": "List No",
+                  "value": "13008.031"
+                },
+                {
+                  "label": "Series No",
+                  "value": "31"
+                },
+                {
+                  "label": "Page No",
+                  "value": "7"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Vasi, Giuseppe Agostino Pietro, 1710-1782"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1761"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Delle magnificenze di Roma antica e moderna. libro primo (-decimo). Da Giuseppe Vasi da Corleone. Pittore Inxisore Architetto e Pastore Arcade … Composta dal P. Giuseppe Bianchini Veronese : prete della Congregazione dell’Oratorio di Roma, ed Accademico antiquatrio. In Roma MDCCXLVII (-MDCCLXI), (1747-1761). Nella Stamperia del Chracas Presso S. Marco Al Corso. Con Licenza de Superiori."
+                },
+                {
+                  "label": "Pub Reference",
+                  "value": "Early printed books, 4 (2001), nos. 3389-98"
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "Vasi’s views of ancient and modern Rome show a personification of Rome in a series of ten books in 3 volumes. Engraved by Vasi, with explanatory text that provides historical and documentary information for each view, written by Vasi and Giuseppe Bianchini in Book I. Published between 1747 and 1761, it consists of 200 plates, 30 inset views and 3 plans in Book I and two plans in Book X. Plate 77 marked 78 in Vol. 2, Book 4. Plate 177 marked 178 in Vol. 3, Book 9. The collection lacks one leaf of text - Pages XXIX and XXX in Vol. 3, Book 10. Books are arranged by themes devoted to a particular architectural aspect of Rome: 1. Gates and walls; 2. Piazzas, obelisks, columns &c.; 3. Basilicas and ancient churches; 4. Palaces and streets; 5. Bridges and buildings on the Tiber; 6. Parish churches; 7. Conventi and clergy houses; 8. Monasteries for women; 9. Colleges, hospitals and pious foundations; 10. Villas and gardens. Engraved views showing towns, landmarks, buildings, plants, shrubs, figures, coaches and animals. The ten title-page vignettes are all unsigned. Each book has a dedication note by Vasi, a preface and index. The publishers were: Stamperia del Chracas; Stamperia di Apollo; Niccolo e Marco Pagliarini and Eredi Barbiellini. Vasi’s Roman vedute became popular outside Italy in the second half of the eighteenth century. In the inscription, Vasi describes himself as ‘painter, engraver, architect and Arcadian shepherd’, or member of the Accademia degli Arcadi. The academy was a literary and social club formed not only by authors and poets, but also by members of the professional classes, ecclesiastics and aristocrats interested in literature and modern science."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "13008.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Geography Book"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "City Atlas"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "202"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "28"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "40"
+                },
+                {
+                  "label": "Image No",
+                  "value": "13008031.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/179/13008031.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Vasi, Giuseppe Agostino Pietro, 1710-1782; Bianchini, Giuseppe, 1704-1764"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~310109~90080076/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~310109~90080076/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~310109~90080076",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 8456,
+                    "height": 5943
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~310109~90080076/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~310109~90080076/list/luna"
+              ],
+              "width": 8456,
+              "height": 5943
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~310109~90080076"
+    }
+  ]
+}
