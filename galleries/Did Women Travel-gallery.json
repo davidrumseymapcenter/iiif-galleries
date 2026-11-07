@@ -409,12 +409,12 @@
     {
       "@context": "http://iiif.io/api/presentation/2/context.json",
       "@type": "sc:Manifest",
-      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~311856~90081590/manifest",
-      "label": "Composite: Naples sheets 1-35",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~331221~90099631/manifest",
+      "label": "Dominio Veneto nell' Italia",
       "attribution": "David Rumsey Historical Map Collection",
       "service": {
         "@context": "http://iiif.io/api/search/1/context.json",
-        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~311856~90081590/search",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~331221~90099631/search",
         "profile": "http://iiif.io/api/search/1/search"
       },
       "sequences": [
@@ -422,231 +422,34 @@
           "@type": "sc:Sequence",
           "canvases": [
             {
-              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~311856~90081590/canvas/c1",
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~331221~90099631/canvas/c1",
               "@type": "sc:Canvas",
-              "label": "Composite: Naples sheets 1-35",
+              "label": "Dominio Veneto nell' Italia",
               "description": "",
               "metadata": [
                 {
                   "label": "Author",
-                  "value": "Carletti, Niccolò, 1723-1796"
+                  "value": "Magini, Giovanni Antonio, 1555-1617"
                 },
                 {
                   "label": "Author",
-                  "value": "Carafa, Giovanni, 1715-1768"
-                },
-                {
-                  "label": "Author",
-                  "value": "Pignatelli, Giovanni"
+                  "value": "Magini, Fabio, active 1620"
                 },
                 {
                   "label": "Date",
-                  "value": "1775"
+                  "value": "1620"
                 },
                 {
                   "label": "Short Title",
-                  "value": "Composite: Naples sheets 1-35"
+                  "value": "Dominio Veneto nell' Italia"
                 },
                 {
                   "label": "Publisher",
-                  "value": "Niccolo Carletti"
+                  "value": "Sebastiano Bonomi"
                 },
                 {
                   "label": "Publisher Location",
-                  "value": "Naples"
-                },
-                {
-                  "label": "Type",
-                  "value": "Composite Map"
-                },
-                {
-                  "label": "Obj Height cm",
-                  "value": "247"
-                },
-                {
-                  "label": "Obj Width cm",
-                  "value": "471"
-                },
-                {
-                  "label": "Scale 1",
-                  "value": "4,000"
-                },
-                {
-                  "label": "Reference",
-                  "value": "Giulio Pane and Vladimiro Valerio (editors), La citta di Napoli ... piante e vedute dal XV al XIX secolo (Napels, 1987), pp. 269-306."
-                },
-                {
-                  "label": "City",
-                  "value": "Naples (Italy)"
-                },
-                {
-                  "label": "Region",
-                  "value": "Naples Region (Italy)"
-                },
-                {
-                  "label": "Full Title",
-                  "value": "(Composite of Naples sheets 1-35) Mappa Topografica della Città di Napoli e de' suoi Contorni"
-                },
-                {
-                  "label": "List No",
-                  "value": "10246.036"
-                },
-                {
-                  "label": "Series No",
-                  "value": "36"
-                },
-                {
-                  "label": "Page No",
-                  "value": "1-35"
-                },
-                {
-                  "label": "Engraver or Printer",
-                  "value": "Aloja, Giuseppe"
-                },
-                {
-                  "label": "Publication Author",
-                  "value": "Carletti, Niccolò, 1723-1796"
-                },
-                {
-                  "label": "Publication Author",
-                  "value": "Carafa, Giovanni, 1715-1768"
-                },
-                {
-                  "label": "Publication Author",
-                  "value": "Pignatelli, Giovanni"
-                },
-                {
-                  "label": "Pub Date",
-                  "value": "1775"
-                },
-                {
-                  "label": "Pub Title",
-                  "value": "Mappa Topografica della Città di Napoli e de' suoi Contorni."
-                },
-                {
-                  "label": "Pub Reference",
-                  "value": "In 1776 Carletti published a book about Naples, Topografia universale della città di Napoli, likely to accompany his 1775 map. Online version here https://archive.org/details/gri_33125008673176"
-                },
-                {
-                  "label": "Pub Note",
-                  "value": "Carletti's huge map of Naples was begun in 1750 when financing for the project was secured from the civic tribunal of San Lorenzo. 25 years were spent making the map which was published in 1775. It is considered the most important map of Naples from the 18th century. Originally under the direction of Giovanni Carafa, after his death in 1769 the project was taken over by Giovanni Pignatelli. The entire map was engraved by Giuseppe Aloja and published by Carletti with his corrections and the addition of his accompanying extensive topographical and historical index."
-                },
-                {
-                  "label": "Pub List No",
-                  "value": "10246.000"
-                },
-                {
-                  "label": "Pub Type",
-                  "value": "City Atlas"
-                },
-                {
-                  "label": "Pub Maps",
-                  "value": "35"
-                },
-                {
-                  "label": "Pub Height cm",
-                  "value": "50"
-                },
-                {
-                  "label": "Pub Width cm",
-                  "value": "68"
-                },
-                {
-                  "label": "Image No",
-                  "value": "10246036.jp2"
-                },
-                {
-                  "label": "Download 1",
-                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/179/10246036.jp2 target=_blank>Full Image Download in JP2 Format</a>"
-                },
-                {
-                  "label": "Download 2",
-                  "value": "<a href=https://www.lizardtech.com/geoviewer/free-download-thanks target=_blank >GeoViewer for JP2 and SID files</a>"
-                },
-                {
-                  "label": "Authors",
-                  "value": "Carletti, Niccolò, 1723-1796; Carafa, Giovanni, 1715-1768; Pignatelli, Giovanni"
-                }
-              ],
-              "thumbnail": {
-                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~311856~90081590/full/!96,96/0/default.jpg",
-                "format": "image/jpeg"
-              },
-              "images": [
-                {
-                  "@type": "oa:Annotation",
-                  "motivation": "sc:painting",
-                  "resource": {
-                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~311856~90081590/full/!1024,1024/0/default.jpg",
-                    "@type": "dctypes:Image",
-                    "service": {
-                      "@context": "http://iiif.io/api/image/2/context.json",
-                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~311856~90081590",
-                      "profile": "http://iiif.io/api/image/2/level1.json",
-                      "protocol": "http://iiif.io/api/image"
-                    },
-                    "format": "image/jpeg",
-                    "width": 111639,
-                    "height": 58874
-                  },
-                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~311856~90081590/canvas/c1"
-                }
-              ],
-              "otherContent": [
-                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~311856~90081590/list/luna"
-              ],
-              "width": 111639,
-              "height": 58874
-            }
-          ]
-        }
-      ],
-      "logo": {
-        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
-        "format": "image/png"
-      },
-      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~311856~90081590"
-    },
-    {
-      "@context": "http://iiif.io/api/presentation/2/context.json",
-      "@type": "sc:Manifest",
-      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~279580~90052567/manifest",
-      "label": "Venise, ville capitale de la plus celebre et illustre republique de l'Europe",
-      "attribution": "David Rumsey Historical Map Collection",
-      "service": {
-        "@context": "http://iiif.io/api/search/1/context.json",
-        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~279580~90052567/search",
-        "profile": "http://iiif.io/api/search/1/search"
-      },
-      "sequences": [
-        {
-          "@type": "sc:Sequence",
-          "canvases": [
-            {
-              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~279580~90052567/canvas/c1",
-              "@type": "sc:Canvas",
-              "label": "Venise, ville capitale de la plus celebre et illustre republique de l'Europe",
-              "description": "",
-              "metadata": [
-                {
-                  "label": "Author",
-                  "value": "Fer, Nicolas de, 1646-1720"
-                },
-                {
-                  "label": "Date",
-                  "value": "1725"
-                },
-                {
-                  "label": "Short Title",
-                  "value": "Venise, ville capitale de la plus celebre et illustre republique de l'Europe"
-                },
-                {
-                  "label": "Publisher",
-                  "value": "N. De Fer"
-                },
-                {
-                  "label": "Publisher Location",
-                  "value": "Paris"
+                  "value": "Bologna"
                 },
                 {
                   "label": "Type",
@@ -654,107 +457,103 @@
                 },
                 {
                   "label": "Obj Height cm",
-                  "value": "45"
+                  "value": "30"
                 },
                 {
                   "label": "Obj Width cm",
-                  "value": "69"
+                  "value": "47"
                 },
                 {
                   "label": "Scale 1",
-                  "value": "9,000"
+                  "value": "980,000"
                 },
                 {
                   "label": "Note",
-                  "value": "Not listed in Pastoureau. With an inset map showing the entrance and area surrounding Venise."
+                  "value": "Dedication: \"Al il.mo S.or mio prone oss.mo il S.or Gio. Francesco Sagredo dell ill.mo S.or Nicolo / Gio. Antonio Magini Padouano math.co dello studio di Bologna.\""
                 },
                 {
                   "label": "Country",
                   "value": "Italy"
                 },
                 {
-                  "label": "City",
-                  "value": "Venice (Italy)"
+                  "label": "Region",
+                  "value": "Venice Region (Italy)"
                 },
                 {
                   "label": "Full Title",
-                  "value": "Venise, ville capitale de la plus celebre et illustre republique de l'Europe"
+                  "value": "Dominio Veneto nell' Italia"
                 },
                 {
                   "label": "List No",
-                  "value": "10022.085"
+                  "value": "10688.040"
                 },
                 {
                   "label": "Series No",
-                  "value": "85"
+                  "value": "40"
                 },
                 {
                   "label": "Page No",
-                  "value": "82"
-                },
-                {
-                  "label": "Engraver or Printer",
-                  "value": "Van Loon, H."
+                  "value": "18"
                 },
                 {
                   "label": "Publication Author",
-                  "value": "Fer, Nicolas de, 1646-1720"
+                  "value": "Magini, Giovanni Antonio, 1555-1617"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Magini, Fabio, active 1620"
                 },
                 {
                   "label": "Pub Date",
-                  "value": "1748"
+                  "value": "1620"
                 },
                 {
                   "label": "Pub Title",
-                  "value": "Atlas ou Recueil de Cartes Geographiques Dressees Sur les Nouvelles Observations de Mrs. de L'Academie Royale des Sciences Par N. de Fer, Geographe de sa Majeste Catolique et de Monseigneur le Dauphin. A Paris chez l'Auteur dans l'Isle du Palais sur le Quay de l'Orloge a la Sphere Royal, avec privilege du Roy 1709."
-                },
-                {
-                  "label": "Pub Reference",
-                  "value": "Pastoureau FER II C - FER II D."
+                  "value": "Italia di Gio. Ant. Magini : data in luce da Fabio suo figliuolo al serenissimo Ferdinādo Gonzaga duca di Mantoua edi Monferrato etc."
                 },
                 {
                   "label": "Pub Note",
-                  "value": "Pastoureau describes this large atlas as De Fer's folio atlas. It is described by De Fer in his catalog of 1716 as his highly detailed atlas showing all parts of the world, with all the maps available separately. The collation of the atlas seems to vary by copy - our copy has a title page but no table of contents. Our copy collates to parts of Pastoueau FER II C - FER II D, with our latest map dated 1748. The maps range in date from 1690 to 1748 with most of the maps in the 1700 to 1720 period. All maps are numbered in manuscript. Of special note in our copy is the two sheet map of the Mississippi River which is rare to find with both north and south sheets present."
+                  "value": "\"First edition of the first printed atlas of Italy. Italia. Bologna: Sebastiano Bonomi, 1620. Folio, engraved allegorical title by Olivero Gatto printed within typographical border, 61 engraved maps as called for in index (all but 3 double-page), in fine dark impression, engraved portrait of Magini, text on 15 leaves. Seventeenth-century red morocco, gilt, sides panelled in gilt and blind, gilt edges.The atlas was undertaken by Magini in 1594 and finally completed after his death in 1617 by his son Fabio in 1620. The early maps were engraved by the three Arnoldi brothers, but after the return of the two surviving brothers to Holland in 1603 Magini employed the Englishman Benjamin Wright to complete the engraving. Wright engraved 11 of the maps. The portrait is supplied: it is not called for in this edition, and appeared first in the second edition of 1632. As a cartographer, Magini's life's work was the preparation of Italia or the Atlante geografico d'Italia (Geographic Atlas of Italy). This was intended to include maps of every Italian region with exact nomenclature and historical notes. A major project, its production (begun in 1594) proved expensive and Magini assumed various additional posts in order to fund it, including becoming tutor in mathematics to the sons of Vincenzo I of Gonzaga, Duke of Mantua, a major patron of the arts and sciences. He also served as court astrologer. The Duke of Mantua, to whom the atlas is dedicated, assisted him with this project and allowed for maps of the various states of Italy to be brought to Magini. The governments of Messina and Genoa also assisted Magini financially in this project. Magini did not do any of the mapping himself. Magini first started work on this important atlas in 1594, but publication was beset by a series of problems beyond his control. The initial engraving was entrusted to the Dutchman Arnoldo di Arnoldi, joined in 1600 by his brother Jacobo. However, the same year, Arnoldo was lured away by the promise of higher wages to work for Matteo Florimi in Siena. Jacobo remained in Magini's employ for two more years, but then went to join his brother, only to find Arnoldo had died in the interim. He resumed work for Magini, with his younger brother, but when Jacobo became ill, early in 1603, the two surviving brothers returned to the Netherlands. Magini's attractive atlas provides a comprehensive series of Italian maps for the first part of the 17th century, combining the traditional styles of the Italian map maker with features used in North European mapping, such as the 'Mercator' style wavy lines for the sea patterns.\" (Filip Devroe, 2020). This copy is from the Wardington Library sale, 2005.. The second edition was published in 1630/32, and the third edition was published in 1642. The maps were unchanged between editions, but the text pages were reset. In 1608, In 1608, Magini produced the first wall map of Italy to improve on that of Gastaldi: his meticulously researched and beautifully engraved 8-sheet Italia Nuova was hugely influential: upon its publication, Blaeu promptly copied it to produce his own wall map of Italy; the rest of the mapmaking establishment swiftly followed suit. Consequently, virtually every 17th century map of Italy can be identified as a derivative of Magini's monumental achievement."
                 },
                 {
                   "label": "Pub List No",
-                  "value": "10022.000"
+                  "value": "10688.000"
                 },
                 {
                   "label": "Pub Type",
-                  "value": "World Atlas"
+                  "value": "National Atlas"
                 },
                 {
                   "label": "Pub Maps",
-                  "value": "105"
+                  "value": "61"
                 },
                 {
                   "label": "Pub Height cm",
-                  "value": "54"
-                },
-                {
-                  "label": "Pub Width cm",
                   "value": "41"
                 },
                 {
+                  "label": "Pub Width cm",
+                  "value": "29"
+                },
+                {
                   "label": "Image No",
-                  "value": "10022085.jp2"
+                  "value": "10688040.jp2"
                 },
                 {
                   "label": "Download 1",
-                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/162/10022085.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/190/10688040.jp2 target=_blank>Full Image Download in JP2 Format</a>"
                 },
                 {
                   "label": "Download 2",
-                  "value": "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
+                  "value": "<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>"
                 },
                 {
                   "label": "Authors",
-                  "value": "Fer, Nicolas de, 1646-1720"
+                  "value": "Magini, Giovanni Antonio, 1555-1617; Magini, Fabio, active 1620"
                 }
               ],
               "thumbnail": {
-                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~279580~90052567/full/!96,96/0/default.jpg",
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~331221~90099631/full/!96,96/0/default.jpg",
                 "format": "image/jpeg"
               },
               "images": [
@@ -762,26 +561,26 @@
                   "@type": "oa:Annotation",
                   "motivation": "sc:painting",
                   "resource": {
-                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~279580~90052567/full/!1024,1024/0/default.jpg",
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~331221~90099631/full/!1024,1024/0/default.jpg",
                     "@type": "dctypes:Image",
                     "service": {
                       "@context": "http://iiif.io/api/image/2/context.json",
-                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~279580~90052567",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~331221~90099631",
                       "profile": "http://iiif.io/api/image/2/level1.json",
                       "protocol": "http://iiif.io/api/image"
                     },
                     "format": "image/jpeg",
-                    "width": 17644,
-                    "height": 12848
+                    "width": 12414,
+                    "height": 8504
                   },
-                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~279580~90052567/canvas/c1"
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~331221~90099631/canvas/c1"
                 }
               ],
               "otherContent": [
-                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~279580~90052567/list/luna"
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~331221~90099631/list/luna"
               ],
-              "width": 17644,
-              "height": 12848
+              "width": 12414,
+              "height": 8504
             }
           ]
         }
@@ -790,7 +589,188 @@
         "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
         "format": "image/png"
       },
-      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~279580~90052567"
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~331221~90099631"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~331245~90099656/manifest",
+      "label": "Campagna di Roma, olim Latium",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~331245~90099656/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~331245~90099656/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Campagna di Roma, olim Latium",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Magini, Giovanni Antonio, 1555-1617"
+                },
+                {
+                  "label": "Author",
+                  "value": "Magini, Fabio, active 1620"
+                },
+                {
+                  "label": "Date",
+                  "value": "1620"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Campagna di Roma, olim Latium"
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Sebastiano Bonomi"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Bologna"
+                },
+                {
+                  "label": "Type",
+                  "value": "Atlas Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "35"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "45"
+                },
+                {
+                  "label": "Scale 1",
+                  "value": "250,000"
+                },
+                {
+                  "label": "Country",
+                  "value": "Italy"
+                },
+                {
+                  "label": "Region",
+                  "value": "Rome Region (Italy)"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "Campagna di Roma, olim Latium"
+                },
+                {
+                  "label": "List No",
+                  "value": "10688.064"
+                },
+                {
+                  "label": "Series No",
+                  "value": "64"
+                },
+                {
+                  "label": "Page No",
+                  "value": "42"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Magini, Giovanni Antonio, 1555-1617"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Magini, Fabio, active 1620"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1620"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Italia di Gio. Ant. Magini : data in luce da Fabio suo figliuolo al serenissimo Ferdinādo Gonzaga duca di Mantoua edi Monferrato etc."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "\"First edition of the first printed atlas of Italy. Italia. Bologna: Sebastiano Bonomi, 1620. Folio, engraved allegorical title by Olivero Gatto printed within typographical border, 61 engraved maps as called for in index (all but 3 double-page), in fine dark impression, engraved portrait of Magini, text on 15 leaves. Seventeenth-century red morocco, gilt, sides panelled in gilt and blind, gilt edges.The atlas was undertaken by Magini in 1594 and finally completed after his death in 1617 by his son Fabio in 1620. The early maps were engraved by the three Arnoldi brothers, but after the return of the two surviving brothers to Holland in 1603 Magini employed the Englishman Benjamin Wright to complete the engraving. Wright engraved 11 of the maps. The portrait is supplied: it is not called for in this edition, and appeared first in the second edition of 1632. As a cartographer, Magini's life's work was the preparation of Italia or the Atlante geografico d'Italia (Geographic Atlas of Italy). This was intended to include maps of every Italian region with exact nomenclature and historical notes. A major project, its production (begun in 1594) proved expensive and Magini assumed various additional posts in order to fund it, including becoming tutor in mathematics to the sons of Vincenzo I of Gonzaga, Duke of Mantua, a major patron of the arts and sciences. He also served as court astrologer. The Duke of Mantua, to whom the atlas is dedicated, assisted him with this project and allowed for maps of the various states of Italy to be brought to Magini. The governments of Messina and Genoa also assisted Magini financially in this project. Magini did not do any of the mapping himself. Magini first started work on this important atlas in 1594, but publication was beset by a series of problems beyond his control. The initial engraving was entrusted to the Dutchman Arnoldo di Arnoldi, joined in 1600 by his brother Jacobo. However, the same year, Arnoldo was lured away by the promise of higher wages to work for Matteo Florimi in Siena. Jacobo remained in Magini's employ for two more years, but then went to join his brother, only to find Arnoldo had died in the interim. He resumed work for Magini, with his younger brother, but when Jacobo became ill, early in 1603, the two surviving brothers returned to the Netherlands. Magini's attractive atlas provides a comprehensive series of Italian maps for the first part of the 17th century, combining the traditional styles of the Italian map maker with features used in North European mapping, such as the 'Mercator' style wavy lines for the sea patterns.\" (Filip Devroe, 2020). This copy is from the Wardington Library sale, 2005.. The second edition was published in 1630/32, and the third edition was published in 1642. The maps were unchanged between editions, but the text pages were reset. In 1608, In 1608, Magini produced the first wall map of Italy to improve on that of Gastaldi: his meticulously researched and beautifully engraved 8-sheet Italia Nuova was hugely influential: upon its publication, Blaeu promptly copied it to produce his own wall map of Italy; the rest of the mapmaking establishment swiftly followed suit. Consequently, virtually every 17th century map of Italy can be identified as a derivative of Magini's monumental achievement."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "10688.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "National Atlas"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "61"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "41"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "29"
+                },
+                {
+                  "label": "Image No",
+                  "value": "10688064.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/190/10688064.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Magini, Giovanni Antonio, 1555-1617; Magini, Fabio, active 1620"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~331245~90099656/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~331245~90099656/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~331245~90099656",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 12313,
+                    "height": 8397
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~331245~90099656/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~331245~90099656/list/luna"
+              ],
+              "width": 12313,
+              "height": 8397
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~331245~90099656"
     },
     {
       "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -1563,12 +1543,12 @@
     {
       "@context": "http://iiif.io/api/presentation/2/context.json",
       "@type": "sc:Manifest",
-      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~331221~90099631/manifest",
-      "label": "Dominio Veneto nell' Italia",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~279580~90052567/manifest",
+      "label": "Venise, ville capitale de la plus celebre et illustre republique de l'Europe",
       "attribution": "David Rumsey Historical Map Collection",
       "service": {
         "@context": "http://iiif.io/api/search/1/context.json",
-        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~331221~90099631/search",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~279580~90052567/search",
         "profile": "http://iiif.io/api/search/1/search"
       },
       "sequences": [
@@ -1576,34 +1556,30 @@
           "@type": "sc:Sequence",
           "canvases": [
             {
-              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~331221~90099631/canvas/c1",
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~279580~90052567/canvas/c1",
               "@type": "sc:Canvas",
-              "label": "Dominio Veneto nell' Italia",
+              "label": "Venise, ville capitale de la plus celebre et illustre republique de l'Europe",
               "description": "",
               "metadata": [
                 {
                   "label": "Author",
-                  "value": "Magini, Giovanni Antonio, 1555-1617"
-                },
-                {
-                  "label": "Author",
-                  "value": "Magini, Fabio, active 1620"
+                  "value": "Fer, Nicolas de, 1646-1720"
                 },
                 {
                   "label": "Date",
-                  "value": "1620"
+                  "value": "1725"
                 },
                 {
                   "label": "Short Title",
-                  "value": "Dominio Veneto nell' Italia"
+                  "value": "Venise, ville capitale de la plus celebre et illustre republique de l'Europe"
                 },
                 {
                   "label": "Publisher",
-                  "value": "Sebastiano Bonomi"
+                  "value": "N. De Fer"
                 },
                 {
                   "label": "Publisher Location",
-                  "value": "Bologna"
+                  "value": "Paris"
                 },
                 {
                   "label": "Type",
@@ -1611,429 +1587,95 @@
                 },
                 {
                   "label": "Obj Height cm",
-                  "value": "30"
-                },
-                {
-                  "label": "Obj Width cm",
-                  "value": "47"
-                },
-                {
-                  "label": "Scale 1",
-                  "value": "980,000"
-                },
-                {
-                  "label": "Note",
-                  "value": "Dedication: \"Al il.mo S.or mio prone oss.mo il S.or Gio. Francesco Sagredo dell ill.mo S.or Nicolo / Gio. Antonio Magini Padouano math.co dello studio di Bologna.\""
-                },
-                {
-                  "label": "Country",
-                  "value": "Italy"
-                },
-                {
-                  "label": "Region",
-                  "value": "Venice Region (Italy)"
-                },
-                {
-                  "label": "Full Title",
-                  "value": "Dominio Veneto nell' Italia"
-                },
-                {
-                  "label": "List No",
-                  "value": "10688.040"
-                },
-                {
-                  "label": "Series No",
-                  "value": "40"
-                },
-                {
-                  "label": "Page No",
-                  "value": "18"
-                },
-                {
-                  "label": "Publication Author",
-                  "value": "Magini, Giovanni Antonio, 1555-1617"
-                },
-                {
-                  "label": "Publication Author",
-                  "value": "Magini, Fabio, active 1620"
-                },
-                {
-                  "label": "Pub Date",
-                  "value": "1620"
-                },
-                {
-                  "label": "Pub Title",
-                  "value": "Italia di Gio. Ant. Magini : data in luce da Fabio suo figliuolo al serenissimo Ferdinādo Gonzaga duca di Mantoua edi Monferrato etc."
-                },
-                {
-                  "label": "Pub Note",
-                  "value": "\"First edition of the first printed atlas of Italy. Italia. Bologna: Sebastiano Bonomi, 1620. Folio, engraved allegorical title by Olivero Gatto printed within typographical border, 61 engraved maps as called for in index (all but 3 double-page), in fine dark impression, engraved portrait of Magini, text on 15 leaves. Seventeenth-century red morocco, gilt, sides panelled in gilt and blind, gilt edges.The atlas was undertaken by Magini in 1594 and finally completed after his death in 1617 by his son Fabio in 1620. The early maps were engraved by the three Arnoldi brothers, but after the return of the two surviving brothers to Holland in 1603 Magini employed the Englishman Benjamin Wright to complete the engraving. Wright engraved 11 of the maps. The portrait is supplied: it is not called for in this edition, and appeared first in the second edition of 1632. As a cartographer, Magini's life's work was the preparation of Italia or the Atlante geografico d'Italia (Geographic Atlas of Italy). This was intended to include maps of every Italian region with exact nomenclature and historical notes. A major project, its production (begun in 1594) proved expensive and Magini assumed various additional posts in order to fund it, including becoming tutor in mathematics to the sons of Vincenzo I of Gonzaga, Duke of Mantua, a major patron of the arts and sciences. He also served as court astrologer. The Duke of Mantua, to whom the atlas is dedicated, assisted him with this project and allowed for maps of the various states of Italy to be brought to Magini. The governments of Messina and Genoa also assisted Magini financially in this project. Magini did not do any of the mapping himself. Magini first started work on this important atlas in 1594, but publication was beset by a series of problems beyond his control. The initial engraving was entrusted to the Dutchman Arnoldo di Arnoldi, joined in 1600 by his brother Jacobo. However, the same year, Arnoldo was lured away by the promise of higher wages to work for Matteo Florimi in Siena. Jacobo remained in Magini's employ for two more years, but then went to join his brother, only to find Arnoldo had died in the interim. He resumed work for Magini, with his younger brother, but when Jacobo became ill, early in 1603, the two surviving brothers returned to the Netherlands. Magini's attractive atlas provides a comprehensive series of Italian maps for the first part of the 17th century, combining the traditional styles of the Italian map maker with features used in North European mapping, such as the 'Mercator' style wavy lines for the sea patterns.\" (Filip Devroe, 2020). This copy is from the Wardington Library sale, 2005.. The second edition was published in 1630/32, and the third edition was published in 1642. The maps were unchanged between editions, but the text pages were reset. In 1608, In 1608, Magini produced the first wall map of Italy to improve on that of Gastaldi: his meticulously researched and beautifully engraved 8-sheet Italia Nuova was hugely influential: upon its publication, Blaeu promptly copied it to produce his own wall map of Italy; the rest of the mapmaking establishment swiftly followed suit. Consequently, virtually every 17th century map of Italy can be identified as a derivative of Magini's monumental achievement."
-                },
-                {
-                  "label": "Pub List No",
-                  "value": "10688.000"
-                },
-                {
-                  "label": "Pub Type",
-                  "value": "National Atlas"
-                },
-                {
-                  "label": "Pub Maps",
-                  "value": "61"
-                },
-                {
-                  "label": "Pub Height cm",
-                  "value": "41"
-                },
-                {
-                  "label": "Pub Width cm",
-                  "value": "29"
-                },
-                {
-                  "label": "Image No",
-                  "value": "10688040.jp2"
-                },
-                {
-                  "label": "Download 1",
-                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/190/10688040.jp2 target=_blank>Full Image Download in JP2 Format</a>"
-                },
-                {
-                  "label": "Download 2",
-                  "value": "<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>"
-                },
-                {
-                  "label": "Authors",
-                  "value": "Magini, Giovanni Antonio, 1555-1617; Magini, Fabio, active 1620"
-                }
-              ],
-              "thumbnail": {
-                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~331221~90099631/full/!96,96/0/default.jpg",
-                "format": "image/jpeg"
-              },
-              "images": [
-                {
-                  "@type": "oa:Annotation",
-                  "motivation": "sc:painting",
-                  "resource": {
-                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~331221~90099631/full/!1024,1024/0/default.jpg",
-                    "@type": "dctypes:Image",
-                    "service": {
-                      "@context": "http://iiif.io/api/image/2/context.json",
-                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~331221~90099631",
-                      "profile": "http://iiif.io/api/image/2/level1.json",
-                      "protocol": "http://iiif.io/api/image"
-                    },
-                    "format": "image/jpeg",
-                    "width": 12414,
-                    "height": 8504
-                  },
-                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~331221~90099631/canvas/c1"
-                }
-              ],
-              "otherContent": [
-                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~331221~90099631/list/luna"
-              ],
-              "width": 12414,
-              "height": 8504
-            }
-          ]
-        }
-      ],
-      "logo": {
-        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
-        "format": "image/png"
-      },
-      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~331221~90099631"
-    },
-    {
-      "@context": "http://iiif.io/api/presentation/2/context.json",
-      "@type": "sc:Manifest",
-      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~331245~90099656/manifest",
-      "label": "Campagna di Roma, olim Latium",
-      "attribution": "David Rumsey Historical Map Collection",
-      "service": {
-        "@context": "http://iiif.io/api/search/1/context.json",
-        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~331245~90099656/search",
-        "profile": "http://iiif.io/api/search/1/search"
-      },
-      "sequences": [
-        {
-          "@type": "sc:Sequence",
-          "canvases": [
-            {
-              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~331245~90099656/canvas/c1",
-              "@type": "sc:Canvas",
-              "label": "Campagna di Roma, olim Latium",
-              "description": "",
-              "metadata": [
-                {
-                  "label": "Author",
-                  "value": "Magini, Giovanni Antonio, 1555-1617"
-                },
-                {
-                  "label": "Author",
-                  "value": "Magini, Fabio, active 1620"
-                },
-                {
-                  "label": "Date",
-                  "value": "1620"
-                },
-                {
-                  "label": "Short Title",
-                  "value": "Campagna di Roma, olim Latium"
-                },
-                {
-                  "label": "Publisher",
-                  "value": "Sebastiano Bonomi"
-                },
-                {
-                  "label": "Publisher Location",
-                  "value": "Bologna"
-                },
-                {
-                  "label": "Type",
-                  "value": "Atlas Map"
-                },
-                {
-                  "label": "Obj Height cm",
-                  "value": "35"
-                },
-                {
-                  "label": "Obj Width cm",
                   "value": "45"
                 },
                 {
+                  "label": "Obj Width cm",
+                  "value": "69"
+                },
+                {
                   "label": "Scale 1",
-                  "value": "250,000"
+                  "value": "9,000"
+                },
+                {
+                  "label": "Note",
+                  "value": "Not listed in Pastoureau. With an inset map showing the entrance and area surrounding Venise."
                 },
                 {
                   "label": "Country",
                   "value": "Italy"
                 },
                 {
-                  "label": "Region",
-                  "value": "Rome Region (Italy)"
+                  "label": "City",
+                  "value": "Venice (Italy)"
                 },
                 {
                   "label": "Full Title",
-                  "value": "Campagna di Roma, olim Latium"
+                  "value": "Venise, ville capitale de la plus celebre et illustre republique de l'Europe"
                 },
                 {
                   "label": "List No",
-                  "value": "10688.064"
+                  "value": "10022.085"
                 },
                 {
                   "label": "Series No",
-                  "value": "64"
+                  "value": "85"
                 },
                 {
                   "label": "Page No",
-                  "value": "42"
+                  "value": "82"
+                },
+                {
+                  "label": "Engraver or Printer",
+                  "value": "Van Loon, H."
                 },
                 {
                   "label": "Publication Author",
-                  "value": "Magini, Giovanni Antonio, 1555-1617"
-                },
-                {
-                  "label": "Publication Author",
-                  "value": "Magini, Fabio, active 1620"
+                  "value": "Fer, Nicolas de, 1646-1720"
                 },
                 {
                   "label": "Pub Date",
-                  "value": "1620"
+                  "value": "1748"
                 },
                 {
                   "label": "Pub Title",
-                  "value": "Italia di Gio. Ant. Magini : data in luce da Fabio suo figliuolo al serenissimo Ferdinādo Gonzaga duca di Mantoua edi Monferrato etc."
+                  "value": "Atlas ou Recueil de Cartes Geographiques Dressees Sur les Nouvelles Observations de Mrs. de L'Academie Royale des Sciences Par N. de Fer, Geographe de sa Majeste Catolique et de Monseigneur le Dauphin. A Paris chez l'Auteur dans l'Isle du Palais sur le Quay de l'Orloge a la Sphere Royal, avec privilege du Roy 1709."
+                },
+                {
+                  "label": "Pub Reference",
+                  "value": "Pastoureau FER II C - FER II D."
                 },
                 {
                   "label": "Pub Note",
-                  "value": "\"First edition of the first printed atlas of Italy. Italia. Bologna: Sebastiano Bonomi, 1620. Folio, engraved allegorical title by Olivero Gatto printed within typographical border, 61 engraved maps as called for in index (all but 3 double-page), in fine dark impression, engraved portrait of Magini, text on 15 leaves. Seventeenth-century red morocco, gilt, sides panelled in gilt and blind, gilt edges.The atlas was undertaken by Magini in 1594 and finally completed after his death in 1617 by his son Fabio in 1620. The early maps were engraved by the three Arnoldi brothers, but after the return of the two surviving brothers to Holland in 1603 Magini employed the Englishman Benjamin Wright to complete the engraving. Wright engraved 11 of the maps. The portrait is supplied: it is not called for in this edition, and appeared first in the second edition of 1632. As a cartographer, Magini's life's work was the preparation of Italia or the Atlante geografico d'Italia (Geographic Atlas of Italy). This was intended to include maps of every Italian region with exact nomenclature and historical notes. A major project, its production (begun in 1594) proved expensive and Magini assumed various additional posts in order to fund it, including becoming tutor in mathematics to the sons of Vincenzo I of Gonzaga, Duke of Mantua, a major patron of the arts and sciences. He also served as court astrologer. The Duke of Mantua, to whom the atlas is dedicated, assisted him with this project and allowed for maps of the various states of Italy to be brought to Magini. The governments of Messina and Genoa also assisted Magini financially in this project. Magini did not do any of the mapping himself. Magini first started work on this important atlas in 1594, but publication was beset by a series of problems beyond his control. The initial engraving was entrusted to the Dutchman Arnoldo di Arnoldi, joined in 1600 by his brother Jacobo. However, the same year, Arnoldo was lured away by the promise of higher wages to work for Matteo Florimi in Siena. Jacobo remained in Magini's employ for two more years, but then went to join his brother, only to find Arnoldo had died in the interim. He resumed work for Magini, with his younger brother, but when Jacobo became ill, early in 1603, the two surviving brothers returned to the Netherlands. Magini's attractive atlas provides a comprehensive series of Italian maps for the first part of the 17th century, combining the traditional styles of the Italian map maker with features used in North European mapping, such as the 'Mercator' style wavy lines for the sea patterns.\" (Filip Devroe, 2020). This copy is from the Wardington Library sale, 2005.. The second edition was published in 1630/32, and the third edition was published in 1642. The maps were unchanged between editions, but the text pages were reset. In 1608, In 1608, Magini produced the first wall map of Italy to improve on that of Gastaldi: his meticulously researched and beautifully engraved 8-sheet Italia Nuova was hugely influential: upon its publication, Blaeu promptly copied it to produce his own wall map of Italy; the rest of the mapmaking establishment swiftly followed suit. Consequently, virtually every 17th century map of Italy can be identified as a derivative of Magini's monumental achievement."
+                  "value": "Pastoureau describes this large atlas as De Fer's folio atlas. It is described by De Fer in his catalog of 1716 as his highly detailed atlas showing all parts of the world, with all the maps available separately. The collation of the atlas seems to vary by copy - our copy has a title page but no table of contents. Our copy collates to parts of Pastoueau FER II C - FER II D, with our latest map dated 1748. The maps range in date from 1690 to 1748 with most of the maps in the 1700 to 1720 period. All maps are numbered in manuscript. Of special note in our copy is the two sheet map of the Mississippi River which is rare to find with both north and south sheets present."
                 },
                 {
                   "label": "Pub List No",
-                  "value": "10688.000"
+                  "value": "10022.000"
                 },
                 {
                   "label": "Pub Type",
-                  "value": "National Atlas"
+                  "value": "World Atlas"
                 },
                 {
                   "label": "Pub Maps",
-                  "value": "61"
+                  "value": "105"
                 },
                 {
                   "label": "Pub Height cm",
+                  "value": "54"
+                },
+                {
+                  "label": "Pub Width cm",
                   "value": "41"
                 },
                 {
-                  "label": "Pub Width cm",
-                  "value": "29"
-                },
-                {
                   "label": "Image No",
-                  "value": "10688064.jp2"
+                  "value": "10022085.jp2"
                 },
                 {
                   "label": "Download 1",
-                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/190/10688064.jp2 target=_blank>Full Image Download in JP2 Format</a>"
-                },
-                {
-                  "label": "Download 2",
-                  "value": "<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>"
-                },
-                {
-                  "label": "Authors",
-                  "value": "Magini, Giovanni Antonio, 1555-1617; Magini, Fabio, active 1620"
-                }
-              ],
-              "thumbnail": {
-                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~331245~90099656/full/!96,96/0/default.jpg",
-                "format": "image/jpeg"
-              },
-              "images": [
-                {
-                  "@type": "oa:Annotation",
-                  "motivation": "sc:painting",
-                  "resource": {
-                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~331245~90099656/full/!1024,1024/0/default.jpg",
-                    "@type": "dctypes:Image",
-                    "service": {
-                      "@context": "http://iiif.io/api/image/2/context.json",
-                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~331245~90099656",
-                      "profile": "http://iiif.io/api/image/2/level1.json",
-                      "protocol": "http://iiif.io/api/image"
-                    },
-                    "format": "image/jpeg",
-                    "width": 12313,
-                    "height": 8397
-                  },
-                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~331245~90099656/canvas/c1"
-                }
-              ],
-              "otherContent": [
-                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~331245~90099656/list/luna"
-              ],
-              "width": 12313,
-              "height": 8397
-            }
-          ]
-        }
-      ],
-      "logo": {
-        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
-        "format": "image/png"
-      },
-      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~331245~90099656"
-    },
-    {
-      "@context": "http://iiif.io/api/presentation/2/context.json",
-      "@type": "sc:Manifest",
-      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~299197~90073796/manifest",
-      "label": "Prospetto D[ell']alma città di Roma visto dal Monte Gianicolo.",
-      "attribution": "David Rumsey Historical Map Collection",
-      "service": {
-        "@context": "http://iiif.io/api/search/1/context.json",
-        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~299197~90073796/search",
-        "profile": "http://iiif.io/api/search/1/search"
-      },
-      "sequences": [
-        {
-          "@type": "sc:Sequence",
-          "canvases": [
-            {
-              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~299197~90073796/canvas/c1",
-              "@type": "sc:Canvas",
-              "label": "Prospetto D[ell']alma città di Roma visto dal Monte Gianicolo.",
-              "description": "",
-              "metadata": [
-                {
-                  "label": "Author",
-                  "value": "Vasi, Giuseppe, 1710-1782"
-                },
-                {
-                  "label": "Date",
-                  "value": "1765"
-                },
-                {
-                  "label": "Short Title",
-                  "value": "Prospetto D[ell']alma città di Roma visto dal Monte Gianicolo."
-                },
-                {
-                  "label": "Publisher",
-                  "value": "[Giuseppe Vasi]"
-                },
-                {
-                  "label": "Publisher Location",
-                  "value": "[Rome]"
-                },
-                {
-                  "label": "Type",
-                  "value": "View"
-                },
-                {
-                  "label": "Obj Height cm",
-                  "value": "107"
-                },
-                {
-                  "label": "Obj Width cm",
-                  "value": "267"
-                },
-                {
-                  "label": "Note",
-                  "value": "The panorama is inscribed with an \"Indice delle cose notabili diviso in otto giornate,\" listing 390 monuments and sites, the numbering of which correspond to those in the guidebook that Vasi published in the same year: Indice istorico del gran prospetto di Roma. The dedication to Charles III appears in the lower left corner on an antique slab. To the right of Charles III's coat of arms are printed verses from the 64th epigram by the Roman poet Martial: HINC SEPTEM DOMINOS VIDERE MONTES / ET TOTAM LICET AESTIMARE ROMAN. M. Val. Mart. lib. 4 epig. 64. The view is made of 12 sheets joined and backed on linen."
-                },
-                {
-                  "label": "City",
-                  "value": "Rome (Italy)"
-                },
-                {
-                  "label": "Full Title",
-                  "value": "Prospetto D[ell']alma città di Roma visto dal Monte Gianicolo : f. sotto gli auspicj della Sac. Maestà Cattol. di Carlo III re delle Spagne pio giusto magnifico promotore eccelso delle scienze e delle arti"
-                },
-                {
-                  "label": "List No",
-                  "value": "10105.000"
-                },
-                {
-                  "label": "Publication Author",
-                  "value": "Vasi, Giuseppe, 1710-1782"
-                },
-                {
-                  "label": "Pub Date",
-                  "value": "1765"
-                },
-                {
-                  "label": "Pub Title",
-                  "value": "Prospetto D[ell']alma città di Roma visto dal Monte Gianicolo : f. sotto gli auspicj della Sac. Maestà Cattol. di Carlo III re delle Spagne pio giusto magnifico promotore eccelso delle scienze e delle arti"
-                },
-                {
-                  "label": "Pub Note",
-                  "value": "see note field above."
-                },
-                {
-                  "label": "Pub List No",
-                  "value": "10105.000"
-                },
-                {
-                  "label": "Pub Type",
-                  "value": "View"
-                },
-                {
-                  "label": "Pub Height cm",
-                  "value": "107"
-                },
-                {
-                  "label": "Pub Width cm",
-                  "value": "267"
-                },
-                {
-                  "label": "Image No",
-                  "value": "10105000.jp2"
-                },
-                {
-                  "label": "Download 1",
-                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/171/10105000.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/162/10022085.jp2 target=_blank>Full Image Download in JP2 Format</a>"
                 },
                 {
                   "label": "Download 2",
@@ -2041,11 +1683,11 @@
                 },
                 {
                   "label": "Authors",
-                  "value": "Vasi, Giuseppe, 1710-1782"
+                  "value": "Fer, Nicolas de, 1646-1720"
                 }
               ],
               "thumbnail": {
-                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~299197~90073796/full/!96,96/0/default.jpg",
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~279580~90052567/full/!96,96/0/default.jpg",
                 "format": "image/jpeg"
               },
               "images": [
@@ -2053,26 +1695,26 @@
                   "@type": "oa:Annotation",
                   "motivation": "sc:painting",
                   "resource": {
-                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~299197~90073796/full/!1024,1024/0/default.jpg",
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~279580~90052567/full/!1024,1024/0/default.jpg",
                     "@type": "dctypes:Image",
                     "service": {
                       "@context": "http://iiif.io/api/image/2/context.json",
-                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~299197~90073796",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~279580~90052567",
                       "profile": "http://iiif.io/api/image/2/level1.json",
                       "protocol": "http://iiif.io/api/image"
                     },
                     "format": "image/jpeg",
-                    "width": 62520,
-                    "height": 24772
+                    "width": 17644,
+                    "height": 12848
                   },
-                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~299197~90073796/canvas/c1"
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~279580~90052567/canvas/c1"
                 }
               ],
               "otherContent": [
-                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~299197~90073796/list/luna"
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~279580~90052567/list/luna"
               ],
-              "width": 62520,
-              "height": 24772
+              "width": 17644,
+              "height": 12848
             }
           ]
         }
@@ -2081,373 +1723,7 @@
         "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
         "format": "image/png"
       },
-      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~299197~90073796"
-    },
-    {
-      "@context": "http://iiif.io/api/presentation/2/context.json",
-      "@type": "sc:Manifest",
-      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~301423~90129429/manifest",
-      "label": "Nuova Topografia Di Roma",
-      "attribution": "David Rumsey Historical Map Collection",
-      "service": {
-        "@context": "http://iiif.io/api/search/1/context.json",
-        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~301423~90129429/search",
-        "profile": "http://iiif.io/api/search/1/search"
-      },
-      "sequences": [
-        {
-          "@type": "sc:Sequence",
-          "canvases": [
-            {
-              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~301423~90129429/canvas/c1",
-              "@type": "sc:Canvas",
-              "label": "Nuova Topografia Di Roma",
-              "description": "",
-              "metadata": [
-                {
-                  "label": "Author",
-                  "value": "Nolli, Giovanni Battista"
-                },
-                {
-                  "label": "Author",
-                  "value": "Pozzi, Stefano"
-                },
-                {
-                  "label": "Date",
-                  "value": "1748"
-                },
-                {
-                  "label": "Short Title",
-                  "value": "Nuova Topografia Di Roma"
-                },
-                {
-                  "label": "Publisher",
-                  "value": "Gio. Battista Nolli"
-                },
-                {
-                  "label": "Publisher Location",
-                  "value": "Roma"
-                },
-                {
-                  "label": "Type",
-                  "value": "Wall Map"
-                },
-                {
-                  "label": "Obj Height cm",
-                  "value": "167"
-                },
-                {
-                  "label": "Obj Width cm",
-                  "value": "204"
-                },
-                {
-                  "label": "Scale 1",
-                  "value": "2,900"
-                },
-                {
-                  "label": "Note",
-                  "value": "Plan of Rome on 12 sheets, here originally assembled as a wall map. Nolli was an Italian architect and surveyor. He began surveying for his Rome map in 1736 and engraved it in 1748. The map was published in response to the commission of Pope Benedict XIV to survey Rome in order to help create demarcations for the 14 traditional rioni or districts. It was by far the most accurate description of Rome produced to date at the time. For decades it continued to be used as a base map for many of the maps of Rome that followed it. Stefano Pozzi engraved the views at the bottom of the map."
-                },
-                {
-                  "label": "Country",
-                  "value": "Italy"
-                },
-                {
-                  "label": "City",
-                  "value": "Rome (Italy)"
-                },
-                {
-                  "label": "Full Title",
-                  "value": "Alla Santita' Di Nostro Signore Papa Benedetto XIV La Nuova Topografia Di Roma Ossequiosamente Offerisce E Dedica L'Umilissimo Servo Giambattista Nolli Comasco."
-                },
-                {
-                  "label": "List No",
-                  "value": "10113.001"
-                },
-                {
-                  "label": "Series No",
-                  "value": "1"
-                },
-                {
-                  "label": "Publication Author",
-                  "value": "Nolli, Giovanni Battista"
-                },
-                {
-                  "label": "Publication Author",
-                  "value": "Pozzi, Stefano"
-                },
-                {
-                  "label": "Pub Date",
-                  "value": "1748"
-                },
-                {
-                  "label": "Pub Title",
-                  "value": "Alla Santita' Di Nostro Signore Papa Benedetto XIV La Nuova Topografia Di Roma Ossequiosamente Offerisce E Dedica L'Umilissimo Servo Giambattista Nolli Comasco."
-                },
-                {
-                  "label": "Pub Reference",
-                  "value": "View this map in Google Earth https://rumsey3.s3.amazonaws.com/Rome_1748.kmz Requires Google Earth Application https://www.google.com/earth/download/gep/agree.html"
-                },
-                {
-                  "label": "Pub Note",
-                  "value": "See note field above."
-                },
-                {
-                  "label": "Pub List No",
-                  "value": "10113.000"
-                },
-                {
-                  "label": "Pub Type",
-                  "value": "Wall Map"
-                },
-                {
-                  "label": "Pub Height cm",
-                  "value": "167"
-                },
-                {
-                  "label": "Pub Width cm",
-                  "value": "204"
-                },
-                {
-                  "label": "Image No",
-                  "value": "10113001.jp2"
-                },
-                {
-                  "label": "Download 1",
-                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/213/10113001.jp2 target=_blank>Full Image Download in JP2 Format</a>"
-                },
-                {
-                  "label": "Download 2",
-                  "value": "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
-                },
-                {
-                  "label": "Authors",
-                  "value": "Nolli, Giovanni Battista; Pozzi, Stefano"
-                }
-              ],
-              "thumbnail": {
-                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~301423~90129429/full/!96,96/0/default.jpg",
-                "format": "image/jpeg"
-              },
-              "images": [
-                {
-                  "@type": "oa:Annotation",
-                  "motivation": "sc:painting",
-                  "resource": {
-                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~301423~90129429/full/!1024,1024/0/default.jpg",
-                    "@type": "dctypes:Image",
-                    "service": {
-                      "@context": "http://iiif.io/api/image/2/context.json",
-                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~301423~90129429",
-                      "profile": "http://iiif.io/api/image/2/level1.json",
-                      "protocol": "http://iiif.io/api/image"
-                    },
-                    "format": "image/jpeg",
-                    "width": 34152,
-                    "height": 28378
-                  },
-                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~301423~90129429/canvas/c1"
-                }
-              ],
-              "otherContent": [
-                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~301423~90129429/list/luna"
-              ],
-              "width": 34152,
-              "height": 28378
-            }
-          ]
-        }
-      ],
-      "logo": {
-        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
-        "format": "image/png"
-      },
-      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~301423~90129429"
-    },
-    {
-      "@context": "http://iiif.io/api/presentation/2/context.json",
-      "@type": "sc:Manifest",
-      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~310085~90080100/manifest",
-      "label": "V.1: Libro primo: 1: Porta del Popolo olim Flaminia",
-      "attribution": "David Rumsey Historical Map Collection",
-      "service": {
-        "@context": "http://iiif.io/api/search/1/context.json",
-        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~310085~90080100/search",
-        "profile": "http://iiif.io/api/search/1/search"
-      },
-      "sequences": [
-        {
-          "@type": "sc:Sequence",
-          "canvases": [
-            {
-              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~310085~90080100/canvas/c1",
-              "@type": "sc:Canvas",
-              "label": "V.1: Libro primo: 1: Porta del Popolo olim Flaminia",
-              "description": "",
-              "metadata": [
-                {
-                  "label": "Author",
-                  "value": "Vasi, Giuseppe Agostino Pietro, 1710-1782"
-                },
-                {
-                  "label": "Author",
-                  "value": "Bianchini, Giuseppe, 1704-1764"
-                },
-                {
-                  "label": "Date",
-                  "value": "1747"
-                },
-                {
-                  "label": "Short Title",
-                  "value": "V.1: Libro primo: 1: Porta del Popolo olim Flaminia"
-                },
-                {
-                  "label": "Publisher",
-                  "value": "stamperia di Chracas"
-                },
-                {
-                  "label": "Publisher Location",
-                  "value": "Roma"
-                },
-                {
-                  "label": "Type",
-                  "value": "View"
-                },
-                {
-                  "label": "Obj Height cm",
-                  "value": "19"
-                },
-                {
-                  "label": "Obj Width cm",
-                  "value": "29"
-                },
-                {
-                  "label": "Note",
-                  "value": "Engraved view of the ancient Roman gate of the Porta del Popolo."
-                },
-                {
-                  "label": "Reference",
-                  "value": "Early printed books, 4 (2001), nos. 3389-98"
-                },
-                {
-                  "label": "City",
-                  "value": "Rome (Italy)"
-                },
-                {
-                  "label": "Full Title",
-                  "value": "Porta del Popolo olim Flaminia. G. Vasi dis. e inc. 1. (to accompany) Delle magnificenze di Roma antica e moderna : Libro primo ... In Roma MDCCXLVII (1747)."
-                },
-                {
-                  "label": "List No",
-                  "value": "13008.007"
-                },
-                {
-                  "label": "Series No",
-                  "value": "7"
-                },
-                {
-                  "label": "Page No",
-                  "value": "1"
-                },
-                {
-                  "label": "Publication Author",
-                  "value": "Vasi, Giuseppe Agostino Pietro, 1710-1782"
-                },
-                {
-                  "label": "Pub Date",
-                  "value": "1761"
-                },
-                {
-                  "label": "Pub Title",
-                  "value": "Delle magnificenze di Roma antica e moderna. libro primo (-decimo). Da Giuseppe Vasi da Corleone. Pittore Inxisore Architetto e Pastore Arcade … Composta dal P. Giuseppe Bianchini Veronese : prete della Congregazione dell’Oratorio di Roma, ed Accademico antiquatrio. In Roma MDCCXLVII (-MDCCLXI), (1747-1761). Nella Stamperia del Chracas Presso S. Marco Al Corso. Con Licenza de Superiori."
-                },
-                {
-                  "label": "Pub Reference",
-                  "value": "Early printed books, 4 (2001), nos. 3389-98"
-                },
-                {
-                  "label": "Pub Note",
-                  "value": "Vasi’s views of ancient and modern Rome show a personification of Rome in a series of ten books in 3 volumes. Engraved by Vasi, with explanatory text that provides historical and documentary information for each view, written by Vasi and Giuseppe Bianchini in Book I. Published between 1747 and 1761, it consists of 200 plates, 30 inset views and 3 plans in Book I and two plans in Book X. Plate 77 marked 78 in Vol. 2, Book 4. Plate 177 marked 178 in Vol. 3, Book 9. The collection lacks one leaf of text - Pages XXIX and XXX in Vol. 3, Book 10. Books are arranged by themes devoted to a particular architectural aspect of Rome: 1. Gates and walls; 2. Piazzas, obelisks, columns &c.; 3. Basilicas and ancient churches; 4. Palaces and streets; 5. Bridges and buildings on the Tiber; 6. Parish churches; 7. Conventi and clergy houses; 8. Monasteries for women; 9. Colleges, hospitals and pious foundations; 10. Villas and gardens. Engraved views showing towns, landmarks, buildings, plants, shrubs, figures, coaches and animals. The ten title-page vignettes are all unsigned. Each book has a dedication note by Vasi, a preface and index. The publishers were: Stamperia del Chracas; Stamperia di Apollo; Niccolo e Marco Pagliarini and Eredi Barbiellini. Vasi’s Roman vedute became popular outside Italy in the second half of the eighteenth century. In the inscription, Vasi describes himself as ‘painter, engraver, architect and Arcadian shepherd’, or member of the Accademia degli Arcadi. The academy was a literary and social club formed not only by authors and poets, but also by members of the professional classes, ecclesiastics and aristocrats interested in literature and modern science."
-                },
-                {
-                  "label": "Pub List No",
-                  "value": "13008.000"
-                },
-                {
-                  "label": "Pub Type",
-                  "value": "Geography Book"
-                },
-                {
-                  "label": "Pub Type",
-                  "value": "City Atlas"
-                },
-                {
-                  "label": "Pub Maps",
-                  "value": "202"
-                },
-                {
-                  "label": "Pub Height cm",
-                  "value": "28"
-                },
-                {
-                  "label": "Pub Width cm",
-                  "value": "40"
-                },
-                {
-                  "label": "Image No",
-                  "value": "13008007.jp2"
-                },
-                {
-                  "label": "Download 1",
-                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/179/13008007.jp2 target=_blank>Full Image Download in JP2 Format</a>"
-                },
-                {
-                  "label": "Download 2",
-                  "value": "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
-                },
-                {
-                  "label": "Authors",
-                  "value": "Vasi, Giuseppe Agostino Pietro, 1710-1782; Bianchini, Giuseppe, 1704-1764"
-                }
-              ],
-              "thumbnail": {
-                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~310085~90080100/full/!96,96/0/default.jpg",
-                "format": "image/jpeg"
-              },
-              "images": [
-                {
-                  "@type": "oa:Annotation",
-                  "motivation": "sc:painting",
-                  "resource": {
-                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~310085~90080100/full/!1024,1024/0/default.jpg",
-                    "@type": "dctypes:Image",
-                    "service": {
-                      "@context": "http://iiif.io/api/image/2/context.json",
-                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~310085~90080100",
-                      "profile": "http://iiif.io/api/image/2/level1.json",
-                      "protocol": "http://iiif.io/api/image"
-                    },
-                    "format": "image/jpeg",
-                    "width": 8281,
-                    "height": 5943
-                  },
-                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~310085~90080100/canvas/c1"
-                }
-              ],
-              "otherContent": [
-                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~310085~90080100/list/luna"
-              ],
-              "width": 8281,
-              "height": 5943
-            }
-          ]
-        }
-      ],
-      "logo": {
-        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
-        "format": "image/png"
-      },
-      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~310085~90080100"
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~279580~90052567"
     },
     {
       "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -2818,6 +2094,1654 @@
         "format": "image/png"
       },
       "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~310109~90080076"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~310085~90080100/manifest",
+      "label": "V.1: Libro primo: 1: Porta del Popolo olim Flaminia",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~310085~90080100/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~310085~90080100/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "V.1: Libro primo: 1: Porta del Popolo olim Flaminia",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Vasi, Giuseppe Agostino Pietro, 1710-1782"
+                },
+                {
+                  "label": "Author",
+                  "value": "Bianchini, Giuseppe, 1704-1764"
+                },
+                {
+                  "label": "Date",
+                  "value": "1747"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "V.1: Libro primo: 1: Porta del Popolo olim Flaminia"
+                },
+                {
+                  "label": "Publisher",
+                  "value": "stamperia di Chracas"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Roma"
+                },
+                {
+                  "label": "Type",
+                  "value": "View"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "19"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "29"
+                },
+                {
+                  "label": "Note",
+                  "value": "Engraved view of the ancient Roman gate of the Porta del Popolo."
+                },
+                {
+                  "label": "Reference",
+                  "value": "Early printed books, 4 (2001), nos. 3389-98"
+                },
+                {
+                  "label": "City",
+                  "value": "Rome (Italy)"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "Porta del Popolo olim Flaminia. G. Vasi dis. e inc. 1. (to accompany) Delle magnificenze di Roma antica e moderna : Libro primo ... In Roma MDCCXLVII (1747)."
+                },
+                {
+                  "label": "List No",
+                  "value": "13008.007"
+                },
+                {
+                  "label": "Series No",
+                  "value": "7"
+                },
+                {
+                  "label": "Page No",
+                  "value": "1"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Vasi, Giuseppe Agostino Pietro, 1710-1782"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1761"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Delle magnificenze di Roma antica e moderna. libro primo (-decimo). Da Giuseppe Vasi da Corleone. Pittore Inxisore Architetto e Pastore Arcade … Composta dal P. Giuseppe Bianchini Veronese : prete della Congregazione dell’Oratorio di Roma, ed Accademico antiquatrio. In Roma MDCCXLVII (-MDCCLXI), (1747-1761). Nella Stamperia del Chracas Presso S. Marco Al Corso. Con Licenza de Superiori."
+                },
+                {
+                  "label": "Pub Reference",
+                  "value": "Early printed books, 4 (2001), nos. 3389-98"
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "Vasi’s views of ancient and modern Rome show a personification of Rome in a series of ten books in 3 volumes. Engraved by Vasi, with explanatory text that provides historical and documentary information for each view, written by Vasi and Giuseppe Bianchini in Book I. Published between 1747 and 1761, it consists of 200 plates, 30 inset views and 3 plans in Book I and two plans in Book X. Plate 77 marked 78 in Vol. 2, Book 4. Plate 177 marked 178 in Vol. 3, Book 9. The collection lacks one leaf of text - Pages XXIX and XXX in Vol. 3, Book 10. Books are arranged by themes devoted to a particular architectural aspect of Rome: 1. Gates and walls; 2. Piazzas, obelisks, columns &c.; 3. Basilicas and ancient churches; 4. Palaces and streets; 5. Bridges and buildings on the Tiber; 6. Parish churches; 7. Conventi and clergy houses; 8. Monasteries for women; 9. Colleges, hospitals and pious foundations; 10. Villas and gardens. Engraved views showing towns, landmarks, buildings, plants, shrubs, figures, coaches and animals. The ten title-page vignettes are all unsigned. Each book has a dedication note by Vasi, a preface and index. The publishers were: Stamperia del Chracas; Stamperia di Apollo; Niccolo e Marco Pagliarini and Eredi Barbiellini. Vasi’s Roman vedute became popular outside Italy in the second half of the eighteenth century. In the inscription, Vasi describes himself as ‘painter, engraver, architect and Arcadian shepherd’, or member of the Accademia degli Arcadi. The academy was a literary and social club formed not only by authors and poets, but also by members of the professional classes, ecclesiastics and aristocrats interested in literature and modern science."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "13008.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Geography Book"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "City Atlas"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "202"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "28"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "40"
+                },
+                {
+                  "label": "Image No",
+                  "value": "13008007.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/179/13008007.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Vasi, Giuseppe Agostino Pietro, 1710-1782; Bianchini, Giuseppe, 1704-1764"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~310085~90080100/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~310085~90080100/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~310085~90080100",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 8281,
+                    "height": 5943
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~310085~90080100/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~310085~90080100/list/luna"
+              ],
+              "width": 8281,
+              "height": 5943
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~310085~90080100"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~301423~90129429/manifest",
+      "label": "Nuova Topografia Di Roma",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~301423~90129429/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~301423~90129429/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Nuova Topografia Di Roma",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Nolli, Giovanni Battista"
+                },
+                {
+                  "label": "Author",
+                  "value": "Pozzi, Stefano"
+                },
+                {
+                  "label": "Date",
+                  "value": "1748"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Nuova Topografia Di Roma"
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Gio. Battista Nolli"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Roma"
+                },
+                {
+                  "label": "Type",
+                  "value": "Wall Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "167"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "204"
+                },
+                {
+                  "label": "Scale 1",
+                  "value": "2,900"
+                },
+                {
+                  "label": "Note",
+                  "value": "Plan of Rome on 12 sheets, here originally assembled as a wall map. Nolli was an Italian architect and surveyor. He began surveying for his Rome map in 1736 and engraved it in 1748. The map was published in response to the commission of Pope Benedict XIV to survey Rome in order to help create demarcations for the 14 traditional rioni or districts. It was by far the most accurate description of Rome produced to date at the time. For decades it continued to be used as a base map for many of the maps of Rome that followed it. Stefano Pozzi engraved the views at the bottom of the map."
+                },
+                {
+                  "label": "Country",
+                  "value": "Italy"
+                },
+                {
+                  "label": "City",
+                  "value": "Rome (Italy)"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "Alla Santita' Di Nostro Signore Papa Benedetto XIV La Nuova Topografia Di Roma Ossequiosamente Offerisce E Dedica L'Umilissimo Servo Giambattista Nolli Comasco."
+                },
+                {
+                  "label": "List No",
+                  "value": "10113.001"
+                },
+                {
+                  "label": "Series No",
+                  "value": "1"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Nolli, Giovanni Battista"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Pozzi, Stefano"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1748"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Alla Santita' Di Nostro Signore Papa Benedetto XIV La Nuova Topografia Di Roma Ossequiosamente Offerisce E Dedica L'Umilissimo Servo Giambattista Nolli Comasco."
+                },
+                {
+                  "label": "Pub Reference",
+                  "value": "View this map in Google Earth https://rumsey3.s3.amazonaws.com/Rome_1748.kmz Requires Google Earth Application https://www.google.com/earth/download/gep/agree.html"
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "See note field above."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "10113.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Wall Map"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "167"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "204"
+                },
+                {
+                  "label": "Image No",
+                  "value": "10113001.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/213/10113001.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Nolli, Giovanni Battista; Pozzi, Stefano"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~301423~90129429/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~301423~90129429/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~301423~90129429",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 34152,
+                    "height": 28378
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~301423~90129429/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~301423~90129429/list/luna"
+              ],
+              "width": 34152,
+              "height": 28378
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~301423~90129429"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~299197~90073796/manifest",
+      "label": "Prospetto D[ell']alma città di Roma visto dal Monte Gianicolo.",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~299197~90073796/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~299197~90073796/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Prospetto D[ell']alma città di Roma visto dal Monte Gianicolo.",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Vasi, Giuseppe, 1710-1782"
+                },
+                {
+                  "label": "Date",
+                  "value": "1765"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Prospetto D[ell']alma città di Roma visto dal Monte Gianicolo."
+                },
+                {
+                  "label": "Publisher",
+                  "value": "[Giuseppe Vasi]"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "[Rome]"
+                },
+                {
+                  "label": "Type",
+                  "value": "View"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "107"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "267"
+                },
+                {
+                  "label": "Note",
+                  "value": "The panorama is inscribed with an \"Indice delle cose notabili diviso in otto giornate,\" listing 390 monuments and sites, the numbering of which correspond to those in the guidebook that Vasi published in the same year: Indice istorico del gran prospetto di Roma. The dedication to Charles III appears in the lower left corner on an antique slab. To the right of Charles III's coat of arms are printed verses from the 64th epigram by the Roman poet Martial: HINC SEPTEM DOMINOS VIDERE MONTES / ET TOTAM LICET AESTIMARE ROMAN. M. Val. Mart. lib. 4 epig. 64. The view is made of 12 sheets joined and backed on linen."
+                },
+                {
+                  "label": "City",
+                  "value": "Rome (Italy)"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "Prospetto D[ell']alma città di Roma visto dal Monte Gianicolo : f. sotto gli auspicj della Sac. Maestà Cattol. di Carlo III re delle Spagne pio giusto magnifico promotore eccelso delle scienze e delle arti"
+                },
+                {
+                  "label": "List No",
+                  "value": "10105.000"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Vasi, Giuseppe, 1710-1782"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1765"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Prospetto D[ell']alma città di Roma visto dal Monte Gianicolo : f. sotto gli auspicj della Sac. Maestà Cattol. di Carlo III re delle Spagne pio giusto magnifico promotore eccelso delle scienze e delle arti"
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "see note field above."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "10105.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "View"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "107"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "267"
+                },
+                {
+                  "label": "Image No",
+                  "value": "10105000.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/171/10105000.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Vasi, Giuseppe, 1710-1782"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~299197~90073796/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~299197~90073796/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~299197~90073796",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 62520,
+                    "height": 24772
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~299197~90073796/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~299197~90073796/list/luna"
+              ],
+              "width": 62520,
+              "height": 24772
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~299197~90073796"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~311856~90081590/manifest",
+      "label": "Composite: Naples sheets 1-35",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~311856~90081590/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~311856~90081590/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Composite: Naples sheets 1-35",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Carletti, Niccolò, 1723-1796"
+                },
+                {
+                  "label": "Author",
+                  "value": "Carafa, Giovanni, 1715-1768"
+                },
+                {
+                  "label": "Author",
+                  "value": "Pignatelli, Giovanni"
+                },
+                {
+                  "label": "Date",
+                  "value": "1775"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Composite: Naples sheets 1-35"
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Niccolo Carletti"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Naples"
+                },
+                {
+                  "label": "Type",
+                  "value": "Composite Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "247"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "471"
+                },
+                {
+                  "label": "Scale 1",
+                  "value": "4,000"
+                },
+                {
+                  "label": "Reference",
+                  "value": "Giulio Pane and Vladimiro Valerio (editors), La citta di Napoli ... piante e vedute dal XV al XIX secolo (Napels, 1987), pp. 269-306."
+                },
+                {
+                  "label": "City",
+                  "value": "Naples (Italy)"
+                },
+                {
+                  "label": "Region",
+                  "value": "Naples Region (Italy)"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "(Composite of Naples sheets 1-35) Mappa Topografica della Città di Napoli e de' suoi Contorni"
+                },
+                {
+                  "label": "List No",
+                  "value": "10246.036"
+                },
+                {
+                  "label": "Series No",
+                  "value": "36"
+                },
+                {
+                  "label": "Page No",
+                  "value": "1-35"
+                },
+                {
+                  "label": "Engraver or Printer",
+                  "value": "Aloja, Giuseppe"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Carletti, Niccolò, 1723-1796"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Carafa, Giovanni, 1715-1768"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Pignatelli, Giovanni"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1775"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Mappa Topografica della Città di Napoli e de' suoi Contorni."
+                },
+                {
+                  "label": "Pub Reference",
+                  "value": "In 1776 Carletti published a book about Naples, Topografia universale della città di Napoli, likely to accompany his 1775 map. Online version here https://archive.org/details/gri_33125008673176"
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "Carletti's huge map of Naples was begun in 1750 when financing for the project was secured from the civic tribunal of San Lorenzo. 25 years were spent making the map which was published in 1775. It is considered the most important map of Naples from the 18th century. Originally under the direction of Giovanni Carafa, after his death in 1769 the project was taken over by Giovanni Pignatelli. The entire map was engraved by Giuseppe Aloja and published by Carletti with his corrections and the addition of his accompanying extensive topographical and historical index."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "10246.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "City Atlas"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "35"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "50"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "68"
+                },
+                {
+                  "label": "Image No",
+                  "value": "10246036.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/179/10246036.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=https://www.lizardtech.com/geoviewer/free-download-thanks target=_blank >GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Carletti, Niccolò, 1723-1796; Carafa, Giovanni, 1715-1768; Pignatelli, Giovanni"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~311856~90081590/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~311856~90081590/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~311856~90081590",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 111639,
+                    "height": 58874
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~311856~90081590/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~311856~90081590/list/luna"
+              ],
+              "width": 111639,
+              "height": 58874
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~311856~90081590"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "https://purl.stanford.edu/zs434rp1913/iiif/manifest",
+      "@type": "sc:Manifest",
+      "label": "Collection of Etruscan, Greek, and Roman antiquities from the cabinet of the Honble. Wm. Hamilton His Britannick Maiesty's envoy extraordinary at the Court of Naples = : Antiquités etrusques, grecques et romaines tireés du cabinet de M. Hamilton, envoyé extraordinaire de S.M. Britannique en Cour de Naples",
+      "attribution": "Provided by the Stanford University Libraries",
+      "logo": {
+        "@id": "https://stacks.stanford.edu/image/iiif/wy534zh7137/SULAIR_rosette/full/400,/0/default.jpg",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://stacks.stanford.edu/image/iiif/wy534zh7137/SULAIR_rosette",
+          "profile": "http://iiif.io/api/image/2/level2.json"
+        }
+      },
+      "seeAlso": {
+        "@id": "https://purl.stanford.edu/zs434rp1913.mods",
+        "format": "application/mods+xml"
+      },
+      "viewingHint": "paged",
+      "metadata": [
+        {
+          "label": "Available Online",
+          "value": "<a href='https://purl.stanford.edu/zs434rp1913'>https://purl.stanford.edu/zs434rp1913</a>"
+        },
+        {
+          "label": "Title",
+          "value": "Collection of Etruscan, Greek, and Roman antiquities from the cabinet of the Honble. Wm. Hamilton His Britannick Maiesty's envoy extraordinary at the Court of Naples = : Antiquités etrusques, grecques et romaines tireés du cabinet de M. Hamilton, envoyé extraordinaire de S.M. Britannique en Cour de Naples"
+        },
+        {
+          "label": "Title",
+          "value": "Antiquités etrusques, grecques et romaines tirées du cabinet de M. Hamilton, envoyé extraordinaire de S.M. Britannique en Cour de Naples"
+        },
+        {
+          "label": "Contributor",
+          "value": "Hancarville, Pierre d', 1719-1805."
+        },
+        {
+          "label": "Contributor",
+          "value": "Hamilton, William, Sir, 1730-1803."
+        },
+        {
+          "label": "Contributor",
+          "value": "Cardon, Antoine Alexandre, 1739-1822."
+        },
+        {
+          "label": "Contributor",
+          "value": "Nolli, Carlo, -approximately 1770"
+        },
+        {
+          "label": "Contributor",
+          "value": "Pignatari, Carmine."
+        },
+        {
+          "label": "Contributor",
+          "value": "Grado, Filip. de."
+        },
+        {
+          "label": "Contributor",
+          "value": "Dufrenoi."
+        },
+        {
+          "label": "Contributor",
+          "value": "Bracci, Giuseppe."
+        },
+        {
+          "label": "Contributor",
+          "value": "Beaulieu, Edmondo."
+        },
+        {
+          "label": "Contributor",
+          "value": "Tierce, Jean-Baptiste, 1741-approximately 1810."
+        },
+        {
+          "label": "Contributor",
+          "value": "Lamberti, Aniel."
+        },
+        {
+          "label": "Contributor",
+          "value": "Beaulieu, R."
+        },
+        {
+          "label": "Type",
+          "value": "text"
+        },
+        {
+          "label": "Format",
+          "value": "4 v. : ill. (engravings) ; 51 cm."
+        },
+        {
+          "label": "Language",
+          "value": "English"
+        },
+        {
+          "label": "Description",
+          "value": "Preface signed on p. xxiv-xxv: ... D'Hancarville."
+        },
+        {
+          "label": "Description",
+          "value": "Title of v. 2: Collection of Etruscan, Greek, and Roman antiquities from the cabinet of the Honble. Wm. Hamilton His Britannick Maiesty's envoy extraordinary and plenipotentiary at the Court of Naples = Antiquités etrusques, grecques et romaines tirées du cabinet de M. Hamilton envoyé extraordinaire et plenipotentiaire de S.M. Britannique en Cour de Naples."
+        },
+        {
+          "label": "Description",
+          "value": "Printer from v. 1, p. [3] (4th group), and v. 2, p. 168."
+        },
+        {
+          "label": "Description",
+          "value": "Separate hand-colored engraved title pages in English and French."
+        },
+        {
+          "label": "Description",
+          "value": "In English and French on facing p.; 1 section in French only in double columns: v. 2, p. 160-168."
+        },
+        {
+          "label": "Description",
+          "value": "Headlines."
+        },
+        {
+          "label": "Description",
+          "value": "Plates, initials, and head- and tailpieces variously engraved by Ant. Cardon, Nolli, Carmine Pignatari, Filip. de Grado, and Dufrenoi, after Giuseppe Bracci, Filip. de Grado, Edmondo Beaulieu, Gio. Bat. Tierce, Aniel. Lamberti, and R. Beaulieu."
+        },
+        {
+          "label": "Description",
+          "value": "Errata: v. 1, p. [3] (4th group)."
+        },
+        {
+          "label": "Description",
+          "value": "Some plates printed on double leaves."
+        },
+        {
+          "label": "Description",
+          "value": "Some ill. hand-colored."
+        },
+        {
+          "label": "Bibliography",
+          "value": "Includes bibliographical references."
+        },
+        {
+          "label": "Citation/Reference",
+          "value": "British Museum. General catalogue of printed books, XCVI, column 958, CVIII, column 823"
+        },
+        {
+          "label": "Citation/Reference",
+          "value": "Bibliothèque nationale (France). Catalogue général des livres imprimés de la Bibliothèque nationale: auteurs, LXVIII, column 362"
+        },
+        {
+          "label": "Citation/Reference",
+          "value": "National union catalog, pre-1956 imprints, NH 0076201"
+        },
+        {
+          "label": "Citation/Reference",
+          "value": "Watt, R. Bibliotheca Britannica, I, column 462u."
+        },
+        {
+          "label": "Subject",
+          "value": "Vase-painting, Greek."
+        },
+        {
+          "label": "Subject",
+          "value": "Vase-painting, Etruscan."
+        },
+        {
+          "label": "Subject",
+          "value": "Vases, Greek."
+        },
+        {
+          "label": "Subject",
+          "value": "Vases, Etruscan."
+        },
+        {
+          "label": "Subject",
+          "value": "Classical antiquities."
+        },
+        {
+          "label": "Subject",
+          "value": "Art, Classical."
+        },
+        {
+          "label": "Subject",
+          "value": "Art, Greek."
+        },
+        {
+          "label": "Subject",
+          "value": "Greece"
+        },
+        {
+          "label": "Subject",
+          "value": "Antiquities."
+        },
+        {
+          "label": "Subject",
+          "value": "Italy"
+        },
+        {
+          "label": "Date",
+          "value": "1766"
+        },
+        {
+          "label": "Date",
+          "value": "1767"
+        },
+        {
+          "label": "Date",
+          "value": "1766 - 1767"
+        },
+        {
+          "label": "Identifier",
+          "value": "LCCN: 12014028"
+        },
+        {
+          "label": "Identifier",
+          "value": "https://purl.stanford.edu/zs434rp1913"
+        },
+        {
+          "label": "Publisher",
+          "value": "[Imprimé a Naples par François Morelli]"
+        },
+        {
+          "label": "Record published",
+          "value": "2026-07-21"
+        }
+      ],
+      "description": "Preface signed on p. xxiv-xxv: ... D'Hancarville.",
+      "thumbnail": {
+        "@id": "https://stacks.stanford.edu/image/iiif/zs434rp1913%2Fzs434rp1913_0001/full/!400,400/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://stacks.stanford.edu/image/iiif/zs434rp1913%2Fzs434rp1913_0001",
+          "profile": "http://iiif.io/api/image/2/level2.json"
+        },
+        "width": 320,
+        "height": 400
+      },
+      "sequences": [
+        {
+          "@id": "https://purl.stanford.edu/zs434rp1913/iiif/manifest#sequence-1",
+          "@type": "sc:Sequence",
+          "label": "Current order",
+          "viewingDirection": "left-to-right",
+          "canvases": [
+            {
+              "@id": "https://purl.stanford.edu/zs434rp1913/iiif/canvas/cocina-fileSet-zs434rp1913-zs434rp1913_1",
+              "@type": "sc:Canvas",
+              "label": "Page 1",
+              "height": 7369,
+              "width": 5887,
+              "rendering": [
+                {
+                  "@id": "https://stacks.stanford.edu/file/zs434rp1913/zs434rp1913_0001.jp2",
+                  "label": "Original source file (7.79 MB)",
+                  "format": "image/jp2"
+                }
+              ],
+              "images": [
+                {
+                  "@id": "https://purl.stanford.edu/zs434rp1913/iiif/annotation/https:%2F%2Fcocina.sul.stanford.edu%2Ffile%2Fzs434rp1913-zs434rp1913_1%2Fzs434rp1913_0001.jp2",
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "on": "https://purl.stanford.edu/zs434rp1913/iiif/canvas/cocina-fileSet-zs434rp1913-zs434rp1913_1",
+                  "resource": {
+                    "@id": "https://stacks.stanford.edu/image/iiif/zs434rp1913%2Fzs434rp1913_0001/full/full/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 7369,
+                    "width": 5887,
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://stacks.stanford.edu/image/iiif/zs434rp1913%2Fzs434rp1913_0001",
+                      "profile": "http://iiif.io/api/image/2/level2.json"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "https://purl.stanford.edu/zs434rp1913/iiif/manifest",
+      "@type": "sc:Manifest",
+      "label": "Collection of Etruscan, Greek, and Roman antiquities from the cabinet of the Honble. Wm. Hamilton His Britannick Maiesty's envoy extraordinary at the Court of Naples = : Antiquités etrusques, grecques et romaines tireés du cabinet de M. Hamilton, envoyé extraordinaire de S.M. Britannique en Cour de Naples",
+      "attribution": "Provided by the Stanford University Libraries",
+      "logo": {
+        "@id": "https://stacks.stanford.edu/image/iiif/wy534zh7137/SULAIR_rosette/full/400,/0/default.jpg",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://stacks.stanford.edu/image/iiif/wy534zh7137/SULAIR_rosette",
+          "profile": "http://iiif.io/api/image/2/level2.json"
+        }
+      },
+      "seeAlso": {
+        "@id": "https://purl.stanford.edu/zs434rp1913.mods",
+        "format": "application/mods+xml"
+      },
+      "viewingHint": "paged",
+      "metadata": [
+        {
+          "label": "Available Online",
+          "value": "<a href='https://purl.stanford.edu/zs434rp1913'>https://purl.stanford.edu/zs434rp1913</a>"
+        },
+        {
+          "label": "Title",
+          "value": "Collection of Etruscan, Greek, and Roman antiquities from the cabinet of the Honble. Wm. Hamilton His Britannick Maiesty's envoy extraordinary at the Court of Naples = : Antiquités etrusques, grecques et romaines tireés du cabinet de M. Hamilton, envoyé extraordinaire de S.M. Britannique en Cour de Naples"
+        },
+        {
+          "label": "Title",
+          "value": "Antiquités etrusques, grecques et romaines tirées du cabinet de M. Hamilton, envoyé extraordinaire de S.M. Britannique en Cour de Naples"
+        },
+        {
+          "label": "Contributor",
+          "value": "Hancarville, Pierre d', 1719-1805."
+        },
+        {
+          "label": "Contributor",
+          "value": "Hamilton, William, Sir, 1730-1803."
+        },
+        {
+          "label": "Contributor",
+          "value": "Cardon, Antoine Alexandre, 1739-1822."
+        },
+        {
+          "label": "Contributor",
+          "value": "Nolli, Carlo, -approximately 1770"
+        },
+        {
+          "label": "Contributor",
+          "value": "Pignatari, Carmine."
+        },
+        {
+          "label": "Contributor",
+          "value": "Grado, Filip. de."
+        },
+        {
+          "label": "Contributor",
+          "value": "Dufrenoi."
+        },
+        {
+          "label": "Contributor",
+          "value": "Bracci, Giuseppe."
+        },
+        {
+          "label": "Contributor",
+          "value": "Beaulieu, Edmondo."
+        },
+        {
+          "label": "Contributor",
+          "value": "Tierce, Jean-Baptiste, 1741-approximately 1810."
+        },
+        {
+          "label": "Contributor",
+          "value": "Lamberti, Aniel."
+        },
+        {
+          "label": "Contributor",
+          "value": "Beaulieu, R."
+        },
+        {
+          "label": "Type",
+          "value": "text"
+        },
+        {
+          "label": "Format",
+          "value": "4 v. : ill. (engravings) ; 51 cm."
+        },
+        {
+          "label": "Language",
+          "value": "English"
+        },
+        {
+          "label": "Description",
+          "value": "Preface signed on p. xxiv-xxv: ... D'Hancarville."
+        },
+        {
+          "label": "Description",
+          "value": "Title of v. 2: Collection of Etruscan, Greek, and Roman antiquities from the cabinet of the Honble. Wm. Hamilton His Britannick Maiesty's envoy extraordinary and plenipotentiary at the Court of Naples = Antiquités etrusques, grecques et romaines tirées du cabinet de M. Hamilton envoyé extraordinaire et plenipotentiaire de S.M. Britannique en Cour de Naples."
+        },
+        {
+          "label": "Description",
+          "value": "Printer from v. 1, p. [3] (4th group), and v. 2, p. 168."
+        },
+        {
+          "label": "Description",
+          "value": "Separate hand-colored engraved title pages in English and French."
+        },
+        {
+          "label": "Description",
+          "value": "In English and French on facing p.; 1 section in French only in double columns: v. 2, p. 160-168."
+        },
+        {
+          "label": "Description",
+          "value": "Headlines."
+        },
+        {
+          "label": "Description",
+          "value": "Plates, initials, and head- and tailpieces variously engraved by Ant. Cardon, Nolli, Carmine Pignatari, Filip. de Grado, and Dufrenoi, after Giuseppe Bracci, Filip. de Grado, Edmondo Beaulieu, Gio. Bat. Tierce, Aniel. Lamberti, and R. Beaulieu."
+        },
+        {
+          "label": "Description",
+          "value": "Errata: v. 1, p. [3] (4th group)."
+        },
+        {
+          "label": "Description",
+          "value": "Some plates printed on double leaves."
+        },
+        {
+          "label": "Description",
+          "value": "Some ill. hand-colored."
+        },
+        {
+          "label": "Bibliography",
+          "value": "Includes bibliographical references."
+        },
+        {
+          "label": "Citation/Reference",
+          "value": "British Museum. General catalogue of printed books, XCVI, column 958, CVIII, column 823"
+        },
+        {
+          "label": "Citation/Reference",
+          "value": "Bibliothèque nationale (France). Catalogue général des livres imprimés de la Bibliothèque nationale: auteurs, LXVIII, column 362"
+        },
+        {
+          "label": "Citation/Reference",
+          "value": "National union catalog, pre-1956 imprints, NH 0076201"
+        },
+        {
+          "label": "Citation/Reference",
+          "value": "Watt, R. Bibliotheca Britannica, I, column 462u."
+        },
+        {
+          "label": "Subject",
+          "value": "Vase-painting, Greek."
+        },
+        {
+          "label": "Subject",
+          "value": "Vase-painting, Etruscan."
+        },
+        {
+          "label": "Subject",
+          "value": "Vases, Greek."
+        },
+        {
+          "label": "Subject",
+          "value": "Vases, Etruscan."
+        },
+        {
+          "label": "Subject",
+          "value": "Classical antiquities."
+        },
+        {
+          "label": "Subject",
+          "value": "Art, Classical."
+        },
+        {
+          "label": "Subject",
+          "value": "Art, Greek."
+        },
+        {
+          "label": "Subject",
+          "value": "Greece"
+        },
+        {
+          "label": "Subject",
+          "value": "Antiquities."
+        },
+        {
+          "label": "Subject",
+          "value": "Italy"
+        },
+        {
+          "label": "Date",
+          "value": "1766"
+        },
+        {
+          "label": "Date",
+          "value": "1767"
+        },
+        {
+          "label": "Date",
+          "value": "1766 - 1767"
+        },
+        {
+          "label": "Identifier",
+          "value": "LCCN: 12014028"
+        },
+        {
+          "label": "Identifier",
+          "value": "https://purl.stanford.edu/zs434rp1913"
+        },
+        {
+          "label": "Publisher",
+          "value": "[Imprimé a Naples par François Morelli]"
+        },
+        {
+          "label": "Record published",
+          "value": "2026-07-21"
+        }
+      ],
+      "description": "Preface signed on p. xxiv-xxv: ... D'Hancarville.",
+      "thumbnail": {
+        "@id": "https://stacks.stanford.edu/image/iiif/zs434rp1913%2Fzs434rp1913_0001/full/!400,400/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://stacks.stanford.edu/image/iiif/zs434rp1913%2Fzs434rp1913_0001",
+          "profile": "http://iiif.io/api/image/2/level2.json"
+        },
+        "width": 320,
+        "height": 400
+      },
+      "sequences": [
+        {
+          "@id": "https://purl.stanford.edu/zs434rp1913/iiif/manifest#sequence-1",
+          "@type": "sc:Sequence",
+          "label": "Current order",
+          "viewingDirection": "left-to-right",
+          "canvases": [
+            {
+              "@id": "https://purl.stanford.edu/zs434rp1913/iiif/canvas/cocina-fileSet-zs434rp1913-zs434rp1913_8",
+              "@type": "sc:Canvas",
+              "label": "Page 8",
+              "height": 7449,
+              "width": 5893,
+              "rendering": [
+                {
+                  "@id": "https://stacks.stanford.edu/file/zs434rp1913/zs434rp1913_0008.jp2",
+                  "label": "Original source file (7.88 MB)",
+                  "format": "image/jp2"
+                }
+              ],
+              "images": [
+                {
+                  "@id": "https://purl.stanford.edu/zs434rp1913/iiif/annotation/https:%2F%2Fcocina.sul.stanford.edu%2Ffile%2Fzs434rp1913-zs434rp1913_8%2Fzs434rp1913_0008.jp2",
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "on": "https://purl.stanford.edu/zs434rp1913/iiif/canvas/cocina-fileSet-zs434rp1913-zs434rp1913_8",
+                  "resource": {
+                    "@id": "https://stacks.stanford.edu/image/iiif/zs434rp1913%2Fzs434rp1913_0008/full/full/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 7449,
+                    "width": 5893,
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://stacks.stanford.edu/image/iiif/zs434rp1913%2Fzs434rp1913_0008",
+                      "profile": "http://iiif.io/api/image/2/level2.json"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~325466~90119887/manifest",
+      "label": "(26) L'Abruzzo.",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~325466~90119887/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~325466~90119887/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "(26) L'Abruzzo.",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Cassini, Gio. Ma. (Giovanni Maria), 1745-approximately 1824"
+                },
+                {
+                  "label": "Date",
+                  "value": "1790"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "(26) L'Abruzzo."
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Calcogr. Camerale"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Rome"
+                },
+                {
+                  "label": "Type",
+                  "value": "Atlas Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "35"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "47"
+                },
+                {
+                  "label": "Scale 1",
+                  "value": "625,000"
+                },
+                {
+                  "label": "Note",
+                  "value": "Relief shown pictorially. Includes title decorative cartouche and bar scales. In Volume I."
+                },
+                {
+                  "label": "Region",
+                  "value": "Abruzzo Region (Italy)"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "(26) L'Abruzzo, ulteriore e citeriore e la Contea di Molise. Roma, presso la Calcografia Camerale., 1790."
+                },
+                {
+                  "label": "List No",
+                  "value": "14000.050"
+                },
+                {
+                  "label": "Series No",
+                  "value": "50"
+                },
+                {
+                  "label": "Engraver or Printer",
+                  "value": "Cassini, Gio. Ma. (Giovanni Maria), 1745-approximately 1824"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Cassini, Gio. Ma. (Giovanni Maria), 1745-approximately 1824"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1801"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Nuovo atlante geografico universale delineato sulle ultime osservazioni (Tom. I, II, III). Roma, presso la Caleogr. Camerale, (MDCCXCII, MDCCXCVII, MDCCCI)."
+                },
+                {
+                  "label": "Pub Reference",
+                  "value": "Phillips 670; Tooley 243"
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "3-volume atlas contains 182 maps: 55 in Volume I, 70 in Volume II and 57 in Volume III. Dimensions: Volume I = 44 x 33 cm; Volume II = 47 x 33 cm; Volume III = 48 x 34. Board covers with abbreviated spine titles: Atlante geografico universale I -- Atlante geografico universale II -- Atlante geografico universale III. Cassini was both a painter and engraver who trained in Rome under Giambattista Piranesi (1720-1778). \"Piranesi taught him the strict principles of Roman and Greek architecture, albeit that both Piranesi and Cassini utilized classical images in a Baroque style and context. Cassini's preparedness to contemplate a hybrid classical format - incorporating classical architecture and figures as fashionable forms - characterized a celestial glove he engraved in 1792. Cassini produced influential atlases, maps and globes at a time of major political upheaval in Europe. Many redrawn boundaries followed in the wake of the French Revolution and Napoleon's conquest. While Britain, Spain and France were engaged in worldwide imperial conflict, Cassini's views emerged, anticipating by over fifty years the insurrections in Italy in 1831 and 1848-49, as well as Cavour's advocacy at the Congress of Paris in 1856 of an \"Italian State\". The survival of some of Cassini's globes in Italian schools attests to his educational contribution to the emergence of Italian nationalism, if not to the great power campaigns and treaties that led to the creation of the Kingdom of Italy in 1859-60. Cassini's globes also provide insights into the ecclesiastical politics of Rome, and to successive military occupations of the Papal Sates - occupations that led to loss of sovereignty and the Law of Guarantees of 1871, passed by an Italian Parliament to safeguard the Pope in the Vatican\". - Baldwin, Robert W. (1995). P. Giovanni Maria Cassini, C.R.S. (1745-1824 ca.) and his globes. International Coronelli Society for the Study of Globes, (43/44), 201-218. https://www.jstor.org/stable/41622076"
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "14000.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "World Atlas"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "182"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "47"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "34"
+                },
+                {
+                  "label": "Image No",
+                  "value": "14000050.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/205/14000050.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Cassini, Gio. Ma. (Giovanni Maria), 1745-approximately 1824"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~325466~90119887/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~325466~90119887/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~325466~90119887",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 16596,
+                    "height": 10445
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~325466~90119887/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~325466~90119887/list/luna"
+              ],
+              "width": 16596,
+              "height": 10445
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~325466~90119887"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~21512~640005/manifest",
+      "label": "Italy.",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~21512~640005/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~21512~640005/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Italy.",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Cary, John, ca. 1754-1835"
+                },
+                {
+                  "label": "Date",
+                  "value": "1799"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Italy."
+                },
+                {
+                  "label": "Publisher",
+                  "value": "John Cary"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "London"
+                },
+                {
+                  "label": "Type",
+                  "value": "Atlas Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "46"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "52"
+                },
+                {
+                  "label": "Scale 1",
+                  "value": "3,000,000"
+                },
+                {
+                  "label": "Note",
+                  "value": "Engraved map. Boundaries in outline hand col. Relief shown pictorially. Includes also western part of the Balkan Peninsula and Malta. \"18\" pasted on verso."
+                },
+                {
+                  "label": "Country",
+                  "value": "Italy"
+                },
+                {
+                  "label": "Country",
+                  "value": "Slovenia"
+                },
+                {
+                  "label": "Region",
+                  "value": "Corsica (France)"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "A new map of Italy, including the islands of Sicily, Sardinia and Corsica with the post roads. From the latest authorities. By John Cary, engraver, 1799. London: Published by J. Cary, Engraver & Map-seller, No. 181, Strand, Augst. 1, 1799."
+                },
+                {
+                  "label": "List No",
+                  "value": "1657.019"
+                },
+                {
+                  "label": "Series No",
+                  "value": "22"
+                },
+                {
+                  "label": "Page No",
+                  "value": "18"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Cary, John, ca. 1754-1835"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1808"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Cary's new universal atlas, containing distinct maps of all the principal states and kingdoms throughout the World. From the latest and best authorities extant. London: Printed for J. Cary, Engraver and Map-seller, No. 181, near Norfolk Street, Strand, 1808."
+                },
+                {
+                  "label": "Pub Reference",
+                  "value": "Phillips, 714; Fordham, J.C. John Cary, p. 77-82; The map collector, 43, p. 40-47; National Maritime Museum. Catalog, v. 3, no. 311."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "The 1st ed., with a list of subscribers. Fordham lists eds. of 1808, 1811 (reissue of 1808, no maps changes other than the 1811 date appearing on some of the maps), 1819 (one third of the maps amended), 1824 (maps unchanged from 1819 except for the date), 1828 (same as 1824, except for date changes, with reissues in 1833, 1836 (Baskes), and 1844). This is a fine atlas, one of the best of its period, and a source for American mapmakers (Tanner directly copied the World and continental maps for his New American Atlas). Fordham: (The maps) \"are finely engraved, with full details, showing especially the water-ways and roads, and hill-shading, and are usually coloured. The work is very clear and delicate and of a uniform character throughout.\" Maps are hand painted in outline color and bound in half leather brown boards with \"Cary's Atlas. 1808\" stamped in gilt on the new leather spine."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "1657.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "World Atlas"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "60"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "57"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "38"
+                },
+                {
+                  "label": "Image No",
+                  "value": "1657019"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D0064/1657019.sid target=_blank>Full Image Download in MrSID Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Cary, John, ca. 1754-1835"
+                },
+                {
+                  "label": "Collection",
+                  "value": "Rumsey Collection"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~21512~640005/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~21512~640005/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~21512~640005",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 11353,
+                    "height": 8369
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~21512~640005/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~21512~640005/list/luna"
+              ],
+              "width": 11353,
+              "height": 8369
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~21512~640005"
     }
   ]
 }
