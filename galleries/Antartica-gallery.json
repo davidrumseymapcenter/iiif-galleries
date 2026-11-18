@@ -1,0 +1,2718 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@type": "sc:Collection",
+  "@id": "https://iiif-gallery-builder.example.org/Antartica",
+  "label": "Antartica",
+  "items": [
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~385040~90150875/manifest",
+      "label": "Antarctica",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~385040~90150875/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~385040~90150875/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Antarctica",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Bayliss, E. P."
+                },
+                {
+                  "label": "Author",
+                  "value": "Cumpston, J. S."
+                },
+                {
+                  "label": "Date",
+                  "value": "1939"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Antarctica"
+                },
+                {
+                  "label": "Publisher",
+                  "value": "L. F. Johnston, Commonwealth Government Printer"
+                },
+                {
+                  "label": "Type",
+                  "value": "Separate Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "96"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "73"
+                },
+                {
+                  "label": "Scale 1",
+                  "value": "10,000,000"
+                },
+                {
+                  "label": "World Area",
+                  "value": "Antarctica"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "Antarctica. Produced by the Property & Survey Branch, Department of the Interior, Canberra, Australia."
+                },
+                {
+                  "label": "List No",
+                  "value": "18224.000"
+                },
+                {
+                  "label": "Series No",
+                  "value": "0"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Bayliss, E. P."
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Cumpston, J. S."
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1939"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Antarctica"
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "This 1939 map of Antarctica was produced by the Property and Survey Branch of the Australian Department of the Interior in Canberra, compiled, drawn, and lithographed by E. P. Bayliss, F.R.G.S. It was prepared jointly with the Department of External Affairs and accompanied by a Handbook and Index to accompany a Map of Antarctica, written by Bayliss and J. S. Cumpston. The map documented contemporary geographic knowledge and the territorial claims established in the Antarctic during the preceding decades, particularly the Australian Antarctic Territory, transferred to Australian authority by British Order in Council in 1933 and accepted by Australian legislation that year. The principal map uses an azimuthal equidistant projection centered on the South Pole, with a stated latitudinal scale of 1:10,000,000. It delineates the Australian Antarctic Territory, including Enderby, Kemp, Mac-Robertson, Princess Elizabeth, Kaiser Wilhelm II, Queen Mary, Wilkes, King George V, and Oates Lands, as well as the Falkland Islands Dependency, Ross Dependency, and French Adélie Land. Red lines identify territorial boundaries and subdivisions. Coastal annotations identify explorers and discovery dates, while bathymetric contours, soundings, glaciers, and elevations record the uneven state of exploration. A table identifies the legal instruments creating the principal dependencies. The map also incorporates recent discoveries, including observations associated with the German Antarctic expedition of 1938–1939 and the Norwegian claim to Queen Maud Land in January 1939. Two inset maps provide additional geographic context. A long inset across the upper margin, Coastal Regions of the Australian Antarctic Territory, depicts the Australian sector at 1:7,000,000. Another, The Antarctic Continent in Relation to the Principal Land Masses in the Southern Hemisphere, places Antarctica in relation to Australia, New Zealand, and South America at 1:60,000,000. The compilation followed extensive research begun in 1938 by Bayliss and Cumpston, who reportedly examined approximately 250 sources, including expedition reports, maps, charts, and government documents. Earlier departmental compilations had become outdated as aerial and maritime exploration expanded knowledge of the continent. The finished map was printed by L. F. Johnston, Commonwealth Government Printer, Canberra. It was sold in a single-sheet version, accompanied by the handbook, and in a larger two-sheet version. Its comprehensive synthesis of geographic discoveries, hydrographic information, and competing territorial jurisdictions makes it an important document of Antarctic mapping immediately before the Second World War. (Ruderman, 2026)"
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "18224.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Separate Map"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "96"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "73"
+                },
+                {
+                  "label": "Image No",
+                  "value": "18224000.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/229/18224000.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Bayliss, E. P.; Cumpston, J. S."
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~385040~90150875/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~385040~90150875/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~385040~90150875",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 18569,
+                    "height": 24555
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~385040~90150875/canvas/c1"
+                }
+              ],
+              "width": 18569,
+              "height": 24555
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~385040~90150875"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~374151~90140794/manifest",
+      "label": "Covers: Atlante geografico polare.",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~374151~90140794/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~374151~90140794/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Covers: Atlante geografico polare.",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Zavatti, Silvio"
+                },
+                {
+                  "label": "Author",
+                  "value": "Istituto geografico polare"
+                },
+                {
+                  "label": "Date",
+                  "value": "1958"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Covers: Atlante geografico polare."
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Poligrafiche Bolis"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Forlì"
+                },
+                {
+                  "label": "Type",
+                  "value": "Covers"
+                },
+                {
+                  "label": "Type",
+                  "value": "View"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "35"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "25"
+                },
+                {
+                  "label": "Note",
+                  "value": "Covers to Atlante geografico polare. Title translates to: Polar geographic atlas. Bound in board with a blue linen spine. Front cover features a map of Antarctica and an illustration of polar bears."
+                },
+                {
+                  "label": "World Area",
+                  "value": "Antarctica"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "(Covers to) Atlante geografico polare. Silvio Zavatti. Poligrafiche Bolis Bergamo."
+                },
+                {
+                  "label": "List No",
+                  "value": "14576.001"
+                },
+                {
+                  "label": "Series No",
+                  "value": "1"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Zavatti, Silvio"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Istituto geografico polare"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1958"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Atlante geografico polare : 19 tavole con 44 carte. Silvio Zavatti, Direttore dell'Istituto Geografico Polare. Poligrafiche Bolis - Bergamo. 1958."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "Atlante geografico polare by Silvio Zavatti. Published by Poligrafiche Bolis in Forlì, Italy, in 1958. Bound in board with a blue linen spine. Front cover features a map of Antarctica and an illustration of polar bears. Title translates to: Polar geographic atlas. Volume includes a title page, table of contents, dedication, preface, general text and individual descriptions of each map, as well as 43 maps on 15 plates. The maps represent the Arctic, Greenland and Antarctica, including islands in both the Arctic and Antarctic Regions. The final four maps each depict a quadrant of Antarctica. Maps show political boundaries, cities, topography, mountain peaks, bodies of water, drainage, coastlines, islands and water depths. The work stands out for its scientific accuracy and the richness of its cartographic information, making it a key reference for scholars and enthusiasts of polar geography. Zavatti, a renowned explorer and scholar of polar territories, devoted much of his life to the research and documentation of these remote areas. Throughout his career, Zavatti led numerous expeditions to Greenland and Antarctica, significantly contributing to our understanding of the Arctic and Antarctica. Today, the Silvio Zavatti Polar Geographic Institute in Fermo, Italy, preserves his extensive body of research, continuing to serve as a key center for polar geographic studies."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "14576.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Regional Atlas"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "43"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "35"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "25"
+                },
+                {
+                  "label": "Image No",
+                  "value": "14576001.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/218/14576001.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Zavatti, Silvio; Istituto geografico polare"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~374151~90140794/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~374151~90140794/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~374151~90140794",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 5413,
+                    "height": 7257
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~374151~90140794/canvas/c1"
+                }
+              ],
+              "width": 5413,
+              "height": 7257
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~374151~90140794"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~374176~90140768/manifest",
+      "label": "Composite Map: Antartide : Quadrante nord-ouest ...",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~374176~90140768/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~374176~90140768/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Composite Map: Antartide : Quadrante nord-ouest ...",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Zavatti, Silvio"
+                },
+                {
+                  "label": "Author",
+                  "value": "Istituto geografico polare"
+                },
+                {
+                  "label": "Date",
+                  "value": "1958"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Composite Map: Antartide : Quadrante nord-ouest ..."
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Poligrafiche Bolis"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Forlì"
+                },
+                {
+                  "label": "Type",
+                  "value": "Composite Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "64"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "76"
+                },
+                {
+                  "label": "Scale 1",
+                  "value": "8,000,000"
+                },
+                {
+                  "label": "Note",
+                  "value": "Composite map of Antarctica (northwest, northeast, southwest and southeast quadrants), including the Weddell, Bellingshausen and Ross Seas, as well as the Ross Ice Shelf. Shows regions, topography, mountain peaks, bodies of water, drainage, coastlines, islands and water depths. Relief shown with contour lines and spot heights. Includes latitudinal and longitudinal lines, as well as a bar scale and scale statement on each sheet. Printed in color. All together, map is 64 x 76 cm, on four fold-out sheets, 68 x 94 cm."
+                },
+                {
+                  "label": "World Area",
+                  "value": "Antarctica"
+                },
+                {
+                  "label": "Region",
+                  "value": "Weddell Sea (Antarctica)"
+                },
+                {
+                  "label": "Region",
+                  "value": "Bellingshausen Sea (Antarctica)"
+                },
+                {
+                  "label": "Region",
+                  "value": "Ross Sea (Antarctica)"
+                },
+                {
+                  "label": "Region",
+                  "value": "Ross Ice Shelf (Antarctica)"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Nautical Charts"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "(Composite Map to) Antartide : Quadrante nord-ouest -- Quadrante nord-est -- Quadrante sud-ouest -- Quadrante sud-est."
+                },
+                {
+                  "label": "List No",
+                  "value": "14576.026"
+                },
+                {
+                  "label": "Series No",
+                  "value": "26"
+                },
+                {
+                  "label": "Page No",
+                  "value": "XII-XIX"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Zavatti, Silvio"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Istituto geografico polare"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1958"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Atlante geografico polare : 19 tavole con 44 carte. Silvio Zavatti, Direttore dell'Istituto Geografico Polare. Poligrafiche Bolis - Bergamo. 1958."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "Atlante geografico polare by Silvio Zavatti. Published by Poligrafiche Bolis in Forlì, Italy, in 1958. Bound in board with a blue linen spine. Front cover features a map of Antarctica and an illustration of polar bears. Title translates to: Polar geographic atlas. Volume includes a title page, table of contents, dedication, preface, general text and individual descriptions of each map, as well as 43 maps on 15 plates. The maps represent the Arctic, Greenland and Antarctica, including islands in both the Arctic and Antarctic Regions. The final four maps each depict a quadrant of Antarctica. Maps show political boundaries, cities, topography, mountain peaks, bodies of water, drainage, coastlines, islands and water depths. The work stands out for its scientific accuracy and the richness of its cartographic information, making it a key reference for scholars and enthusiasts of polar geography. Zavatti, a renowned explorer and scholar of polar territories, devoted much of his life to the research and documentation of these remote areas. Throughout his career, Zavatti led numerous expeditions to Greenland and Antarctica, significantly contributing to our understanding of the Arctic and Antarctica. Today, the Silvio Zavatti Polar Geographic Institute in Fermo, Italy, preserves his extensive body of research, continuing to serve as a key center for polar geographic studies."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "14576.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Regional Atlas"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "43"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "35"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "25"
+                },
+                {
+                  "label": "Image No",
+                  "value": "14576026.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/218/14576026.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Zavatti, Silvio; Istituto geografico polare"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~374176~90140768/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~374176~90140768/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~374176~90140768",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 17358,
+                    "height": 13862
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~374176~90140768/canvas/c1"
+                }
+              ],
+              "width": 17358,
+              "height": 13862
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~374176~90140768"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~379673~90145734/manifest",
+      "label": "Spilhaus Projection Connecting the World Oceans.",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~379673~90145734/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~379673~90145734/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Spilhaus Projection Connecting the World Oceans.",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "MAPTOWN"
+                },
+                {
+                  "label": "Date",
+                  "value": "2020"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Spilhaus Projection Connecting the World Oceans."
+                },
+                {
+                  "label": "Publisher",
+                  "value": "MAPTOWN"
+                },
+                {
+                  "label": "Type",
+                  "value": "Separate Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "90"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "90"
+                },
+                {
+                  "label": "Note",
+                  "value": "Map copyright MAPTOWN 2020. To order copies see https://www.maptown.com/"
+                },
+                {
+                  "label": "World Area",
+                  "value": "World"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Oceans; Seas"
+                },
+                {
+                  "label": "List No",
+                  "value": "18007.000"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "MAPTOWN"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "2020"
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "From the map: \"The Spilhaus projection was developed in 1942 by Dr. Athelstan Spilhaus. Centered on Antarctica, the world’s oceans form a single, uninterrupted body of water. This projection helps us visualize that our oceans are more connected than when we compare it to a regular map of the World. Given that our oceans account for over 71% of the world’s surface, it’s important to understand that our oceans are connected. This map also makes a good planning map for those who want to sail the world, move cargo and understand the scientific relationships that coexists between these massive bodies of water.\" (MAPTOWN, 2026)"
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "18007.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Separate Map"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "90"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "90"
+                },
+                {
+                  "label": "Image No",
+                  "value": "18007000.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/222/18007000.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "MAPTOWN"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~379673~90145734/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~379673~90145734/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~379673~90145734",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 21634,
+                    "height": 21660
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~379673~90145734/canvas/c1"
+                }
+              ],
+              "width": 21634,
+              "height": 21660
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~379673~90145734"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~373329~90140047/manifest",
+      "label": "Chart of the South Polar Regions",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~373329~90140047/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~373329~90140047/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Chart of the South Polar Regions",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Bartholomew, J. G. (John George), 1860-1920"
+                },
+                {
+                  "label": "Date",
+                  "value": "1905"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Chart of the South Polar Regions"
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Edinburgh Geographical Institute"
+                },
+                {
+                  "label": "Type",
+                  "value": "Separate Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "70"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "82"
+                },
+                {
+                  "label": "Scale 1",
+                  "value": "14,000,000"
+                },
+                {
+                  "label": "World Area",
+                  "value": "Antarctica"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "Chart of the South Polar Regions"
+                },
+                {
+                  "label": "List No",
+                  "value": "16600.000"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Bartholomew, J. G. (John George), 1860-1920"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1905"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Chart of the South Polar Regions"
+                },
+                {
+                  "label": "Pub Reference",
+                  "value": "Chart appeared in \"The Siege of the South Pole, the Story of Antarctic Exploration by Hugh Robert Mill, LL.D., D.Sc. With Maps, Diagrams, and Other Illustrations and Maps by J.G. Bartholomew [with:] Chart of the South Polar Regions\""
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "\"This 1905 chart of the South Pole by cartographer J. G. Bartholomew offers a comprehensive depiction of Antarctica and its exploration history up to the early 20th century, integrating data from multiple expeditions and showcasing both known and unexplored territories. At the turn of the 20th century, Antarctica remained largely a mystery, with vast areas uncharted and unexplored. This chart, compiled from the latest sources available in 1905, represents a significant effort to consolidate existing knowledge about the South Pole. Its delineation of unexplored regions in white, open sea in dark blue, and known land alongside explorers' routes, provides a visual narrative of the human endeavor to understand this remotest part of the world. It documents key explorations, including those of Weddell in 1833, and presents ocean soundings, revealing both the depth of human knowledge and the vastness of the unknown. The chart includes an inset of the British Isles, shown to scale, highlighting the geographical and conceptual distance between the familiar and the frontier of exploration. Additionally, the left edge of the sheet features a series of maps of Antarctica from 1760 to 1905, portraying the evolving understanding of the region. These maps color-code land, sea, and unexplored areas, with the black representing unexplored territory progressively shrinking over time, visually encapsulating the progress of exploration. The historical significance of the Chart of the South Polar Regions lies in its encapsulation of a romantic era of exploration. It chronicles the progression from Cook's voyages in the 1770s to the expeditions of Gerlache, Scott, Bruce, Drygalski, and Nordenskiold in the early 20th century. The chart is a fantastic and attractive summary of the state of knowledge before the final push for the South Pole in the following years.\" (Ruderman, 2025)"
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "16600.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Separate Map"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "70"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "82"
+                },
+                {
+                  "label": "Image No",
+                  "value": "16600000.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/218/16600000.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Bartholomew, J. G. (John George), 1860-1920"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~373329~90140047/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~373329~90140047/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~373329~90140047",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 20656,
+                    "height": 17546
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~373329~90140047/canvas/c1"
+                }
+              ],
+              "width": 20656,
+              "height": 17546
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~373329~90140047"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~352905~90120145/manifest",
+      "label": "Chart of the Antarctic Polar Circle",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~352905~90120145/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~352905~90120145/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Chart of the Antarctic Polar Circle",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Bauche, M."
+                },
+                {
+                  "label": "Date",
+                  "value": "1763"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Chart of the Antarctic Polar Circle"
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Gentleman's Magazine"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "London"
+                },
+                {
+                  "label": "Type",
+                  "value": "Book Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "20"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "22"
+                },
+                {
+                  "label": "Scale 1",
+                  "value": "None shown"
+                },
+                {
+                  "label": "Note",
+                  "value": "Uncolored chart of Antarctica, drawn by the scientific M. Buache. Folded and published by the Gentleman's Magazine in 1763."
+                },
+                {
+                  "label": "World Area",
+                  "value": "Antarctica"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "Chart of the Antarctic Polar Circle, with the Countries Adjoining, According to the New Hypothesis of M. Buache. From the Memoirs of the Royal Academy at Paris. (cover) Gentleman's Magazine for January 1763. London, Printed by D. Henry, at St. John's Gate."
+                },
+                {
+                  "label": "List No",
+                  "value": "11754.003"
+                },
+                {
+                  "label": "Series No",
+                  "value": "3"
+                },
+                {
+                  "label": "Page No",
+                  "value": "map"
+                },
+                {
+                  "label": "Engraver or Printer",
+                  "value": "Henry, D."
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Bauche, M."
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1763"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Chart of the Antarctic Polar Circle, with the Countries Adjoining, According to the New Hypothesis of M. Buache. From the Memoirs of the Royal Academy at Paris. (cover) Gentleman's Magazine for January 1763. London, Printed by D. Henry, at St. John's Gate."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "Hand colored map of the southern Polar Region (Antarctic) , 20x23, based upon the map of Philippe Bauche, published in Paris. This map in black and white, drawn by the scientific geographer M. Buache was published in 1763 by the Gentleman's Magazine, a famous 18th century English journal, as part of an article entitled Geographical and Physical Observations, A new theory of the earth, including a Theory of the Antarctic Regions, and the frozen Sea which they are supposed to contain, according to the Hypothesis of the M. Buache. This chart centers on the South Pole and extends northwards as far as the Tropic of Capricorn. Though predating the discovery of Antarctica by more than half a century, Buache's map details a fanciful Antarctic Pole sandwiched between the tip of Cape Horn, the Cape of Good Hope, and southern Australia, which stretches northwards off the map as far as New Guinea to which the mainland of Australia erroneously attached and Indonesia in the upper left. The map also showing 17th & 18th century land and ice sightings in the southern seas, and name drops De L'Isle, Drake, Halley, and even Ortelius. Heading inward towards the Pole, the map shows a circle labeled ‘Land Yet Undiscovered,' and another within that, labeled ‘Frozen Sea as Supposed.' None of which stops it from depicting the best guesses as to what might exist there. Most interestingly, New Zealand is only the northernmost tip of a great southern continent. Buache was an academic geographer who researched his material thoroughly, relying on the most up-to-date information from voyages of discovery."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "11754.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Book Map"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "2"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "21"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "14"
+                },
+                {
+                  "label": "Image No",
+                  "value": "11754003.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/205/11754003.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Bauche, M."
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~352905~90120145/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~352905~90120145/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~352905~90120145",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 6223,
+                    "height": 5459
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~352905~90120145/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~352905~90120145/list/luna"
+              ],
+              "width": 6223,
+              "height": 5459
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~352905~90120145"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~322249~90091391/manifest",
+      "label": "Antarctic research : series of maps illustrating Dr. John Murray's address, 1893",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~322249~90091391/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~322249~90091391/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Antarctic research : series of maps illustrating Dr. John Murray's address, 1893",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Bartholomew, John George, 1860-1920"
+                },
+                {
+                  "label": "Author",
+                  "value": "Murray, John, 1841-1914"
+                },
+                {
+                  "label": "Author",
+                  "value": "Royal Geographical Society (Great Britain)"
+                },
+                {
+                  "label": "Date",
+                  "value": "1894"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Antarctic research : series of maps illustrating Dr. John Murray's address, 1893"
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Royal Geographical Society"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "London"
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Edward Stanford Ltd."
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "London"
+                },
+                {
+                  "label": "Type",
+                  "value": "Book Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "45"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "67"
+                },
+                {
+                  "label": "Scale 1",
+                  "value": "39,710,000"
+                },
+                {
+                  "label": "Note",
+                  "value": "7 color maps on 1 folded sheet. Issued to accompany article: The renewal of Antarctic exploration. by John Murray, Ph.D., LL.D., of the \"Challenger\" expedition. Read at the meeting of the Royal Geographical Society, November 27, 1893. Including: South Polar Regions: Showing height of land and depth of sea. By J.G. Bartholomew, F.R.S.E., With inset maps: Victoria Land and of Graham Land, South Shetland Islands, and South Orkney Islands. Oceanic deposits, after Dr. J. Murray; Ice limits and currents; Mean temperature, February, after Dr. Buchan; Mean rainfall, annual, after Dr. Buchan and Dr. Murray; Isobars and winds, February, after Dr. Buchan and Dr. Murray; Magnetic phenomena, after Neumayer. Relief shown by contours and gradient tints. Depths shown by bathymetric tints, isolines and soundings. \"The Principal Explorers' Routes within South Polar Regions are marked in Red, thus showing what is ascertained, and what is hypothetical.\""
+                },
+                {
+                  "label": "World Area",
+                  "value": "Antarctica"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Exploration"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Climate"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "Antarctic research : series of maps illustrating Dr. John Murray's address, 1893. Published by the Royal Geographical Society. G. Bartholomew, Edinr. (to accompany) The Geographical journal : Including the proceedings of the Royal Geographical Society. January, 1894. Vol. III, No. 1. London The Rpyal Geographical Society; Edward Stanford."
+                },
+                {
+                  "label": "List No",
+                  "value": "13377.003"
+                },
+                {
+                  "label": "Series No",
+                  "value": "3"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Bartholomew, John George, 1860-1920"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Murray, John, 1841-1914"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Royal Geographical Society (Great Britain)"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1894"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "The Geographical journal : Including the proceedings of the Royal Geographical Society. January, 1894. Vol. III, No. 1. London The Rpyal Geographical Society; Edward Stanford."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "Journal issued to accompany 44 page article: \"The renewal of Antarctic exploration\". by John Murray, Ph.D., LL.D., of the \"Challenger\" expedition. Read at the meeting of the Royal Geographical Society, November 27, 1893, including related 7 maps on 1 folded sheet \"Antarctic research series of maps illustrating Dr. John Murray's address, 1893\". J. G. Bartholomew, Edinr. Published by Royal Geographical Society."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "13377.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Book Map"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "25"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "16"
+                },
+                {
+                  "label": "Image No",
+                  "value": "13377003.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/179/13377003.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Bartholomew, John George, 1860-1920; Murray, John, 1841-1914; Royal Geographical Society (Great Britain)"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~322249~90091391/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~322249~90091391/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~322249~90091391",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 12329,
+                    "height": 8723
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~322249~90091391/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~322249~90091391/list/luna"
+              ],
+              "width": 12329,
+              "height": 8723
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~322249~90091391"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~315731~90084792/manifest",
+      "label": "Terres dites Antarctiques autrement Australes et Inconnues.",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~315731~90084792/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~315731~90084792/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Terres dites Antarctiques autrement Australes et Inconnues.",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Du Val, Pierre, 1619-1683"
+                },
+                {
+                  "label": "Date",
+                  "value": "1682"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Terres dites Antarctiques autrement Australes et Inconnues."
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Chez Piere Du Val"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Paris"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Paris"
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Chez Nicolas Langlois"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Paris"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Paris"
+                },
+                {
+                  "label": "Type",
+                  "value": "Atlas Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "11"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "13"
+                },
+                {
+                  "label": "World Area",
+                  "value": "Antarctica"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "Terres dites Antarctiques autrement Australes et Inconnues."
+                },
+                {
+                  "label": "List No",
+                  "value": "12503.021"
+                },
+                {
+                  "label": "Series No",
+                  "value": "21"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Du Val, Pierre, 1619-1683"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1682"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "La Geographie Universelle. Tom 1. Le Monde ou La Geographie Universelle ... Par P. Du Val d'Abbeville ... A Paris Chez, L'Auteur ... Chez Nicolas Langlois ... MDCLXXXII. Tom 2. l'Europe ... Partie de La Geographie Universelle, Par P. Du-Val ... A Paris Chez d'Auteur."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "In two volumes; one pagination. Volume 1, The World. Volume 2, Europe. Originally published in 1658, there were six editions in French up to 1688 and perhaps later ones published by Du Val's widow. Other editions in German. An extensive geography of the entire world."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "12503.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "World Atlas"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "76"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "16"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "10"
+                },
+                {
+                  "label": "Image No",
+                  "value": "12503021.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/179/12503021.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Du Val, Pierre, 1619-1683"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~315731~90084792/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~315731~90084792/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~315731~90084792",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 4568,
+                    "height": 3706
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~315731~90084792/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~315731~90084792/list/luna"
+              ],
+              "width": 4568,
+              "height": 3706
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~315731~90084792"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~333110~90101274/manifest",
+      "label": "Sud-Polar-Karte",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~333110~90101274/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~333110~90101274/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Sud-Polar-Karte",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Stieler, Adolf, 1775–1836"
+                },
+                {
+                  "label": "Date",
+                  "value": "1875"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Sud-Polar-Karte"
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Justus Perthes"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Gotha"
+                },
+                {
+                  "label": "Type",
+                  "value": "Atlas Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "34"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "41"
+                },
+                {
+                  "label": "Scale 1",
+                  "value": "29,000,000"
+                },
+                {
+                  "label": "Note",
+                  "value": "Map of Antarctic Region, with 15 inset maps."
+                },
+                {
+                  "label": "World Area",
+                  "value": "Southern Hemisphere"
+                },
+                {
+                  "label": "World Area",
+                  "value": "Antarctica"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "Sud-Polar-Karte. Von A. Petermann. Stieler's Hand-Atlas No. 11. Gez. v. Ernst Debes. Gez. v. H. Alt u. Stichart. Gotha : Justus Perthes. 1875."
+                },
+                {
+                  "label": "List No",
+                  "value": "13563.017"
+                },
+                {
+                  "label": "Series No",
+                  "value": "17"
+                },
+                {
+                  "label": "Page No",
+                  "value": "11"
+                },
+                {
+                  "label": "Engraver or Printer",
+                  "value": "Petermann, August Heinrich, 1822–78"
+                },
+                {
+                  "label": "Engraver or Printer",
+                  "value": "Debes, Ernst"
+                },
+                {
+                  "label": "Engraver or Printer",
+                  "value": "Stichart"
+                },
+                {
+                  "label": "Engraver or Printer",
+                  "value": "Alt, H."
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Stieler, Adolf, 1775–1836"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1875"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Adolf Stieler’s Hand – Atlas uber alle Theile der Erde und uber das Weltgebaude. Neu Bearbeitet von Dr. Aug. Petermann, Dr. Herm. Berghaus und Carl Vogel. 90 colorirte karten ... Gotha : Justus Perthes. 1875."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "1875, 6th. edition of Stieler’s Hand atlas of the world and of the universe. Published by Justus Perthes of Gotha. It went through ten editions from 1816 to 1945. The first edition, published in 1817 by Stieler and Christian Gottlieb Reichard, with editions continuing well into the 20th century. This is the 6th. edition, with 90 maps dated 1871–75, edited by August Petermann, Hermann Berghaus and Carl Vogel. With additional set of special map of Australia on 9 sheets. This copy is a series of outline color unbound loose maps published in separate paper folders (several of which are included) over several years, placed in hard cover slip case. Some maps on multiple sheets. Maps showing political and administrative boundaries, cities, roads, railroads, canals, rivers, lakes, and mountains. Also showing European possessions and exploration routes. Relief shown by hachures and spot heights. Depths showing by soundings. Prime meridians: Greenwich, Ferro and Paris. Includes legend, text, profiles, and color coded references. All scans made at 800ppi because the loose maps could be scanned though the sheet scanner at higher resolution than the overhead camera scanner for bound atlases."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "13563.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "World Atlas"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "91"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "43"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "58"
+                },
+                {
+                  "label": "Image No",
+                  "value": "13563017.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/195/13563017.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Stieler, Adolf, 1775–1836"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~333110~90101274/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~333110~90101274/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~333110~90101274",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 15798,
+                    "height": 13050
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~333110~90101274/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~333110~90101274/list/luna"
+              ],
+              "width": 15798,
+              "height": 13050
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~333110~90101274"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~288649~230010/manifest",
+      "label": "Sud-Polar-Karte. (Maasfstab 1:40,000,000).",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~288649~230010/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~288649~230010/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Sud-Polar-Karte. (Maasfstab 1:40,000,000).",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Stieler, Adolf"
+                },
+                {
+                  "label": "Author",
+                  "value": "Petermann, A."
+                },
+                {
+                  "label": "Date",
+                  "value": "1875"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Sud-Polar-Karte. (Maasfstab 1:40,000,000)."
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Justus Perthes"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Gotha"
+                },
+                {
+                  "label": "Type",
+                  "value": "Atlas Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "36"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "42"
+                },
+                {
+                  "label": "Scale 1",
+                  "value": "40,000,000"
+                },
+                {
+                  "label": "Note",
+                  "value": "Southern polar projection in full color with two small additional polar projections showing the extent of each ocean. Thirteen small inset map surround the large map, all showing islands in the area. Antarctic expeditions are traced with the appropriate dates."
+                },
+                {
+                  "label": "Reference",
+                  "value": "P4352."
+                },
+                {
+                  "label": "World Area",
+                  "value": "Antarctica"
+                },
+                {
+                  "label": "World Area",
+                  "value": "World"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "Sud-Polar-Karte von A. Petermann. (Maasfstab 1:40,000,000). Gez. v. Ernst Debes. Gest. v. H. Alt. u. Stichart. Gotha: Justus Perthes 1875."
+                },
+                {
+                  "label": "List No",
+                  "value": "2449.010"
+                },
+                {
+                  "label": "Series No",
+                  "value": "13"
+                },
+                {
+                  "label": "Page No",
+                  "value": "11"
+                },
+                {
+                  "label": "Engraver or Printer",
+                  "value": "Alt, H."
+                },
+                {
+                  "label": "Engraver or Printer",
+                  "value": "Debes, Ernst"
+                },
+                {
+                  "label": "Engraver or Printer",
+                  "value": "Petermann, A."
+                },
+                {
+                  "label": "Engraver or Printer",
+                  "value": "Stichart, H."
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Stieler, Adolf"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1875"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Hand Atlas Uber Alle Theile Der Erde Und Uber Das Weltgebaude. Herausgegeben Von Adolf Stieler. Gotha Justus Perthes."
+                },
+                {
+                  "label": "Pub Reference",
+                  "value": "P4352."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "Stieler's Atlas is extraordinarily detailed. Close examination of the maps shows many features that one would expect to find only on much larger maps. This atlas was first published in 1817, with editions continuing well into the 20th century. It was one of the most comprehensive and best executed 19th century German atlases. In this edition, the maps are dated 1871-5; Phillips says this was issued in parts. 8 pages of text accompanies the index. Atlas is bound in half leather brown cloth covered boards with \"Stieler's Hand Atlas\" stamped in gilt on the front cover and spine. Maps are both hand painted and printed in full and outline color."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "2449.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "World Atlas"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "89"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "40"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "50"
+                },
+                {
+                  "label": "Image No",
+                  "value": "2449010"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D0023/2449010.sid target=_blank>Full Image Download in MrSID Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Stieler, Adolf; Petermann, A."
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~288649~230010/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~288649~230010/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~288649~230010",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 12184,
+                    "height": 9296
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~288649~230010/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~288649~230010/list/luna"
+              ],
+              "width": 12184,
+              "height": 9296
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~288649~230010"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~286222~90058740/manifest",
+      "label": "Carta Marina Nuova Tavola",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~286222~90058740/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~286222~90058740/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Carta Marina Nuova Tavola",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Ptolemy, Claudius"
+                },
+                {
+                  "label": "Author",
+                  "value": "Ruscelli,Girolamo"
+                },
+                {
+                  "label": "Author",
+                  "value": "Rosaccio, Giuseppe"
+                },
+                {
+                  "label": "Date",
+                  "value": "1599"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Carta Marina Nuova Tavola"
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Appresso gli heredi di Melchior Sessa"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Venetia"
+                },
+                {
+                  "label": "Type",
+                  "value": "Atlas Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "19"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "25"
+                },
+                {
+                  "label": "Scale 1",
+                  "value": "None shown"
+                },
+                {
+                  "label": "Note",
+                  "value": "Engraved Ruscelli's mariner's map of the world is based on Gastaldi's map of 1548. The land masses are shown with little interior detail but with a fair number of coastal place names. The North American continent is most interesting with the northwestern coastline extending to join Asia. It includes an early depiction of California peninsula. The continent is nearly divided by a large inland sea. In the Northeast the Montagna Verde appears just below an isthmus that connects to Greenland and then onto Scandinavia. Below South America is the huge island of Tierra del Fuego. Mass of land joining North America to North Europe. Relief shown pictorially."
+                },
+                {
+                  "label": "World Area",
+                  "value": "World"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Classical"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Nautical Charts"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "Carta Marina Nvova Tavola. Descrittione dell'America. Libro Quarto. (to accompany) Geographia di Clavdio Tolomeo alessandrino, tradotta di Greco nell'idioma volgare Italiano da Girolamo Ruscelli ... In Venetia, MDXCIX (1599) Appresso gli heredi di M. Sessa."
+                },
+                {
+                  "label": "List No",
+                  "value": "11299.074"
+                },
+                {
+                  "label": "Series No",
+                  "value": "74"
+                },
+                {
+                  "label": "Page No",
+                  "value": "144"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Ptolemy, Claudius"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Ruscelli,Girolamo"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Rosaccio, Giuseppe"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1599"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Geographia di Clavdio Tolomeo alessandrino, tradotta di Greco nell'idioma volgare Italiano da Girolamo Ruscelli ; et hora nuouamente ampliata da Gioseffo Rosaccio, con varie annotationi, & espositioni, & tauole di rame ... ; et vna geografia vniuersale del medesimo, separata da quella di Tolomeo ... ; et vna breue descrittione di tutta la terra, distinta in quattro libri ... ; con due indici copiosissimi di tutto quello, che di notabile si contiene nell opera. Conlicentia, et privilegio. In Venetia, MDXCIX (1599) Appresso gli heredi di M. Sessa."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "Ruscelli's Italian translation from the Greek of Ptolemy's Geographia. The fourth edition of Ruscelli's Ptolemy, revised, enlarged, and edited by Giuseppe Rosaccio, 4 parts in one volume, with 69 engraved double-page uncolored maps, five entirely new maps, including one of the Americas. With various pagination, showing landmarks, rivers, ports, fortifications, major cities and towns, some with decorative cartouches, illustrations of sea monsters and ships. Relief shown pictorially. Bound in full leather covers. Claudius Ptolemy (90-168 CE) was a Roman geographer and mathematician living in Egypt, who compiled his knowledge and theories about the world's geography into one seminal work. Although his maps did not survive, his mathematical projections and location coordinates did. Girolamo Ruscelli (c. 1504-1566) was a Venetian editor, whose maps are primarily based on those by Jacopo Gastaldi (1548) but with many of his own additions and reproduced on a larger scale. Ruscelli introduces several important innovations in this volume through his 37 \"modern\" maps, which cover Europe, Africa, Asia and the New World. Ruscelli includes a double hemisphere world map, which was the first of its kind to be used in an atlas, and \"Carta Marina Nuova Tavola\", a rare sea chart of the world."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "11299.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "World Atlas"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "69"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "24"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "20"
+                },
+                {
+                  "label": "Image No",
+                  "value": "11299074.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/166/11299074.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Ptolemy, Claudius; Ruscelli,Girolamo; Rosaccio, Giuseppe"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~286222~90058740/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~286222~90058740/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~286222~90058740",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 8224,
+                    "height": 5381
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~286222~90058740/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~286222~90058740/list/luna"
+              ],
+              "width": 8224,
+              "height": 5381
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~286222~90058740"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~24117~870131/manifest",
+      "label": "Possession Bay, S. Georgia.",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~24117~870131/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~24117~870131/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Possession Bay, S. Georgia.",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Cook, James, 1728-1779"
+                },
+                {
+                  "label": "Author",
+                  "value": "Hodges, William, 1744-1797"
+                },
+                {
+                  "label": "Date",
+                  "value": "1777"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Possession Bay, S. Georgia."
+                },
+                {
+                  "label": "Publisher",
+                  "value": "W. Strahan and T. Cadell"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "London"
+                },
+                {
+                  "label": "Type",
+                  "value": "View"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "23"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "38"
+                },
+                {
+                  "label": "Note",
+                  "value": "Engraved view. Includes snow capped peaks, clouds, etc."
+                },
+                {
+                  "label": "Reference",
+                  "value": "David, A. The charts and coastal views of Captain Cook's voyages, 2.257A; Mitchell, 1336."
+                },
+                {
+                  "label": "World Area",
+                  "value": "Antarctica"
+                },
+                {
+                  "label": "Region",
+                  "value": "Possession Bay (South Georgia and South Sandwich Islands)"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "Possession Bay in the Island of South Georgia. Drawn from nature by W. Hodges. Engrav'd by S. Smith. No. XXXIV. Published Febry. 1st., 1777 by Wm. Strahan in New Street, Shoe Lane & Thos. Cadell in the Strand, London."
+                },
+                {
+                  "label": "List No",
+                  "value": "3404.064"
+                },
+                {
+                  "label": "Series No",
+                  "value": "65"
+                },
+                {
+                  "label": "Page No",
+                  "value": "v. 2 (facing p. 212)"
+                },
+                {
+                  "label": "Engraver or Printer",
+                  "value": "Smith, S."
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Cook, James, 1728-1779"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1777"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "A voyage towards the South Pole, and round the World. Performed in His Majesty's ships the Resolution and Adventure, in the years 1772, 1773, 1774, and 1775. Written by James Cook, Commander of the Resolution ... In two volumes illustrated with maps and charts ... The second edition. London: Printed for W. Strahan; and T. Cadell in the Strand. MDCCLXXVII."
+                },
+                {
+                  "label": "Pub Reference",
+                  "value": "Mitchell 1217."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "See note field above."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "3404.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Exploration Book"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "15"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "30"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "24"
+                },
+                {
+                  "label": "Image No",
+                  "value": "3404064"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D0087/3404064.sid target=_blank>Full Image Download in MrSID Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Cook, James, 1728-1779; Hodges, William, 1744-1797"
+                },
+                {
+                  "label": "Collection",
+                  "value": "Rumsey Collection"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~24117~870131/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~24117~870131/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~24117~870131",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 5370,
+                    "height": 3665
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~24117~870131/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~24117~870131/list/luna"
+              ],
+              "width": 5370,
+              "height": 3665
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~24117~870131"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~308837~90078741/manifest",
+      "label": "Patagonia. South Orkney or Powell's Group. Falkland Islands. South Georgia Island.",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~308837~90078741/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~308837~90078741/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Patagonia. South Orkney or Powell's Group. Falkland Islands. South Georgia Island.",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Colton, G.W."
+                },
+                {
+                  "label": "Date",
+                  "value": "1855"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Patagonia. South Orkney or Powell's Group. Falkland Islands. South Georgia Island."
+                },
+                {
+                  "label": "Publisher",
+                  "value": "J.H. Colton"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "New York"
+                },
+                {
+                  "label": "Type",
+                  "value": "Atlas Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "34"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "42"
+                },
+                {
+                  "label": "Note",
+                  "value": "Four maps on one sheet."
+                },
+                {
+                  "label": "Region",
+                  "value": "Patagonia"
+                },
+                {
+                  "label": "Region",
+                  "value": "South Orkney"
+                },
+                {
+                  "label": "Region",
+                  "value": "Powell's Group"
+                },
+                {
+                  "label": "Region",
+                  "value": "Falkland Islands."
+                },
+                {
+                  "label": "Region",
+                  "value": "South Georgia Island"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "Colton's Patagonia. South Orkney or Powell's Group. Falkland Islands. South Georgia Island."
+                },
+                {
+                  "label": "List No",
+                  "value": "2441.141"
+                },
+                {
+                  "label": "Series No",
+                  "value": "141"
+                },
+                {
+                  "label": "Page No",
+                  "value": "63"
+                },
+                {
+                  "label": "Engraver or Printer",
+                  "value": "J. De Cordova"
+                },
+                {
+                  "label": "Engraver or Printer",
+                  "value": "C.Wise"
+                },
+                {
+                  "label": "Engraver or Printer",
+                  "value": "F.A. Chapman"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Colton, G.W."
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1861"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Colton's General Atlas, Containing One Hundred And Eighty Steel Plate Maps And Plans, On One Hundred And Eight Imperial Folio Sheets, Accompanied By One Hundred And Sixty-Eight Pages Letter-Press Descriptions, Geographical, Statistical, And Historical, By Richard S. Fisher, M.D. New York: J.H. Colton, No. 172 William Street. 1861. Entered ... One Thousand Eight Hundred and Fifty-six ... Entered ... 1860, by J.H. Colton ... New York."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "Color. Relief shown by hachures. U.S. and N.A. maps show 1st Colorado territory. Also shows narrow, long, Nebraska. New Mexico and Utah map still shows Colona for Colorado."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "2441.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "World Atlas"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "103"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "46"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "40"
+                },
+                {
+                  "label": "Image No",
+                  "value": "2441141.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/179/2441141.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Colton, G.W."
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~308837~90078741/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~308837~90078741/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~308837~90078741",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 7046,
+                    "height": 6301
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~308837~90078741/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~308837~90078741/list/luna"
+              ],
+              "width": 7046,
+              "height": 6301
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~308837~90078741"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~298026~90069617/manifest",
+      "label": "Antarctica - Political",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~298026~90069617/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~298026~90069617/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Antarctica - Political",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Globetrotter"
+                },
+                {
+                  "label": "Date",
+                  "value": "2009"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Antarctica - Political"
+                },
+                {
+                  "label": "Publisher",
+                  "value": "New Holland Publisher (UK) Ltd."
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "London"
+                },
+                {
+                  "label": "Type",
+                  "value": "Pocket Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "68"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "85"
+                },
+                {
+                  "label": "Scale 1",
+                  "value": "9,500,000"
+                },
+                {
+                  "label": "Note",
+                  "value": "Globetrotter Travel Series. 2 color maps on one sheet 70.5x99.5, both sides, folded into covers 25x12.5. Designed as guides to both the physical and the political continent. Includes a large scale physical projection, shaded relief of the Antarctica and a detailed political map complete with up-to-date statistics. Published and distributed by New Holland Publishers (UK) Ltd. London. Distributed in Africa by Map Studio. Distributed in the USA by the Globe Pequot Press. Legend in English, French and German. Maps showing international boundaries, towns, villages, airports, base camps, roads, rivers, lakes and mountains. Includes text: Facts about Antarctica, discovery and explorations, climate and vegetation. Map shows major expedition routes of explorers Scott, Shackleton and Amundsen 1902-1912."
+                },
+                {
+                  "label": "Reference",
+                  "value": "For print copies of this map see http://uk.newhollandpublishers.com"
+                },
+                {
+                  "label": "World Area",
+                  "value": "Antarctica"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Political"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "Antarctica - Political (on verso) Antarctica - Physical. First Edition. Copyright 2009 New Holland Publisher (UK) Ltd. Base map supplied by Lovell Johns, Oxford, UK. Bathymetry data supplied by the British oceanography Data Center. Flags supplied by Lovell Johns, Oxford, UK; authenticated by the Flag Research Center, Manchester, Mass. USA. (Cover title) Antarctica : Globetrotter Travel Map."
+                },
+                {
+                  "label": "List No",
+                  "value": "11704.002"
+                },
+                {
+                  "label": "Series No",
+                  "value": "2"
+                },
+                {
+                  "label": "Engraver or Printer",
+                  "value": "Johns, Lovell"
+                },
+                {
+                  "label": "Engraver or Printer",
+                  "value": "British oceanography Data Center"
+                },
+                {
+                  "label": "Engraver or Printer",
+                  "value": "Flag Research Center"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Globetrotter"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "2009"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Antarctica - Physical (on verso) Antarctica - Political. First Edition. Copyright 2009 New Holland Publisher (UK) Ltd. Base map supplied by Lovell Johns, Oxford, UK. Bathymetry data supplied by the British oceanography Data Center. Flags supplied by Lovell Johns, Oxford, UK; authenticated by the Flag Research Center, Manchester, Mass. USA. (Cover title) Antarctica : Globetrotter Travel Map."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "See note field above."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "11704.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Pocket Map"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "2"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "25"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "13"
+                },
+                {
+                  "label": "Image No",
+                  "value": "11704002.jp2"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Globetrotter"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~298026~90069617/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~298026~90069617/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~298026~90069617",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 19826,
+                    "height": 14254
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~298026~90069617/canvas/c1"
+                }
+              ],
+              "width": 19826,
+              "height": 14254
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~298026~90069617"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~365086~90132514/manifest",
+      "label": "(South Pole Gnomonic) 18 Gagarin 80cm Globe Gores Untrimmed",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~365086~90132514/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~365086~90132514/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "(South Pole Gnomonic) 18 Gagarin 80cm Globe Gores Untrimmed",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Bellerby & Co Globemakers"
+                },
+                {
+                  "label": "Author",
+                  "value": "Bellerby, Peter"
+                },
+                {
+                  "label": "Date",
+                  "value": "2023"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "(South Pole Gnomonic) 18 Gagarin 80cm Globe Gores Untrimmed"
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Bellerby & Co Globemakers"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "London, England"
+                },
+                {
+                  "label": "Type",
+                  "value": "Separate Map"
+                },
+                {
+                  "label": "Scale 1",
+                  "value": "16,000,000"
+                },
+                {
+                  "label": "World Area",
+                  "value": "Antarctica"
+                },
+                {
+                  "label": "World Area",
+                  "value": "World"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "(South Pole Gnomonic) 18 Gagarin 80cm Globe Gores Untrimmed"
+                },
+                {
+                  "label": "List No",
+                  "value": "15704.024"
+                },
+                {
+                  "label": "Series No",
+                  "value": "24"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Bellerby & Co Globemakers"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Bellerby, Peter"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "2023"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "18 Gargarin 80cm Globe Gores Untrimmed"
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "18 Bellerby 80cm Gararin globe gores. All images are © Bellerby & Co. Limited 2023. For more information on Bellerby Globes, see https://bellerbyandco.com/"
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "15704.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Globe Gores"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "18"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "106"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "14"
+                },
+                {
+                  "label": "Image No",
+                  "value": "15704024.jp2"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Bellerby & Co Globemakers; Bellerby, Peter"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~365086~90132514/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~365086~90132514/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~365086~90132514",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 65413,
+                    "height": 65505
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~365086~90132514/canvas/c1"
+                }
+              ],
+              "width": 65413,
+              "height": 65505
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~365086~90132514"
+    }
+  ]
+}

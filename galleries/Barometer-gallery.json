@@ -1,0 +1,575 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@type": "sc:Collection",
+  "@id": "https://iiif-gallery-builder.example.org/Barometer",
+  "label": "Barometer",
+  "items": [
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~312647~90081935/manifest",
+      "label": "Pneumatics. Popular diagrams. No. 30",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~312647~90081935/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~312647~90081935/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Pneumatics. Popular diagrams. No. 30",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Reynolds, James"
+                },
+                {
+                  "label": "Author",
+                  "value": "Emslie, John"
+                },
+                {
+                  "label": "Date",
+                  "value": "1850"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Pneumatics. Popular diagrams. No. 30"
+                },
+                {
+                  "label": "Publisher",
+                  "value": "James Reynolds"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "London"
+                },
+                {
+                  "label": "Type",
+                  "value": "View"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "29"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "23"
+                },
+                {
+                  "label": "Note",
+                  "value": "Colored lithograph view of the pneumatic devices, by John Emslie."
+                },
+                {
+                  "label": "Full Title",
+                  "value": "Illustrations of Natural philosophy. Pneumatics. Popular diagrams. No. 30. London. Published by James Reynolds, 174, Strand. 1850. Drawn & engraved by John Emslie. (to accompany) Reynolds introduction to natural philosophy."
+                },
+                {
+                  "label": "List No",
+                  "value": "13033.009"
+                },
+                {
+                  "label": "Series No",
+                  "value": "9"
+                },
+                {
+                  "label": "Page No",
+                  "value": "(6)"
+                },
+                {
+                  "label": "Engraver or Printer",
+                  "value": "Emslie, John"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Reynolds, James"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Emslie, John"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1850"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Reynolds Introduction to Natural Philosophy ... A companion to Reynolds's series of Popular diagrams of natural philosophy, comprising two hundred and fifty illustrations. London: James Reynolds, 174, Strand."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "Reynolds created this work in response to the popular demand for information on science and engineering as a result of the Industrial Revolution. This collection consists of 33 loose pictorial plates, with a related text, dated 1849-1852. Drawn and engraved by John Emslie. Some plates are numbered: \"Popular Diagrams\" no. 25-35, accompanied by 24 pages of descriptive text. The collection is loosely bound as a sets in a green portfolio with a red paper label on the spine printed with title \" Reynolds - Introduction to Natural Philosophy\" in gilt."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "13033.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Case Map"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "32"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "30"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "25"
+                },
+                {
+                  "label": "Image No",
+                  "value": "13033009.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/179/13033009.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Reynolds, James; Emslie, John"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~312647~90081935/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~312647~90081935/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~312647~90081935",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 4963,
+                    "height": 6142
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~312647~90081935/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~312647~90081935/list/luna"
+              ],
+              "width": 4963,
+              "height": 6142
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~312647~90081935"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~347531~90114987/manifest",
+      "label": "Pilot chart of the North Atlantic Ocean : January, 1895.",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~347531~90114987/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~347531~90114987/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Pilot chart of the North Atlantic Ocean : January, 1895.",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "United States. Naval Oceanographic Office"
+                },
+                {
+                  "label": "Author",
+                  "value": "United States. Department of the Navy. Bureau of Navigation"
+                },
+                {
+                  "label": "Author",
+                  "value": "Sigsbee, Charles D. (Charles Dwight), 1845-1923"
+                },
+                {
+                  "label": "Date",
+                  "value": "1895"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Pilot chart of the North Atlantic Ocean : January, 1895."
+                },
+                {
+                  "label": "Publisher",
+                  "value": "U.S. Hydrographic Office, Bureau of Navigation, Navy Department"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Washington, D.C."
+                },
+                {
+                  "label": "Type",
+                  "value": "Atlas Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "54"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "80"
+                },
+                {
+                  "label": "Scale 1",
+                  "value": "13,000,000"
+                },
+                {
+                  "label": "Note",
+                  "value": "Nautical chart of the North Atlantic Ocean representing January, 1895. Shows cities, coastlines, shoals, depths, islands, sailing routes, ocean currents, storm tracks, weather forecasts, fog belts, equatorial rains, wind force and directions, as well as ice fields, icebergs and the limits of ice coverage. Includes latitudinal and longitudinal lines, a legend and compass rose with north oriented toward top of sheet. Descriptive text throughout, such as reports on weather, ocean currents and derelicts. Insets: The mercurial barometer -- Isobars and isotherms for the month succeeding the date of publication. With illustrations of flags for weather, temperature and storm signals. Colored lithograph, with infographics overlaid upon geography. Chart is 54 x 80 cm, on fold-out sheet 62 x 88 cm. With panel title and descriptive text on verso."
+                },
+                {
+                  "label": "Region",
+                  "value": "North Atlantic Ocean"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Nautical Charts"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Weather"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Data Visualization"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "Pilot chart of the North Atlantic Ocean : January, 1895. Date of publication, January 2, 1895. Published monthly at the Hydrographic Office, Bureau of Navigation, Department of the Navy, Washington, D.C., Charles D. Sigsbee, Commander, U.S.N., Hydrographer."
+                },
+                {
+                  "label": "List No",
+                  "value": "14390.030"
+                },
+                {
+                  "label": "Series No",
+                  "value": "30"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "United States. Naval Oceanographic Office"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "United States. Department of the Navy. Bureau of Navigation"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1896"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Pilot chart : 1894-1896."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "Pilot chart : 1894-1896, published in 1896 by the U.S. Hydrographic Office, Bureau of Navigation, Navy Department, Washington, D.C. Gilt spine title and seal on front cover: Bibliothek Marinens. Verso to front cover has label - “Farvandsbeskr. B.II.a.l.” and stamp “Marinens Bibliotek, 2den Afdoling, Søkort-Arkivet ... “ Volume comprised of 77 nautical charts and 3 maps of the North Atlantic Ocean on 51 leaves to plates - mostly double - with multiple charts together on certain plates. Charts show cities, coastlines, islands, sailing routes, ocean currents, storm tracks, weather forecasts, fog belts, equatorial rains, tropical cyclones and wind, as well as icebergs, ice fields and the limits of ice coverage. Data visualization illustrates wind force and directions. Descriptive text accompanies charts, covering topics such as weather, derelicts, dangerous navigation, and equator crossings for sailing passages in the Pacific Ocean. Atlas depicts the ocean activity during each month from January, 1894, to December, 1896. In addition, other charts feature great circle sailing in the North Atlantic Ocean, South Atlantic Ocean, North Pacific Ocean, South Pacific Ocean and Indian Ocean. For related works in the collection, see Pub List No. 14381.000 (Pilot chart. Dec. 1883. 1884-86), 14388.000 (Pilot chart. 1887-1889), 14889.000 (Pilot chart. 1890-1893) and 14891.000 (Pilot chart of the North Pacific Ocean)."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "14390.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Chart Atlas"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Regional Atlas"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "80"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "63"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "47"
+                },
+                {
+                  "label": "Image No",
+                  "value": "14390030.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/199/14390030.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "United States. Naval Oceanographic Office; United States. Department of the Navy. Bureau of Navigation; Sigsbee, Charles D. (Charles Dwight), 1845-1923"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~347531~90114987/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~347531~90114987/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~347531~90114987",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 10838,
+                    "height": 7803
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~347531~90114987/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~347531~90114987/list/luna"
+              ],
+              "width": 10838,
+              "height": 7803
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~347531~90114987"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~294625~90065442/manifest",
+      "label": "No. 39. Hoehen und Tiefen.",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~294625~90065442/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~294625~90065442/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "No. 39. Hoehen und Tiefen.",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Ewald, Ludwig 1813-1881"
+                },
+                {
+                  "label": "Author",
+                  "value": "Bauerkeller, Georg Leonhart"
+                },
+                {
+                  "label": "Date",
+                  "value": "1858"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "No. 39. Hoehen und Tiefen."
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Jonghaus & Venator's Kartogr.-artist. Anstalt"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Darmstadt"
+                },
+                {
+                  "label": "Type",
+                  "value": "Atlas Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "38"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "45"
+                },
+                {
+                  "label": "Reference",
+                  "value": "Espenhorst, vol.2: 750-769."
+                },
+                {
+                  "label": "World Area",
+                  "value": "World"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Mountains; Rivers"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Oceans; Seas"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Data Visualization"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Bathymetry"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "No. 39. Hoehen und Tiefen."
+                },
+                {
+                  "label": "List No",
+                  "value": "12189.061"
+                },
+                {
+                  "label": "Series No",
+                  "value": "61"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Ewald, Ludwig 1813-1881"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Bauerkeller, Georg Leonhart"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1860"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Handatlas der Allgemeinen Erdkunde, Laender- und Staatenkunde, In 80 Karten. Herausgegeben von L. Ewald ... Nebst einem Handbuch der allgemeinen Erdkunde. Laender- und Staatenkunde von Dr. E. Eder. Darmstadt, 1860. Verlag von Jonghaus & Venator's Kartogr[aphisch].-artist[ischen]. Anstalt."
+                },
+                {
+                  "label": "Pub Reference",
+                  "value": "Espenhorst, vol.2: 750-769."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "Looseleaf color atlas with accompanying text sheets, all in unbound original publisher's parts/sections. Relief depicted with hachures. Atlas was conceived of and initiated by Georg Leonhart Bauerkeller beginning in 1844 by subscription. From at least 1845, Ludwig Ewald was a primary author and was responsible for drafting the maps. Considered by authorities to be one of the most beautiful atlases of the 19th century, it is particularly noteworthy for its quality registration, sharp images, use of brown for relief and solid blue for water, multi-color lithography, and it's scope of content. Particularly noteworthy presentations being: map, diagrams and illustrations of glaciers in the Alps (No.14. Die Gletscher der Alpen - List No 12189.036); an elevation diagram of major mountains and sea depths (No.39. Hoehen und Tiefen - List No 12189.061); map of Switzerland with relief depicted with hachures and giving a shaded relief 3-D effect (No. 54. Die Schweiz - List No 12189.076). Most of the text planned to accompany the maps was never completed. The atlas was largely ignored by contemporary and subsequent scholars despite its high quality. This is Espenhorst version 19.1.0-19.1.1.3. It consists of the initial set of 80 maps plus two sets of supplemental maps totaling 12 sheets - mostly revisions of previous editions. This scanned set has most of the section title pages at the end because the 80 sheets were not originally issued in the table of contents order that we present. Bauerkeller was also known for his three dimensional maps of cities, see our copies of London, Paris, Hamburg, and others."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "12189.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "World Atlas"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "92"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "40"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "50"
+                },
+                {
+                  "label": "Image No",
+                  "value": "12189061.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/171/12189061.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Ewald, Ludwig 1813-1881; Bauerkeller, Georg Leonhart"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~294625~90065442/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~294625~90065442/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~294625~90065442",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 11966,
+                    "height": 9636
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~294625~90065442/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~294625~90065442/list/luna"
+              ],
+              "width": 11966,
+              "height": 9636
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~294625~90065442"
+    }
+  ]
+}

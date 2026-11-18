@@ -1,0 +1,289 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@type": "sc:Collection",
+  "@id": "https://iiif-gallery-builder.example.org/Flood Property Development",
+  "label": "Flood Property Development",
+  "items": [
+    {
+      "@context": "http://iiif.io/api/presentation/3/context.json",
+      "id": "https://digicoll.lib.berkeley.edu/record/49690/export/iiif_manifest",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Flood Mansion, Linden Towers, Menlo Park, California. [negative]"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "none": [
+              "Title"
+            ]
+          },
+          "value": {
+            "none": [
+              "Flood Mansion, Linden Towers, Menlo Park, California. [negative]"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Collections"
+            ]
+          },
+          "value": {
+            "none": [
+              "Bancroft Library, Digital Collections, Oliver Family Photograph Collections circa 1880-circa 1920s"
+            ]
+          }
+        }
+      ],
+      "viewingDirection": "left-to-right",
+      "behavior": [
+        "paged"
+      ],
+      "items": [
+        {
+          "id": "https://digicoll.lib.berkeley.edu/nanna/iiif/49690/canvas/0",
+          "type": "Canvas",
+          "label": {
+            "none": [
+              null
+            ]
+          },
+          "height": 1199,
+          "width": 1500,
+          "items": [
+            {
+              "id": "https://digicoll.lib.berkeley.edu/nanna/iiif/49690/page/0",
+              "type": "AnnotationPage",
+              "items": [
+                {
+                  "id": "https://digicoll.lib.berkeley.edu/nanna/iiif/49690/image/0",
+                  "target": "https://digicoll.lib.berkeley.edu/nanna/iiif/49690/canvas/0",
+                  "type": "Annotation",
+                  "motivation": "painting",
+                  "body": {
+                    "id": "https://digicoll.lib.berkeley.edu/nanna/api/multimedia/image/v2/recid:49690-brk00016797_31b_k.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 1199,
+                    "width": 1500,
+                    "service": [
+                      {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://digicoll.lib.berkeley.edu/nanna/api/multimedia/image/v2/recid:49690-brk00016797_31b_k.jpg",
+                        "@type": "ImageService2",
+                        "height": 1199,
+                        "width": 1500,
+                        "profile": "http://iiif.io/api/image/2/level2.json",
+                        "protocol": "http://iiif.io/api/image",
+                        "tiles": [
+                          {
+                            "scaleFactors": [
+                              1,
+                              2,
+                              4,
+                              8,
+                              16,
+                              32
+                            ],
+                            "width": 1024
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          ],
+          "annotations": [],
+          "metadata": [],
+          "thumbnail": [
+            {
+              "id": "https://digicoll.lib.berkeley.edu/nanna/api/multimedia/image/v2/recid:49690-brk00016797_31b_k.jpg/full/90,/0/default.jpg",
+              "type": "Image",
+              "service": [
+                {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digicoll.lib.berkeley.edu/nanna/api/multimedia/image/v2/recid:49690-brk00016797_31b_k.jpg",
+                  "@type": "ImageService2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "rendering": [],
+      "service": []
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~332059~90100456/manifest",
+      "label": "Flood Property Atherton, California Layout No. 8 By: James & Waters - Subdivision Engr's. Burlingame - Redwood City.",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~332059~90100456/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~332059~90100456/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Flood Property Atherton, California Layout No. 8 By: James & Waters - Subdivision Engr's. Burlingame - Redwood City.",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "James & Waters"
+                },
+                {
+                  "label": "Date",
+                  "value": "1936"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Flood Property Atherton, California Layout No. 8 By: James & Waters - Subdivision Engr's. Burlingame - Redwood City."
+                },
+                {
+                  "label": "Publisher",
+                  "value": "James & Waters"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Burlingame"
+                },
+                {
+                  "label": "Type",
+                  "value": "Separate Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "54"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "77"
+                },
+                {
+                  "label": "Scale 1",
+                  "value": "3,600"
+                },
+                {
+                  "label": "Reference",
+                  "value": "Linden Towers 1900 photograph https://oac.cdlib.org/ark:/13030/kt5t1nc7vp/?brand=oac4"
+                },
+                {
+                  "label": "City",
+                  "value": "Atherton (Calif.)"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Land Development"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "Flood Property Atherton, California \"Scale 1\"= 300' Apt. 1936 Layout No. 8 By: James & Waters - Subdivision Engr's. Burlingame - Redwood City."
+                },
+                {
+                  "label": "List No",
+                  "value": "10748.000"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "James & Waters"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1936"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Flood Property Atherton, California \"Scale 1\"= 300' Apt. 1936 Layout No. 8 By: James & Waters - Subdivision Engr's. Burlingame - Redwood City."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "\"This map is something quite out of the ordinary. It is a stencil map, with hand coloring and pencil notes, produced as part of the subdivision of California silver magnate James Clair Flood’s enormous estate in the mid-1930s. Today, the area in question consists of the affluent Atherton neighborhood of Lindenwood, although the map clearly shows how Flood’s holdings included hay fields that extended all the way down to shoreline. At the time of this map’s creation, much of Silicon Valley remained largely undeveloped – especially in the area around Atherton and Menlo Park. It was only during the early 20th century that the true value of these areas became apparent and a massive scheme of real estate deals and urban development was instigated. The map delineates the different property plots that would be distilled from Flood’s extensive holdings, organizing them around a network of streets colored in red for existing roads and yellow for planned roads. Most of the plots have been colored green, which the legend informs us means that they will be covered in trees and greenery. The entire plan centers on the Flood Circle roundabout, which at this stage had been constructed, but not yet named. Surrounding the area to be developed we note the presence of a number of roads that still exist, such as Bayshore Boulevard (today the Bayshore Expressway), Marsh Road, or Middlefield Road. The map also plots out the passing Southern Pacific Railway line, still in use today. Other names and elements have disappeared, for example Hetch Hetchy Way. The map, which measures 30 inches wide by 21.5 inches tall, was a working document and most likely the only copy ever created. It can, as such, be characterized a unique map and a historically significant document pertaining to one of the most attractive residential areas on the San Francisco Peninsula. James Clair Flood was a powerful Irish-American silver magnate, stock broker, and banker who had made his fortune by building an impressive mining operation at the Comstock Lode in Nevada. His capacity for efficiently combining individual claims into large-scale operations has become the stuff of legend, and also earned him a vast fortune. Flood was one of four men who created the Flood and O’Brian stock brokerage, which generated immense fortunes through a ‘take-over and consolidate’ strategy. The brokerage soon became widely known as the Bonanza Firm due to its exorbitant success and rapid growth. By the time of his death in 1889, Flood was one of America’s one-hundred richest men and left an enormous fortune, as well as two large San Francisco area estates: Linden Towers in Atherton and a large town house in the heart of the city. The latter, today known as the James C. Flood Mansion, is a National Historic Landmark and an important part of the city’s architectural heritage. It was the only building on Nob Hill to survive the 1906 earthquake. Linden Towers was an enormous Victorian styled mansion, equipped with all the trappings of a magnate’s domicile. Photographs from around the time of Flood’s death and immediately after allow us some glimpse into the affluence and monumentality of this estate, but the building was demolished in 1936 as part of the construction project that this map documents. These gates, added in 1904, are the last architectural vestige of the grounds.\" (Neatline Maps, 2021)"
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "10748.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Separate Map"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "54"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "77"
+                },
+                {
+                  "label": "Image No",
+                  "value": "10748000.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/190/10748000.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "James & Waters"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~332059~90100456/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~332059~90100456/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~332059~90100456",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 19078,
+                    "height": 13626
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~332059~90100456/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~332059~90100456/list/luna"
+              ],
+              "width": 19078,
+              "height": 13626
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~332059~90100456"
+    }
+  ]
+}
