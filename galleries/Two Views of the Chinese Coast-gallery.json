@@ -1,0 +1,312 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@type": "sc:Collection",
+  "@id": "https://iiif-gallery-builder.example.org/Two Views of the Chinese Coast",
+  "label": "Two Views of the Chinese Coast",
+  "items": [
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~340644~90108896/manifest",
+      "label": "Haikou Quantu 海口全圖 [Complete Map of Sea Ports].",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~340644~90108896/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~340644~90108896/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Haikou Quantu 海口全圖 [Complete Map of Sea Ports].",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Anonymous"
+                },
+                {
+                  "label": "Date",
+                  "value": "1800"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Haikou Quantu 海口全圖 [Complete Map of Sea Ports]."
+                },
+                {
+                  "label": "Type",
+                  "value": "Manuscript Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "30"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "665"
+                },
+                {
+                  "label": "Country",
+                  "value": "China"
+                },
+                {
+                  "label": "Country",
+                  "value": "Taiwan"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Military"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Nautical Charts"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Navigation"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "Haikou Quantu 海口全圖 [Complete Map of Sea Ports]. Wanguo tu & Wukou Yanhai Shuilu Quantu 萬國圖 & 五口沿海水路全圖 [Map of 10,000 Countries & Complete Map of the Five Coastal Estuaries]."
+                },
+                {
+                  "label": "List No",
+                  "value": "15039.003"
+                },
+                {
+                  "label": "Series No",
+                  "value": "3"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Anonymous"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1800"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Haikou Quantu 海口全圖 [Complete Map of Sea Ports]. Wanguo tu & Wukou Yanhai Shuilu Quantu 萬國圖 & 五口沿海水路全圖 [Map of 10,000 Countries & Complete Map of the Five Coastal Estuaries]."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "\"A fine hand-coloured manuscript map painted on paper with numerous annotations in Chinese. Map measuring 665x30cm, mounted on paper as a handscroll, empty pink mica-flecked frontispiece (detached), housed in a 20th century wooden box. Occasional light creasing, a few very minor marginal tears, but otherwise in very good condition. Some English annotation written in pencil. Three red seals of the map production supervisor (新三益號監製) along the upper edge. N.p., n.d. [but early 19th century]. This rare manuscript military map follows the pattern established during the 18th century: It opens with a map of the eastern hemisphere, showing Europe incl. Germany (Huangqi 黄祁), Denmark (Linyin吝因 - the stingy one!), Holland (Helan 荷兰), France (Folangxi 佛兰西), England (Yingjili 英机黎) & Portugal (Putaoya 葡萄牙), Africa, Arabia, India, Russia, China, Japan, and South East Asia. Further south is Australia (Dashishan 大石山, Great Stone Mountain) with a note on the left stating that “on the northern shore of this place ‘Great Stone Mountain’ you can anchor boats” (此處大 石山向北塢內可泊船) and to its right is another un-named continent (“no traces of humans can be found” 人迹不到處). Of the Arctic Ocean, it is said: “For six months in the year this sea is without water and for six months the day has no evening.”. The concept of an eastern hemisphere is clearly based on Western cartography, however, the map as such is based on a Chinese Geography entitled Hai guo wen jian lu (海國聞見錄) by Chen Lunjiong (?-1751, Admiral of the Guangdong Navy) first published in 1744. Throughout the 18th century Chen was instrumental in stepping up the construction of fortifications in strategically important locations along the coast and this map documents his lasting influence. The Eastern Hemisphere is followed by a long continuous coastal chart stretching from the Manchu capital Mukden (now Shenyang) down to Vietnam: It provides details of geographical features like mountains, islands, reefs, sandbanks, and harbours. It indicates the location of coastal towns and villages, defensive structures and numerous military garrisons (identified with a little red flag). The scroll takes you from Shengjing to Tianjin, across Shandong Peninsula with the capital Peking at the top, down the Yellow River estuary, the Yangtze River estuary, the Qiantang estuary, Ningbo (Zhejiang), Fujian, Taiwan, Guangdong, Macau, Hainan, Dongsha, Xisha, and Vietnam. Macao is given special prominence with three walls guarding the Portuguese settlement. At the very end of the scroll the following comment is written in the top right corner: “Siam is an ancient red land, during the Ming dynasty Siam and the Lavo kingdom united as a dynasty and were given tribute status.” (暹羅國即古坴明姑 合暹與羅斛為一本朝因之受封朝貢). It is interesting to note that during the Qing dynasty Chinese Costal charts were not drawn to a specific scale. The further you move away from the capital the smaller the scale, i.e. the distance from Macao to Taiwan appears to be relatively longer than from Peking to Taiwan. Furthermore, the map does not follow a standardised grid system but simply follows the coastline regardless of whether it goes from North to South, or East to West. All the features and topographical details are rendered with precision and the characters are written in regular kaishu script used by official scribes. The outer green silk brocade was used for documents relating to naval defence during the Qing dynasty and thus the purpose of the map is of a military nature. This coastal chart is undated but due to the fact that character for “ning” (寧 part of the personal name of the Daoguang Emperor) is not a taboo, leads us to assume that the map was made during the Jiaqing period, i.e. before 1820. No mention is made of the English presence in Hong Kong.\" (Maggs Bros., 2022)"
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "15039.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Manuscript Map"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "33"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "9"
+                },
+                {
+                  "label": "Image No",
+                  "value": "15039003.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/195/15039003.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Anonymous"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~340644~90108896/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~340644~90108896/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~340644~90108896",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 148124,
+                    "height": 6535
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~340644~90108896/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~340644~90108896/list/luna"
+              ],
+              "width": 148124,
+              "height": 6535
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~340644~90108896"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "https://purl.stanford.edu/fb655sc1622/iiif/manifest",
+      "@type": "sc:Manifest",
+      "label": "Map of the China Coast and Rough Sketch of the Provinces lying between Canton and Pekin . . ",
+      "attribution": "Property rights reside with the repository, Copyright © Stanford University. Images may be reproduced or transmitted, but not for commercial use. For commercial use or commercial republication, contact rumseymapcenter@stanford.edu This work is licensed under a Creative Commons License. By downloading any images from this site, you agree to the terms of that license.",
+      "logo": {
+        "@id": "https://stacks.stanford.edu/image/iiif/wy534zh7137/SULAIR_rosette/full/400,/0/default.jpg",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://stacks.stanford.edu/image/iiif/wy534zh7137/SULAIR_rosette",
+          "profile": "http://iiif.io/api/image/2/level2.json"
+        }
+      },
+      "license": "https://creativecommons.org/licenses/by-nc-sa/3.0/legalcode",
+      "seeAlso": {
+        "@id": "https://purl.stanford.edu/fb655sc1622.mods",
+        "format": "application/mods+xml"
+      },
+      "metadata": [
+        {
+          "label": "Available Online",
+          "value": "<a href='https://purl.stanford.edu/fb655sc1622'>https://purl.stanford.edu/fb655sc1622</a>"
+        },
+        {
+          "label": "Title",
+          "value": "Map of the China Coast and Rough Sketch of the Provinces lying between Canton and Pekin . . "
+        },
+        {
+          "label": "Contributor",
+          "value": "Sherwill / James"
+        },
+        {
+          "label": "Type",
+          "value": "Map"
+        },
+        {
+          "label": "Format",
+          "value": "1 map ; 61 x 44 in."
+        },
+        {
+          "label": "Language",
+          "value": "English"
+        },
+        {
+          "label": "Description",
+          "value": "Map shows China."
+        },
+        {
+          "label": "Description",
+          "value": "Separately-Issued Map of China’s Coast — A Second Opium War Rarity."
+        },
+        {
+          "label": "Description",
+          "value": "Dealer’s historical note transmitted verbatim: Rare, separately-published map of China, issued by the Surveyor General's Office in Calcutta for the British Military Command during the Second Opium War. It is filled with interesting and surprising notes about Chinese resources, people, and terrain that reveal the British imperial mindset of the mid-nineteenth century. The map was prepared in the later stages of the Second Opium War (1856-1860) in Calcutta, at the office of the Surveyor General. It was drafted in November 1859, finished in January 1860, and bears the signature of W.S. Sherwill, Major F.G.S., F.R.G.S, Deputy Surveyor General of India. The map shows much of the western coast of mainland Asia, from the Korean peninsula in the north, to Macao in the south. Dotted lines demarcate provincial borders, while many rivers radiate across the country. Certain cities, like Pekin (Beijing) and Canton, are shown with their defensive walls. Many of the cities are labeled with their names as well a note about a notable building in the city. For example, Nankin (Nanjing) has the, “Porcelain Tower built AD. 1422 Height 200 feet.” Farther south, Fuh-Chow Foo (Fuzhou) has the, “Bridge of 100 Arches.” Other notes on the map outline British movements and victories in the First Opium War, which took place between 1839 and 1842. In the sea is a compass rose with Chinese characters for the cardinal directions.   A larger text block in the bottom center-right discusses the sources used to make this map. The note explains that this map was compiled principally from English-language marine charts and maps, including: James Horsburgh's “Chart of the East China Coast” (London: J. & C. Walker, 1835, corrected up to 1856) — John Walker's “Chart of the Coast from the Canton River to the Yang-z Keang River” (London: W. H. Allen & co., 1847) — John Arrowsmith's map of China (London, 1854) (which was drawn, in turn, from a French Jesuit map of China) — The area along the banks of the Yang-Tse Keang was drawn from Dr. Clarke Abel's maps which featured in Narrative of a Journey into the Interior of China and of a Voyage to and from that Country in the Years 1816 & 1817 (London: Longman, Hurst, Rees, Orme and Brown, 1818)."
+        },
+        {
+          "label": "Subject",
+          "value": "China > Maps"
+        },
+        {
+          "label": "Coverage",
+          "value": "Scale not determined"
+        },
+        {
+          "label": "Date",
+          "value": "1859"
+        },
+        {
+          "label": "Identifier",
+          "value": "https://purl.stanford.edu/fb655sc1622"
+        },
+        {
+          "label": "Relation",
+          "value": "The Barry Lawrence Ruderman Map Collection"
+        },
+        {
+          "label": "Record published",
+          "value": "2026-07-18"
+        }
+      ],
+      "description": "Map shows China.",
+      "thumbnail": {
+        "@id": "https://stacks.stanford.edu/image/iiif/fb655sc1622%2F59642/full/!400,400/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://stacks.stanford.edu/image/iiif/fb655sc1622%2F59642",
+          "profile": "http://iiif.io/api/image/2/level2.json"
+        },
+        "width": 297,
+        "height": 400
+      },
+      "sequences": [
+        {
+          "@id": "https://purl.stanford.edu/fb655sc1622/iiif/manifest#sequence-1",
+          "@type": "sc:Sequence",
+          "label": "Current order",
+          "viewingDirection": "left-to-right",
+          "canvases": [
+            {
+              "@id": "https://purl.stanford.edu/fb655sc1622/iiif/canvas/cocina-fileSet-fb655sc1622-fb655sc1622_1",
+              "@type": "sc:Canvas",
+              "label": "Image 1",
+              "height": 36397,
+              "width": 27028,
+              "rendering": [
+                {
+                  "@id": "https://stacks.stanford.edu/file/fb655sc1622/59642.jp2",
+                  "label": "Original source file (176 MB)",
+                  "format": "image/jp2"
+                }
+              ],
+              "images": [
+                {
+                  "@id": "https://purl.stanford.edu/fb655sc1622/iiif/annotation/https:%2F%2Fcocina.sul.stanford.edu%2Ffile%2Ffb655sc1622-fb655sc1622_1%2F59642.jp2",
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "on": "https://purl.stanford.edu/fb655sc1622/iiif/canvas/cocina-fileSet-fb655sc1622-fb655sc1622_1",
+                  "resource": {
+                    "@id": "https://stacks.stanford.edu/image/iiif/fb655sc1622%2F59642/full/full/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 36397,
+                    "width": 27028,
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://stacks.stanford.edu/image/iiif/fb655sc1622%2F59642",
+                      "profile": "http://iiif.io/api/image/2/level2.json"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
